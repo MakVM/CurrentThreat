@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-10-19T11:21:11.000Z",
+    "entities": "Europol",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Europol announces the disruption of a cybercrime-as-a-service platform.Sources: https://cryptopanic.com/news/26279648/Europol-announces-disruption-of-cybercrime-as-a-service-platform"
+  },
+  {
+    "timestamp": "2025-10-19T05:48:42.000Z",
+    "entities": "China, US government",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "China claims to have 'irrefutable evidence' that the US government conducted cyber attacks against them.Sources: https://twitter.com/1449140157903482882/status/1979786767021846907"
+  },
+  {
+    "timestamp": "2025-10-18T20:51:34.000Z",
+    "entities": "Envoy, Oracle",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "American Airlines subsidiary Envoy confirms a data theft attack involving Oracle.Sources: https://www.reddit.com/r/cybersecurity/comments/1oa2gaf/american_airlines_subsidiary_envoy_confirms/"
+  },
+  {
+    "timestamp": "2025-10-18T17:51:38.000Z",
+    "entities": "DPRK",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "DPRK malware has been found hiding on blockchains.Sources: https://www.reddit.com/r/cybersecurity/comments/1o9up4k/dprk_malware_hiding_on_blockchains/"
+  }
+]
