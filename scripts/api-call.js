@@ -17,7 +17,7 @@ function getDateRange() {
   const now = new Date()
   const endTime = now // Current time
   const startTime = new Date(now)
-  startTime.setDate(startTime.getDate() - 1) // Last 24 hours (change this: max 7 days)
+  startTime.setDate(startTime.getDate() - 7) // Last 24 hours (change this: max 7 days)
   return {
     startTime: startTime.toISOString(),
     endTime: endTime.toISOString()
