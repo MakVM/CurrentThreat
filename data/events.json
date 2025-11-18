@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "timestamp": "2025-11-18T12:47:40.000Z",
+    "entities": "Cloudflare",
+    "topic": "outage",
+    "eventSummary": "Cloudflare is experiencing a global outage affecting its customers and some websites, including in regions like Singapore.Sources:- https://bsky.app/profile/hackmanac.com/post/3m5vpjabtws27- https://www.businessinsider.com/cloudflare-outage-internet-down-x-open-ai-2025-11- https://www.reddit.com/r/CryptoCurrency/comments/1p0byi2/alert_cloudflare_is_experiencing_a_global_outage/"
+  }
+]
