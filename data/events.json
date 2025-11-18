@@ -2,25 +2,19 @@
   {
     "timestamp": "2025-11-18T09:38:19.000Z",
     "entities": "Crypto.com",
-    "topic": "attack",
-    "eventSummary": "Users are being contacted about their Crypto.com accounts being hacked.Sources: - https://www.reddit.com/r/Crypto_com/comments/1ozq37l/anyone_contacted_about_their_account_being_hacked/"
+    "topic": "attack, hack, exploit",
+    "eventSummary": "Users are reporting that their Crypto.com accounts have been hacked.Sources: - https://www.reddit.com/r/Crypto_com/comments/1ozq37l/anyone_contacted_about_their_account_being_hacked/"
   },
   {
-    "timestamp": "2025-11-14T05:54:53.000Z",
-    "entities": "PayPal",
-    "topic": "attack",
-    "eventSummary": "Users are reporting scam attempts involving purchases on PayPal.Sources: - https://www.reddit.com/r/paypal/comments/1owluvs/scam_attempting_purchase/"
-  },
-  {
-    "timestamp": "2025-11-13T12:41:33.000Z",
-    "entities": "Hyperliquid",
-    "topic": "attack",
-    "eventSummary": "An attacker burned $3M to drain $5M from a Hyperliquid Vault in a coordinated attack.Sources: - https://cryptonews.com/news/attacker-burns-3m-to-drain-5m-from-hyperliquid-vault-in-coordinated-attack/"
+    "timestamp": "2025-11-14T05:06:44.000Z",
+    "entities": "Coinbase",
+    "topic": "attack, hack, exploit",
+    "eventSummary": "A user reported losing money through unauthorized access to their Coinbase account.Sources: - https://www.reddit.com/r/CoinBase/comments/1owguk8/lost_money_through_unauthorized_access/"
   },
   {
     "timestamp": "2025-11-11T23:52:41.000Z",
     "entities": "Revolut",
-    "topic": "attack",
-    "eventSummary": "Users are reporting fraudulent actions on their Revolut accounts.Sources: - https://www.reddit.com/r/Revolut/comments/1oupfri/fraudulent_action_on_my_account/"
+    "topic": "attack, hack, exploit",
+    "eventSummary": "A user reported fraudulent action on their Revolut account.Sources: - https://www.reddit.com/r/Revolut/comments/1oupfri/fraudulent_action_on_my_account/"
   }
 ]
