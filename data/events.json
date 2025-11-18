@@ -1,20 +1,44 @@
 [
   {
     "timestamp": "2025-11-18T09:38:19.000Z",
-    "entities": "Crypto.com",
-    "topic": "attack, hack, exploit",
-    "eventSummary": "Users are reporting that their Crypto.com accounts have been hacked.Sources: - https://www.reddit.com/r/Crypto_com/comments/1ozq37l/anyone_contacted_about_their_account_being_hacked/"
+    "entities": "crypto",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users of Crypto.com are being contacted about their accounts being hacked.Sources: - https://www.reddit.com/r/Crypto_com/comments/1ozq37l/anyone_contacted_about_their_account_being_hacked/"
+  },
+  {
+    "timestamp": "2025-11-16T02:43:27.000Z",
+    "entities": "finance, crypto",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Sharwa Finance has experienced an exploit.Sources: - https://x.com/Whistleblowe007/status/1989880725433090398"
+  },
+  {
+    "timestamp": "2025-11-15T22:04:01.000Z",
+    "entities": "finance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users are questioning if activity related to GRIFFINai is fraudulent.Sources: - https://t.me/GRIFFINai"
+  },
+  {
+    "timestamp": "2025-11-14T05:54:53.000Z",
+    "entities": "finance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A scam attempting purchase has been reported on PayPal.Sources: - https://www.reddit.com/r/paypal/comments/1owluvs/scam_attempting_purchase/"
   },
   {
     "timestamp": "2025-11-14T05:06:44.000Z",
-    "entities": "Coinbase",
-    "topic": "attack, hack, exploit",
-    "eventSummary": "A user reported losing money through unauthorized access to their Coinbase account.Sources: - https://www.reddit.com/r/CoinBase/comments/1owguk8/lost_money_through_unauthorized_access/"
+    "entities": "crypto",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users have lost money through unauthorized access to their Coinbase accounts.Sources: - https://www.reddit.com/r/CoinBase/comments/1owguk8/lost_money_through_unauthorized_access/"
+  },
+  {
+    "timestamp": "2025-11-13T02:26:42.000Z",
+    "entities": "crypto",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users are being warned about a potential scam related to Gemini.Sources: - https://www.reddit.com/r/Gemini/comments/1os16ii/looks_like_a_scam_to_be_aware_of/"
   },
   {
     "timestamp": "2025-11-11T23:52:41.000Z",
-    "entities": "Revolut",
-    "topic": "attack, hack, exploit",
-    "eventSummary": "A user reported fraudulent action on their Revolut account.Sources: - https://www.reddit.com/r/Revolut/comments/1oupfri/fraudulent_action_on_my_account/"
+    "entities": "finance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Fraudulent action has been reported on Revolut accounts.Sources: - https://www.reddit.com/r/Revolut/comments/1oupfri/fraudulent_action_on_my_account/"
   }
 ]
