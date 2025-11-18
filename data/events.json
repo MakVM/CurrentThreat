@@ -1,44 +1,38 @@
 [
   {
     "timestamp": "2025-11-16T20:53:59.000Z",
-    "entities": "PayPal",
-    "topic": "fraud",
-    "eventSummary": "A user reported that a seller believes they are scamming on PayPal.Sources: - https://www.reddit.com/r/paypal/comments/1oyvnnp/seller_think_that_im_scamming/"
+    "entities": "crypto",
+    "topic": "scam",
+    "eventSummary": "A seller believes they are being scammed in a transaction.Sources: - https://www.reddit.com/r/paypal/comments/1oyvnnp/seller_think_that_im_scamming/"
   },
   {
     "timestamp": "2025-11-16T04:55:32.000Z",
-    "entities": "Coinbase",
-    "topic": "fraud",
-    "eventSummary": "A user inquired about the possibility of recovering money after being scammed on Coinbase.Sources: - https://www.reddit.com/r/CoinBase/comments/1oxnxdp/are_you_able_to_get_money_back_if_youve_been/"
+    "entities": "crypto",
+    "topic": "scam",
+    "eventSummary": "Coinbase users are asking if it's possible to recover money after being scammed.Sources: - https://www.reddit.com/r/CoinBase/comments/1oxnxdp/are_you_able_to_get_money_back_if_youve_been/"
   },
   {
-    "timestamp": "2025-11-15T22:04:01.000Z",
-    "entities": "financial institutions",
-    "topic": "fraud",
-    "eventSummary": "A user is questioning if an unknown situation is fraud.Sources: - https://t.me/GRIFFINai"
+    "timestamp": "2025-11-15T10:02:07.000Z",
+    "entities": "crypto",
+    "topic": "scam",
+    "eventSummary": "Users on Binance are expressing concerns about a potential scam coin.Sources: - https://t.me/binanceexchange"
   },
   {
-    "timestamp": "2025-11-14T08:54:59.000Z",
-    "entities": "PayPal",
-    "topic": "fraud",
-    "eventSummary": "A user requested urgent help to determine if they are being scammed on PayPal.Sources: - https://www.reddit.com/r/paypal/comments/1owoljz/urgent_help_required_to_know_if_im_getting_scammed/"
+    "timestamp": "2025-11-15T06:24:25.000Z",
+    "entities": "crypto",
+    "topic": "scam",
+    "eventSummary": "Users are being advised to be aware of scams and to delete suspicious content on Nexo.Sources: - https://t.me/Nexo_fr"
   },
   {
     "timestamp": "2025-11-14T05:54:53.000Z",
-    "entities": "PayPal",
-    "topic": "fraud",
-    "eventSummary": "A user reported a scam attempting a purchase on PayPal.Sources: - https://www.reddit.com/r/paypal/comments/1owluvs/scam_attempting_purchase/"
+    "entities": "crypto",
+    "topic": "scam",
+    "eventSummary": "There are reports of a scam attempting purchases, with users seeking help to determine if they are being scammed.Sources: - https://www.reddit.com/r/paypal/comments/1owluvs/scam_attempting_purchase/ - https://www.reddit.com/r/paypal/comments/1owoljz/urgent_help_required_to_know_if_im_getting_scammed/"
   },
   {
     "timestamp": "2025-11-13T02:26:42.000Z",
-    "entities": "Gemini",
-    "topic": "fraud",
-    "eventSummary": "A user reported a scam to be aware of related to Gemini.Sources: - https://www.reddit.com/r/Gemini/comments/1os16ii/looks_like_a_scam_to_be_aware_of/"
-  },
-  {
-    "timestamp": "2025-11-11T23:52:41.000Z",
-    "entities": "Revolut",
-    "topic": "fraud",
-    "eventSummary": "A user reported fraudulent action on their Revolut account.Sources: - https://www.reddit.com/r/Revolut/comments/1oupfri/fraudulent_action_on_my_account/"
+    "entities": "crypto",
+    "topic": "scam",
+    "eventSummary": "Users are being warned about a potential scam related to Gemini.Sources: - https://www.reddit.com/r/Gemini/comments/1os16ii/looks_like_a_scam_to_be_aware_of/"
   }
 ]
