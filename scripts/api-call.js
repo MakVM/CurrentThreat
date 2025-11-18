@@ -43,7 +43,7 @@ async function fetchData() {
     },
     body: JSON.stringify({
       // 🔧 CHANGE THESE FOR YOUR USE CASE:
-      entities: "finance",    // ← What to track
+      entities: "finance, crypto, PayPal, Revolut, Binance, Coinbase",    // ← What to track
       topic: "attack, hack, exploit, scam, fraud, breach, compromise, leak, vulnerability",               // ← What topic 
       startTime,
       endTime
