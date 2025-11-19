@@ -2,7 +2,7 @@ import { readFile, writeFile, mkdir } from "fs/promises";
 import OpenAI from "openai"; // GitHub Models uses OpenAI SDK
 
 const client = new OpenAI({
-  apiKey: process.env.GITHUB_TOKEN // Or your model token
+  apiKey: process.env.OPENAI_TOKEN // Or your model token
 });
 
 // Get today’s date
