@@ -44,7 +44,7 @@ async function fetchData() {
     body: JSON.stringify({
       // 🔧 CHANGE THESE FOR YOUR USE CASE:
       entities: "report, finance, crypto",    // ← What to track
-      topic: "attack, hack, exploit, scam, fraud, breach, leak",               // ← What topic 
+      //topic: "attack, hack, exploit, scam, fraud, breach, leak",               // ← What topic 
       startTime,
       endTime
     }),
