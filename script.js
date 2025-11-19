@@ -17,7 +17,6 @@ cardsContainer.innerHTML = data.events.map(e => {
 
   return `
     <div class="card">
-      <h3>${e.entities}</h3>
       <p>${summary}</p>
       <p>Severity: ${e.severity}</p>
       <p>Tags: ${e.tags.join(", ")}</p>
