@@ -1,9 +1,12 @@
 import { readFile, writeFile, mkdir } from "fs/promises";
 import OpenAI from "openai"; // GitHub Models uses OpenAI SDK
 
-const client = new OpenAI({
-  apiKey: process.env.OPENAI_TOKEN // Or your model token
-});
+const token = process.env["OPENAI_TOKEN"];
+const endpoint = "https://models.github.ai/inference";
+const model = "openai/gpt-4.1";
+
+
+const client = new OpenAI({ baseURL: endpoint, apiKey: token });
 
 // Get today’s date
 const today = new Date().toISOString().slice(0, 10);
@@ -39,7 +42,7 @@ Return the full output as a single JSON object like this:
 `;
 
 const response = await client.responses.create({
-  model: "gpt-4.1",  // Or the model name you have access to
+  model: model,  // Or the model name you have access to
   input: prompt,
   max_output_tokens: 1000
 });
