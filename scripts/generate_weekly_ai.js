@@ -25,6 +25,8 @@ Your job:
 2. Identify **trends** for the 7 days: patterns, spikes, declines, important signals
 3. Provide **predictions** for the next 7 days: likely risks, threat shifts, categories to watch, confidence level
 
+Possibly consider the overall news (outside scope of this JSON) in these areas to enrich your analysis and inisghts.
+
 JSON input:
 ${JSON.stringify(rollingData, null, 2)}
 
