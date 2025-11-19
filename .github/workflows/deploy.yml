@@ -31,6 +31,13 @@ jobs:
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
 
+      - name: Generate AI Enriched Today Data
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: node scripts/daily_generate_today.js
+        env:
+          OPENAI_TOKEN: ${{ secrets.OPENAI_TOKEN }}
+
+
       - name: Commit changes
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
