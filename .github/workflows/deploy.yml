@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/events.json
+          git add data
           if ! git diff --staged --quiet; then
             if [ "${{ github.event_name }}" = "schedule" ]; then
               git commit -m "Scheduled update - $(date -u '+%Y-%m-%d %H:%M')"
