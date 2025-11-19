@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from "fs/promises";
 import OpenAI from "openai"; // GitHub Models uses OpenAI SDK
 
-const token = process.env["OPENAI_TOKEN"];
+const token = process.env.OPENAI_TOKEN;
 const endpoint = "https://models.github.ai/inference";
 const model = "openai/gpt-4.1";
 
@@ -41,14 +41,24 @@ Return the full output as a single JSON object like this:
 }
 `;
 
-const response = await client.responses.create({
+const response = await client.chat.completions.create({
   model: model,  // Or the model name you have access to
-  input: prompt,
-  max_output_tokens: 1000
+  messages: [
+    {
+      role: "system",
+      content: "You are a cyber risk analyst. Format your output exactly as valid JSON as instructed."
+    },
+    {
+      role: "user",
+      content: prompt
+    }
+  ],
+  temperature: 0.7,
+  top_p: 1.0
 });
 
 // The model output text
-const outputText = response.output_text;
+const outputText = response.choices[0].message.content;
 
 const enrichedData = JSON.parse(outputText);
 
