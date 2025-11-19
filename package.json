@@ -1,8 +1,6 @@
 {
-  "name": "ai-cyber-product",
-  "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "openai": "^4.0.0"
+    "openai": "latest"
   }
 }
