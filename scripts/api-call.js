@@ -62,17 +62,22 @@ async function fetchData() {
 }
 
 /**
- * Save data to JSON file (optional - remove if you don't need it)
+ * Save daily data to JSON file
  * @param {Array} data - Array of data objects
  */
-async function saveData(data) {
+async function saveDailyData(data) {
   const sorted = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
 
-  await mkdir("data", { recursive: true })
-  await writeFile("data/events.json", JSON.stringify(sorted, null, 2))
+  const today = new Date().toISOString().slice(0, 10) // "2025-11-20"
+  const folder = "data/daily"
+  const filename = `${folder}/${today}.json`
 
-  console.log(`Saved ${sorted.length} items to data/events.json`)
+  await mkdir(folder, { recursive: true })
+  await writeFile(filename, JSON.stringify(sorted, null, 2))
+
+  console.log(`Saved ${sorted.length} items to ${filename}`)
 }
+
 
 /**
  * Main update process
@@ -80,14 +85,13 @@ async function saveData(data) {
 async function updateData() {
   try {
     const data = await fetchData()
-    
-    await saveData(data)
-    
-    console.log("Update completed successfully")
+    await saveDailyData(data)
+    console.log("Daily update completed successfully")
   } catch (error) {
     console.error("Update failed:", error.message)
     process.exit(1)
   }
 }
+
 
 updateData()
