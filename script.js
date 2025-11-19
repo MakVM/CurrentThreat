@@ -3,15 +3,6 @@ async function loadToday() {
   const res = await fetch(`data/today/${today}_enriched.json`);
   const data = await res.json();
 
-  // Get today's date
-const today = new Date();
-const options = { year: 'numeric', month: 'long', day: 'numeric' };
-const formattedDate = today.toLocaleDateString(undefined, options);
-
-// Insert date next to "Today's Events"
-const todayEventsHeader = document.querySelector("#today-events h2");
-todayEventsHeader.textContent = `Today's Events - ${formattedDate}`;
-
 
 const cardsContainer = document.getElementById("today-cards");
 cardsContainer.innerHTML = data.events.map(e => {
