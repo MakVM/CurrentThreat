@@ -9,7 +9,7 @@ const model = "openai/gpt-4.1";
 const client = new OpenAI({ baseURL: endpoint, apiKey: token });
 
 // Get today’s date
-const today = new Date("2025-11-11").toISOString().slice(0, 10);
+const today = new Date().toISOString().slice(0, 10);
 const rawFile = `data/daily/${today}.json`;
 const enrichedFolder = "data/today";
 
