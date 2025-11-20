@@ -68,28 +68,16 @@
       "date": "2025-11-16",
       "events": [
         {
-          "timestamp": "2025-11-16T14:32:47.000Z",
-          "entities": "report",
-          "eventSummary": "Everyone on SNAP will be forced to reapply to the program after massive fraud was revealed.Sources: - https://twitter.com/1528943647185678336/status/1990065518510805212",
+          "timestamp": "2025-11-15T19:22:15.000Z",
+          "entities": "DoorDash Data Breach via Social Engineering",
+          "eventSummary": "DoorDash confirms a data breach after an employee fell for a social-engineering scam, exposing names, emails, phone numbers, and addresses to attackers.",
           "severity": "High",
-          "tags": [
-            "fraud",
-            "scam"
-          ]
-        },
-        {
-          "timestamp": "2025-11-16T02:43:27.000Z",
-          "entities": "report",
-          "eventSummary": "DoodiPals experienced a hack and Sharwa Finance had an exploit.Sources: - https://x.com/Whistleblowe007/status/1989561722823188757 - https://x.com/Whistleblowe007/status/1989880725433090398",
-          "severity": "Medium",
-          "tags": [
-            "hack",
-            "exploit"
-          ]
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackread.bsky.social/post/3m5oufzdw522l"
         }
       ],
-      "overallDayThreatScore": 82,
-      "dailyBrief": "Today's cyber events highlight significant risks, with a major fraud incident affecting the SNAP program requiring all users to reapply, indicating widespread impact and high severity. Additionally, both DoodiPals and Sharwa Finance reported separate hack and exploit events, pointing to persistent threats targeting financial and online platforms. The combination of mass fraud and targeted cyber attacks suggests an elevated threat level, requiring increased vigilance and rapid response measures."
+      "overallDayThreatScore": 80,
+      "dailyBrief": "A major incident occurred today with DoorDash confirming a data breach following a successful social engineering attack. The exposure of personally identifiable information, including names, emails, phone numbers, and addresses, highlights ongoing risks from employee-targeted scams. The event underscores the critical importance of staff cybersecurity awareness and robust data protection measures. Vigilance against social engineering remains a top priority."
     },
     {
       "date": "2025-11-17",
