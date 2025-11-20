@@ -7,6 +7,15 @@ const model = "openai/gpt-4.1";
 
 const client = new OpenAI({ baseURL: endpoint, apiKey: token });
 
+function capitalizeTags(tags) {
+  if (!tags) return ["Other"];
+  return tags.map(tag => 
+    tag.split(' ')
+       .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+       .join(' ')
+  );
+}
+
 async function main() {
   const todayDate = new Date().toISOString().slice(0, 10);
   const todayFile = `data/today/${todayDate}_enriched.json`;
@@ -37,7 +46,7 @@ async function main() {
   }
 
   const classificationDistribution = Object.entries(classCount).map(([name, value]) => ({
-    name,
+    name: capitalizeTags([name])[0], // Capitalize for distribution too
     value
   }));
 
@@ -51,7 +60,7 @@ async function main() {
     source: ev.source,
     time: ev.timestamp,
     severity: ev.severity,
-    classification: ev.tags
+    classification: capitalizeTags(ev.tags || ["other"]) // Apply capitalization here
   }));
 
   // ------------------------------------------
