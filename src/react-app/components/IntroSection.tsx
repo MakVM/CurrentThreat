@@ -27,7 +27,7 @@ export default function IntroSection({ threatName }: IntroSectionProps) {
         </div>
         
         <div className="mt-12 text-green-500/60 font-mono text-xs">
-          <div className="animate-pulse">SYSTEM MONITORING ACTIVE!!!!!</div>
+          <div className="animate-pulse">SYSTEM MONITORING ACTIVE</div>
         </div>
       </div>
 
