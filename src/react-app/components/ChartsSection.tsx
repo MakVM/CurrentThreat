@@ -32,7 +32,7 @@ export default function ChartsSection({ eventFrequency, classificationDistributi
             <ResponsiveContainer width="95%" height={300}>
               <LineChart 
                 data={eventFrequency}
-                margin={{ top: 20, right: 20, bottom: 30, left: 10 }}  // ADD THIS
+                margin={{ top: 20, right: 30, bottom: 30, left: 5 }}  // ADD THIS
                 >
                 <CartesianGrid strokeDasharray="3 3" stroke="rgba(0, 255, 0, 0.1)" />
                 <XAxis 
