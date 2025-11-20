@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-11-18T20:17:53.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "There is a report of a data breach related to AT&T layoffs.Sources:- https://www.thelayoff.com/t/1kac91zxj"
+  },
+  {
+    "timestamp": "2025-11-18T14:37:52.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users are reporting a scammer group on Telegram.Sources:- https://t.me/Ripple"
+  },
+  {
+    "timestamp": "2025-11-18T09:38:19.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users are reporting that their accounts have been hacked.Sources:- https://www.reddit.com/r/Crypto_com/comments/1ozq37l/anyone_contacted_about_their_account_being_hacked/"
+  },
+  {
+    "timestamp": "2025-11-18T06:43:07.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "There are reports of an incident where no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, ESIX impact score, and additional context are available on HackRisk.io.Sources:- https://bsky.app/profile/hackmanac.com/post/3m5v2zmcgqy25- https://bsky.app/profile/hackmanac.com/post/3m5v3ip6ee62d"
+  }
+]

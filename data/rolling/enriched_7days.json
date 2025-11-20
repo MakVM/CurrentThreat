@@ -1,7 +1,50 @@
 {
-  "startDate": "2025-11-19",
+  "startDate": "2025-11-18",
   "endDate": "2025-11-20",
   "days": [
+    {
+      "date": "2025-11-18",
+      "events": [
+        {
+          "timestamp": "2025-11-18T20:17:53.000Z",
+          "entities": "report",
+          "eventSummary": "There is a report of a data breach related to AT&T layoffs.Sources:- https://www.thelayoff.com/t/1kac91zxj",
+          "severity": "High",
+          "tags": [
+            "breach",
+            "leak"
+          ]
+        },
+        {
+          "timestamp": "2025-11-18T14:37:52.000Z",
+          "entities": "report",
+          "eventSummary": "Users are reporting a scammer group on Telegram.Sources:- https://t.me/Ripple",
+          "severity": "Medium",
+          "tags": [
+            "scam",
+            "fraud"
+          ]
+        },
+        {
+          "timestamp": "2025-11-18T09:38:19.000Z",
+          "entities": "report",
+          "eventSummary": "Users are reporting that their accounts have been hacked.Sources:- https://www.reddit.com/r/Crypto_com/comments/1ozq37l/anyone_contacted_about_their_account_being_hacked/",
+          "severity": "High",
+          "tags": [
+            "hack"
+          ]
+        },
+        {
+          "timestamp": "2025-11-18T06:43:07.000Z",
+          "entities": "report",
+          "eventSummary": "There are reports of an incident where no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, ESIX impact score, and additional context are available on HackRisk.io.Sources:- https://bsky.app/profile/hackmanac.com/post/3m5v2zmcgqy25- https://bsky.app/profile/hackmanac.com/post/3m5v3ip6ee62d",
+          "severity": "Low",
+          "tags": []
+        }
+      ],
+      "overallDayThreatScore": 72,
+      "dailyBrief": "On November 18, 2025, the cyber threat landscape was marked by multiple incidents, including a significant data breach connected to AT&T layoffs and widespread reports of account hacking, both indicating elevated risk to sensitive information. Additionally, a scammer group was reported active on Telegram, highlighting persistent social engineering threats. One reported incident was assessed as low severity due to the absence of data exfiltration. Overall, the day saw a heightened threat level, with breaches and hacks as the most critical trends."
+    },
     {
       "date": "2025-11-19",
       "events": [
