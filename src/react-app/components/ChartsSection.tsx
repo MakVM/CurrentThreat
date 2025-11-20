@@ -29,12 +29,13 @@ export default function ChartsSection({ eventFrequency, classificationDistributi
               <BarChart3 className="w-5 h-5 text-green-400" />
               <h3 className="text-xl font-mono text-green-400">CRITICAL EVENT FREQUENCY (7 DAYS)</h3>
             </div>
-            <ResponsiveContainer width="100%" height={300}>
+            <ResponsiveContainer width="95%" height={300}>
               <LineChart data={eventFrequency}>
                 <CartesianGrid strokeDasharray="3 3" stroke="rgba(0, 255, 0, 0.1)" />
                 <XAxis 
                   dataKey="date" 
                   tickFormatter={formatDate}
+                  interval={0} 
                   stroke="#00ff00"
                   style={{ fontFamily: 'Space Mono, monospace', fontSize: '12px' }}
                 />
