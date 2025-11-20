@@ -73,6 +73,27 @@ jobs:
             git push
           fi
 
+
+      # 4️⃣ Build Vite project
+      - name: Build Vite project
+        run: npm run build-spa
+
+      # 5️⃣ Configure GitHub Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # 6️⃣ Upload built artifact
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist-spa
+          name: github-pages  # <--- crucial for deploy-pages@v4
+
+      # 7️⃣ Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
       # Optional: Deploy to GitHub Pages (uncomment if building a website)
       # - name: Setup Pages
       #   uses: actions/configure-pages@v5
