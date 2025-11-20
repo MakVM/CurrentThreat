@@ -27,11 +27,6 @@ function getDateRange() {
   }
 }
 
-  return {
-    startTime: startTime.toISOString(),
-    endTime: endTime.toISOString()
-  }
-}
 
 
 /**
