@@ -8,7 +8,7 @@
       "tags": [
         "scam",
         "exploit",
-        "breach",
+        "fraud",
         "leak"
       ]
     },
@@ -20,8 +20,8 @@
       "tags": [
         "exploit",
         "hack",
-        "leak",
-        "breach"
+        "breach",
+        "leak"
       ]
     },
     {
@@ -30,15 +30,14 @@
       "eventSummary": "A data breach related to AT&T layoffs was reported.Sources:- https://www.thelayoff.com/t/1kac91zxj",
       "severity": "Medium",
       "tags": [
-        "breach",
-        "leak"
+        "breach"
       ]
     },
     {
       "timestamp": "2025-11-18T19:55:53.000Z",
       "entities": "Fortinet",
       "eventSummary": "Fortinet released security updates to patch a new FortiWeb zero-day vulnerability that threat actors are actively exploiting in attacks.Sources:- https://bsky.app/profile/bleepingcomputer.com/post/3m5wggjizzr2g",
-      "severity": "High",
+      "severity": "Medium",
       "tags": [
         "exploit",
         "hack"
@@ -46,5 +45,5 @@
     }
   ],
   "overallDayThreatScore": 85,
-  "dailyBrief": "Today's cyber threat landscape shows a heightened level of risk, with several high-severity events reported. Key incidents include a massive phone number exposure potentially exploited by scammers or hostile regimes, a verified breach of local government systems exposing sensitive police records, and active exploitation of a Fortinet zero-day vulnerability. Additionally, AT&T faced a data breach amid layoffs. The prevalence of exploits, leaks, and breaches across multiple sectors signals a trend of aggressive threat activity, particularly targeting critical infrastructure and personal data. Organizations should prioritize patching, incident response, and monitoring for suspicious access."
+  "dailyBrief": "Today's cyber threat environment is elevated, with multiple high-severity incidents. A major phone number exposure and a verified exploit affecting municipal police records highlight significant data leaks and privacy risks. Additional events include a reported data breach at AT&T and active zero-day exploitation targeting Fortinet systems. The prevalence of exploits, leaks, and breaches, especially involving critical infrastructure and personal data, underscores the need for heightened vigilance and rapid response."
 }
