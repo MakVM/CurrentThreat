@@ -154,7 +154,7 @@
       "events": [
         {
           "timestamp": "2025-11-18T20:17:53.000Z",
-          "entities": "AT&T Data Breach Related to Layoffs",
+          "entities": "AT&T data breach report",
           "eventSummary": "There is a report of a data breach related to AT&T layoffs.",
           "severity": "High",
           "tags": "breach",
@@ -162,7 +162,7 @@
         },
         {
           "timestamp": "2025-11-18T14:37:52.000Z",
-          "entities": "Telegram Scammer Group Reported",
+          "entities": "Telegram scam group report",
           "eventSummary": "Users are reporting a scammer group on Telegram.",
           "severity": "Medium",
           "tags": "scam",
@@ -170,7 +170,7 @@
         },
         {
           "timestamp": "2025-11-18T09:38:19.000Z",
-          "entities": "Crypto.com Account Hacks",
+          "entities": "Crypto.com account hack report",
           "eventSummary": "Users are reporting that their accounts have been hacked.",
           "severity": "High",
           "tags": "hack",
@@ -178,15 +178,15 @@
         },
         {
           "timestamp": "2025-11-18T06:43:07.000Z",
-          "entities": "Incident with No Data Leakage (HackRisk.io)",
+          "entities": "Incident report with redacted data",
           "eventSummary": "There are reports of an incident where no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, ESIX impact score, and additional context are available on HackRisk.io.",
           "severity": "Low",
           "tags": "other",
           "source": "https://bsky.app/profile/hackmanac.com/post/3m5v2zmcgqy25"
         }
       ],
-      "overallDayThreatScore": 78,
-      "dailyBrief": "Today's cyber landscape featured significant threats, including a high-severity data breach related to AT&T layoffs and widespread account hacks targeting Crypto.com users. Additionally, a medium-severity scam group was reported active on Telegram, while one incident involved no direct data loss. The day reflects high alertness with coordinated attacks and scams impacting both large organizations and individual users."
+      "overallDayThreatScore": 75,
+      "dailyBrief": "Today saw a high-profile data breach report involving AT&T layoffs and a series of user account hacks at Crypto.com, both representing significant threats. Additionally, there were medium-risk reports of active scam groups on Telegram and a low-severity incident with proper data containment. The day highlights increased risk levels in both data breaches and user-targeted attacks, with notable scam activity in social channels."
     },
     {
       "date": "2025-11-20",
