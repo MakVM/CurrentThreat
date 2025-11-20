@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-14T07:52:59.000Z",
+      "entities": "report",
+      "eventSummary": "Scammers are exploiting ReportCyber to trick Australians into handing over crypto.Sources:- https://cryptopanic.com/news/27047079/Scammers-Exploit-ReportCyber-to-Trick-Australians-into-Handing-Over-Crypto",
+      "severity": "High",
+      "tags": [
+        "scam",
+        "fraud",
+        "exploit"
+      ]
+    }
+  ],
+  "overallDayThreatScore": 78,
+  "dailyBrief": "Today’s most significant cyber event involved scammers exploiting the official ReportCyber platform to deceive Australians into transferring cryptocurrency, indicating a high-impact scam and fraud trend targeting trusted government channels. The use of crypto in the scam elevates the financial risk and highlights vulnerabilities in public reporting systems. Continued vigilance and public awareness are recommended, as threat actors increasingly target official resources for exploitation."
+}
