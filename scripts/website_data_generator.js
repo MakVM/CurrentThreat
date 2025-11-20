@@ -31,7 +31,7 @@ async function main() {
   const classCount = {};
   for (const day of rollingData.days) {
     for (const ev of day.events) {
-      const tag = ev.tags || "other";
+      const tag = ev.tags || "Other";
       classCount[tag] = (classCount[tag] || 0) + 1;
     }
   }
