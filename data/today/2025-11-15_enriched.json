@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-15T19:22:15.000Z",
+      "entities": "DoorDash",
+      "eventSummary": "DoorDash confirms a data breach after an employee fell for a social-engineering scam, exposing names, emails, phone numbers, and addresses to attackers.Sources: - https://bsky.app/profile/hackread.bsky.social/post/3m5oufzdw522l - https://hackread.com/doordash-dat",
+      "severity": "High",
+      "tags": [
+        "scam",
+        "breach",
+        "leak"
+      ]
+    }
+  ],
+  "overallDayThreatScore": 80,
+  "dailyBrief": "A significant breach was reported by DoorDash after a successful social engineering scam led to the exposure of customer data, including names, emails, phone numbers, and addresses. The event highlights the ongoing risk posed by human factors in cybersecurity, with attackers exploiting employee trust to access sensitive information. This breach underlines the critical importance of security awareness training and robust access controls, contributing to a high threat level for the day."
+}
