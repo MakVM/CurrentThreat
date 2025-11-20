@@ -22,8 +22,8 @@ You are given 7 days (or less) of enriched cyber event data in JSON.
 
 Your job:
 1. Produce a **weeklyBrief**: a concise, insightful, executive-level summary (1–2 paragraphs)
-2. Identify **trends** for the 7 days: patterns, spikes, declines, important signals
-3. Provide **predictions** for the next 7 days: likely risks, threat shifts, categories to watch, confidence level
+2. Identify **trends** for the upcoming days: patterns, spikes, declines, important signals
+3. Provide **predictions** for the next upcoming days: likely risks, threat shifts, categories to watch, confidence level
 
 Possibly consider the overall news (outside scope of this JSON) in these areas to enrich your analysis and inisghts.
 
