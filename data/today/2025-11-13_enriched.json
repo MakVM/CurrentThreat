@@ -2,56 +2,45 @@
   "events": [
     {
       "timestamp": "2025-11-13T22:42:31.000Z",
-      "entities": "Crypto Scammers Impersonate Police Officers",
-      "eventSummary": "A new trend in crypto scam involves individuals posing as police to steal millions. Sources: https://beincrypto.com/crypto-scammers-impersonate-police-officers/",
-      "severity": "Medium",
-      "tags": [
-        "scam",
-        "fraud"
-      ]
+      "entities": "Crypto Scam Involving Police Impersonation",
+      "eventSummary": "A new trend in crypto scam involves individuals posing as police to steal millions.",
+      "severity": "High",
+      "tags": "scam",
+      "source": "https://beincrypto.com/crypto-scammers-impersonate-police-officers/"
     },
     {
       "timestamp": "2025-11-13T16:29:59.000Z",
-      "entities": "Washington Post Employee Data Exposed in Oracle Breach",
-      "eventSummary": "The Washington Post is notifying nearly 10,000 employees and contractors that some of their personal and financial data has been exposed in the Oracle data theft attack. Sources: https://bsky.app/profile/bleepingcomputer.com/post/3m5jjy7tcus2b",
+      "entities": "The Washington Post Employee Data Exposure",
+      "eventSummary": "The Washington Post is notifying nearly 10,000 employees and contractors that some of their personal and financial data has been exposed in the Oracle data theft attack.",
       "severity": "High",
-      "tags": [
-        "breach",
-        "leak",
-        "hack"
-      ]
+      "tags": "leak",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m5jjy7tcus2b"
     },
     {
       "timestamp": "2025-11-13T16:29:59.000Z",
       "entities": "FUCASA Breach by Qillin Hacking Group",
-      "eventSummary": "Qillin hacking group claims to have breached Fundidora de Cananea S.A. de C.V. (FUCASA). Sources: https://bsky.app/profile/hackmanac.com/post/3m5jiwdh7rp25",
+      "eventSummary": "Qillin hacking group claims to have breached Fundidora de Cananea S.A. de C.V. (FUCASA).",
       "severity": "Medium",
-      "tags": [
-        "breach",
-        "hack"
-      ]
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m5jiwdh7rp25"
     },
     {
       "timestamp": "2025-11-13T14:30:20.000Z",
       "entities": "PACCAR Breach by Coinbase Cartel",
-      "eventSummary": "Coinbase Cartel hacking group claims to have breached PACCAR. Sources: https://bsky.app/profile/hackmanac.com/post/3m5jdhpkodn2f",
+      "eventSummary": "Coinbase Cartel hacking group claims to have breached PACCAR.",
       "severity": "Medium",
-      "tags": [
-        "breach",
-        "hack"
-      ]
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m5jdhpkodn2f"
     },
     {
       "timestamp": "2025-11-13T14:30:20.000Z",
       "entities": "Cinvestav Breach by Coinbase Cartel",
-      "eventSummary": "Coinbase Cartel hacking group claims to have breached Cinvestav (Centro de Investigación y de Estudios Avanzados). Sources: https://bsky.app/profile/hackmanac.com/post/3m5jdxfq4v32d",
+      "eventSummary": "Coinbase Cartel hacking group claims to have breached Cinvestav (Centro de Investigación y de Estudios Avanzados).",
       "severity": "Medium",
-      "tags": [
-        "breach",
-        "hack"
-      ]
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m5jdxfq4v32d"
     }
   ],
-  "overallDayThreatScore": 81,
-  "dailyBrief": "Today's cyber landscape is marked by a significant breach impacting The Washington Post, exposing sensitive data of almost 10,000 individuals due to the Oracle data theft attack. Threat groups, including Qillin and Coinbase Cartel, have claimed successful breaches against FUCASA, PACCAR, and Cinvestav, highlighting ongoing risks for corporate entities. Additionally, a rising crypto scam involves criminals impersonating police officers to steal millions, underscoring evolving social engineering tactics. The volume and severity of attacks point to an elevated threat environment, with particular concern for breaches leaking personal and financial information."
+  "overallDayThreatScore": 85,
+  "dailyBrief": "The day saw a significant rise in both data breaches and sophisticated scams. High-severity events include a crypto scam where attackers impersonate police to steal millions, and a major data leak impacting nearly 10,000 Washington Post employees and contractors due to an Oracle-related attack. Multiple organizations, including FUCASA, PACCAR, and Cinvestav, were targeted and claimed breached by active hacking groups. The trending threats reflect targeted attacks on large entities and evolving fraud tactics, indicating an elevated level of risk and the need for heightened vigilance."
 }
