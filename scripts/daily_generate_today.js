@@ -23,7 +23,7 @@ ${JSON.stringify(rawData, null, 2)}
 
 For each event, assign:
 - severity: Low, Medium, or High
-- tags: list of categories (scam, hack, fraud, breach, leak)
+- tags: classify the best suited one from a list of categories (scam, hack, fraud, breach, leak) or other
 - entities: change the field contents to a suitable title of the event, based on eventSummary
 
 Also provide:
