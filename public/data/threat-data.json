@@ -1,0 +1,104 @@
+{
+  "currentThreat": "OPERATION DOUBLE EXPOSURE",
+  "threatScore": 9,
+  "todaysEvents": [
+    {
+      "id": 1,
+      "title": "Chrome Zero-Day Exploit Urges Immediate Update",
+      "description": "Attackers are exploiting a zero-day flaw in Chrome, urging users to update Chrome immediately.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1p1ktpe/update_chrome_asap_attackers_are_already/",
+      "time": "2025-11-19T23:11:30.000Z",
+      "severity": "High",
+      "classification": [
+        "Exploit"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Largest Documented Phone Number Exposure via Key-Reuse Patterns",
+      "description": "A team warned that scammers or regimes could have exploited a flaw, noting key-reuse patterns suggesting unauthorized clients, and called it the largest documented phone number exposure, though all collected data was deleted.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m5xpar5umq2s",
+      "time": "2025-11-19T08:00:43.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Leak"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Municipal Server Breach and Citizen Data Leak",
+      "description": "An actor exploited a third-party server used by a municipality to steal and leak internal documents, and accessed a database containing citizen police records. This incident is pending verification.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m5xm74ynkb2h",
+      "time": "2025-11-18T00:00:00.000Z",
+      "severity": "High",
+      "classification": [
+        "Breach"
+      ]
+    }
+  ],
+  "past7Days": {
+    "briefing": "This week witnessed an escalation in both the volume and severity of cyber incidents across multiple sectors. High-profile data breaches hit major organizations including the Washington Post, DoorDash, Logitech, Eurofiber France, AT&T, and municipal servers, leading to significant exposures of personally identifiable information and internal records. Threat actors also exploited zero-day vulnerabilities in Oracle E-Business Suite and Chrome, underscoring the critical importance of timely patching and vulnerability management. The attack landscape was further complicated by a surge in sophisticated scams and social engineering campaigns, particularly targeting crypto platforms and leveraging trusted channels such as Telegram and ReportCyber. Public sector fraud, notably within the SNAP program, and widespread leaks linked to flawed key reuse practices, amplified concerns around systemic weaknesses in both technology and human defenses. Overall, the week reflects an environment of heightened and diverse threat activity, requiring cross-sector vigilance and rapid response.",
+    "trends": "Key trends observed include a notable spike in high-severity breaches and exploits, especially those leveraging zero-day vulnerabilities and social engineering tactics. Attacks targeting financial and technology platforms, such as Crypto.com, AI trading systems, and Chrome, are increasingly sophisticated and widespread. There is a sustained pattern of threat actors adapting their approaches—impersonating authorities, exploiting trusted platforms, and targeting staff through phishing and social engineering. The public sector also saw impactful fraud and data exposures, with the SNAP program fraud requiring a full reapplication. Scam activity remains persistent, with new groups reported on Telegram and evolving schemes exploiting key weaknesses in crypto and browser environments. The daily threat scores remained elevated throughout the week, indicating ongoing high-risk conditions.",
+    "predictions": "In the upcoming days, expect continued high-risk conditions with further exploitation of recent zero-day vulnerabilities, especially in widely used platforms like Chrome and Oracle products. Threat actors are likely to intensify attacks on financial services, SaaS providers, and public sector systems, leveraging both technical exploits and social engineering tactics. Watch for additional data breaches and scams targeting end-users and leveraging social channels. There is moderate-to-high confidence that ransomware and extortion attacks, as well as phishing campaigns, will remain prevalent. Organizations should prioritize patch management, reinforce employee awareness training, and closely monitor third-party integrations. Public sector and municipal systems may face increased targeting, particularly following recent fraud revelations. Overall, the threat environment is expected to remain volatile, with rapid evolution in attack techniques."
+  },
+  "eventFrequency": [
+    {
+      "date": "2025-11-14",
+      "count": 5
+    },
+    {
+      "date": "2025-11-15",
+      "count": 1
+    },
+    {
+      "date": "2025-11-16",
+      "count": 1
+    },
+    {
+      "date": "2025-11-17",
+      "count": 2
+    },
+    {
+      "date": "2025-11-18",
+      "count": 5
+    },
+    {
+      "date": "2025-11-19",
+      "count": 4
+    },
+    {
+      "date": "2025-11-20",
+      "count": 3
+    }
+  ],
+  "classificationDistribution": [
+    {
+      "name": "Scam",
+      "value": 4
+    },
+    {
+      "name": "Leak",
+      "value": 3
+    },
+    {
+      "name": "Breach",
+      "value": 8
+    },
+    {
+      "name": "Fraud",
+      "value": 1
+    },
+    {
+      "name": "Hack",
+      "value": 2
+    },
+    {
+      "name": "Exploit",
+      "value": 2
+    },
+    {
+      "name": "Other",
+      "value": 1
+    }
+  ]
+}
