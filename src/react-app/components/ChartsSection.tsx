@@ -30,7 +30,10 @@ export default function ChartsSection({ eventFrequency, classificationDistributi
               <h3 className="text-xl font-mono text-green-400">CRITICAL EVENT FREQUENCY (7 DAYS)</h3>
             </div>
             <ResponsiveContainer width="95%" height={300}>
-              <LineChart data={eventFrequency}>
+              <LineChart 
+                data={eventFrequency}
+                margin={{ top: 20, right: 20, bottom: 30, left: 10 }}  // ADD THIS
+                >
                 <CartesianGrid strokeDasharray="3 3" stroke="rgba(0, 255, 0, 0.1)" />
                 <XAxis 
                   dataKey="date" 
