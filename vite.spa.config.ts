@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   root: ".",         // <-- point to your React app folder
-  base: "/website-demo3/",
+  base: "/CurrentThreat/",
   plugins: [react()],
   build: {
     outDir: "dist-spa",    // relative to root
