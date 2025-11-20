@@ -32,12 +32,14 @@ export default function ChartsSection({ eventFrequency, classificationDistributi
             <ResponsiveContainer width="100%" height={300}>
               <LineChart data={eventFrequency}>
                 <CartesianGrid strokeDasharray="3 3" stroke="rgba(0, 255, 0, 0.1)" />
-                <XAxis 
-                  dataKey="date" 
+                <XAxis
+                  dataKey="date"
+                  ticks={eventFrequency.map(d => d.date)}
                   tickFormatter={formatDate}
                   stroke="#00ff00"
                   style={{ fontFamily: 'Space Mono, monospace', fontSize: '12px' }}
                 />
+
                 <YAxis 
                   stroke="#00ff00"
                   style={{ fontFamily: 'Space Mono, monospace', fontSize: '12px' }}
