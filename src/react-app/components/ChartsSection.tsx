@@ -36,13 +36,13 @@ export default function ChartsSection({ eventFrequency, classificationDistributi
   strokeDasharray="3 3" 
   stroke="rgba(0, 255, 0, 0.1)"
 />
-                <XAxis
-                  dataKey="date"
-                  ticks={eventFrequency.map(d => d.date)}
-                  tickFormatter={formatDate}
-                  stroke="#00ff00"
-                  style={{ fontFamily: 'Space Mono, monospace', fontSize: '12px' }}
-                /> 
+<XAxis 
+  dataKey="date" 
+  tickFormatter={formatDate}
+  stroke="#00ff00"
+  style={{ fontFamily: 'Space Mono, monospace', fontSize: '12px' }}
+  domain={['dataMin - 0.5', 'dataMax + 0.5']} // Extend beyond data points
+/>
 
                 <YAxis 
                   stroke="#00ff00"
