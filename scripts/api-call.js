@@ -14,19 +14,15 @@ if (!API_KEY) {
  * @returns {Object} Object with startTime and endTime ISO strings
  */
 function getDateRange() {
-  // TEMPORARY: fetch for a specific past date
-  const specificDate = new Date("2025-11-11"); // <--- change this
-  const endTime = new Date(specificDate);
-  endTime.setHours(23, 59, 59, 999); // end of the day
-  const startTime = new Date(specificDate);
-  startTime.setHours(0, 0, 0, 0); // start of the day
-
+  const now = new Date()
+  const endTime = now // Current time
+  const startTime = new Date(now)
+  startTime.setDate(startTime.getDate() - 1) // Last 24 hours (change this: max 7 days)
   return {
     startTime: startTime.toISOString(),
     endTime: endTime.toISOString()
   }
 }
-
 
 
 /**
@@ -73,7 +69,7 @@ async function fetchData() {
 async function saveDailyData(data) {
   const sorted = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
 
-  const today = new Date("2025-11-11").toISOString().slice(0, 10) // "2025-11-20"
+  const today = new Date().toISOString().slice(0, 10);
   const folder = "data/daily"
   const filename = `${folder}/${today}.json`
 
