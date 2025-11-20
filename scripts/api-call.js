@@ -15,7 +15,7 @@ if (!API_KEY) {
  */
 function getDateRange() {
   // TEMPORARY: fetch for a specific past date
-  const specificDate = new Date("2025-11-13"); // <--- change this
+  const specificDate = new Date("2025-11-11"); // <--- change this
   const endTime = new Date(specificDate);
   endTime.setHours(23, 59, 59, 999); // end of the day
   const startTime = new Date(specificDate);
@@ -72,7 +72,7 @@ async function fetchData() {
 async function saveDailyData(data) {
   const sorted = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
 
-  const today = new Date("2025-11-13").toISOString().slice(0, 10) // "2025-11-20"
+  const today = new Date("2025-11-11").toISOString().slice(0, 10) // "2025-11-20"
   const folder = "data/daily"
   const filename = `${folder}/${today}.json`
 
