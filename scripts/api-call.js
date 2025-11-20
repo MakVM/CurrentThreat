@@ -72,7 +72,7 @@ async function fetchData() {
 async function saveDailyData(data) {
   const sorted = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))
 
-  const today = new Date().toISOString().slice(0, 10) // "2025-11-20"
+  const today = new Date("2025-11-18").toISOString().slice(0, 10) // "2025-11-20"
   const folder = "data/daily"
   const filename = `${folder}/${today}.json`
 
