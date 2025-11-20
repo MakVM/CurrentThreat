@@ -1,5 +1,5 @@
 # CurrentThreat - AI Product
-An AI-powered product made from the Product Kit Template using CPW API.
+An AI-powered product made from the [Product Kit Template](https://github.com/1712n/product-kit-template) using [CPW API](https://rapidapi.com/CPWatch/api/cpw-tracker).
 
 
 # Product Kit Template
