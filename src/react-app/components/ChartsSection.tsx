@@ -31,7 +31,12 @@ export default function ChartsSection({ eventFrequency, classificationDistributi
             </div>
             <ResponsiveContainer width="100%" height={300}>
               <LineChart data={eventFrequency}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(0, 255, 0, 0.1)" />
+                
+                <CartesianGrid 
+                  strokeDasharray="3 3" 
+                  stroke="rgba(0, 255, 0, 0.1)"
+                  verticalPoints={[0, 1, 2, 3, 4, 5, 6]} // Explicit grid points
+                />
                 <XAxis
                   dataKey="date"
                   ticks={eventFrequency.map(d => d.date)}
