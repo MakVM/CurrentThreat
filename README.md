@@ -68,3 +68,7 @@ The project leverages AI models to **summarize, classify, and score events**, pr
 
 ![Charts Section](screenshots/charts_section.png)  
 
+**Navigation Widget**
+
+![Navigation Section](screenshots/navigation.png)  
+
