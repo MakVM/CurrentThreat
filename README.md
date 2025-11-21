@@ -59,6 +59,7 @@ The project leverages AI models to **summarize, classify, and score events**, pr
 ![Today's Events Section](screenshots/today_section.png)  
 
 **Past 7 Days Analysis Section** 
+
 ![Past 7 Days Analysis Section](screenshots/past7days_section.png)
 
 **Data Visualization Section**
