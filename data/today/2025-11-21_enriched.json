@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-20T19:26:50.000Z",
+      "entities": "Salesforce Customer Data Breach via Gainsight Compromise",
+      "eventSummary": "Salesforce is investigating an incident where hackers compromised some of its customers' data after breaching customer experience company Gainsight. The hacking group ShinyHunters has reportedly claimed responsibility.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/lorenzofb.bsky.social/post/3m63iasd24224"
+    },
+    {
+      "timestamp": "2025-11-20T17:01:58.000Z",
+      "entities": "Microsoft OS Infostealer Attack Vector",
+      "eventSummary": "A Microsoft update has created an agentic OS infostealer attack vector.",
+      "severity": "Medium",
+      "tags": "exploit",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1p26ww6/microsoft_update_creates_agentic_os_infostealer/"
+    },
+    {
+      "timestamp": "2025-11-20T09:18:27.000Z",
+      "entities": "Beckett Collectibles Data Breach & Website Defacement",
+      "eventSummary": "Beckett Collectibles experienced a data breach and website content defacement in November 2025. The stolen data was subsequently advertised for sale on a hacking forum and portions were publicly released.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m62gpwwfou2f"
+    },
+    {
+      "timestamp": "2025-11-20T07:11:07.000Z",
+      "entities": "GANA Payment $3.1M+ Crypto Exploit",
+      "eventSummary": "The 'GANA Payment' project was exploited for approximately $3.1M+ on BSC. The attacker deposited 1140 BNB ($1.04M) to Tornado on BSC, bridged funds to Ethereum, and deposited another 346.8 ETH ($1.05M) to Tornado. An additional 346 ETH ($1.046M) currently remains dormant on Ethereum at address 0x7a503e3ab9433ebf13afb4f7f1793c25733b3cca.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": ""
+    },
+    {
+      "timestamp": "2025-11-20T05:16:12.000Z",
+      "entities": "NAFFCO INC Ransomware Data Exfiltration",
+      "eventSummary": "NAFFCO INC was allegedly breached by a ransomware hacking group, which claims to have exfiltrated 1 TB of data including fiscal records, HR files, emails, budgets, strategic plans, and internal documents.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m5zyswmljo2a"
+    }
+  ],
+  "overallDayThreatScore": 87,
+  "dailyBrief": "November 20th, 2025 witnessed a series of severe cyber incidents, with multiple high-impact data breaches and exploitation events targeting major organizations and platforms. Salesforce and Beckett Collectibles suffered significant data exposure, while NAFFCO INC faced a large-scale ransomware attack. Notably, the GANA Payment crypto exploit resulted in multimillion-dollar losses and complex laundering activity. Microsoft’s recent update introduced a new infostealer attack vector, highlighting persistent threats to core infrastructure. The day’s events underscore a pronounced trend toward targeted breaches, ransomware, and cryptocurrency exploits, elevating the cyber risk landscape."
+}
