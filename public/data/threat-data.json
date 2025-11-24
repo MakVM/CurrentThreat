@@ -1,57 +1,13 @@
 {
-  "currentThreat": "OPERATION MULTI-VECTOR CASCADE",
-  "threatScore": 9,
+  "currentThreat": "OPERATION SUPPLY CHAIN SIEGE",
+  "threatScore": 8.8,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Aerodrome Finance DNS Hijack & Frontend Compromise",
-      "description": "Aerodrome Finance is investigating a DNS hijack and frontend compromise targeting Base Ecosystem users.",
-      "source": "https://cryptopanic.com/news/27308545/Aerodrome-Finance-Investigates-DNS-Hijack-as-Frontend-Compromise-Targets-Base-Ecosystem-Users",
-      "time": "2025-11-22T23:48:03.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Oracle Vulnerability Disclosure & Exploit",
-      "description": "Oracle was reportedly wrong about a vulnerability, which was found after LAPSUS$ posted their exploit on Telegram. Similar issues are noted with SAP and Siemens industrial control systems.",
-      "source": "https://bsky.app/profile/doublepulsar.com/post/3m6aemyy2rk25",
-      "time": "2025-11-22T17:59:37.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "CrowdStrike Insider Threat Incident",
-      "description": "CrowdStrike has identified an insider feeding information to hackers.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1p3tac2/crowdstrike_catches_insider_feeding_information/",
-      "time": "2025-11-22T14:56:47.000Z",
-      "severity": "High",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "PayPal, Netflix, TikTok Phishing Scam Campaign",
-      "description": "Hackers are targeting PayPal, Netflix, and TikTok with a new phishing scam.",
-      "source": "https://cryptopanic.com/news/27301169/Hackers-target-PayPal-Netflix-and-TikTok-with-a-new-phishing-scam",
-      "time": "2025-11-22T14:53:00.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "C&M Software DragonForce Data Breach",
-      "description": "The DragonForce hacking group claims to have breached C&M Software in Brazil, allegedly exfiltrating 393.9 GB of data. The ransom deadline is November 29, 2025.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m67rnr7fn42f",
-      "time": "2025-11-22T12:56:59.000Z",
+      "title": "SitusAMC Cyberattack Impacting Major Financial Institutions",
+      "description": "SitusAMC, a technology vendor for real estate financiers, suffered a cyberattack on November 12, 2025, potentially exposing client data, including accounting documents and legal contracts, for major clients such as JPMorgan Chase, Citi, and Morgan Stanley. SitusAMC confirmed the breach, alerted law enforcement and the FBI, and reported no impact on banking operations.",
+      "source": "https://www.situsamc.com/databreach",
+      "time": "2025-11-12T00:00:00.000Z",
       "severity": "High",
       "classification": [
         "Breach"
@@ -59,15 +15,11 @@
     }
   ],
   "past7Days": {
-    "briefing": "This week saw a significant escalation in both the volume and severity of cyber incidents globally. High-profile data breaches impacted major enterprises (Logitech, Salesforce, AT&T, Beckett Collectibles), critical infrastructure (municipalities, labour/legal systems), and fintech/crypto platforms (Crypto.com, Aerodrome Finance, GANA Payment). Attackers leveraged zero-day exploits (Chrome, Oracle E-Business Suite), extortionware, DNS hijacks, and advanced phishing schemes. Ransomware and insider threats (notably at CrowdStrike) further exacerbated organizational risk. The Cl0p and DragonForce groups featured prominently, targeting both public and private sectors. The convergence of sophisticated external attacks and insider compromise, alongside continued vulnerabilities in software supply chains, underlines a persistently high, multi-vector threat landscape.\n\nOf particular concern is the uptick in attacks exploiting zero-day vulnerabilities, extortion-based breaches, and multi-million dollar crypto thefts. The week reflects a pattern of increasingly coordinated and opportunistic campaigns, with threat actors moving quickly from discovery to exploitation. Organizations must remain vigilant, prioritize rapid patching, and enforce robust internal controls.",
-    "trends": "1. Sustained high-severity breaches: Major organizations across sectors (tech, finance, public sector) faced data exfiltration, ransomware, and extortion attacks, with groups like Cl0p, ShinyHunters, and DragonForce maintaining campaign momentum.\n2. Zero-day and supply chain exploits: Multiple incidents leveraged unpatched vulnerabilities (Chrome, Oracle, Microsoft OS), with exploitation windows shrinking as threat actors quickly operationalize new flaws.\n3. Crypto, fintech, and user platform attacks: Continued targeting of crypto platforms (GANA Payment, Aerodrome Finance, Crypto.com), DNS hijacks, and user phishing scams (PayPal, Netflix, TikTok) point to opportunistic financial motives and user data exposure risks.\n4. Insider and social engineering risks: Insider threat at CrowdStrike and persistent scam/phishing groups (Telegram, 'Together initiative') signal increased focus on human-centric attack vectors. \n5. Public sector and critical infrastructure under attack: Municipal, labour/legal, and industrial control system compromises highlight the vulnerability of essential services and the expanding scope of threat actor targets.",
-    "predictions": "Expect high threat levels to persist in the coming days. Zero-day vulnerability exploitation (especially Oracle, Chrome, and potentially Microsoft OS) will remain a focal point, with additional victims likely as patch adoption lags. Ransomware and extortionware attacks are projected to continue, especially from established groups (Cl0p, DragonForce, ShinyHunters), potentially targeting both large enterprises and critical public sector entities. The risk of large-scale data exfiltration, especially in supply chain and third-party service providers, remains elevated. Crypto-related exploits and laundering activity are likely to increase, with continued opportunistic phishing targeting end-users on major platforms. Insider threat activity may escalate as attackers adapt to external defenses. Overall confidence in these predictions is high, given the clear multi-vector attack trends and broad threat actor activity. Organizations should prioritize patching, threat intelligence monitoring, and internal security awareness to mitigate immediate risks."
+    "briefing": "This week featured a persistent surge in high-impact cyber events, with a pronounced wave of data breaches, ransomware campaigns, and sophisticated exploit activity. Major organizations—including Salesforce, Logitech, Eurofiber France, and SitusAMC—faced compromises, impacting critical business and financial sectors. Threat actors demonstrated advanced tactics: exploiting zero-day vulnerabilities (notably in Oracle E-Business Suite and Chrome), orchestrating multimillion-dollar crypto thefts, and leveraging insider access for breaches. Particularly concerning were supply chain attacks affecting financial institutions and targeted campaigns against consumer platforms and enterprise vendors. The prevalence of ransomware, phishing, and scams, combined with ongoing misjudgments in vulnerability management, underscores a highly active and evolving threat landscape that demands increased vigilance and rapid incident response.",
+    "trends": "The past week saw a spike in ransomware and extortion-based breaches, with groups like Cl0p and DragonForce expanding their victim lists and demanding ransoms. Zero-day exploits—especially those impacting widely-used platforms (Oracle E-Business Suite, Chrome)—are increasingly weaponized, and public disclosures are often delayed or incomplete, heightening risk. Crypto platforms and fintech services remain top targets for theft and laundering, while phishing and scam campaigns continue to proliferate across social channels and consumer brands. Insider threats are gaining attention, as evidenced by the CrowdStrike incident, and supply chain attacks are impacting major financial and enterprise ecosystems. Data exfiltration events are trending larger, with several incidents involving hundreds of gigabytes to terabytes of stolen data.",
+    "predictions": "Expect continued high-severity breaches targeting both enterprise and financial sectors, with ransomware groups likely to escalate attacks ahead of ransom deadlines. Zero-day exploitation is set to remain prominent—especially in widely deployed business and industrial software—while further vulnerabilities may be disclosed or actively exploited in the coming days. Crypto-related theft and laundering activity will persist, with emerging attack vectors in decentralized finance and trading platforms. Social engineering, phishing, and scam campaigns will continue to target users of popular consumer brands and platforms. Insider threats and supply chain vulnerabilities are likely to surface in additional incidents, given current trends. Confidence Level: High—current signals and attack patterns indicate a sustained, elevated risk environment; organizations should prioritize patching, employee vigilance, and supply chain risk management through this period."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-17",
-      "count": 2
-    },
     {
       "date": "2025-11-18",
       "count": 5
@@ -91,24 +43,20 @@
     {
       "date": "2025-11-23",
       "count": 5
+    },
+    {
+      "date": "2025-11-24",
+      "count": 1
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Fraud",
-      "value": 1
-    },
-    {
-      "name": "Hack",
-      "value": 4
-    },
     {
       "name": "Leak",
       "value": 2
     },
     {
       "name": "Breach",
-      "value": 10
+      "value": 11
     },
     {
       "name": "Scam",
@@ -117,6 +65,10 @@
     {
       "name": "Exploit",
       "value": 5
+    },
+    {
+      "name": "Hack",
+      "value": 3
     },
     {
       "name": "Other",

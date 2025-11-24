@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-12T00:00:00.000Z",
+      "entities": "SitusAMC Cyberattack Impacting Major Financial Institutions",
+      "eventSummary": "SitusAMC, a technology vendor for real estate financiers, suffered a cyberattack on November 12, 2025, potentially exposing client data, including accounting documents and legal contracts, for major clients such as JPMorgan Chase, Citi, and Morgan Stanley. SitusAMC confirmed the breach, alerted law enforcement and the FBI, and reported no impact on banking operations.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://www.situsamc.com/databreach"
+    }
+  ],
+  "overallDayThreatScore": 88,
+  "dailyBrief": "A significant cyberattack targeted SitusAMC, a key technology vendor for major financial institutions, resulting in a confirmed data breach with possible exposure of sensitive documents. While banking operations remain unaffected, the incident is notable for its impact on high-profile clients such as JPMorgan Chase, Citi, and Morgan Stanley, and highlights ongoing threats to supply chain partners within the financial sector."
+}

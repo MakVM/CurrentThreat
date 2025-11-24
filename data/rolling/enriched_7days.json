@@ -1,30 +1,7 @@
 {
-  "startDate": "2025-11-17",
-  "endDate": "2025-11-23",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-24",
   "days": [
-    {
-      "date": "2025-11-17",
-      "events": [
-        {
-          "timestamp": "2025-11-16T14:32:47.000Z",
-          "entities": "SNAP Program Massive Fraud Reapplication Requirement",
-          "eventSummary": "Everyone on SNAP will be forced to reapply to the program after massive fraud was revealed.",
-          "severity": "High",
-          "tags": "fraud",
-          "source": "https://twitter.com/1528943647185678336/status/1990065518510805212"
-        },
-        {
-          "timestamp": "2025-11-16T02:43:27.000Z",
-          "entities": "DoodiPals Hack and Sharwa Finance Exploit",
-          "eventSummary": "DoodiPals experienced a hack and Sharwa Finance had an exploit.",
-          "severity": "Medium",
-          "tags": "hack",
-          "source": "https://x.com/Whistleblowe007/status/1989561722823188757, https://x.com/Whistleblowe007/status/1989880725433090398"
-        }
-      ],
-      "overallDayThreatScore": 85,
-      "dailyBrief": "Significant cyber threats were observed today, dominated by a major fraud incident affecting the SNAP program, prompting widespread reapplications. This highlights serious vulnerabilities in large-scale social welfare systems. Additionally, notable hacks and exploits targeted DoodiPals and Sharwa Finance, underscoring continued risks in financial technology platforms. The day's events reflect heightened fraud and hacking activity, warranting increased vigilance across sectors."
-    },
     {
       "date": "2025-11-18",
       "events": [
@@ -258,6 +235,21 @@
       ],
       "overallDayThreatScore": 85,
       "dailyBrief": "This was a high-threat day in cyber risk, with multiple high-severity incidents reported. Aerodrome Finance suffered a DNS hijack and frontend compromise, while C&M Software faced a major breach and ransom demand from DragonForce. CrowdStrike uncovered a dangerous insider threat, raising concerns about internal security. There was also a notable phishing campaign targeting major consumer platforms, and Oracle's vulnerability misjudgment highlighted ongoing risks in industrial systems. The trend shows a mix of targeted attacks on fintech, critical infrastructure, and user platforms, with insider threats and ransomware standing out as top alerts."
+    },
+    {
+      "date": "2025-11-24",
+      "events": [
+        {
+          "timestamp": "2025-11-12T00:00:00.000Z",
+          "entities": "SitusAMC Cyberattack Impacting Major Financial Institutions",
+          "eventSummary": "SitusAMC, a technology vendor for real estate financiers, suffered a cyberattack on November 12, 2025, potentially exposing client data, including accounting documents and legal contracts, for major clients such as JPMorgan Chase, Citi, and Morgan Stanley. SitusAMC confirmed the breach, alerted law enforcement and the FBI, and reported no impact on banking operations.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://www.situsamc.com/databreach"
+        }
+      ],
+      "overallDayThreatScore": 88,
+      "dailyBrief": "A significant cyberattack targeted SitusAMC, a key technology vendor for major financial institutions, resulting in a confirmed data breach with possible exposure of sensitive documents. While banking operations remain unaffected, the incident is notable for its impact on high-profile clients such as JPMorgan Chase, Citi, and Morgan Stanley, and highlights ongoing threats to supply chain partners within the financial sector."
     }
   ]
 }
