@@ -1,54 +1,7 @@
 {
-  "startDate": "2025-11-18",
-  "endDate": "2025-11-24",
+  "startDate": "2025-11-19",
+  "endDate": "2025-11-25",
   "days": [
-    {
-      "date": "2025-11-18",
-      "events": [
-        {
-          "timestamp": "2025-11-17T15:53:59.000Z",
-          "entities": "Crypto Theft and Private Key Leak in AI Trading Systems",
-          "eventSummary": "Users of DeepSeek and Qwen-based NOFX AI trading systems were affected by crypto theft and private key leaks.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://cryptopanic.com/news/27135509/DeepSeek-Qwen-based-NOFX-AI-trading-system-users-hit-in-crypto-theft-private-key-leaks"
-        },
-        {
-          "timestamp": "2025-11-17T12:28:35.000Z",
-          "entities": "Logitech Data Breach via Clop Extortion Attack",
-          "eventSummary": "Logitech confirmed a data breach following a Clop extortion attack.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m5t4x7e6ef2f"
-        },
-        {
-          "timestamp": "2025-11-17T04:20:06.000Z",
-          "entities": "'Together initiative' Scam Reported",
-          "eventSummary": "A 'Together initiative' scam has been reported.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://www.reddit.com/r/binance/comments/1oz3awf/together_initiative_scam/"
-        },
-        {
-          "timestamp": "2025-11-10T00:00:00.000Z",
-          "entities": "Eurofiber France Data Breach via Ticket System Exploit",
-          "eventSummary": "Eurofiber France disclosed a data breach discovered late last week, where hackers gained access to its ticket management system by exploiting a vulnerability and exfiltrated information.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m5u5f2uiyo25"
-        },
-        {
-          "timestamp": "2025-07-01T00:00:00.000Z",
-          "entities": "Oracle E-Business Suite Zero-Day Attack (CVE-2025-61882)",
-          "eventSummary": "An attack exploited a zero-day vulnerability (CVE-2025-61882) in Oracle E-Business Suite, with preparatory activity detected in early July 2025 and initial intrusion in August.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m5t422ifkl2x"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today's cyber landscape is marked by several high-severity incidents, including critical data breaches at Logitech and Eurofiber France, exploitation of a zero-day in Oracle E-Business Suite, and widespread crypto theft affecting AI trading systems. The prevalence of sophisticated attacks and leaks, alongside persistent scams, underscores an elevated threat environment requiring immediate attention and robust defensive measures."
-    },
     {
       "date": "2025-11-19",
       "events": [
@@ -250,6 +203,45 @@
       ],
       "overallDayThreatScore": 88,
       "dailyBrief": "A significant cyberattack targeted SitusAMC, a key technology vendor for major financial institutions, resulting in a confirmed data breach with possible exposure of sensitive documents. While banking operations remain unaffected, the incident is notable for its impact on high-profile clients such as JPMorgan Chase, Citi, and Morgan Stanley, and highlights ongoing threats to supply chain partners within the financial sector."
+    },
+    {
+      "date": "2025-11-25",
+      "events": [
+        {
+          "timestamp": "2025-11-24T20:45:39.000Z",
+          "entities": "SitusAMC Data Breach Impacting Major Banks",
+          "eventSummary": "Hackers stole data from SitusAMC, which is used by 1,500 clients including JPMorgan Chase and Citi for real-estate loans and mortgages. This incident has prompted efforts to determine the extent of the data stolen and which banks are affected.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "http://buff.ly/1RA3X4C"
+        },
+        {
+          "timestamp": "2025-11-24T14:39:04.000Z",
+          "entities": "Harvard University Alumni Affairs Compromise",
+          "eventSummary": "Harvard University disclosed that its Alumni Affairs and Development systems were compromised in a voice phishing attack, exposing personal information of students, alumni, donors, staff, and faculty members.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6eyqiouw625"
+        },
+        {
+          "timestamp": "2025-11-24T08:48:55.000Z",
+          "entities": "UOB BIN Attack on Card Used at Amazon UAE",
+          "eventSummary": "A user reported a fraud transaction on their UOB PPV card for an Amazon UAE purchase, indicating a BIN attack that UOB CSO confirmed has been happening recently. The user has blocked the card and requested a replacement.",
+          "severity": "Medium",
+          "tags": "fraud",
+          "source": "https://t.me/HoneyMoneySG"
+        },
+        {
+          "timestamp": "2025-11-24T04:48:58.000Z",
+          "entities": "Coinbase Card Data Hack",
+          "eventSummary": "Coinbase Card data was hacked.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://www.reddit.com/r/CoinBase/comments/1p4t7e0/coinbase_card_data_hacked/"
+        }
+      ],
+      "overallDayThreatScore": 82,
+      "dailyBrief": "A significant breach at SitusAMC has exposed sensitive data linked to major financial institutions, elevating today's overall risk. Harvard University reported a targeted voice phishing scam impacting personal information of its community. Financial fraud incidents continue, with UOB cards hit by a BIN attack targeting Amazon UAE purchases. Additionally, Coinbase suffered a hack compromising cardholder data. The day reflects heightened threat activity across financial, academic, and cryptocurrency sectors, with breaches and fraud as dominant patterns."
     }
   ]
 }

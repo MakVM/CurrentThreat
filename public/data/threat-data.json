@@ -1,29 +1,58 @@
 {
-  "currentThreat": "OPERATION SUPPLY CHAIN SIEGE",
-  "threatScore": 8.8,
+  "currentThreat": "OPERATION MULTI-SECTOR CASCADE",
+  "threatScore": 8.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "SitusAMC Cyberattack Impacting Major Financial Institutions",
-      "description": "SitusAMC, a technology vendor for real estate financiers, suffered a cyberattack on November 12, 2025, potentially exposing client data, including accounting documents and legal contracts, for major clients such as JPMorgan Chase, Citi, and Morgan Stanley. SitusAMC confirmed the breach, alerted law enforcement and the FBI, and reported no impact on banking operations.",
-      "source": "https://www.situsamc.com/databreach",
-      "time": "2025-11-12T00:00:00.000Z",
+      "title": "SitusAMC Data Breach Impacting Major Banks",
+      "description": "Hackers stole data from SitusAMC, which is used by 1,500 clients including JPMorgan Chase and Citi for real-estate loans and mortgages. This incident has prompted efforts to determine the extent of the data stolen and which banks are affected.",
+      "source": "http://buff.ly/1RA3X4C",
+      "time": "2025-11-24T20:45:39.000Z",
       "severity": "High",
       "classification": [
         "Breach"
       ]
+    },
+    {
+      "id": 2,
+      "title": "Harvard University Alumni Affairs Compromise",
+      "description": "Harvard University disclosed that its Alumni Affairs and Development systems were compromised in a voice phishing attack, exposing personal information of students, alumni, donors, staff, and faculty members.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6eyqiouw625",
+      "time": "2025-11-24T14:39:04.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UOB BIN Attack on Card Used at Amazon UAE",
+      "description": "A user reported a fraud transaction on their UOB PPV card for an Amazon UAE purchase, indicating a BIN attack that UOB CSO confirmed has been happening recently. The user has blocked the card and requested a replacement.",
+      "source": "https://t.me/HoneyMoneySG",
+      "time": "2025-11-24T08:48:55.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Fraud"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Coinbase Card Data Hack",
+      "description": "Coinbase Card data was hacked.",
+      "source": "https://www.reddit.com/r/CoinBase/comments/1p4t7e0/coinbase_card_data_hacked/",
+      "time": "2025-11-24T04:48:58.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Hack"
+      ]
     }
   ],
   "past7Days": {
-    "briefing": "This week featured a persistent surge in high-impact cyber events, with a pronounced wave of data breaches, ransomware campaigns, and sophisticated exploit activity. Major organizations—including Salesforce, Logitech, Eurofiber France, and SitusAMC—faced compromises, impacting critical business and financial sectors. Threat actors demonstrated advanced tactics: exploiting zero-day vulnerabilities (notably in Oracle E-Business Suite and Chrome), orchestrating multimillion-dollar crypto thefts, and leveraging insider access for breaches. Particularly concerning were supply chain attacks affecting financial institutions and targeted campaigns against consumer platforms and enterprise vendors. The prevalence of ransomware, phishing, and scams, combined with ongoing misjudgments in vulnerability management, underscores a highly active and evolving threat landscape that demands increased vigilance and rapid incident response.",
-    "trends": "The past week saw a spike in ransomware and extortion-based breaches, with groups like Cl0p and DragonForce expanding their victim lists and demanding ransoms. Zero-day exploits—especially those impacting widely-used platforms (Oracle E-Business Suite, Chrome)—are increasingly weaponized, and public disclosures are often delayed or incomplete, heightening risk. Crypto platforms and fintech services remain top targets for theft and laundering, while phishing and scam campaigns continue to proliferate across social channels and consumer brands. Insider threats are gaining attention, as evidenced by the CrowdStrike incident, and supply chain attacks are impacting major financial and enterprise ecosystems. Data exfiltration events are trending larger, with several incidents involving hundreds of gigabytes to terabytes of stolen data.",
-    "predictions": "Expect continued high-severity breaches targeting both enterprise and financial sectors, with ransomware groups likely to escalate attacks ahead of ransom deadlines. Zero-day exploitation is set to remain prominent—especially in widely deployed business and industrial software—while further vulnerabilities may be disclosed or actively exploited in the coming days. Crypto-related theft and laundering activity will persist, with emerging attack vectors in decentralized finance and trading platforms. Social engineering, phishing, and scam campaigns will continue to target users of popular consumer brands and platforms. Insider threats and supply chain vulnerabilities are likely to surface in additional incidents, given current trends. Confidence Level: High—current signals and attack patterns indicate a sustained, elevated risk environment; organizations should prioritize patching, employee vigilance, and supply chain risk management through this period."
+    "briefing": "The week of November 19–25, 2025, was marked by an elevated cyber threat environment, with a series of high-severity breaches, ransomware attacks, and exploits targeting major corporations, government entities, fintech platforms, and academic institutions. Notable incidents included major data breaches at AT&T, Salesforce, Beckett Collectibles, NAFFCO INC, C&M Software, and SitusAMC—with the latter impacting top-tier financial institutions such as JPMorgan Chase and Citi. Critical infrastructure risks were amplified by active zero-day exploits against Chrome and Oracle E-Business Suite, while insider threats and phishing campaigns further expanded the attack surface. The Cl0p and DragonForce hacking groups were especially prominent, showcasing the continued evolution and aggressiveness of organized cybercrime. The week demonstrated that attackers are leveraging both technical vulnerabilities and social engineering, with substantial financial, reputational, and privacy impacts across sectors.",
+    "trends": "There is a clear surge in large-scale data breaches, ransomware, and supply chain attacks, with threat actors increasingly targeting third-party vendors and service providers (e.g., Gainsight, SitusAMC). Zero-day and novel exploit activity remains high, particularly in widely used platforms like Chrome, Oracle, and Microsoft OS. Cryptocurrency-related exploits and laundering tactics (e.g., GANA Payment, Coinbase) are persistent, mirroring broader financial fraud trends. Insider threats and social engineering attacks—including phishing and voice scams—are on the rise, impacting even security-focused organizations like CrowdStrike and prominent academic institutions. The overall threat scores remain consistently elevated throughout the week, signaling sustained attacker activity and expanding risk profiles.",
+    "predictions": "Expect continued targeting of financial institutions and their vendors, with high risk of additional supply chain and third-party data breaches. Vulnerabilities in enterprise software (Oracle, Microsoft, SAP) will likely be exploited further, especially by organized groups like Cl0p and LAPSUS$, so rapid patching and monitoring are essential. Cryptocurrency platforms, payment processors, and fintech providers will remain attractive targets for both technical exploits and fraud. Increased phishing and scam activity against consumer and academic sectors is probable, alongside ongoing ransomware and insider threat risks. Confidence in these predictions is high (80–90%), given the persistent patterns and recent escalation in attack sophistication and frequency. Organizations should prioritize incident response readiness, vendor risk management, and user awareness training over the upcoming days."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-18",
-      "count": 5
-    },
     {
       "date": "2025-11-19",
       "count": 4
@@ -47,31 +76,39 @@
     {
       "date": "2025-11-24",
       "count": 1
+    },
+    {
+      "date": "2025-11-25",
+      "count": 4
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Leak",
-      "value": 2
-    },
-    {
       "name": "Breach",
-      "value": 11
+      "value": 10
     },
     {
       "name": "Scam",
       "value": 3
     },
     {
-      "name": "Exploit",
-      "value": 5
-    },
-    {
       "name": "Hack",
-      "value": 3
+      "value": 4
     },
     {
       "name": "Other",
+      "value": 1
+    },
+    {
+      "name": "Exploit",
+      "value": 4
+    },
+    {
+      "name": "Leak",
+      "value": 1
+    },
+    {
+      "name": "Fraud",
       "value": 1
     }
   ]

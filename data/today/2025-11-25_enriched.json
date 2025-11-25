@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-24T20:45:39.000Z",
+      "entities": "SitusAMC Data Breach Impacting Major Banks",
+      "eventSummary": "Hackers stole data from SitusAMC, which is used by 1,500 clients including JPMorgan Chase and Citi for real-estate loans and mortgages. This incident has prompted efforts to determine the extent of the data stolen and which banks are affected.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "http://buff.ly/1RA3X4C"
+    },
+    {
+      "timestamp": "2025-11-24T14:39:04.000Z",
+      "entities": "Harvard University Alumni Affairs Compromise",
+      "eventSummary": "Harvard University disclosed that its Alumni Affairs and Development systems were compromised in a voice phishing attack, exposing personal information of students, alumni, donors, staff, and faculty members.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6eyqiouw625"
+    },
+    {
+      "timestamp": "2025-11-24T08:48:55.000Z",
+      "entities": "UOB BIN Attack on Card Used at Amazon UAE",
+      "eventSummary": "A user reported a fraud transaction on their UOB PPV card for an Amazon UAE purchase, indicating a BIN attack that UOB CSO confirmed has been happening recently. The user has blocked the card and requested a replacement.",
+      "severity": "Medium",
+      "tags": "fraud",
+      "source": "https://t.me/HoneyMoneySG"
+    },
+    {
+      "timestamp": "2025-11-24T04:48:58.000Z",
+      "entities": "Coinbase Card Data Hack",
+      "eventSummary": "Coinbase Card data was hacked.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://www.reddit.com/r/CoinBase/comments/1p4t7e0/coinbase_card_data_hacked/"
+    }
+  ],
+  "overallDayThreatScore": 82,
+  "dailyBrief": "A significant breach at SitusAMC has exposed sensitive data linked to major financial institutions, elevating today's overall risk. Harvard University reported a targeted voice phishing scam impacting personal information of its community. Financial fraud incidents continue, with UOB cards hit by a BIN attack targeting Amazon UAE purchases. Additionally, Coinbase suffered a hack compromising cardholder data. The day reflects heightened threat activity across financial, academic, and cryptocurrency sectors, with breaches and fraud as dominant patterns."
+}
