@@ -1,38 +1,7 @@
 {
-  "startDate": "2025-11-20",
-  "endDate": "2025-11-26",
+  "startDate": "2025-11-21",
+  "endDate": "2025-11-27",
   "days": [
-    {
-      "date": "2025-11-20",
-      "events": [
-        {
-          "timestamp": "2025-11-19T23:11:30.000Z",
-          "entities": "Chrome Zero-Day Exploit Urges Immediate Update",
-          "eventSummary": "Attackers are exploiting a zero-day flaw in Chrome, urging users to update Chrome immediately.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1p1ktpe/update_chrome_asap_attackers_are_already/"
-        },
-        {
-          "timestamp": "2025-11-19T08:00:43.000Z",
-          "entities": "Largest Documented Phone Number Exposure via Key-Reuse Patterns",
-          "eventSummary": "A team warned that scammers or regimes could have exploited a flaw, noting key-reuse patterns suggesting unauthorized clients, and called it the largest documented phone number exposure, though all collected data was deleted.",
-          "severity": "Medium",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m5xpar5umq2s"
-        },
-        {
-          "timestamp": "2025-11-18T00:00:00.000Z",
-          "entities": "Municipal Server Breach and Citizen Data Leak",
-          "eventSummary": "An actor exploited a third-party server used by a municipality to steal and leak internal documents, and accessed a database containing citizen police records. This incident is pending verification.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m5xm74ynkb2h"
-        }
-      ],
-      "overallDayThreatScore": 85,
-      "dailyBrief": "Today's cyber threat landscape is marked by two high-severity incidents: a zero-day Chrome exploit actively targeted by attackers and a municipal server breach exposing sensitive police records. Additionally, a significant phone number exposure highlights ongoing risks from flawed key management practices. Users should prioritize browser updates and monitor for public sector data leaks, as threat actors are exploiting both software vulnerabilities and misconfigured systems. The overall threat level is elevated, with active exploitation and widespread exposure risks."
-    },
     {
       "date": "2025-11-21",
       "events": [
@@ -242,6 +211,53 @@
       ],
       "overallDayThreatScore": 73,
       "dailyBrief": "The day saw a significant security event with Dartmouth College suffering a data breach involving the Clop extortion gang, which poses a substantial risk to sensitive data. Multiple scam incidents were reported, including warnings about fraudulent exchanges, a scammer identified on Telegram, and a P2P trade scam, highlighting ongoing threats in both crypto and social platforms. The overall threat level is elevated, and vigilance is advised especially around scams and reported data breaches."
+    },
+    {
+      "date": "2025-11-27",
+      "events": [
+        {
+          "timestamp": "2025-11-26T22:38:30.000Z",
+          "entities": "Pension Loss via Scam/Phishing",
+          "eventSummary": "A user reported losing their pension due to a scam or phishing incident.",
+          "severity": "High",
+          "tags": "scam",
+          "source": "https://t.me/Ripple"
+        },
+        {
+          "timestamp": "2025-11-26T18:12:00.000Z",
+          "entities": "Potential Scam Attempt",
+          "eventSummary": "A user reported a potential scam attempt.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/Litecoin"
+        },
+        {
+          "timestamp": "2025-11-26T17:35:26.000Z",
+          "entities": "Microsoft Teams Malware Exposure",
+          "eventSummary": "A Microsoft Teams flaw in guest chat exposes users to malware attacks.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://twitter.com/128484298/status/1993735359675420874"
+        },
+        {
+          "timestamp": "2025-11-26T10:34:52.000Z",
+          "entities": "Ripple Wallet Hack",
+          "eventSummary": "A user reported being hacked with a ripple-wallet.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://t.me/Ripple"
+        },
+        {
+          "timestamp": "2025-11-26T10:16:01.000Z",
+          "entities": "Critical Infrastructure Data Leaks",
+          "eventSummary": "Data leaks spanning five years on JSONFormatter and one year on CodeBeautify have affected organizations in critical infrastructure, government, finance, telecom, healthcare, aerospace, and cybersecurity.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3m6jlypseg727"
+        }
+      ],
+      "overallDayThreatScore": 90,
+      "dailyBrief": "High-impact cyber events dominated the day, with reports of significant financial loss due to scams, a major Microsoft Teams vulnerability exposing users to malware, a ripple-wallet hack, and extensive multi-year data leaks affecting critical infrastructure and key industries. The prevalence of scams and leaks indicates ongoing targeting of individuals and organizations, while the Teams exploit highlights the persistent risks in mainstream collaboration platforms. Immediate attention and mitigation are recommended given the elevated threat level."
     }
   ]
 }

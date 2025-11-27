@@ -1,62 +1,69 @@
 {
-  "currentThreat": "OPERATION DATA LEAK & SCAM SURGE",
-  "threatScore": 8,
+  "currentThreat": "OPERATION CRITICAL CASCADE",
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Scam Exchange Warning",
-      "description": "A user warned about a scam exchange.",
-      "source": "https://www.reddit.com/r/CoinBase/comments/1p6mhjj/be_careful_with_this_scam_exchange/",
-      "time": "2025-11-25T22:33:11.000Z",
-      "severity": "Medium",
+      "title": "Pension Loss via Scam/Phishing",
+      "description": "A user reported losing their pension due to a scam or phishing incident.",
+      "source": "https://t.me/Ripple",
+      "time": "2025-11-26T22:38:30.000Z",
+      "severity": "High",
       "classification": [
         "Scam"
       ]
     },
     {
       "id": 2,
-      "title": "Telegram Scammer Identified",
-      "description": "A scammer was identified on Telegram.",
-      "source": "https://t.me/curvefi",
-      "time": "2025-11-25T15:10:51.000Z",
-      "severity": "Low",
+      "title": "Potential Scam Attempt",
+      "description": "A user reported a potential scam attempt.",
+      "source": "https://t.me/Litecoin",
+      "time": "2025-11-26T18:12:00.000Z",
+      "severity": "Medium",
       "classification": [
         "Scam"
       ]
     },
     {
       "id": 3,
-      "title": "Dartmouth College Data Breach (Clop Gang)",
-      "description": "Dartmouth College disclosed a data breach after the Clop extortion gang leaked data allegedly stolen from the school's Oracle E-Business Suite servers.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6h7hq7pcs24",
-      "time": "2025-11-25T11:56:10.000Z",
+      "title": "Microsoft Teams Malware Exposure",
+      "description": "A Microsoft Teams flaw in guest chat exposes users to malware attacks.",
+      "source": "https://twitter.com/128484298/status/1993735359675420874",
+      "time": "2025-11-26T17:35:26.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Exploit"
       ]
     },
     {
       "id": 4,
-      "title": "P2P Trade Scam Report",
-      "description": "A user reported being scammed on a P2P trade.",
-      "source": "https://www.reddit.com/r/binance/comments/1p65eed/getting_scammed_on_a_p2p_trade/",
-      "time": "2025-11-25T07:33:13.000Z",
-      "severity": "Medium",
+      "title": "Ripple Wallet Hack",
+      "description": "A user reported being hacked with a ripple-wallet.",
+      "source": "https://t.me/Ripple",
+      "time": "2025-11-26T10:34:52.000Z",
+      "severity": "High",
       "classification": [
-        "Scam"
+        "Hack"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Critical Infrastructure Data Leaks",
+      "description": "Data leaks spanning five years on JSONFormatter and one year on CodeBeautify have affected organizations in critical infrastructure, government, finance, telecom, healthcare, aerospace, and cybersecurity.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m6jlypseg727",
+      "time": "2025-11-26T10:16:01.000Z",
+      "severity": "High",
+      "classification": [
+        "Leak"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a pronounced escalation in cyber risk, characterized by a series of high-severity breaches, zero-day exploits, and sophisticated scams targeting both organizations and individuals. Notable incidents included active exploitation of vulnerabilities in Chrome and Oracle E-Business Suite, large-scale data exfiltration impacting financial institutions (SitusAMC, Salesforce), academic entities (Harvard, Dartmouth), and critical infrastructure providers. Ransomware and extortion attacks continued to proliferate, with threat actors such as Clop and DragonForce expanding their victim lists and demanding ransoms. Cryptocurrency platforms suffered multimillion-dollar exploits and targeted DNS attacks, while scams and phishing campaigns hit consumer and fintech sectors hard. The persistent targeting of supply chain partners and the emergence of insider threats at major cybersecurity firms (CrowdStrike) underscore the growing complexity and reach of adversarial activity. Overall, the cyber landscape remains volatile, with attackers leveraging both technical exploits and social engineering to inflict widespread damage.",
-    "trends": "The data reveals a surge in high-impact breaches, especially involving third-party vendors and supply chain partners (e.g., SitusAMC, Gainsight). Ransomware and extortion campaigns remain rampant, with groups like Clop actively exploiting unpatched zero-day vulnerabilities and expanding their operations across diverse sectors. Cryptocurrency-related attacks, including multimillion-dollar exploits and DNS hijacks, are increasing, indicating persistent interest in digital asset theft and laundering. There is a notable spike in phishing, scam, and fraud reports, especially targeting consumer platforms and payment systems. Insider threats are emerging as a critical risk vector, highlighted by the CrowdStrike incident. Attackers are also capitalizing on software flaws and misconfigured systems, with zero-days in Chrome, Oracle, and Microsoft driving exploitation. The volume and sophistication of attacks remain high, with threat actors adapting quickly to disclosed vulnerabilities.",
-    "predictions": "In the coming days, expect continued targeting of financial, academic, and supply chain entities, with particular attention to unpatched vulnerabilities in widely deployed platforms (Oracle, Chrome, Microsoft). Ransomware and extortion activities will likely intensify, especially as ransom deadlines approach for recent breaches. Cryptocurrency platforms and user-facing fintech services will remain prime targets for DNS hijacks, card data theft, and laundering exploits. Scam and phishing campaigns are expected to proliferate, leveraging both social media and voice channels, with moderate-to-high confidence. Insider threats and third-party risks will require heightened vigilance, as attackers increasingly seek access via trusted channels. Overall, the threat landscape is expected to remain at an elevated level, with high confidence in continued breach, exploit, and scam activity across multiple verticals."
+    "briefing": "This week marked an acute escalation in cyber risk, driven by a series of high-severity breaches, ransomware/extortion campaigns, financial sector exploits, and widespread phishing and scam activity. Major incidents included the Salesforce-Gainsight data breach, significant ransomware and insider threat events (CrowdStrike, NAFFCO), and the expanding Clop group campaign exploiting Oracle E-Business Suite vulnerabilities. The financial sector was notably impacted, with SitusAMC and associated banks (JPMorgan Chase, Citi, Morgan Stanley) reporting data exposures, while cryptocurrency platforms and fintech projects faced multi-million dollar exploits and persistent fraud schemes. Academic institutions and critical infrastructure entities also suffered from data leaks and targeted attacks, underscoring systemic vulnerabilities across both public and private sectors. The week's activity highlights a continued targeting of supply chains, trusted vendors, and mainstream platforms, with attackers leveraging both technical exploits and social engineering.",
+    "trends": "Several clear trends emerged: (1) Heightened frequency and sophistication of large-scale data breaches, especially via ransomware/extortion and supply chain compromise (Clop, DragonForce, ShinyHunters, Gainsight/Salesforce, SitusAMC). (2) Increasing attacks on financial institutions and crypto platforms, featuring exploits, fraud (BIN attacks, scam exchanges), and laundering (GANA Payment, Coinbase, Ripple wallet). (3) A surge in phishing, voice scams, and social engineering targeting both individuals (pension loss, alumni data) and institutions (Harvard, PayPal, Netflix, TikTok). (4) Critical infrastructure and government entities are facing persistent multi-year data leak exposures, raising systemic risk. (5) Insider threats and vulnerabilities in widely used platforms (Microsoft Teams, Oracle, SAP, Siemens) are now central concerns. Overall, the week's threat scores remained elevated, with no significant decline in event severity or frequency, indicating sustained attacker activity across sectors.",
+    "predictions": "Looking ahead, cyber risk will likely remain elevated over the next several days. Expect continued ransomware and extortion campaigns, especially targeting supply chain vendors and high-value financial/academic institutions. Attacks exploiting newly disclosed vulnerabilities (Oracle E-Business Suite, Microsoft Teams) may spike as proof-of-concept and active exploit tools circulate. Phishing and scam campaigns targeting both retail users and organizations are expected to intensify, particularly around the upcoming holiday period when transaction volume increases. Cryptocurrency platforms and fintech services remain high-risk for fraud and exploits, with laundering activity likely to persist. Data leaks affecting critical infrastructure, government, and healthcare will remain in focus, with possible follow-on breaches. Confidence in these predictions is high (>80%), given the sustained activity and evolving threat landscape observed, coupled with ongoing news of similar incidents globally."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-20",
-      "count": 3
-    },
     {
       "date": "2025-11-21",
       "count": 5
@@ -80,31 +87,35 @@
     {
       "date": "2025-11-26",
       "count": 4
+    },
+    {
+      "date": "2025-11-27",
+      "count": 5
     }
   ],
   "classificationDistribution": [
+    {
+      "name": "Breach",
+      "value": 9
+    },
     {
       "name": "Exploit",
       "value": 4
     },
     {
-      "name": "Leak",
-      "value": 1
-    },
-    {
-      "name": "Breach",
-      "value": 10
-    },
-    {
       "name": "Hack",
-      "value": 3
+      "value": 4
     },
     {
       "name": "Scam",
-      "value": 5
+      "value": 7
     },
     {
       "name": "Fraud",
+      "value": 1
+    },
+    {
+      "name": "Leak",
       "value": 1
     }
   ]
