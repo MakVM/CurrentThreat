@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-27T17:45:26.000Z",
+      "entities": "Bank Mandiri Breach: Financial Records Leak",
+      "eventSummary": "The BreachLaboratory threat actor claims to have breached Bank Mandiri in Indonesia, allegedly leaking over 18,000 financial records including personal details, SWIFT code BMRIIDJA, account setup data, balances, fees, and debit card usage information.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m6muby7wuv2x"
+    },
+    {
+      "timestamp": "2025-11-27T06:28:17.000Z",
+      "entities": "Upbit $36M Solana Hack",
+      "eventSummary": "Upbit was hit by a $36M Solana hack and has vowed full reimbursement after the major breach.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptopanic.com/news/27435758/Upbit-Hit-by-36M-Solana-Hack-Vows-Full-Reimbursement-After-Major-Breach"
+    },
+    {
+      "timestamp": "2025-11-27T04:36:29.000Z",
+      "entities": "CoinTracking & Simplex Scam Incident",
+      "eventSummary": "CoinTracking and Simplex were reportedly used for scamming.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://www.reddit.com/r/CryptoMarkets/comments/1p7cs6e/cointracking_simplex_used_for_scamming/"
+    }
+  ],
+  "overallDayThreatScore": 92,
+  "dailyBrief": "Today's cyber events indicate a high-threat environment with two major incidents: a large-scale breach at Bank Mandiri compromising sensitive financial data, and a $36M hack at Upbit, a cryptocurrency exchange. Additionally, scam activity involving CoinTracking and Simplex highlights persistent fraud risks in fintech. Financial institutions and crypto platforms are prime targets, underscoring the need for enhanced security measures and rapid incident response."
+}

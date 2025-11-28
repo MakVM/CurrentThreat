@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-11-27T17:45:26.000Z",
+    "entities": "Bank Mandiri",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The BreachLaboratory threat actor claims to have breached Bank Mandiri in Indonesia, allegedly leaking over 18,000 financial records including personal details, SWIFT code BMRIIDJA, account setup data, balances, fees, and debit card usage information. Sources: - https://bsky.app/profile/hackmanac.com/post/3m6muby7wuv2x"
+  },
+  {
+    "timestamp": "2025-11-27T06:28:17.000Z",
+    "entities": "Upbit",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Upbit was hit by a $36M Solana hack and has vowed full reimbursement after the major breach. Sources: - https://cryptopanic.com/news/27435758/Upbit-Hit-by-36M-Solana-Hack-Vows-Full-Reimbursement-After-Major-Breach"
+  },
+  {
+    "timestamp": "2025-11-27T04:36:29.000Z",
+    "entities": "CoinTracking, Simplex",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "CoinTracking and Simplex were reportedly used for scamming. Sources: - https://www.reddit.com/r/CryptoMarkets/comments/1p7cs6e/cointracking_simplex_used_for_scamming/"
+  }
+]
