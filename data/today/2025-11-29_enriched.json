@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-28T17:06:05.000Z",
+      "entities": "French Football Federation data breach",
+      "eventSummary": "The French Football Federation (FFF) disclosed a data breach after attackers used a compromised account to gain access to administrative management software used by football clubs.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6pbmji3k72c"
+    },
+    {
+      "timestamp": "2025-11-28T11:33:22.000Z",
+      "entities": "Upbit $30M hack and wallet flaw",
+      "eventSummary": "Upbit's emergency audit of a $30M hack uncovered an internal wallet flaw that could allow attackers to derive private keys.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptopanic.com/news/27473468/Upbit-says-emergency-audit-of-30M-hack-uncovered-internal-wallet-flaw-that-could-let-attackers-derive-private-keys"
+    },
+    {
+      "timestamp": "2025-11-28T07:39:44.000Z",
+      "entities": "User inquiry: data theft prevention",
+      "eventSummary": "A user is asking for help to prevent data theft.",
+      "severity": "Low",
+      "tags": "other",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1p8nhnq/help_prevent_data_theft/"
+    },
+    {
+      "timestamp": "2025-11-28T06:57:03.000Z",
+      "entities": "Trading account and stock transaction data leak",
+      "eventSummary": "A leak reportedly includes first-hand trading account data and stock transaction metadata.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://bsky.app/profile/falconfeedsio.bsky.social/post/3m6obkybhd227"
+    },
+    {
+      "timestamp": "2025-11-28T01:33:49.000Z",
+      "entities": "User inquiry: scam resolution",
+      "eventSummary": "A user is seeking help to resolve a scam.",
+      "severity": "Low",
+      "tags": "scam",
+      "source": "https://www.reddit.com/r/paypal/comments/1p8i8id/how_do_i_resolve_this_scam/"
+    }
+  ],
+  "overallDayThreatScore": 85,
+  "dailyBrief": "Today's cyber landscape presents a high threat level, driven by a major data breach at the French Football Federation and a $30M hack at Upbit, which also exposed a significant wallet vulnerability. Additional incidents include a leak of trading account data and user-reported issues with scams and attempted data theft. The prevalence of high-severity events highlights both targeted attacks on organizations and ongoing risks for individual users. Vigilance and prompt response are advised."
+}

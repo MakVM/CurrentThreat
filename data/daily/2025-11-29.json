@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-11-28T17:06:05.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The French Football Federation (FFF) disclosed a data breach after attackers used a compromised account to gain access to administrative management software used by football clubs.Sources: - https://bsky.app/profile/bleepingcomputer.com/post/3m6pbmji3k72c"
+  },
+  {
+    "timestamp": "2025-11-28T11:33:22.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Upbit's emergency audit of a $30M hack uncovered an internal wallet flaw that could allow attackers to derive private keys.Sources: - https://cryptopanic.com/news/27473468/Upbit-says-emergency-audit-of-30M-hack-uncovered-internal-wallet-flaw-that-could-let-attackers-derive-private-keys - https://t.me/the_block_crypto/31801"
+  },
+  {
+    "timestamp": "2025-11-28T07:39:44.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user is asking for help to prevent data theft.Sources: - https://www.reddit.com/r/cybersecurity/comments/1p8nhnq/help_prevent_data_theft/"
+  },
+  {
+    "timestamp": "2025-11-28T06:57:03.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A leak reportedly includes first-hand trading account data and stock transaction metadata.Sources: - https://bsky.app/profile/falconfeedsio.bsky.social/post/3m6obkybhd227"
+  },
+  {
+    "timestamp": "2025-11-28T01:33:49.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user is seeking help to resolve a scam.Sources: - https://www.reddit.com/r/paypal/comments/1p8i8id/how_do_i_resolve_this_scam/"
+  }
+]

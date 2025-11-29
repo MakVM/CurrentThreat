@@ -1,13 +1,13 @@
 {
-  "currentThreat": "OPERATION FINANCE FALLOUT",
-  "threatScore": 9.2,
+  "currentThreat": "OPERATION DUAL BREACH",
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Bank Mandiri Breach: Financial Records Leak",
-      "description": "The BreachLaboratory threat actor claims to have breached Bank Mandiri in Indonesia, allegedly leaking over 18,000 financial records including personal details, SWIFT code BMRIIDJA, account setup data, balances, fees, and debit card usage information.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m6muby7wuv2x",
-      "time": "2025-11-27T17:45:26.000Z",
+      "title": "French Football Federation data breach",
+      "description": "The French Football Federation (FFF) disclosed a data breach after attackers used a compromised account to gain access to administrative management software used by football clubs.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6pbmji3k72c",
+      "time": "2025-11-28T17:06:05.000Z",
       "severity": "High",
       "classification": [
         "Breach"
@@ -15,10 +15,10 @@
     },
     {
       "id": 2,
-      "title": "Upbit $36M Solana Hack",
-      "description": "Upbit was hit by a $36M Solana hack and has vowed full reimbursement after the major breach.",
-      "source": "https://cryptopanic.com/news/27435758/Upbit-Hit-by-36M-Solana-Hack-Vows-Full-Reimbursement-After-Major-Breach",
-      "time": "2025-11-27T06:28:17.000Z",
+      "title": "Upbit $30M hack and wallet flaw",
+      "description": "Upbit's emergency audit of a $30M hack uncovered an internal wallet flaw that could allow attackers to derive private keys.",
+      "source": "https://cryptopanic.com/news/27473468/Upbit-says-emergency-audit-of-30M-hack-uncovered-internal-wallet-flaw-that-could-let-attackers-derive-private-keys",
+      "time": "2025-11-28T11:33:22.000Z",
       "severity": "High",
       "classification": [
         "Hack"
@@ -26,26 +26,44 @@
     },
     {
       "id": 3,
-      "title": "CoinTracking & Simplex Scam Incident",
-      "description": "CoinTracking and Simplex were reportedly used for scamming.",
-      "source": "https://www.reddit.com/r/CryptoMarkets/comments/1p7cs6e/cointracking_simplex_used_for_scamming/",
-      "time": "2025-11-27T04:36:29.000Z",
+      "title": "User inquiry: data theft prevention",
+      "description": "A user is asking for help to prevent data theft.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1p8nhnq/help_prevent_data_theft/",
+      "time": "2025-11-28T07:39:44.000Z",
+      "severity": "Low",
+      "classification": [
+        "Other"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Trading account and stock transaction data leak",
+      "description": "A leak reportedly includes first-hand trading account data and stock transaction metadata.",
+      "source": "https://bsky.app/profile/falconfeedsio.bsky.social/post/3m6obkybhd227",
+      "time": "2025-11-28T06:57:03.000Z",
       "severity": "Medium",
+      "classification": [
+        "Leak"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "User inquiry: scam resolution",
+      "description": "A user is seeking help to resolve a scam.",
+      "source": "https://www.reddit.com/r/paypal/comments/1p8i8id/how_do_i_resolve_this_scam/",
+      "time": "2025-11-28T01:33:49.000Z",
+      "severity": "Low",
       "classification": [
         "Scam"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week was marked by a series of high-impact cyber incidents across the financial, technology, education, and critical infrastructure sectors. Notable events included large-scale data breaches at major institutions such as Bank Mandiri, SitusAMC, and Dartmouth College, as well as sophisticated hacks targeting Oracle E-Business Suite, Upbit (resulting in $36M losses), and fintech platforms. Ransomware groups such as Clop and DragonForce were highly active, while insider threats and phishing campaigns affected organizations ranging from CrowdStrike to Harvard University. The prevalence of scams, financial fraud, and multi-year data leaks underscores the persistent and evolving threat landscape, with attackers demonstrating increased sophistication and targeting both organizations and individuals.",
-    "trends": "Several patterns emerged during the week: (1) Financial institutions and cryptocurrency platforms faced consistent, severe attacks, with breaches and large-scale hacks (e.g., Bank Mandiri, Upbit, SitusAMC, Coinbase). (2) Ransomware and extortion groups (Clop, DragonForce) expanded their campaigns, leveraging zero-day vulnerabilities and targeting supply chain partners. (3) Scam activity—including phishing, P2P fraud, and platform-specific scams—remained elevated, with an uptick in reports affecting end-users and pension accounts. (4) Insider threats surfaced, as in the CrowdStrike case, highlighting internal risks. (5) Widespread data leaks impacted critical infrastructure, government, finance, healthcare, and aerospace sectors. (6) High-profile software vulnerabilities, such as those in Microsoft Teams and Oracle E-Business Suite, were actively exploited.",
-    "predictions": "The upcoming days are likely to see continued high risk for financial institutions, cryptocurrency exchanges, and fintech platforms, with ransomware and extortion groups maintaining aggressive targeting, especially against supply chain and third-party vendors. Expect further exploitation of unpatched vulnerabilities in enterprise software and collaboration platforms, with possible expansion into healthcare and government verticals. Scam and phishing activity will remain persistent, targeting both consumer and business users, while insider threats may increase as attackers seek alternative entry points. Overall, confidence in these predictions is high (80–90%), given the sustained intensity and diversity of attacks observed this week. Priority should be given to rapid patching, enhanced monitoring, user education, and robust incident response across all sectors."
+    "briefing": "This week saw an intense surge in cyber threats across financial, academic, infrastructure, and crypto sectors, marked by multiple high-severity breaches and sophisticated attacks. Major financial institutions such as JPMorgan Chase, Citi, and Morgan Stanley were impacted by the SitusAMC breach, while Bank Mandiri in Indonesia suffered a significant leak of financial records. The cryptocurrency sector faced repeated major hacks, notably at Upbit ($66M total impact), Coinbase, and ripple wallets, alongside persistent scam activity on trading platforms and social channels. High-profile organizations in education (Harvard, Dartmouth), sports (French Football Federation), and critical infrastructure also reported significant compromises, insider threats, and multi-year data leaks. The week’s pattern shows not only the targeting of institutional data and financial assets but also increased risk to individual users through phishing, fraud, and malware exposure (such as Microsoft Teams guest chat exploit). Overall, the cyber threat environment is highly active and diverse, demanding heightened vigilance and rapid response.",
+    "trends": "Threat activity this week was dominated by high-impact data breaches and hacks, particularly affecting financial institutions, crypto exchanges, and critical infrastructure. There’s a clear pattern of attackers exploiting supply chain vendors (e.g., SitusAMC), leveraging social engineering and phishing (Harvard, French Football Federation, scams on Telegram), and targeting collaboration platforms with zero-day exploits (Microsoft Teams). Ransomware/extortion groups like Clop remain active, and insider threats have emerged (CrowdStrike incident). Scam and fraud events showed a steady, elevated baseline, with spikes in user-reported incidents involving wallets, P2P trades, and pension theft. Notably, multi-year data leaks affecting infrastructure and financial sectors signal persistent weaknesses in data management and cloud services. The prevalence of financial and crypto-targeted attacks suggests attackers are capitalizing on both institutional vulnerabilities and individual user exposure.",
+    "predictions": "In the coming days, expect continued targeting of financial institutions and fintech platforms, especially as ransom deadlines approach (e.g., C&M Software, DragonForce group). Cryptocurrency exchanges and wallet providers should brace for further hack attempts and exploit disclosures, given the recent Upbit and Coinbase incidents and ongoing wallet vulnerabilities. Scams and phishing campaigns are likely to maintain high frequency, with attackers refining tactics around popular platforms, social channels, and voice phishing. The risk of insider threats and supply chain breaches remains high—organizations should reinforce monitoring and access controls. Data leaks affecting trading, infrastructure, and healthcare may persist as threat actors exploit unpatched systems and cloud misconfigurations. Overall, the threat environment will remain elevated, with high confidence in ongoing risks to finance, crypto, and critical infrastructure. Vigilance and proactive incident response are strongly advised."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-22",
-      "count": 2
-    },
     {
       "date": "2025-11-23",
       "count": 5
@@ -69,13 +87,13 @@
     {
       "date": "2025-11-28",
       "count": 3
+    },
+    {
+      "date": "2025-11-29",
+      "count": 5
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Breach",
-      "value": 7
-    },
     {
       "name": "Hack",
       "value": 5
@@ -85,8 +103,12 @@
       "value": 2
     },
     {
+      "name": "Breach",
+      "value": 7
+    },
+    {
       "name": "Scam",
-      "value": 8
+      "value": 9
     },
     {
       "name": "Fraud",
@@ -94,6 +116,10 @@
     },
     {
       "name": "Leak",
+      "value": 2
+    },
+    {
+      "name": "Other",
       "value": 1
     }
   ]
