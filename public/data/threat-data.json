@@ -1,73 +1,13 @@
 {
-  "currentThreat": "OPERATION DUAL BREACH",
-  "threatScore": 9,
-  "todaysEvents": [
-    {
-      "id": 1,
-      "title": "French Football Federation data breach",
-      "description": "The French Football Federation (FFF) disclosed a data breach after attackers used a compromised account to gain access to administrative management software used by football clubs.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6pbmji3k72c",
-      "time": "2025-11-28T17:06:05.000Z",
-      "severity": "High",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Upbit $30M hack and wallet flaw",
-      "description": "Upbit's emergency audit of a $30M hack uncovered an internal wallet flaw that could allow attackers to derive private keys.",
-      "source": "https://cryptopanic.com/news/27473468/Upbit-says-emergency-audit-of-30M-hack-uncovered-internal-wallet-flaw-that-could-let-attackers-derive-private-keys",
-      "time": "2025-11-28T11:33:22.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "User inquiry: data theft prevention",
-      "description": "A user is asking for help to prevent data theft.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1p8nhnq/help_prevent_data_theft/",
-      "time": "2025-11-28T07:39:44.000Z",
-      "severity": "Low",
-      "classification": [
-        "Other"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Trading account and stock transaction data leak",
-      "description": "A leak reportedly includes first-hand trading account data and stock transaction metadata.",
-      "source": "https://bsky.app/profile/falconfeedsio.bsky.social/post/3m6obkybhd227",
-      "time": "2025-11-28T06:57:03.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "User inquiry: scam resolution",
-      "description": "A user is seeking help to resolve a scam.",
-      "source": "https://www.reddit.com/r/paypal/comments/1p8i8id/how_do_i_resolve_this_scam/",
-      "time": "2025-11-28T01:33:49.000Z",
-      "severity": "Low",
-      "classification": [
-        "Scam"
-      ]
-    }
-  ],
+  "currentThreat": "OPERATION ZERO HORIZON",
+  "threatScore": 0,
+  "todaysEvents": [],
   "past7Days": {
-    "briefing": "This week saw an intense surge in cyber threats across financial, academic, infrastructure, and crypto sectors, marked by multiple high-severity breaches and sophisticated attacks. Major financial institutions such as JPMorgan Chase, Citi, and Morgan Stanley were impacted by the SitusAMC breach, while Bank Mandiri in Indonesia suffered a significant leak of financial records. The cryptocurrency sector faced repeated major hacks, notably at Upbit ($66M total impact), Coinbase, and ripple wallets, alongside persistent scam activity on trading platforms and social channels. High-profile organizations in education (Harvard, Dartmouth), sports (French Football Federation), and critical infrastructure also reported significant compromises, insider threats, and multi-year data leaks. The week’s pattern shows not only the targeting of institutional data and financial assets but also increased risk to individual users through phishing, fraud, and malware exposure (such as Microsoft Teams guest chat exploit). Overall, the cyber threat environment is highly active and diverse, demanding heightened vigilance and rapid response.",
-    "trends": "Threat activity this week was dominated by high-impact data breaches and hacks, particularly affecting financial institutions, crypto exchanges, and critical infrastructure. There’s a clear pattern of attackers exploiting supply chain vendors (e.g., SitusAMC), leveraging social engineering and phishing (Harvard, French Football Federation, scams on Telegram), and targeting collaboration platforms with zero-day exploits (Microsoft Teams). Ransomware/extortion groups like Clop remain active, and insider threats have emerged (CrowdStrike incident). Scam and fraud events showed a steady, elevated baseline, with spikes in user-reported incidents involving wallets, P2P trades, and pension theft. Notably, multi-year data leaks affecting infrastructure and financial sectors signal persistent weaknesses in data management and cloud services. The prevalence of financial and crypto-targeted attacks suggests attackers are capitalizing on both institutional vulnerabilities and individual user exposure.",
-    "predictions": "In the coming days, expect continued targeting of financial institutions and fintech platforms, especially as ransom deadlines approach (e.g., C&M Software, DragonForce group). Cryptocurrency exchanges and wallet providers should brace for further hack attempts and exploit disclosures, given the recent Upbit and Coinbase incidents and ongoing wallet vulnerabilities. Scams and phishing campaigns are likely to maintain high frequency, with attackers refining tactics around popular platforms, social channels, and voice phishing. The risk of insider threats and supply chain breaches remains high—organizations should reinforce monitoring and access controls. Data leaks affecting trading, infrastructure, and healthcare may persist as threat actors exploit unpatched systems and cloud misconfigurations. Overall, the threat environment will remain elevated, with high confidence in ongoing risks to finance, crypto, and critical infrastructure. Vigilance and proactive incident response are strongly advised."
+    "briefing": "This week was marked by an exceptionally high volume of severe cyber incidents targeting financial institutions, academic organizations, and critical infrastructure worldwide. Notable breaches included the compromise of SitusAMC affecting major global banks, a large-scale attack on Bank Mandiri in Indonesia, and significant hacks at Upbit resulting in multimillion-dollar losses. Academic institutions like Harvard and Dartmouth faced data breaches and phishing attacks, while widespread scams, leaks, and exploits—including a Microsoft Teams vulnerability and multi-year critical infrastructure data exposures—demonstrated the increasingly diversified threat landscape. The frequency, scale, and cross-sector nature of these events suggest a heightened risk environment, with organized threat actors aggressively targeting digital assets and supply chains.",
+    "trends": "A clear trend this week was the surge in high-impact breaches and hacks, particularly in the financial and cryptocurrency sectors, with repeated incidents at Upbit and data exposures at major banks. Academic institutions also emerged as attractive targets, suffering both extortion and phishing-based compromises. Scam activity remained persistent across social media and crypto platforms, impacting individual users through P2P trade fraud and phishing. Infrastructure and government-related data leaks were notable, indicating ongoing systemic vulnerabilities. Importantly, the average daily threat score peaked mid-to-late week (90–92), reflecting concentrated attacker activity, while the last day showed a temporary lull—likely cyclical rather than indicative of reduced risk.",
+    "predictions": "Looking ahead, expect continued pressure on financial services, fintech, and crypto platforms—especially as attackers exploit supply chain relationships and wallet vulnerabilities. High-profile institutions should anticipate further attempted breaches and extortion, while users remain at elevated risk for scams and phishing. The discovery of flaws in mainstream collaboration tools (e.g. Microsoft Teams) points to likely increases in malware campaigns targeting remote work infrastructure. Data leaks and fraud will remain persistent threats, especially as threat actors leverage stolen credentials and personal data from recent incidents. Confidence level: High. Organizations should prioritize incident response readiness, strengthen authentication mechanisms, and intensify monitoring for lateral movement and social engineering attempts."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-23",
-      "count": 5
-    },
     {
       "date": "2025-11-24",
       "count": 1
@@ -91,27 +31,31 @@
     {
       "date": "2025-11-29",
       "count": 5
+    },
+    {
+      "date": "2025-11-30",
+      "count": 0
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Hack",
+      "name": "Breach",
       "value": 5
     },
     {
-      "name": "Exploit",
-      "value": 2
-    },
-    {
-      "name": "Breach",
-      "value": 7
-    },
-    {
       "name": "Scam",
-      "value": 9
+      "value": 8
     },
     {
       "name": "Fraud",
+      "value": 1
+    },
+    {
+      "name": "Hack",
+      "value": 4
+    },
+    {
+      "name": "Exploit",
       "value": 1
     },
     {

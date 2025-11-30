@@ -1,54 +1,7 @@
 {
-  "startDate": "2025-11-23",
-  "endDate": "2025-11-29",
+  "startDate": "2025-11-24",
+  "endDate": "2025-11-30",
   "days": [
-    {
-      "date": "2025-11-23",
-      "events": [
-        {
-          "timestamp": "2025-11-22T23:48:03.000Z",
-          "entities": "Aerodrome Finance DNS Hijack & Frontend Compromise",
-          "eventSummary": "Aerodrome Finance is investigating a DNS hijack and frontend compromise targeting Base Ecosystem users.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptopanic.com/news/27308545/Aerodrome-Finance-Investigates-DNS-Hijack-as-Frontend-Compromise-Targets-Base-Ecosystem-Users"
-        },
-        {
-          "timestamp": "2025-11-22T17:59:37.000Z",
-          "entities": "Oracle Vulnerability Disclosure & Exploit",
-          "eventSummary": "Oracle was reportedly wrong about a vulnerability, which was found after LAPSUS$ posted their exploit on Telegram. Similar issues are noted with SAP and Siemens industrial control systems.",
-          "severity": "Medium",
-          "tags": "exploit",
-          "source": "https://bsky.app/profile/doublepulsar.com/post/3m6aemyy2rk25"
-        },
-        {
-          "timestamp": "2025-11-22T14:56:47.000Z",
-          "entities": "CrowdStrike Insider Threat Incident",
-          "eventSummary": "CrowdStrike has identified an insider feeding information to hackers.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1p3tac2/crowdstrike_catches_insider_feeding_information/"
-        },
-        {
-          "timestamp": "2025-11-22T14:53:00.000Z",
-          "entities": "PayPal, Netflix, TikTok Phishing Scam Campaign",
-          "eventSummary": "Hackers are targeting PayPal, Netflix, and TikTok with a new phishing scam.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://cryptopanic.com/news/27301169/Hackers-target-PayPal-Netflix-and-TikTok-with-a-new-phishing-scam"
-        },
-        {
-          "timestamp": "2025-11-22T12:56:59.000Z",
-          "entities": "C&M Software DragonForce Data Breach",
-          "eventSummary": "The DragonForce hacking group claims to have breached C&M Software in Brazil, allegedly exfiltrating 393.9 GB of data. The ransom deadline is November 29, 2025.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m67rnr7fn42f"
-        }
-      ],
-      "overallDayThreatScore": 85,
-      "dailyBrief": "This was a high-threat day in cyber risk, with multiple high-severity incidents reported. Aerodrome Finance suffered a DNS hijack and frontend compromise, while C&M Software faced a major breach and ransom demand from DragonForce. CrowdStrike uncovered a dangerous insider threat, raising concerns about internal security. There was also a notable phishing campaign targeting major consumer platforms, and Oracle's vulnerability misjudgment highlighted ongoing risks in industrial systems. The trend shows a mix of targeted attacks on fintech, critical infrastructure, and user platforms, with insider threats and ransomware standing out as top alerts."
-    },
     {
       "date": "2025-11-24",
       "events": [
@@ -266,6 +219,12 @@
       ],
       "overallDayThreatScore": 85,
       "dailyBrief": "Today's cyber landscape presents a high threat level, driven by a major data breach at the French Football Federation and a $30M hack at Upbit, which also exposed a significant wallet vulnerability. Additional incidents include a leak of trading account data and user-reported issues with scams and attempted data theft. The prevalence of high-severity events highlights both targeted attacks on organizations and ongoing risks for individual users. Vigilance and prompt response are advised."
+    },
+    {
+      "date": "2025-11-30",
+      "events": [],
+      "overallDayThreatScore": 0,
+      "dailyBrief": "No cyber events were reported for today. The threat landscape appears calm with no notable incidents or emerging trends. Continue monitoring for updates and maintain standard cyber hygiene practices."
     }
   ]
 }
