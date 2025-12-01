@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-11-30T22:13:19.000Z",
+      "entities": "Yearn Finance yETH Exploit",
+      "eventSummary": "Yearn Finance's yETH product was exploited, leading to an attacker minting an unlimited amount of yETH and draining liquidity from Balancer pools. The incident involved heavy on-chain movement, including 100 ETH transfers through Tornado Cash.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://t.me/curvefi"
+    },
+    {
+      "timestamp": "2025-11-30T21:47:41.000Z",
+      "entities": "November Crypto Losses to Exploits and Scams",
+      "eventSummary": "Crypto lost $127 million to exploits, hacks, and scams in November.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptopanic.com/news/27528609/Crypto-lost-127M-to-exploits-hacks-and-scams-in-November"
+    },
+    {
+      "timestamp": "2025-11-30T10:19:59.000Z",
+      "entities": "Upbit Security Breach and Deposit Resumption",
+      "eventSummary": "Upbit is set to resume crypto deposits following a security breach.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://cryptopanic.com/news/27518053/Upbit-to-Resume-Crypto-Deposits-Post-Security-Breach"
+    },
+    {
+      "timestamp": "2025-11-30T06:53:04.000Z",
+      "entities": "Scam Reporting Advisory",
+      "eventSummary": "Users are advised to report any signs of scam directly through the app's Follow/Block/Report feature.",
+      "severity": "Low",
+      "tags": "scam",
+      "source": "https://t.me/okxofficial_id"
+    }
+  ],
+  "overallDayThreatScore": 90,
+  "dailyBrief": "The crypto sector saw significant threat activity today, with a major exploit targeting Yearn Finance's yETH product and overall industry losses totaling $127 million in November due to hacks and scams. Upbit is recovering from a breach, resuming deposit operations. Users are also being reminded to use in-app reporting for scams. The high frequency and financial impact of attacks indicate an elevated risk environment, with large-scale exploits and ongoing scams as dominant trends."
+}

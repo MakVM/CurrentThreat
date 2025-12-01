@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-11-30T22:13:19.000Z",
+    "entities": "Yearn Finance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Yearn Finance's yETH product was exploited, leading to an attacker minting an unlimited amount of yETH and draining liquidity from Balancer pools. The incident involved heavy on-chain movement, including 100 ETH transfers through Tornado Cash. Sources: - https://t.me/curvefi - https://beincrypto.com/yearn-finance-yeth-exploit-drains-millions"
+  },
+  {
+    "timestamp": "2025-11-30T21:47:41.000Z",
+    "entities": "Crypto",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Crypto lost $127 million to exploits, hacks, and scams in November. Sources: - https://cryptopanic.com/news/27528609/Crypto-lost-127M-to-exploits-hacks-and-scams-in-November"
+  },
+  {
+    "timestamp": "2025-11-30T10:19:59.000Z",
+    "entities": "Upbit",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Upbit is set to resume crypto deposits following a security breach. Sources: - https://cryptopanic.com/news/27518053/Upbit-to-Resume-Crypto-Deposits-Post-Security-Breach"
+  },
+  {
+    "timestamp": "2025-11-30T06:53:04.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users are advised to report any signs of scam directly through the app's Follow/Block/Report feature. Sources: - https://t.me/okxofficial_id"
+  }
+]
