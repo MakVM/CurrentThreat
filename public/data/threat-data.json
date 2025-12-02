@@ -1,62 +1,36 @@
 {
-  "currentThreat": "OPERATION LIQUID DRAIN",
-  "threatScore": 9,
+  "currentThreat": "OPERATION DEFI DRAIN",
+  "threatScore": 8,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Yearn Finance yETH Exploit",
-      "description": "Yearn Finance's yETH product was exploited, leading to an attacker minting an unlimited amount of yETH and draining liquidity from Balancer pools. The incident involved heavy on-chain movement, including 100 ETH transfers through Tornado Cash.",
-      "source": "https://t.me/curvefi",
-      "time": "2025-11-30T22:13:19.000Z",
-      "severity": "High",
-      "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "November Crypto Losses to Exploits and Scams",
-      "description": "Crypto lost $127 million to exploits, hacks, and scams in November.",
-      "source": "https://cryptopanic.com/news/27528609/Crypto-lost-127M-to-exploits-hacks-and-scams-in-November",
-      "time": "2025-11-30T21:47:41.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Upbit Security Breach and Deposit Resumption",
-      "description": "Upbit is set to resume crypto deposits following a security breach.",
-      "source": "https://cryptopanic.com/news/27518053/Upbit-to-Resume-Crypto-Deposits-Post-Security-Breach",
-      "time": "2025-11-30T10:19:59.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Scam Reporting Advisory",
-      "description": "Users are advised to report any signs of scam directly through the app's Follow/Block/Report feature.",
-      "source": "https://t.me/okxofficial_id",
-      "time": "2025-11-30T06:53:04.000Z",
+      "title": "Scam Alert: Users Urged to Block and Report a Scammer",
+      "description": "Users are being asked to block and report a scammer.",
+      "source": "https://t.me/nexofinance",
+      "time": "2025-12-01T01:35:07.000Z",
       "severity": "Low",
       "classification": [
         "Scam"
       ]
+    },
+    {
+      "id": 2,
+      "title": "Yearn Finance yETH Pool Exploit and Multi-Million Dollar Loss",
+      "description": "Yearn Finance suffered an exploit in its yETH stable swap pool on November 30, 2025, at 21:11 UTC. The attacker exploited a vulnerability to mint approximately 235 trillion yETH tokens, leading to the draining of liquidity pools on Balancer and total losses of around $9 million. Of this, $3 million (1000 ETH) was sent to Tornado Cash, with the remaining $6 million held by the attacker. A detailed report on the exploit is available.",
+      "source": "https://cryptopotato.com/yearn-finance-loses-9m-in-single-transaction-exploit-of-yeth-vault",
+      "time": "2025-11-30T21:11:00.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
     }
   ],
   "past7Days": {
-    "briefing": "The past week has been marked by a series of high-impact cyber incidents concentrated in the finance, crypto, academic, and infrastructure sectors. Notable breaches include major financial institutions (SitusAMC, Bank Mandiri), academic organizations (Harvard, Dartmouth), and prominent cryptocurrency exchanges (Upbit, Yearn Finance). The cumulative effect of these events has resulted in substantial financial losses, widespread data exposure, and increased risk for both organizations and individual users. The persistence and sophistication of attacks—from multi-year data leaks to advanced exploits and coordinated scams—underscore a rapidly evolving threat landscape that demands immediate attention at executive and operational levels.",
-    "trends": "The week exhibited a sustained spike in high-severity events, particularly targeting financial services and crypto platforms. Ransomware/extortion gangs (e.g., Clop) remain active, while exploits against collaboration tools (Microsoft Teams) and wallet vulnerabilities highlight the diversification of attack vectors. Scam and phishing campaigns are pervasive, affecting individuals' pensions, trading accounts, and even sports organizations. There is a noticeable clustering of large-scale hacks (Upbit, Yearn Finance) toward the end of the week, and aggregate crypto losses for November reached $127M. Data leaks impacting critical infrastructure, government, healthcare, and aerospace indicate an ongoing risk to essential services.",
-    "predictions": "For the upcoming days, expect continued targeting of financial institutions, crypto platforms, and large enterprises, with possible spillover into operational technology and critical infrastructure. There is a high likelihood of further exploits and wallet attacks in the crypto space, and ransomware/extortion activity may intensify, especially as threat actors seek to capitalize on recent successes. Scams and phishing will remain prevalent, potentially expanding into holiday-themed lures. Categories to watch: crypto hacks, financial data breaches, infrastructure leaks, and social engineering scams. Confidence Level: High—based on event volume, severity, and global threat actor activity. Organizations should prioritize incident response, patch management, and user awareness to mitigate emerging risks."
+    "briefing": "This week saw a surge in high-impact cyber incidents across the financial, cryptocurrency, and critical infrastructure sectors. Key events included major data breaches at Dartmouth College, Bank Mandiri, and the French Football Federation, alongside significant hacks in the crypto space such as the Upbit Solana exploit and the Yearn Finance yETH pool attack. The cumulative financial losses from these attacks in November alone reached $127 million, highlighting the increasing sophistication and frequency of threats. Scam and phishing activity remained persistent, targeting both individuals and organizations, while vulnerabilities in mainstream platforms like Microsoft Teams and DeFi protocols introduced additional risks. Overall, the week was characterized by elevated threat levels, underscoring the urgent need for robust incident response and proactive security measures.",
+    "trends": "The dominant trend is a sustained spike in financially motivated attacks targeting both traditional financial institutions and crypto platforms, with a notable concentration of large-scale exploits and data breaches. DeFi protocols, exchanges, and fintech services faced repeated hacks and wallet vulnerabilities, while scam and phishing incidents continued to proliferate, particularly via social channels like Telegram and Reddit. High-severity events occurred almost daily, with a brief lull on November 30th, suggesting attackers are increasingly opportunistic and persistent. Data leaks affecting critical infrastructure and government entities also signal a broader scope of targeting. The use of Tornado Cash and other obfuscation tools in crypto exploits points to advanced laundering tactics.",
+    "predictions": "For the upcoming days, expect continued targeting of crypto exchanges, DeFi platforms, and financial institutions, with a strong likelihood of further exploits and data breaches. Newly disclosed vulnerabilities, such as those in Microsoft Teams and wallet infrastructures, may be leveraged by attackers, so organizations should prioritize patching and monitoring. Scam and phishing activity will remain high, especially around platforms with large user bases and weak verification controls. Surveillance of social engineering tactics and fraud reports should be intensified. Confidence level for these predictions is high, given the volume, severity, and diversity of incidents observed this week. Critical infrastructure and government entities should also brace for more sophisticated data leaks and extortion attempts as threat actors diversify their targets."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-25",
-      "count": 4
-    },
     {
       "date": "2025-11-26",
       "count": 4
@@ -80,28 +54,28 @@
     {
       "date": "2025-12-01",
       "count": 4
+    },
+    {
+      "date": "2025-12-02",
+      "count": 2
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Breach",
-      "value": 5
-    },
     {
       "name": "Scam",
       "value": 9
     },
     {
-      "name": "Fraud",
-      "value": 1
-    },
-    {
-      "name": "Hack",
-      "value": 5
+      "name": "Breach",
+      "value": 4
     },
     {
       "name": "Exploit",
       "value": 2
+    },
+    {
+      "name": "Hack",
+      "value": 5
     },
     {
       "name": "Leak",
