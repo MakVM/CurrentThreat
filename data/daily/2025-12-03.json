@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-12-02T20:11:51.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Unlocker 1.9.2 from MajorGeeks was found to contain Babylon RAT, which led to thousands in AWS charges from crypto miners and a compromised PC. The RAT included a keylogger and credential stealer. Sources: - https://www.reddit.com/r/cybersecurity/comments/1pc8uh8/unlocker_from_majorgeeks_contains_babylon_rat"
+  },
+  {
+    "timestamp": "2025-12-02T19:30:32.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The second Shai-Hulud attack exposed approximately 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) registry and publishing stolen data in 30,000 GitHub repositories. Sources: - https://bsky.app/profile/bleepingcomputer.com/post/3m6zn7xtmdh2q"
+  },
+  {
+    "timestamp": "2025-12-02T13:31:02.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The University of Pennsylvania confirmed a new data breach after attackers stole documents containing personal information from its Oracle E-Business Suite servers in August. Sources: - https://bsky.app/profile/bleepingcomputer.com/post/3m6yyjlnjgf2q"
+  },
+  {
+    "timestamp": "2025-12-02T13:14:46.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Goldfinch Finance user deltatiger.eth was hacked, resulting in $330,000 stolen. Sources: - https://cryptopanic.com/news/27582386/Goldfinch-Finance-user-deltatigereth-hacked-330K-stolen-so-far"
+  },
+  {
+    "timestamp": "2025-12-02T09:32:51.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A scam warning has been issued about fake interviews where impersonators, posing as entities like Deutsche Bank, invite community members to speak on a podcast. This is a targeted social engineering attack designed to compromise security. Sources: - https://t.me/CardanoTradingOfficial"
+  }
+]

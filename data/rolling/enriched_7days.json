@@ -1,46 +1,7 @@
 {
-  "startDate": "2025-11-26",
-  "endDate": "2025-12-02",
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-03",
   "days": [
-    {
-      "date": "2025-11-26",
-      "events": [
-        {
-          "timestamp": "2025-11-25T22:33:11.000Z",
-          "entities": "Scam Exchange Warning",
-          "eventSummary": "A user warned about a scam exchange.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://www.reddit.com/r/CoinBase/comments/1p6mhjj/be_careful_with_this_scam_exchange/"
-        },
-        {
-          "timestamp": "2025-11-25T15:10:51.000Z",
-          "entities": "Telegram Scammer Identified",
-          "eventSummary": "A scammer was identified on Telegram.",
-          "severity": "Low",
-          "tags": "scam",
-          "source": "https://t.me/curvefi"
-        },
-        {
-          "timestamp": "2025-11-25T11:56:10.000Z",
-          "entities": "Dartmouth College Data Breach (Clop Gang)",
-          "eventSummary": "Dartmouth College disclosed a data breach after the Clop extortion gang leaked data allegedly stolen from the school's Oracle E-Business Suite servers.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6h7hq7pcs24"
-        },
-        {
-          "timestamp": "2025-11-25T07:33:13.000Z",
-          "entities": "P2P Trade Scam Report",
-          "eventSummary": "A user reported being scammed on a P2P trade.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://www.reddit.com/r/binance/comments/1p65eed/getting_scammed_on_a_p2p_trade/"
-        }
-      ],
-      "overallDayThreatScore": 73,
-      "dailyBrief": "The day saw a significant security event with Dartmouth College suffering a data breach involving the Clop extortion gang, which poses a substantial risk to sensitive data. Multiple scam incidents were reported, including warnings about fraudulent exchanges, a scammer identified on Telegram, and a P2P trade scam, highlighting ongoing threats in both crypto and social platforms. The overall threat level is elevated, and vigilance is advised especially around scams and reported data breaches."
-    },
     {
       "date": "2025-11-27",
       "events": [
@@ -233,6 +194,53 @@
       ],
       "overallDayThreatScore": 80,
       "dailyBrief": "A major exploit targeted Yearn Finance’s yETH pool, resulting in substantial financial losses and the draining of liquidity pools. This high-severity incident highlights persistent vulnerabilities in DeFi protocols. Additionally, an ongoing scam alert indicates active social engineering threats. The day’s events underscore the need for heightened vigilance and rapid response in both technical and user-facing defenses."
+    },
+    {
+      "date": "2025-12-03",
+      "events": [
+        {
+          "timestamp": "2025-12-02T20:11:51.000Z",
+          "entities": "Malicious Unlocker 1.9.2 Software Contains Babylon RAT",
+          "eventSummary": "Unlocker 1.9.2 from MajorGeeks was found to contain Babylon RAT, which led to thousands in AWS charges from crypto miners and a compromised PC. The RAT included a keylogger and credential stealer.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://www.reddit.com/r/cybersecurity/comments/1pc8uh8/unlocker_from_majorgeeks_contains_babylon_rat"
+        },
+        {
+          "timestamp": "2025-12-02T19:30:32.000Z",
+          "entities": "Shai-Hulud NPM Attack Exposes Secrets in GitHub Repositories",
+          "eventSummary": "The second Shai-Hulud attack exposed approximately 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) registry and publishing stolen data in 30,000 GitHub repositories.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6zn7xtmdh2q"
+        },
+        {
+          "timestamp": "2025-12-02T13:31:02.000Z",
+          "entities": "University of Pennsylvania Oracle E-Business Suite Data Breach",
+          "eventSummary": "The University of Pennsylvania confirmed a new data breach after attackers stole documents containing personal information from its Oracle E-Business Suite servers in August.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6yyjlnjgf2q"
+        },
+        {
+          "timestamp": "2025-12-02T13:14:46.000Z",
+          "entities": "Goldfinch Finance User deltatiger.eth Crypto Hack",
+          "eventSummary": "Goldfinch Finance user deltatiger.eth was hacked, resulting in $330,000 stolen.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://cryptopanic.com/news/27582386/Goldfinch-Finance-user-deltatigereth-hacked-330K-stolen-so-far"
+        },
+        {
+          "timestamp": "2025-12-02T09:32:51.000Z",
+          "entities": "Fake Interview Social Engineering Scam Targeting Community",
+          "eventSummary": "A scam warning has been issued about fake interviews where impersonators, posing as entities like Deutsche Bank, invite community members to speak on a podcast. This is a targeted social engineering attack designed to compromise security.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/CardanoTradingOfficial"
+        }
+      ],
+      "overallDayThreatScore": 87,
+      "dailyBrief": "Today's cyber threat landscape was marked by several high-severity incidents, including a malicious software trojan (Babylon RAT) distributed via a popular utility, a large-scale leak of secrets from compromised NPM packages affecting thousands of GitHub repositories, and a major cryptocurrency theft. The University of Pennsylvania experienced a significant data breach, and targeted social engineering scams continue to pose risks. The prevalence of software supply chain attacks and credential theft highlights the need for heightened vigilance and proactive security measures."
     }
   ]
 }

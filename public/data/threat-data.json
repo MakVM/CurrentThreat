@@ -1,40 +1,69 @@
 {
-  "currentThreat": "OPERATION DEFI DRAIN",
-  "threatScore": 8,
+  "currentThreat": "OPERATION SUPPLY CHAIN SIEGE",
+  "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Scam Alert: Users Urged to Block and Report a Scammer",
-      "description": "Users are being asked to block and report a scammer.",
-      "source": "https://t.me/nexofinance",
-      "time": "2025-12-01T01:35:07.000Z",
-      "severity": "Low",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Yearn Finance yETH Pool Exploit and Multi-Million Dollar Loss",
-      "description": "Yearn Finance suffered an exploit in its yETH stable swap pool on November 30, 2025, at 21:11 UTC. The attacker exploited a vulnerability to mint approximately 235 trillion yETH tokens, leading to the draining of liquidity pools on Balancer and total losses of around $9 million. Of this, $3 million (1000 ETH) was sent to Tornado Cash, with the remaining $6 million held by the attacker. A detailed report on the exploit is available.",
-      "source": "https://cryptopotato.com/yearn-finance-loses-9m-in-single-transaction-exploit-of-yeth-vault",
-      "time": "2025-11-30T21:11:00.000Z",
+      "title": "Malicious Unlocker 1.9.2 Software Contains Babylon RAT",
+      "description": "Unlocker 1.9.2 from MajorGeeks was found to contain Babylon RAT, which led to thousands in AWS charges from crypto miners and a compromised PC. The RAT included a keylogger and credential stealer.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pc8uh8/unlocker_from_majorgeeks_contains_babylon_rat",
+      "time": "2025-12-02T20:11:51.000Z",
       "severity": "High",
       "classification": [
         "Hack"
       ]
+    },
+    {
+      "id": 2,
+      "title": "Shai-Hulud NPM Attack Exposes Secrets in GitHub Repositories",
+      "description": "The second Shai-Hulud attack exposed approximately 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) registry and publishing stolen data in 30,000 GitHub repositories.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6zn7xtmdh2q",
+      "time": "2025-12-02T19:30:32.000Z",
+      "severity": "High",
+      "classification": [
+        "Leak"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "University of Pennsylvania Oracle E-Business Suite Data Breach",
+      "description": "The University of Pennsylvania confirmed a new data breach after attackers stole documents containing personal information from its Oracle E-Business Suite servers in August.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6yyjlnjgf2q",
+      "time": "2025-12-02T13:31:02.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Breach"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Goldfinch Finance User deltatiger.eth Crypto Hack",
+      "description": "Goldfinch Finance user deltatiger.eth was hacked, resulting in $330,000 stolen.",
+      "source": "https://cryptopanic.com/news/27582386/Goldfinch-Finance-user-deltatigereth-hacked-330K-stolen-so-far",
+      "time": "2025-12-02T13:14:46.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Fake Interview Social Engineering Scam Targeting Community",
+      "description": "A scam warning has been issued about fake interviews where impersonators, posing as entities like Deutsche Bank, invite community members to speak on a podcast. This is a targeted social engineering attack designed to compromise security.",
+      "source": "https://t.me/CardanoTradingOfficial",
+      "time": "2025-12-02T09:32:51.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
     }
   ],
   "past7Days": {
-    "briefing": "This week saw a surge in high-impact cyber incidents across the financial, cryptocurrency, and critical infrastructure sectors. Key events included major data breaches at Dartmouth College, Bank Mandiri, and the French Football Federation, alongside significant hacks in the crypto space such as the Upbit Solana exploit and the Yearn Finance yETH pool attack. The cumulative financial losses from these attacks in November alone reached $127 million, highlighting the increasing sophistication and frequency of threats. Scam and phishing activity remained persistent, targeting both individuals and organizations, while vulnerabilities in mainstream platforms like Microsoft Teams and DeFi protocols introduced additional risks. Overall, the week was characterized by elevated threat levels, underscoring the urgent need for robust incident response and proactive security measures.",
-    "trends": "The dominant trend is a sustained spike in financially motivated attacks targeting both traditional financial institutions and crypto platforms, with a notable concentration of large-scale exploits and data breaches. DeFi protocols, exchanges, and fintech services faced repeated hacks and wallet vulnerabilities, while scam and phishing incidents continued to proliferate, particularly via social channels like Telegram and Reddit. High-severity events occurred almost daily, with a brief lull on November 30th, suggesting attackers are increasingly opportunistic and persistent. Data leaks affecting critical infrastructure and government entities also signal a broader scope of targeting. The use of Tornado Cash and other obfuscation tools in crypto exploits points to advanced laundering tactics.",
-    "predictions": "For the upcoming days, expect continued targeting of crypto exchanges, DeFi platforms, and financial institutions, with a strong likelihood of further exploits and data breaches. Newly disclosed vulnerabilities, such as those in Microsoft Teams and wallet infrastructures, may be leveraged by attackers, so organizations should prioritize patching and monitoring. Scam and phishing activity will remain high, especially around platforms with large user bases and weak verification controls. Surveillance of social engineering tactics and fraud reports should be intensified. Confidence level for these predictions is high, given the volume, severity, and diversity of incidents observed this week. Critical infrastructure and government entities should also brace for more sophisticated data leaks and extortion attempts as threat actors diversify their targets."
+    "briefing": "Over the past week, the cyber threat landscape has been highly active and volatile, with frequent high-severity incidents impacting financial institutions, cryptocurrency platforms, and critical infrastructure. Major breaches include the Bank Mandiri financial records leak, Upbit's multi-million dollar hacks, and a far-reaching attack on Yearn Finance's yETH vault. Notable software supply chain threats emerged, such as the Shai-Hulud NPM compromise and the Babylon RAT trojan, resulting in widespread credential and data theft. Scams—both technical and social engineering—continue to target individuals and organizations, amplifying financial and reputational risk. The week saw an estimated $127 million in crypto losses alone, underscoring the significant financial impact and persistent vulnerabilities across digital ecosystems.",
+    "trends": "Key trends from the week include a surge in attacks on cryptocurrency exchanges and DeFi platforms, with multiple large-scale hacks and exploits. Supply chain attacks are increasingly evident, notably through malicious software updates and compromised packages in developer repositories. Data breaches affecting financial, governmental, and educational institutions signal persistent threats to sensitive personal and organizational information. Scam activity remains steady, shifting from direct phishing and wallet compromise to sophisticated social engineering tactics such as fake interviews. The overall threat level has remained consistently high, with only a brief lull, indicating sustained adversary activity.",
+    "predictions": "In the coming days, expect continued targeting of cryptocurrency and fintech platforms, with attackers likely to exploit both technical vulnerabilities and social engineering opportunities. Supply chain risks—especially malicious updates and package compromises—are anticipated to remain prominent, particularly as developer and user trust is tested. Data breaches in large institutions (finance, education, infrastructure) may persist, fueled by previously undisclosed vulnerabilities. Scams and phishing will likely escalate, leveraging ongoing market volatility and holiday season distractions. Confidence in these predictions is high, given the pattern of repeated, sophisticated attacks and the absence of significant mitigation signals. Organizations should prioritize incident response readiness, enhanced monitoring, and user education to blunt the impact of ongoing and emerging threats."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-26",
-      "count": 4
-    },
     {
       "date": "2025-11-27",
       "count": 5
@@ -58,16 +87,16 @@
     {
       "date": "2025-12-02",
       "count": 2
+    },
+    {
+      "date": "2025-12-03",
+      "count": 5
     }
   ],
   "classificationDistribution": [
     {
       "name": "Scam",
-      "value": 9
-    },
-    {
-      "name": "Breach",
-      "value": 4
+      "value": 7
     },
     {
       "name": "Exploit",
@@ -75,11 +104,15 @@
     },
     {
       "name": "Hack",
-      "value": 5
+      "value": 7
     },
     {
       "name": "Leak",
-      "value": 2
+      "value": 3
+    },
+    {
+      "name": "Breach",
+      "value": 4
     },
     {
       "name": "Other",
