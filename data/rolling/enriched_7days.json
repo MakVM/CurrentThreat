@@ -1,54 +1,7 @@
 {
-  "startDate": "2025-11-27",
-  "endDate": "2025-12-03",
+  "startDate": "2025-11-28",
+  "endDate": "2025-12-04",
   "days": [
-    {
-      "date": "2025-11-27",
-      "events": [
-        {
-          "timestamp": "2025-11-26T22:38:30.000Z",
-          "entities": "Pension Loss via Scam/Phishing",
-          "eventSummary": "A user reported losing their pension due to a scam or phishing incident.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://t.me/Ripple"
-        },
-        {
-          "timestamp": "2025-11-26T18:12:00.000Z",
-          "entities": "Potential Scam Attempt",
-          "eventSummary": "A user reported a potential scam attempt.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/Litecoin"
-        },
-        {
-          "timestamp": "2025-11-26T17:35:26.000Z",
-          "entities": "Microsoft Teams Malware Exposure",
-          "eventSummary": "A Microsoft Teams flaw in guest chat exposes users to malware attacks.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://twitter.com/128484298/status/1993735359675420874"
-        },
-        {
-          "timestamp": "2025-11-26T10:34:52.000Z",
-          "entities": "Ripple Wallet Hack",
-          "eventSummary": "A user reported being hacked with a ripple-wallet.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://t.me/Ripple"
-        },
-        {
-          "timestamp": "2025-11-26T10:16:01.000Z",
-          "entities": "Critical Infrastructure Data Leaks",
-          "eventSummary": "Data leaks spanning five years on JSONFormatter and one year on CodeBeautify have affected organizations in critical infrastructure, government, finance, telecom, healthcare, aerospace, and cybersecurity.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m6jlypseg727"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "High-impact cyber events dominated the day, with reports of significant financial loss due to scams, a major Microsoft Teams vulnerability exposing users to malware, a ripple-wallet hack, and extensive multi-year data leaks affecting critical infrastructure and key industries. The prevalence of scams and leaks indicates ongoing targeting of individuals and organizations, while the Teams exploit highlights the persistent risks in mainstream collaboration platforms. Immediate attention and mitigation are recommended given the elevated threat level."
-    },
     {
       "date": "2025-11-28",
       "events": [
@@ -241,6 +194,12 @@
       ],
       "overallDayThreatScore": 87,
       "dailyBrief": "Today's cyber threat landscape was marked by several high-severity incidents, including a malicious software trojan (Babylon RAT) distributed via a popular utility, a large-scale leak of secrets from compromised NPM packages affecting thousands of GitHub repositories, and a major cryptocurrency theft. The University of Pennsylvania experienced a significant data breach, and targeted social engineering scams continue to pose risks. The prevalence of software supply chain attacks and credential theft highlights the need for heightened vigilance and proactive security measures."
+    },
+    {
+      "date": "2025-12-04",
+      "events": [],
+      "overallDayThreatScore": 0,
+      "dailyBrief": "No cyber events were reported today. The threat landscape appears stable, with no notable incidents or trends identified."
     }
   ]
 }

@@ -1,73 +1,13 @@
 {
-  "currentThreat": "OPERATION SUPPLY CHAIN SIEGE",
-  "threatScore": 9.2,
-  "todaysEvents": [
-    {
-      "id": 1,
-      "title": "Malicious Unlocker 1.9.2 Software Contains Babylon RAT",
-      "description": "Unlocker 1.9.2 from MajorGeeks was found to contain Babylon RAT, which led to thousands in AWS charges from crypto miners and a compromised PC. The RAT included a keylogger and credential stealer.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1pc8uh8/unlocker_from_majorgeeks_contains_babylon_rat",
-      "time": "2025-12-02T20:11:51.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Shai-Hulud NPM Attack Exposes Secrets in GitHub Repositories",
-      "description": "The second Shai-Hulud attack exposed approximately 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) registry and publishing stolen data in 30,000 GitHub repositories.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6zn7xtmdh2q",
-      "time": "2025-12-02T19:30:32.000Z",
-      "severity": "High",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "University of Pennsylvania Oracle E-Business Suite Data Breach",
-      "description": "The University of Pennsylvania confirmed a new data breach after attackers stole documents containing personal information from its Oracle E-Business Suite servers in August.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6yyjlnjgf2q",
-      "time": "2025-12-02T13:31:02.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Goldfinch Finance User deltatiger.eth Crypto Hack",
-      "description": "Goldfinch Finance user deltatiger.eth was hacked, resulting in $330,000 stolen.",
-      "source": "https://cryptopanic.com/news/27582386/Goldfinch-Finance-user-deltatigereth-hacked-330K-stolen-so-far",
-      "time": "2025-12-02T13:14:46.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Fake Interview Social Engineering Scam Targeting Community",
-      "description": "A scam warning has been issued about fake interviews where impersonators, posing as entities like Deutsche Bank, invite community members to speak on a podcast. This is a targeted social engineering attack designed to compromise security.",
-      "source": "https://t.me/CardanoTradingOfficial",
-      "time": "2025-12-02T09:32:51.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Scam"
-      ]
-    }
-  ],
+  "currentThreat": "OPERATION ZERO DAY",
+  "threatScore": 0,
+  "todaysEvents": [],
   "past7Days": {
-    "briefing": "Over the past week, the cyber threat landscape has been highly active and volatile, with frequent high-severity incidents impacting financial institutions, cryptocurrency platforms, and critical infrastructure. Major breaches include the Bank Mandiri financial records leak, Upbit's multi-million dollar hacks, and a far-reaching attack on Yearn Finance's yETH vault. Notable software supply chain threats emerged, such as the Shai-Hulud NPM compromise and the Babylon RAT trojan, resulting in widespread credential and data theft. Scams—both technical and social engineering—continue to target individuals and organizations, amplifying financial and reputational risk. The week saw an estimated $127 million in crypto losses alone, underscoring the significant financial impact and persistent vulnerabilities across digital ecosystems.",
-    "trends": "Key trends from the week include a surge in attacks on cryptocurrency exchanges and DeFi platforms, with multiple large-scale hacks and exploits. Supply chain attacks are increasingly evident, notably through malicious software updates and compromised packages in developer repositories. Data breaches affecting financial, governmental, and educational institutions signal persistent threats to sensitive personal and organizational information. Scam activity remains steady, shifting from direct phishing and wallet compromise to sophisticated social engineering tactics such as fake interviews. The overall threat level has remained consistently high, with only a brief lull, indicating sustained adversary activity.",
-    "predictions": "In the coming days, expect continued targeting of cryptocurrency and fintech platforms, with attackers likely to exploit both technical vulnerabilities and social engineering opportunities. Supply chain risks—especially malicious updates and package compromises—are anticipated to remain prominent, particularly as developer and user trust is tested. Data breaches in large institutions (finance, education, infrastructure) may persist, fueled by previously undisclosed vulnerabilities. Scams and phishing will likely escalate, leveraging ongoing market volatility and holiday season distractions. Confidence in these predictions is high, given the pattern of repeated, sophisticated attacks and the absence of significant mitigation signals. Organizations should prioritize incident response readiness, enhanced monitoring, and user education to blunt the impact of ongoing and emerging threats."
+    "briefing": "This week saw elevated cyber risk, particularly in the financial, cryptocurrency, and technology sectors. High-impact incidents included major breaches at Bank Mandiri and the French Football Federation, multiple hacks against Upbit and Yearn Finance, and a significant supply chain attack via malicious software and compromised NPM packages. The crypto space was especially volatile, with over $127M lost to hacks and scams in November and several notable exploits draining millions more. Supply chain vulnerabilities, credential theft, and sophisticated social engineering attacks were prominent, signaling a persistent and evolving threat landscape. Executive attention should focus on rapid incident response, robust security controls, and user awareness initiatives.",
+    "trends": "Financial institutions and crypto platforms remain top targets, with repeated breaches and exploits driving high-severity threat scores throughout the week. Notably, Upbit endured multiple hacks and wallet vulnerabilities, while Yearn Finance suffered consecutive exploits. The emergence of supply chain attacks—such as the Babylon RAT-infected utility and NPM registry infections—indicates increasing risk in trusted software channels. Social engineering scams, including fake interviews and direct scam alerts, continue to target both organizations and individuals. There is a clear pattern of attackers seeking large financial gains and exploiting technical weaknesses in DeFi and fintech environments.",
+    "predictions": "Expect continued targeting of cryptocurrency and financial platforms, with a high likelihood of further exploits and scams. Software supply chain attacks may increase, especially via popular utilities and developer repositories. Social engineering campaigns are likely to persist, exploiting trust and targeting high-profile individuals and institutions. DeFi protocols and exchanges should brace for technical exploits and wallet vulnerabilities, with threat actors adapting tactics as security teams patch previous flaws. Confidence in these predictions is high, given the consistency of attack patterns and recent global news highlighting regulatory scrutiny and ongoing cybercrime activity in these sectors."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-27",
-      "count": 5
-    },
     {
       "date": "2025-11-28",
       "count": 3
@@ -91,31 +31,35 @@
     {
       "date": "2025-12-03",
       "count": 5
+    },
+    {
+      "date": "2025-12-04",
+      "count": 0
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Scam",
-      "value": 7
-    },
-    {
-      "name": "Exploit",
-      "value": 2
-    },
-    {
-      "name": "Hack",
-      "value": 7
-    },
-    {
-      "name": "Leak",
-      "value": 3
-    },
     {
       "name": "Breach",
       "value": 4
     },
     {
+      "name": "Hack",
+      "value": 6
+    },
+    {
+      "name": "Scam",
+      "value": 5
+    },
+    {
       "name": "Other",
+      "value": 1
+    },
+    {
+      "name": "Leak",
+      "value": 2
+    },
+    {
+      "name": "Exploit",
       "value": 1
     }
   ]
