@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-12-04T19:54:49.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user reported someone as a scammer. Sources: - https://t.me/Litecoin"
+  },
+  {
+    "timestamp": "2025-12-04T14:15:26.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A major breach occurred at a key banking software vendor. Sources: - https://www.reddit.com/r/cybersecurity/comments/1pdztje/a_major_breach_at_a_key_banking_software_vendor"
+  },
+  {
+    "timestamp": "2025-12-04T09:04:27.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A report indicated that no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, including the ESIX impact score, are available on HackRisk.io. Sources: - https://bsky.app/profile/hackmanac.com/post/3m75llk7flx2x - https://HackRisk.io"
+  },
+  {
+    "timestamp": "2025-12-04T06:07:08.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Amnesty International Security Lab published a blog post detailing Intellexa's setup based on leaked materials, indicating Intellexa can observe their government clients' hacking tech. Sources: - https://bsky.app/profile/rondeibert.bsky.social/post/3m75723jwkk2x - https://securitylab.amnesty.org/latest/2025/"
+  },
+  {
+    "timestamp": "2025-12-04T06:07:08.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Qilin hacking group claims to have breached Mainetti UK, a wholesale/retail sector company. The attack was observed on December 3, 2025, and its status is pending verification. Sources: - https://bsky.app/profile/hackmanac.com/post/3m75cjofki72j"
+  },
+  {
+    "timestamp": "2025-12-04T02:18:38.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user reported a hack and advised to talk to a lawyer. Sources: - https://t.me/Loo1M65"
+  }
+]

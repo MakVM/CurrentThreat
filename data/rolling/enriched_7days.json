@@ -1,38 +1,7 @@
 {
-  "startDate": "2025-11-28",
-  "endDate": "2025-12-04",
+  "startDate": "2025-11-29",
+  "endDate": "2025-12-05",
   "days": [
-    {
-      "date": "2025-11-28",
-      "events": [
-        {
-          "timestamp": "2025-11-27T17:45:26.000Z",
-          "entities": "Bank Mandiri Breach: Financial Records Leak",
-          "eventSummary": "The BreachLaboratory threat actor claims to have breached Bank Mandiri in Indonesia, allegedly leaking over 18,000 financial records including personal details, SWIFT code BMRIIDJA, account setup data, balances, fees, and debit card usage information.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m6muby7wuv2x"
-        },
-        {
-          "timestamp": "2025-11-27T06:28:17.000Z",
-          "entities": "Upbit $36M Solana Hack",
-          "eventSummary": "Upbit was hit by a $36M Solana hack and has vowed full reimbursement after the major breach.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptopanic.com/news/27435758/Upbit-Hit-by-36M-Solana-Hack-Vows-Full-Reimbursement-After-Major-Breach"
-        },
-        {
-          "timestamp": "2025-11-27T04:36:29.000Z",
-          "entities": "CoinTracking & Simplex Scam Incident",
-          "eventSummary": "CoinTracking and Simplex were reportedly used for scamming.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://www.reddit.com/r/CryptoMarkets/comments/1p7cs6e/cointracking_simplex_used_for_scamming/"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today's cyber events indicate a high-threat environment with two major incidents: a large-scale breach at Bank Mandiri compromising sensitive financial data, and a $36M hack at Upbit, a cryptocurrency exchange. Additionally, scam activity involving CoinTracking and Simplex highlights persistent fraud risks in fintech. Financial institutions and crypto platforms are prime targets, underscoring the need for enhanced security measures and rapid incident response."
-    },
     {
       "date": "2025-11-29",
       "events": [
@@ -200,6 +169,61 @@
       "events": [],
       "overallDayThreatScore": 0,
       "dailyBrief": "No cyber events were reported today. The threat landscape appears stable, with no notable incidents or trends identified."
+    },
+    {
+      "date": "2025-12-05",
+      "events": [
+        {
+          "timestamp": "2025-12-04T19:54:49.000Z",
+          "entities": "Scammer Reported by User",
+          "eventSummary": "A user reported someone as a scammer.",
+          "severity": "Low",
+          "tags": "scam",
+          "source": "https://t.me/Litecoin"
+        },
+        {
+          "timestamp": "2025-12-04T14:15:26.000Z",
+          "entities": "Major Banking Software Vendor Breach",
+          "eventSummary": "A major breach occurred at a key banking software vendor.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://www.reddit.com/r/cybersecurity/comments/1pdztje/a_major_breach_at_a_key_banking_software_vendor"
+        },
+        {
+          "timestamp": "2025-12-04T09:04:27.000Z",
+          "entities": "Incident Report: No Sensitive Data Leaked",
+          "eventSummary": "A report indicated that no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, including the ESIX impact score, are available on HackRisk.io.",
+          "severity": "Low",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3m75llk7flx2x"
+        },
+        {
+          "timestamp": "2025-12-04T06:07:08.000Z",
+          "entities": "Intellexa Surveillance Tech Leak",
+          "eventSummary": "Amnesty International Security Lab published a blog post detailing Intellexa's setup based on leaked materials, indicating Intellexa can observe their government clients' hacking tech.",
+          "severity": "Medium",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/rondeibert.bsky.social/post/3m75723jwkk2x"
+        },
+        {
+          "timestamp": "2025-12-04T06:07:08.000Z",
+          "entities": "Mainetti UK Breach Claimed by Qilin Group",
+          "eventSummary": "The Qilin hacking group claims to have breached Mainetti UK, a wholesale/retail sector company. The attack was observed on December 3, 2025, and its status is pending verification.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3m75cjofki72j"
+        },
+        {
+          "timestamp": "2025-12-04T02:18:38.000Z",
+          "entities": "User Hack Report, Legal Advice Suggested",
+          "eventSummary": "A user reported a hack and advised to talk to a lawyer.",
+          "severity": "Low",
+          "tags": "hack",
+          "source": "https://t.me/Loo1M65"
+        }
+      ],
+      "overallDayThreatScore": 72,
+      "dailyBrief": "December 4, 2025 saw a significant cyber threat landscape with a high-profile breach at a banking software vendor driving the overall risk score. Alongside, alleged breaches and leaks involving Mainetti UK and Intellexa highlight ongoing risks in retail and surveillance sectors. User-reported scams and hacks continue to surface but remain mostly low severity, while no sensitive data was confirmed leaked in one incident. The day demonstrates rising threats in financial, retail, and surveillance domains, with vigilance advised for organizations in these sectors."
     }
   ]
 }

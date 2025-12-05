@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-04T19:54:49.000Z",
+      "entities": "Scammer Reported by User",
+      "eventSummary": "A user reported someone as a scammer.",
+      "severity": "Low",
+      "tags": "scam",
+      "source": "https://t.me/Litecoin"
+    },
+    {
+      "timestamp": "2025-12-04T14:15:26.000Z",
+      "entities": "Major Banking Software Vendor Breach",
+      "eventSummary": "A major breach occurred at a key banking software vendor.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pdztje/a_major_breach_at_a_key_banking_software_vendor"
+    },
+    {
+      "timestamp": "2025-12-04T09:04:27.000Z",
+      "entities": "Incident Report: No Sensitive Data Leaked",
+      "eventSummary": "A report indicated that no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, including the ESIX impact score, are available on HackRisk.io.",
+      "severity": "Low",
+      "tags": "leak",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m75llk7flx2x"
+    },
+    {
+      "timestamp": "2025-12-04T06:07:08.000Z",
+      "entities": "Intellexa Surveillance Tech Leak",
+      "eventSummary": "Amnesty International Security Lab published a blog post detailing Intellexa's setup based on leaked materials, indicating Intellexa can observe their government clients' hacking tech.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://bsky.app/profile/rondeibert.bsky.social/post/3m75723jwkk2x"
+    },
+    {
+      "timestamp": "2025-12-04T06:07:08.000Z",
+      "entities": "Mainetti UK Breach Claimed by Qilin Group",
+      "eventSummary": "The Qilin hacking group claims to have breached Mainetti UK, a wholesale/retail sector company. The attack was observed on December 3, 2025, and its status is pending verification.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m75cjofki72j"
+    },
+    {
+      "timestamp": "2025-12-04T02:18:38.000Z",
+      "entities": "User Hack Report, Legal Advice Suggested",
+      "eventSummary": "A user reported a hack and advised to talk to a lawyer.",
+      "severity": "Low",
+      "tags": "hack",
+      "source": "https://t.me/Loo1M65"
+    }
+  ],
+  "overallDayThreatScore": 72,
+  "dailyBrief": "December 4, 2025 saw a significant cyber threat landscape with a high-profile breach at a banking software vendor driving the overall risk score. Alongside, alleged breaches and leaks involving Mainetti UK and Intellexa highlight ongoing risks in retail and surveillance sectors. User-reported scams and hacks continue to surface but remain mostly low severity, while no sensitive data was confirmed leaked in one incident. The day demonstrates rising threats in financial, retail, and surveillance domains, with vigilance advised for organizations in these sectors."
+}

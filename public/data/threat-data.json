@@ -1,17 +1,80 @@
 {
-  "currentThreat": "OPERATION ZERO DAY",
-  "threatScore": 0,
-  "todaysEvents": [],
+  "currentThreat": "OPERATION FINTECH CASCADE",
+  "threatScore": 8.2,
+  "todaysEvents": [
+    {
+      "id": 1,
+      "title": "Scammer Reported by User",
+      "description": "A user reported someone as a scammer.",
+      "source": "https://t.me/Litecoin",
+      "time": "2025-12-04T19:54:49.000Z",
+      "severity": "Low",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Major Banking Software Vendor Breach",
+      "description": "A major breach occurred at a key banking software vendor.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pdztje/a_major_breach_at_a_key_banking_software_vendor",
+      "time": "2025-12-04T14:15:26.000Z",
+      "severity": "High",
+      "classification": [
+        "Breach"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Incident Report: No Sensitive Data Leaked",
+      "description": "A report indicated that no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, including the ESIX impact score, are available on HackRisk.io.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m75llk7flx2x",
+      "time": "2025-12-04T09:04:27.000Z",
+      "severity": "Low",
+      "classification": [
+        "Leak"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Intellexa Surveillance Tech Leak",
+      "description": "Amnesty International Security Lab published a blog post detailing Intellexa's setup based on leaked materials, indicating Intellexa can observe their government clients' hacking tech.",
+      "source": "https://bsky.app/profile/rondeibert.bsky.social/post/3m75723jwkk2x",
+      "time": "2025-12-04T06:07:08.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Leak"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Mainetti UK Breach Claimed by Qilin Group",
+      "description": "The Qilin hacking group claims to have breached Mainetti UK, a wholesale/retail sector company. The attack was observed on December 3, 2025, and its status is pending verification.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m75cjofki72j",
+      "time": "2025-12-04T06:07:08.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Breach"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "User Hack Report, Legal Advice Suggested",
+      "description": "A user reported a hack and advised to talk to a lawyer.",
+      "source": "https://t.me/Loo1M65",
+      "time": "2025-12-04T02:18:38.000Z",
+      "severity": "Low",
+      "classification": [
+        "Hack"
+      ]
+    }
+  ],
   "past7Days": {
-    "briefing": "This week saw elevated cyber risk, particularly in the financial, cryptocurrency, and technology sectors. High-impact incidents included major breaches at Bank Mandiri and the French Football Federation, multiple hacks against Upbit and Yearn Finance, and a significant supply chain attack via malicious software and compromised NPM packages. The crypto space was especially volatile, with over $127M lost to hacks and scams in November and several notable exploits draining millions more. Supply chain vulnerabilities, credential theft, and sophisticated social engineering attacks were prominent, signaling a persistent and evolving threat landscape. Executive attention should focus on rapid incident response, robust security controls, and user awareness initiatives.",
-    "trends": "Financial institutions and crypto platforms remain top targets, with repeated breaches and exploits driving high-severity threat scores throughout the week. Notably, Upbit endured multiple hacks and wallet vulnerabilities, while Yearn Finance suffered consecutive exploits. The emergence of supply chain attacks—such as the Babylon RAT-infected utility and NPM registry infections—indicates increasing risk in trusted software channels. Social engineering scams, including fake interviews and direct scam alerts, continue to target both organizations and individuals. There is a clear pattern of attackers seeking large financial gains and exploiting technical weaknesses in DeFi and fintech environments.",
-    "predictions": "Expect continued targeting of cryptocurrency and financial platforms, with a high likelihood of further exploits and scams. Software supply chain attacks may increase, especially via popular utilities and developer repositories. Social engineering campaigns are likely to persist, exploiting trust and targeting high-profile individuals and institutions. DeFi protocols and exchanges should brace for technical exploits and wallet vulnerabilities, with threat actors adapting tactics as security teams patch previous flaws. Confidence in these predictions is high, given the consistency of attack patterns and recent global news highlighting regulatory scrutiny and ongoing cybercrime activity in these sectors."
+    "briefing": "Over the past week, the cyber threat landscape remained highly active and diverse, with multiple high-severity incidents affecting critical sectors such as finance, cryptocurrency, sports, education, and software supply chains. Notable events included major breaches at the French Football Federation, a banking software vendor, and the University of Pennsylvania, along with targeted attacks on crypto platforms Upbit, Yearn Finance, and Goldfinch Finance resulting in multimillion-dollar losses. Software supply chain risks surged with the Shai-Hulud NPM attack and the distribution of Babylon RAT via a popular utility. Social engineering and scam attempts persisted, often targeting users through impersonation and fake interviews. Although some days were quiet, the overall week spotlighted persistent vulnerabilities, aggressive exploitation, and a need for strengthened cyber resilience.",
+    "trends": "Several key trends emerged: (1) Targeted financial sector attacks—especially on crypto exchanges and banking software vendors—remain prevalent, with both technical exploits and social engineering reported. (2) Supply chain compromises are a growing concern, highlighted by trojanized software and widespread NPM package infections, resulting in credential leaks and downstream risks. (3) Data breaches affecting public institutions and retail sectors are on the rise, with ransomware groups and persistent threat actors claiming responsibility. (4) Scam activity is continuous, but mostly low severity, with increased user awareness and reporting. (5) Sophisticated surveillance tech leaks (e.g., Intellexa) signal ongoing espionage and privacy threats, while large-scale financial losses in crypto—$127 million in November alone—underscore sector volatility.",
+    "predictions": "For the upcoming days, expect continued elevated risk in the financial and crypto sectors, with likely attempts at exploiting wallet flaws, DeFi vulnerabilities, and institutional data stores. Software supply chain attacks may accelerate, targeting open-source repositories and widely used utilities—organizations should prioritize patching and integrity checks. Social engineering and scam campaigns will persist, likely using emerging trends and impersonation tactics, especially around high-profile events and entities. Surveillance tech leaks and government-focused breaches could gain media attention, driving regulatory scrutiny. Confidence level: High—based on sustained threat actor activity, sector volatility, and recent incident volume. Organizations in finance, crypto, retail, and public sectors should remain on heightened alert, reinforce user education, and enhance monitoring for supply chain and credential-based attacks."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-28",
-      "count": 3
-    },
     {
       "date": "2025-11-29",
       "count": 5
@@ -35,20 +98,20 @@
     {
       "date": "2025-12-04",
       "count": 0
+    },
+    {
+      "date": "2025-12-05",
+      "count": 6
     }
   ],
   "classificationDistribution": [
     {
       "name": "Breach",
-      "value": 4
+      "value": 5
     },
     {
       "name": "Hack",
       "value": 6
-    },
-    {
-      "name": "Scam",
-      "value": 5
     },
     {
       "name": "Other",
@@ -56,7 +119,11 @@
     },
     {
       "name": "Leak",
-      "value": 2
+      "value": 4
+    },
+    {
+      "name": "Scam",
+      "value": 5
     },
     {
       "name": "Exploit",
