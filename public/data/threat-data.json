@@ -1,84 +1,13 @@
 {
-  "currentThreat": "OPERATION FINTECH CASCADE",
-  "threatScore": 8.2,
-  "todaysEvents": [
-    {
-      "id": 1,
-      "title": "Scammer Reported by User",
-      "description": "A user reported someone as a scammer.",
-      "source": "https://t.me/Litecoin",
-      "time": "2025-12-04T19:54:49.000Z",
-      "severity": "Low",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Major Banking Software Vendor Breach",
-      "description": "A major breach occurred at a key banking software vendor.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1pdztje/a_major_breach_at_a_key_banking_software_vendor",
-      "time": "2025-12-04T14:15:26.000Z",
-      "severity": "High",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Incident Report: No Sensitive Data Leaked",
-      "description": "A report indicated that no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, including the ESIX impact score, are available on HackRisk.io.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m75llk7flx2x",
-      "time": "2025-12-04T09:04:27.000Z",
-      "severity": "Low",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Intellexa Surveillance Tech Leak",
-      "description": "Amnesty International Security Lab published a blog post detailing Intellexa's setup based on leaked materials, indicating Intellexa can observe their government clients' hacking tech.",
-      "source": "https://bsky.app/profile/rondeibert.bsky.social/post/3m75723jwkk2x",
-      "time": "2025-12-04T06:07:08.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Mainetti UK Breach Claimed by Qilin Group",
-      "description": "The Qilin hacking group claims to have breached Mainetti UK, a wholesale/retail sector company. The attack was observed on December 3, 2025, and its status is pending verification.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m75cjofki72j",
-      "time": "2025-12-04T06:07:08.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "User Hack Report, Legal Advice Suggested",
-      "description": "A user reported a hack and advised to talk to a lawyer.",
-      "source": "https://t.me/Loo1M65",
-      "time": "2025-12-04T02:18:38.000Z",
-      "severity": "Low",
-      "classification": [
-        "Hack"
-      ]
-    }
-  ],
+  "currentThreat": "OPERATION ZERO SIGNAL",
+  "threatScore": 0,
+  "todaysEvents": [],
   "past7Days": {
-    "briefing": "Over the past week, the cyber threat landscape remained highly active and diverse, with multiple high-severity incidents affecting critical sectors such as finance, cryptocurrency, sports, education, and software supply chains. Notable events included major breaches at the French Football Federation, a banking software vendor, and the University of Pennsylvania, along with targeted attacks on crypto platforms Upbit, Yearn Finance, and Goldfinch Finance resulting in multimillion-dollar losses. Software supply chain risks surged with the Shai-Hulud NPM attack and the distribution of Babylon RAT via a popular utility. Social engineering and scam attempts persisted, often targeting users through impersonation and fake interviews. Although some days were quiet, the overall week spotlighted persistent vulnerabilities, aggressive exploitation, and a need for strengthened cyber resilience.",
-    "trends": "Several key trends emerged: (1) Targeted financial sector attacks—especially on crypto exchanges and banking software vendors—remain prevalent, with both technical exploits and social engineering reported. (2) Supply chain compromises are a growing concern, highlighted by trojanized software and widespread NPM package infections, resulting in credential leaks and downstream risks. (3) Data breaches affecting public institutions and retail sectors are on the rise, with ransomware groups and persistent threat actors claiming responsibility. (4) Scam activity is continuous, but mostly low severity, with increased user awareness and reporting. (5) Sophisticated surveillance tech leaks (e.g., Intellexa) signal ongoing espionage and privacy threats, while large-scale financial losses in crypto—$127 million in November alone—underscore sector volatility.",
-    "predictions": "For the upcoming days, expect continued elevated risk in the financial and crypto sectors, with likely attempts at exploiting wallet flaws, DeFi vulnerabilities, and institutional data stores. Software supply chain attacks may accelerate, targeting open-source repositories and widely used utilities—organizations should prioritize patching and integrity checks. Social engineering and scam campaigns will persist, likely using emerging trends and impersonation tactics, especially around high-profile events and entities. Surveillance tech leaks and government-focused breaches could gain media attention, driving regulatory scrutiny. Confidence level: High—based on sustained threat actor activity, sector volatility, and recent incident volume. Organizations in finance, crypto, retail, and public sectors should remain on heightened alert, reinforce user education, and enhance monitoring for supply chain and credential-based attacks."
+    "briefing": "This week’s cyber landscape was marked by several high-impact incidents, notably in the cryptocurrency, financial, and software supply chain sectors. The most severe events included the exploit of Yearn Finance’s yETH pool (resulting in multimillion-dollar losses), a major breach at a banking software vendor, and widespread leakage of sensitive secrets from compromised NPM packages—showcasing ongoing vulnerabilities in decentralized finance and software supply chains. Additional incidents included data breaches in academia, sophisticated malware distribution (Babylon RAT), and targeted social engineering attacks, while user-reported scams and hacks remained a persistent low-severity threat. The overall risk profile was elevated, especially on dates with clustered high-severity events, reinforcing the urgent need for robust security controls and proactive monitoring across sectors.",
+    "trends": "A clear uptick in large-scale financial sector attacks was observed, including exploits against DeFi protocols and breaches at banking and retail vendors. Software supply chain compromise also spiked, evidenced by the NPM attack leaking hundreds of thousands of secrets. Social engineering and scam activity continued to target users via impersonation and false reporting, although most remained low severity. Notably, days with high-severity events were often followed by periods of relative calm, suggesting attackers may be timing campaigns for maximum impact or are regrouping. The persistence of credential theft, malware, and data breaches points to ongoing targeting of both organizational and individual assets, especially in crypto and financial domains.",
+    "predictions": "In the coming days, expect continued targeting of financial and crypto institutions, with high likelihood of further exploits or breaches, especially as threat actors seek to capitalize on vulnerabilities exposed in recent attacks. Software supply chain risks remain elevated; organizations using open-source packages should be on high alert for tampering or embedded malware. Social engineering, including scams and impersonation attempts, will persist, especially as attackers refine tactics for end-of-year financial activity. The risk of major incidents is moderate to high (confidence: 75%) given recent threat activity clusters. Surveillance and retail sectors may also see follow-up attacks or leak confirmations. Security teams should maintain heightened vigilance, prioritize patching, and encourage user awareness to mitigate both technical and human-factor risks."
   },
   "eventFrequency": [
-    {
-      "date": "2025-11-29",
-      "count": 5
-    },
     {
       "date": "2025-11-30",
       "count": 0
@@ -102,32 +31,32 @@
     {
       "date": "2025-12-05",
       "count": 6
+    },
+    {
+      "date": "2025-12-06",
+      "count": 0
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Breach",
-      "value": 5
-    },
-    {
-      "name": "Hack",
-      "value": 6
-    },
-    {
-      "name": "Other",
+      "name": "Exploit",
       "value": 1
     },
     {
-      "name": "Leak",
+      "name": "Hack",
+      "value": 5
+    },
+    {
+      "name": "Breach",
       "value": 4
     },
     {
       "name": "Scam",
-      "value": 5
+      "value": 4
     },
     {
-      "name": "Exploit",
-      "value": 1
+      "name": "Leak",
+      "value": 3
     }
   ]
 }
