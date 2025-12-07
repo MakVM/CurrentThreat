@@ -1,13 +1,7 @@
 {
-  "startDate": "2025-11-30",
-  "endDate": "2025-12-06",
+  "startDate": "2025-12-01",
+  "endDate": "2025-12-07",
   "days": [
-    {
-      "date": "2025-11-30",
-      "events": [],
-      "overallDayThreatScore": 0,
-      "dailyBrief": "No cyber events were reported for today. The threat landscape appears calm with no notable incidents or emerging trends. Continue monitoring for updates and maintain standard cyber hygiene practices."
-    },
     {
       "date": "2025-12-01",
       "events": [
@@ -183,6 +177,61 @@
       "events": [],
       "overallDayThreatScore": 0,
       "dailyBrief": "No cyber events were reported today. The threat landscape appears quiet, with no notable incidents or trends detected."
+    },
+    {
+      "date": "2025-12-07",
+      "events": [
+        {
+          "timestamp": "2025-12-06T16:51:04.000Z",
+          "entities": "Ransomware Breach at 70 Financial Institutions via VPN Vulnerability",
+          "eventSummary": "A VPN vulnerability led to data breaches at 70 financial institutions, affecting an estimated 400,000 consumers due to a ransomware attack on a third-party vendor.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://www.americanbanker.com/news/vpn-vulnerability-leads-to-data-breaches-at-70-banks"
+        },
+        {
+          "timestamp": "2025-12-06T16:49:40.000Z",
+          "entities": "Barts Health NHS Oracle EBS Ransomware Breach",
+          "eventSummary": "Barts Health NHS confirmed that the Cl0p ransomware group breached its invoicing system by exploiting an Oracle EBS flaw. The organization is taking legal action against the group.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://hackread.com/barts-health-nhs-cl0p-ransomware-data-breach/"
+        },
+        {
+          "timestamp": "2025-12-06T16:06:54.000Z",
+          "entities": "Yearn yETH Hack and pxETH Recovery Disclosure",
+          "eventSummary": "Yearn security posted an incident disclosure regarding the yETH hack, including the recovery of 857.49 pxETH with assistance from the Plume and Dinero teams. The disclosure was made on Github.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://t.me/leviathan_news"
+        },
+        {
+          "timestamp": "2025-12-06T09:28:05.000Z",
+          "entities": "Fintech Card Fraud and Database Leak Suspicions",
+          "eventSummary": "A user confirmed that their physical card from a fintech company, which was added to Ali, was previously defrauded. The user questioned if current similar incidents are due to user error or a card database leak.",
+          "severity": "Medium",
+          "tags": "fraud",
+          "source": "https://t.me/bybitukrainian"
+        },
+        {
+          "timestamp": "2025-12-06T05:50:51.000Z",
+          "entities": "Binance Account Compromise and Google Authenticator Distrust",
+          "eventSummary": "A user reported being hacked for the second time in a week, losing funds from their Binance account, and expressed distrust in Google Authenticator. The user had previously reported their Binance account being emptied by a scammer.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://www.reddit.com/r/binance/comments/1pfh7p5/hacked_for_2nd_time_in_a_week"
+        },
+        {
+          "timestamp": "2025-12-06T01:50:10.000Z",
+          "entities": "Intellexa Predator Spyware Zero-Click Attack",
+          "eventSummary": "Predator spyware from surveillance company Intellexa is using a new zero-click infection mechanism called \"Aladdin\" to compromise specific targets by simply viewing a malicious advertisement.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/"
+        }
+      ],
+      "overallDayThreatScore": 87,
+      "dailyBrief": "Today saw a surge in severe cyber incidents, with high-impact breaches at financial institutions and a major NHS trust, both linked to ransomware and critical software vulnerabilities. Notable exploits include a zero-click spyware attack and ongoing hacks targeting crypto and fintech users, raising concerns over authentication security and payment database leaks. Ransomware and sophisticated exploits dominated, indicating a heightened threat environment especially for financial and healthcare sectors."
     }
   ]
 }

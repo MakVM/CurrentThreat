@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-12-06T16:51:04.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A VPN vulnerability led to data breaches at 70 financial institutions, affecting an estimated 400,000 consumers due to a ransomware attack on a third-party vendor.Sources:- https://www.americanbanker.com/news/vpn-vulnerability-leads-to-data-breaches-at-70-banks"
+  },
+  {
+    "timestamp": "2025-12-06T16:49:40.000Z",
+    "entities": "Barts Health NHS",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Barts Health NHS confirmed that the Cl0p ransomware group breached its invoicing system by exploiting an Oracle EBS flaw. The organization is taking legal action against the group.Sources:- https://hackread.com/barts-health-nhs-cl0p-ransomware-data-breach/"
+  },
+  {
+    "timestamp": "2025-12-06T16:06:54.000Z",
+    "entities": "Yearn",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Yearn security posted an incident disclosure regarding the yETH hack, including the recovery of 857.49 pxETH with assistance from the Plume and Dinero teams. The disclosure was made on Github.Sources:- https://t.me/leviathan_news"
+  },
+  {
+    "timestamp": "2025-12-06T09:28:05.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user confirmed that their physical card from a fintech company, which was added to Ali, was previously defrauded. The user questioned if current similar incidents are due to user error or a card database leak.Sources:- https://t.me/bybitukrainian"
+  },
+  {
+    "timestamp": "2025-12-06T05:50:51.000Z",
+    "entities": "Google Authenticator",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user reported being hacked for the second time in a week, losing funds from their Binance account, and expressed distrust in Google Authenticator. The user had previously reported their Binance account being emptied by a scammer.Sources:- https://www.reddit.com/r/binance/comments/1pfh7p5/hacked_for_2nd_time_in_a_week- https://www.reddit.com/r/binance/comments/1pc8xpe/had_my_binance_account_emptied_by_a_scammer/"
+  },
+  {
+    "timestamp": "2025-12-06T01:50:10.000Z",
+    "entities": "Intellexa",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Predator spyware from surveillance company Intellexa is using a new zero-click infection mechanism called \"Aladdin\" to compromise specific targets by simply viewing a malicious advertisement.Sources:- https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/"
+  }
+]
