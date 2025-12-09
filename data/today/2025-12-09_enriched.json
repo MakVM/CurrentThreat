@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-08T16:02:51.000Z",
+      "entities": "Yearn Finance $9M yETH Exploit and Remediation",
+      "eventSummary": "Yearn Finance detailed a $9 million yETH exploit, confirming partial recovery and outlining a remediation plan. The exploit was enabled by a multi-phase numerical bug and unsafe math, allowing attackers to steal approximately $9 million in assets.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://t.me/the_block_crypto/31930"
+    },
+    {
+      "timestamp": "2025-12-08T06:54:10.000Z",
+      "entities": "Automaker Data Exfiltration Affecting BMW, Nissan, Scania",
+      "eventSummary": "Attackers allegedly exfiltrated 350 GB of data, including confidential documents, client data, NDAs, financial and operational data, HR records (including medical data), business agreements, technical drawings, and production documentation related to major automakers.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m7he7dy3km2q"
+    }
+  ],
+  "overallDayThreatScore": 90,
+  "dailyBrief": "Two major cyber events dominated the day: a $9 million exploit at Yearn Finance, highlighting vulnerabilities in DeFi code, and a massive data breach affecting BMW, Nissan, and Scania, with 350GB of sensitive information stolen. Both incidents underscore persistent risks in finance and manufacturing sectors, with high impacts and the need for urgent remediation and improved security practices."
+}
