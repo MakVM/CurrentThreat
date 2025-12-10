@@ -1,40 +1,80 @@
 {
-  "currentThreat": "OPERATION DUAL IMPACT",
-  "threatScore": 9,
+  "currentThreat": "OPERATION DEEPFAKE AI EXPOSURE",
+  "threatScore": 8.4,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Yearn Finance $9M yETH Exploit and Remediation",
-      "description": "Yearn Finance detailed a $9 million yETH exploit, confirming partial recovery and outlining a remediation plan. The exploit was enabled by a multi-phase numerical bug and unsafe math, allowing attackers to steal approximately $9 million in assets.",
-      "source": "https://t.me/the_block_crypto/31930",
-      "time": "2025-12-08T16:02:51.000Z",
+      "title": "€700M Deepfake Crypto Scam Network Dismantled",
+      "description": "Law enforcement has dismantled a €700M deepfake crypto scam network that used deepfakes and other malicious tactics to trick thousands into fake investments and money laundering.",
+      "source": "https://hackread.com/police-bust-eur700-million-deepfake-crypto-scam/",
+      "time": "2025-12-09T18:20:02.000Z",
       "severity": "High",
       "classification": [
-        "Exploit"
+        "Scam"
       ]
     },
     {
       "id": 2,
-      "title": "Automaker Data Exfiltration Affecting BMW, Nissan, Scania",
-      "description": "Attackers allegedly exfiltrated 350 GB of data, including confidential documents, client data, NDAs, financial and operational data, HR records (including medical data), business agreements, technical drawings, and production documentation related to major automakers.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m7he7dy3km2q",
-      "time": "2025-12-08T06:54:10.000Z",
+      "title": "'GeminiJack' 0-Click Flaw in Gemini AI Reported",
+      "description": "A new 'GeminiJack' 0-Click flaw in Gemini AI has been reported, potentially exposing users to data leaks through poisoned files that could trigger access to Gmail, Docs, and Calendar data.",
+      "source": "https://hackread.com/geminijack-0-click-flaw-gemini-ai-google-data-leak/",
+      "time": "2025-12-09T15:17:30.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Leak"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Telegram Scam with Altered Profiles",
+      "description": "Users on Telegram are reporting a scam involving altered profiles and identical text.",
+      "source": "https://t.me/Cryptocom_BR",
+      "time": "2025-12-09T12:49:51.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Telegram Vector Attack and Scammer Reported",
+      "description": "Users on Telegram are reporting a vector attack and referring to a scammer.",
+      "source": "https://t.me/curvefi",
+      "time": "2025-12-09T11:58:37.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Attack"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Increase in Scammers on Telegram Channel",
+      "description": "Users on Telegram reported an increase in scammers on the channel.",
+      "source": "https://t.me/nexonians",
+      "time": "2025-12-09T08:24:15.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Scammers Encountered on Telegram Channels",
+      "description": "Users on Telegram channels reported encountering scammers.",
+      "source": "https://t.me/nexonians",
+      "time": "2025-12-09T08:21:43.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week saw a series of high-impact cyber incidents targeting key sectors, including finance, healthcare, retail, surveillance, and manufacturing. Notable events included widespread supply chain attacks (Babylon RAT via Unlocker software, Shai-Hulud NPM campaign), major ransomware breaches at financial institutions and Barts Health NHS, and sophisticated exploits like Intellexa's Predator zero-click spyware. Cryptocurrency platforms and DeFi services, such as Goldfinch Finance and Yearn Finance, also faced significant hacks leading to multimillion-dollar losses. Additionally, large-scale data exfiltration affected prominent automakers, while various scams and targeted social engineering attempts persisted. The frequency and severity of these incidents highlight an increasingly aggressive cyber threat environment, underscoring the urgent need for improved monitoring, patch management, and proactive defense strategies.",
-    "trends": "Several trends emerged: (1) Supply chain and third-party vendor risks remain critical, evidenced by attacks via NPM packages, Oracle EBS exploits, and surveillance tech leaks; (2) Ransomware activity is spiking, particularly in financial and healthcare sectors, with attackers exploiting VPN and legacy software vulnerabilities; (3) Cryptocurrency and DeFi platforms are increasingly targeted for direct theft and exploits; (4) Sophisticated spyware and zero-click attacks are surfacing, indicating a shift towards more covert and advanced tactics; (5) Data exfiltration incidents are expanding in scope, with large datasets stolen from manufacturing and automotive companies; (6) Social engineering, scam, and fraud attempts continue at a steady pace, often targeting individuals and smaller entities.",
-    "predictions": "In the coming days, expect sustained pressure on financial services, healthcare, and crypto/DeFi platforms, with ransomware and exploit-based attacks likely to persist. Manufacturing and automotive sectors may see further attempts at large-scale data theft. Supply chain vulnerabilities will continue to be leveraged by attackers, especially those exploiting open-source and third-party software. The threat of zero-click spyware and advanced social engineering campaigns remains elevated. Overall, organizations should prioritize patching exposed software (especially VPNs and Oracle EBS), enhance monitoring for credential theft and data exfiltration, and prepare for possible recovery and legal action against ransomware. Confidence in these predictions is high, given the week’s incident volume and ongoing external signals from industry news."
+    "briefing": "This week witnessed a marked escalation in cyber threats, with several high-impact incidents striking financial institutions, healthcare, manufacturing, and crypto sectors. Notably, critical ransomware breaches affected over 70 banks and a major NHS trust, exposing hundreds of thousands of individuals. The DeFi space suffered a $9M exploit, while the manufacturing sector saw a massive data exfiltration targeting BMW, Nissan, and Scania. Law enforcement dismantled a €700M deepfake crypto scam network, and a severe zero-click vulnerability ('GeminiJack') in Gemini AI was disclosed, exposing Google user data to risk. Social engineering and scam activity surged on Telegram channels, underlining heightened fraud and phishing risks. The convergence of ransomware, sophisticated exploits, and deepfake-enabled scams signals an increasingly complex, multi-vector threat landscape.",
+    "trends": "Key trends include a spike in ransomware and data breach activity, particularly via third-party and software vulnerabilities impacting financial and healthcare sectors. Surveillance and AI technologies emerged as new threat vectors, with Intellexa spyware and Gemini AI vulnerabilities indicating increased targeting of advanced systems. Deepfake-powered scams and social engineering attacks proliferated, notably on popular messaging platforms like Telegram. There is a notable rise in user-reported scams, fraud, and authentication compromise in crypto and fintech communities. The week also saw a pattern of high-severity incidents clustered around mid-week, suggesting adversaries may be timing attacks for maximum disruption.",
+    "predictions": "Expect continued targeting of financial, healthcare, and manufacturing organizations through ransomware and sophisticated exploit techniques, with third-party vendor risks remaining elevated. AI and surveillance platforms will likely attract further attention from threat actors, especially as zero-click and deepfake methods become more widespread. Social engineering and scam activity on messaging platforms are predicted to persist, with Telegram and similar channels remaining hotbeds for fraud attempts. Crypto and fintech users should remain vigilant for new scams and account compromise schemes. Confidence level: High, given the volume and diversity of recent incidents and ongoing external news about AI, ransomware, and deepfake threats."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-03",
-      "count": 5
-    },
     {
       "date": "2025-12-04",
       "count": 0
@@ -58,11 +98,19 @@
     {
       "date": "2025-12-09",
       "count": 2
+    },
+    {
+      "date": "2025-12-10",
+      "count": 6
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Hack",
+      "name": "Scam",
+      "value": 5
+    },
+    {
+      "name": "Breach",
       "value": 5
     },
     {
@@ -70,12 +118,8 @@
       "value": 3
     },
     {
-      "name": "Breach",
-      "value": 6
-    },
-    {
-      "name": "Scam",
-      "value": 2
+      "name": "Hack",
+      "value": 3
     },
     {
       "name": "Fraud",
@@ -84,6 +128,10 @@
     {
       "name": "Exploit",
       "value": 2
+    },
+    {
+      "name": "Attack",
+      "value": 1
     }
   ]
 }

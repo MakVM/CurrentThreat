@@ -1,54 +1,7 @@
 {
-  "startDate": "2025-12-03",
-  "endDate": "2025-12-09",
+  "startDate": "2025-12-04",
+  "endDate": "2025-12-10",
   "days": [
-    {
-      "date": "2025-12-03",
-      "events": [
-        {
-          "timestamp": "2025-12-02T20:11:51.000Z",
-          "entities": "Malicious Unlocker 1.9.2 Software Contains Babylon RAT",
-          "eventSummary": "Unlocker 1.9.2 from MajorGeeks was found to contain Babylon RAT, which led to thousands in AWS charges from crypto miners and a compromised PC. The RAT included a keylogger and credential stealer.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1pc8uh8/unlocker_from_majorgeeks_contains_babylon_rat"
-        },
-        {
-          "timestamp": "2025-12-02T19:30:32.000Z",
-          "entities": "Shai-Hulud NPM Attack Exposes Secrets in GitHub Repositories",
-          "eventSummary": "The second Shai-Hulud attack exposed approximately 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) registry and publishing stolen data in 30,000 GitHub repositories.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6zn7xtmdh2q"
-        },
-        {
-          "timestamp": "2025-12-02T13:31:02.000Z",
-          "entities": "University of Pennsylvania Oracle E-Business Suite Data Breach",
-          "eventSummary": "The University of Pennsylvania confirmed a new data breach after attackers stole documents containing personal information from its Oracle E-Business Suite servers in August.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m6yyjlnjgf2q"
-        },
-        {
-          "timestamp": "2025-12-02T13:14:46.000Z",
-          "entities": "Goldfinch Finance User deltatiger.eth Crypto Hack",
-          "eventSummary": "Goldfinch Finance user deltatiger.eth was hacked, resulting in $330,000 stolen.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptopanic.com/news/27582386/Goldfinch-Finance-user-deltatigereth-hacked-330K-stolen-so-far"
-        },
-        {
-          "timestamp": "2025-12-02T09:32:51.000Z",
-          "entities": "Fake Interview Social Engineering Scam Targeting Community",
-          "eventSummary": "A scam warning has been issued about fake interviews where impersonators, posing as entities like Deutsche Bank, invite community members to speak on a podcast. This is a targeted social engineering attack designed to compromise security.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/CardanoTradingOfficial"
-        }
-      ],
-      "overallDayThreatScore": 87,
-      "dailyBrief": "Today's cyber threat landscape was marked by several high-severity incidents, including a malicious software trojan (Babylon RAT) distributed via a popular utility, a large-scale leak of secrets from compromised NPM packages affecting thousands of GitHub repositories, and a major cryptocurrency theft. The University of Pennsylvania experienced a significant data breach, and targeted social engineering scams continue to pose risks. The prevalence of software supply chain attacks and credential theft highlights the need for heightened vigilance and proactive security measures."
-    },
     {
       "date": "2025-12-04",
       "events": [],
@@ -199,6 +152,61 @@
       ],
       "overallDayThreatScore": 90,
       "dailyBrief": "Two major cyber events dominated the day: a $9 million exploit at Yearn Finance, highlighting vulnerabilities in DeFi code, and a massive data breach affecting BMW, Nissan, and Scania, with 350GB of sensitive information stolen. Both incidents underscore persistent risks in finance and manufacturing sectors, with high impacts and the need for urgent remediation and improved security practices."
+    },
+    {
+      "date": "2025-12-10",
+      "events": [
+        {
+          "timestamp": "2025-12-09T18:20:02.000Z",
+          "entities": "€700M Deepfake Crypto Scam Network Dismantled",
+          "eventSummary": "Law enforcement has dismantled a €700M deepfake crypto scam network that used deepfakes and other malicious tactics to trick thousands into fake investments and money laundering.",
+          "severity": "High",
+          "tags": "scam",
+          "source": "https://hackread.com/police-bust-eur700-million-deepfake-crypto-scam/"
+        },
+        {
+          "timestamp": "2025-12-09T15:17:30.000Z",
+          "entities": "'GeminiJack' 0-Click Flaw in Gemini AI Reported",
+          "eventSummary": "A new 'GeminiJack' 0-Click flaw in Gemini AI has been reported, potentially exposing users to data leaks through poisoned files that could trigger access to Gmail, Docs, and Calendar data.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://hackread.com/geminijack-0-click-flaw-gemini-ai-google-data-leak/"
+        },
+        {
+          "timestamp": "2025-12-09T12:49:51.000Z",
+          "entities": "Telegram Scam with Altered Profiles",
+          "eventSummary": "Users on Telegram are reporting a scam involving altered profiles and identical text.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/Cryptocom_BR"
+        },
+        {
+          "timestamp": "2025-12-09T11:58:37.000Z",
+          "entities": "Telegram Vector Attack and Scammer Reported",
+          "eventSummary": "Users on Telegram are reporting a vector attack and referring to a scammer.",
+          "severity": "Medium",
+          "tags": "attack",
+          "source": "https://t.me/curvefi"
+        },
+        {
+          "timestamp": "2025-12-09T08:24:15.000Z",
+          "entities": "Increase in Scammers on Telegram Channel",
+          "eventSummary": "Users on Telegram reported an increase in scammers on the channel.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/nexonians"
+        },
+        {
+          "timestamp": "2025-12-09T08:21:43.000Z",
+          "entities": "Scammers Encountered on Telegram Channels",
+          "eventSummary": "Users on Telegram channels reported encountering scammers.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/nexonians"
+        }
+      ],
+      "overallDayThreatScore": 84,
+      "dailyBrief": "Today's cyber landscape saw a significant takedown of a massive €700M deepfake-powered crypto scam network and the disclosure of a critical 0-click vulnerability ('GeminiJack') in Gemini AI, with potential exposure of Google user data. Telegram channels continued to be targeted by scammers and attack attempts, indicating persistent social engineering and fraud threats across popular platforms. High-severity incidents dominated, with deepfake scams and AI vulnerabilities representing top alerts."
     }
   ]
 }

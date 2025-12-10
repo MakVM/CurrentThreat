@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-12-09T18:20:02.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Law enforcement has dismantled a €700M deepfake crypto scam network that used deepfakes and other malicious tactics to trick thousands into fake investments and money laundering.Sources: - https://hackread.com/police-bust-eur700-million-deepfake-crypto-scam/"
+  },
+  {
+    "timestamp": "2025-12-09T15:17:30.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A new 'GeminiJack' 0-Click flaw in Gemini AI has been reported, potentially exposing users to data leaks through poisoned files that could trigger access to Gmail, Docs, and Calendar data.Sources: - https://hackread.com/geminijack-0-click-flaw-gemini-ai-google-data-leak/"
+  },
+  {
+    "timestamp": "2025-12-09T12:49:51.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users on Telegram are reporting a scam involving altered profiles and identical text.Sources: - https://t.me/Cryptocom_BR"
+  },
+  {
+    "timestamp": "2025-12-09T11:58:37.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users on Telegram are reporting a vector attack and referring to a scammer.Sources: - https://t.me/curvefi"
+  },
+  {
+    "timestamp": "2025-12-09T08:24:15.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users on Telegram reported an increase in scammers on the channel.Sources: - https://t.me/nexonians"
+  },
+  {
+    "timestamp": "2025-12-09T08:21:43.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users on Telegram channels reported encountering scammers.Sources: - https://t.me/nexonians"
+  }
+]
