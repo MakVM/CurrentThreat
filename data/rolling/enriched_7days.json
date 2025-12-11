@@ -1,13 +1,7 @@
 {
-  "startDate": "2025-12-04",
-  "endDate": "2025-12-10",
+  "startDate": "2025-12-05",
+  "endDate": "2025-12-11",
   "days": [
-    {
-      "date": "2025-12-04",
-      "events": [],
-      "overallDayThreatScore": 0,
-      "dailyBrief": "No cyber events were reported today. The threat landscape appears stable, with no notable incidents or trends identified."
-    },
     {
       "date": "2025-12-05",
       "events": [
@@ -207,6 +201,53 @@
       ],
       "overallDayThreatScore": 84,
       "dailyBrief": "Today's cyber landscape saw a significant takedown of a massive €700M deepfake-powered crypto scam network and the disclosure of a critical 0-click vulnerability ('GeminiJack') in Gemini AI, with potential exposure of Google user data. Telegram channels continued to be targeted by scammers and attack attempts, indicating persistent social engineering and fraud threats across popular platforms. High-severity incidents dominated, with deepfake scams and AI vulnerabilities representing top alerts."
+    },
+    {
+      "date": "2025-12-11",
+      "events": [
+        {
+          "timestamp": "2025-12-11T00:38:38.000Z",
+          "entities": "AMOS Infostealer Campaign via Google Ads and AI Chat",
+          "eventSummary": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instructions but ultimately lead to installing the AMOS info-stealing malware on macOS.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m7oau3isb42h"
+        },
+        {
+          "timestamp": "2025-12-11T00:14:32.000Z",
+          "entities": "Android Trojan Banker Reports",
+          "eventSummary": "There are reports of a trojan banker android.",
+          "severity": "Medium",
+          "tags": "malware",
+          "source": "https://t.me/bchchannel"
+        },
+        {
+          "timestamp": "2025-12-10T14:31:40.000Z",
+          "entities": "Nova Hacking Group Claims GRUPO PUMA Breach",
+          "eventSummary": "Nova hacking group claims to have breached GRUPO PUMA and exfiltrated 10 GB of data. The cyberattack is pending verification.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3m7n6zw77v22q"
+        },
+        {
+          "timestamp": "2025-12-10T11:06:45.000Z",
+          "entities": "Potential Scammer on Litecoin Telegram Channel",
+          "eventSummary": "There are reports of a potential scammer on Litecoin Telegram channel.",
+          "severity": "Low",
+          "tags": "scam",
+          "source": "https://t.me/Litecoin"
+        },
+        {
+          "timestamp": "2025-12-10T03:55:55.000Z",
+          "entities": "Binance Co-Founder WeChat Account Hijack for Token Fraud",
+          "eventSummary": "A hacker hijacked the WeChat account of Binance co-founder Yi He to carry out a pump-and-dump scheme involving the Mubarakah token, generating roughly $55,000 in profits.",
+          "severity": "Medium",
+          "tags": "fraud",
+          "source": "https://beincrypto.com/yi-he-wechat-hack-mubarakah-pump"
+        }
+      ],
+      "overallDayThreatScore": 82,
+      "dailyBrief": "Today's cyber threat landscape is marked by a high level of malicious activity, including a sophisticated infostealer campaign targeting macOS users through Google ads and AI chat impersonation, and a significant alleged breach of GRUPO PUMA by the Nova hacking group. Additional events include the emergence of an Android banking trojan, a notable social engineering attack involving the Binance co-founder's WeChat account, and reports of scams targeting cryptocurrency communities. The blend of high-impact breaches, widespread malware, and targeted frauds raises the overall risk profile for the day."
     }
   ]
 }

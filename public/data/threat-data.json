@@ -1,84 +1,69 @@
 {
-  "currentThreat": "OPERATION DEEPFAKE AI EXPOSURE",
-  "threatScore": 8.4,
+  "currentThreat": "OPERATION AI MALWARE WAVE",
+  "threatScore": 8.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "€700M Deepfake Crypto Scam Network Dismantled",
-      "description": "Law enforcement has dismantled a €700M deepfake crypto scam network that used deepfakes and other malicious tactics to trick thousands into fake investments and money laundering.",
-      "source": "https://hackread.com/police-bust-eur700-million-deepfake-crypto-scam/",
-      "time": "2025-12-09T18:20:02.000Z",
+      "title": "AMOS Infostealer Campaign via Google Ads and AI Chat",
+      "description": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instructions but ultimately lead to installing the AMOS info-stealing malware on macOS.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m7oau3isb42h",
+      "time": "2025-12-11T00:38:38.000Z",
       "severity": "High",
       "classification": [
-        "Scam"
+        "Exploit"
       ]
     },
     {
       "id": 2,
-      "title": "'GeminiJack' 0-Click Flaw in Gemini AI Reported",
-      "description": "A new 'GeminiJack' 0-Click flaw in Gemini AI has been reported, potentially exposing users to data leaks through poisoned files that could trigger access to Gmail, Docs, and Calendar data.",
-      "source": "https://hackread.com/geminijack-0-click-flaw-gemini-ai-google-data-leak/",
-      "time": "2025-12-09T15:17:30.000Z",
-      "severity": "High",
+      "title": "Android Trojan Banker Reports",
+      "description": "There are reports of a trojan banker android.",
+      "source": "https://t.me/bchchannel",
+      "time": "2025-12-11T00:14:32.000Z",
+      "severity": "Medium",
       "classification": [
-        "Leak"
+        "Malware"
       ]
     },
     {
       "id": 3,
-      "title": "Telegram Scam with Altered Profiles",
-      "description": "Users on Telegram are reporting a scam involving altered profiles and identical text.",
-      "source": "https://t.me/Cryptocom_BR",
-      "time": "2025-12-09T12:49:51.000Z",
-      "severity": "Medium",
+      "title": "Nova Hacking Group Claims GRUPO PUMA Breach",
+      "description": "Nova hacking group claims to have breached GRUPO PUMA and exfiltrated 10 GB of data. The cyberattack is pending verification.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m7n6zw77v22q",
+      "time": "2025-12-10T14:31:40.000Z",
+      "severity": "High",
       "classification": [
-        "Scam"
+        "Breach"
       ]
     },
     {
       "id": 4,
-      "title": "Telegram Vector Attack and Scammer Reported",
-      "description": "Users on Telegram are reporting a vector attack and referring to a scammer.",
-      "source": "https://t.me/curvefi",
-      "time": "2025-12-09T11:58:37.000Z",
-      "severity": "Medium",
+      "title": "Potential Scammer on Litecoin Telegram Channel",
+      "description": "There are reports of a potential scammer on Litecoin Telegram channel.",
+      "source": "https://t.me/Litecoin",
+      "time": "2025-12-10T11:06:45.000Z",
+      "severity": "Low",
       "classification": [
-        "Attack"
+        "Scam"
       ]
     },
     {
       "id": 5,
-      "title": "Increase in Scammers on Telegram Channel",
-      "description": "Users on Telegram reported an increase in scammers on the channel.",
-      "source": "https://t.me/nexonians",
-      "time": "2025-12-09T08:24:15.000Z",
+      "title": "Binance Co-Founder WeChat Account Hijack for Token Fraud",
+      "description": "A hacker hijacked the WeChat account of Binance co-founder Yi He to carry out a pump-and-dump scheme involving the Mubarakah token, generating roughly $55,000 in profits.",
+      "source": "https://beincrypto.com/yi-he-wechat-hack-mubarakah-pump",
+      "time": "2025-12-10T03:55:55.000Z",
       "severity": "Medium",
       "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Scammers Encountered on Telegram Channels",
-      "description": "Users on Telegram channels reported encountering scammers.",
-      "source": "https://t.me/nexonians",
-      "time": "2025-12-09T08:21:43.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Scam"
+        "Fraud"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a marked escalation in cyber threats, with several high-impact incidents striking financial institutions, healthcare, manufacturing, and crypto sectors. Notably, critical ransomware breaches affected over 70 banks and a major NHS trust, exposing hundreds of thousands of individuals. The DeFi space suffered a $9M exploit, while the manufacturing sector saw a massive data exfiltration targeting BMW, Nissan, and Scania. Law enforcement dismantled a €700M deepfake crypto scam network, and a severe zero-click vulnerability ('GeminiJack') in Gemini AI was disclosed, exposing Google user data to risk. Social engineering and scam activity surged on Telegram channels, underlining heightened fraud and phishing risks. The convergence of ransomware, sophisticated exploits, and deepfake-enabled scams signals an increasingly complex, multi-vector threat landscape.",
-    "trends": "Key trends include a spike in ransomware and data breach activity, particularly via third-party and software vulnerabilities impacting financial and healthcare sectors. Surveillance and AI technologies emerged as new threat vectors, with Intellexa spyware and Gemini AI vulnerabilities indicating increased targeting of advanced systems. Deepfake-powered scams and social engineering attacks proliferated, notably on popular messaging platforms like Telegram. There is a notable rise in user-reported scams, fraud, and authentication compromise in crypto and fintech communities. The week also saw a pattern of high-severity incidents clustered around mid-week, suggesting adversaries may be timing attacks for maximum disruption.",
-    "predictions": "Expect continued targeting of financial, healthcare, and manufacturing organizations through ransomware and sophisticated exploit techniques, with third-party vendor risks remaining elevated. AI and surveillance platforms will likely attract further attention from threat actors, especially as zero-click and deepfake methods become more widespread. Social engineering and scam activity on messaging platforms are predicted to persist, with Telegram and similar channels remaining hotbeds for fraud attempts. Crypto and fintech users should remain vigilant for new scams and account compromise schemes. Confidence level: High, given the volume and diversity of recent incidents and ongoing external news about AI, ransomware, and deepfake threats."
+    "briefing": "This week saw a marked escalation in cyber threat activity across multiple sectors, with major breaches, advanced exploits, and sophisticated social engineering campaigns. High-impact incidents included ransomware and VPN-related breaches at financial institutions, a substantial data leak affecting automakers, and the dismantling of a €700M deepfake-powered crypto scam network. Exploits targeting AI platforms (GeminiJack), zero-click spyware attacks (Intellexa Predator), and widespread infostealer campaigns demonstrated the increasing complexity and reach of threat actors. Social platforms like Telegram and WeChat were repeatedly leveraged for scams and fraud, targeting users in crypto and fintech communities. The convergence of high-severity breaches, advanced malware, and AI-related vulnerabilities highlights the urgent need for cross-sector vigilance and rapid response capabilities.",
+    "trends": "The week exhibited elevated threat scores on most days, correlating with peaks in ransomware, data breaches, and advanced exploit reports. Financial services and healthcare sectors were notably targeted, with persistent attacks exploiting VPN and software vulnerabilities. There was a visible uptick in AI-related threats, especially zero-click exploits and critical flaws in popular platforms, alongside a surge in deepfake-driven scams. Social engineering, fraud, and malware attacks via messaging platforms (Telegram, WeChat) remained consistent, with scammers adapting tactics to leverage altered profiles and vector attacks. Periods of relative calm (Dec 6, 8) were followed by concentrated spikes, indicating episodic but high-intensity activity.",
+    "predictions": "Expect continued targeting of financial, healthcare, and large enterprise sectors, with ransomware, third-party vendor exploits, and mass data exfiltration attempts likely to persist. AI platforms and services are at heightened risk for zero-click vulnerabilities and data leakage, especially as threat actors refine attack vectors involving poisoned files and malicious ads. Deepfake and social engineering scams will remain prevalent across crypto and fintech communities, with scammers leveraging messaging platforms and impersonation tactics. Malware campaigns targeting mobile and macOS users are expected to intensify, particularly via deceptive ads and chatbots. Confidence level: High for persistence of breaches, scams, and AI-related exploits; Medium for emergence of new ransomware strains or large-scale third-party vendor compromises."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-04",
-      "count": 0
-    },
     {
       "date": "2025-12-05",
       "count": 6
@@ -102,16 +87,20 @@
     {
       "date": "2025-12-10",
       "count": 6
+    },
+    {
+      "date": "2025-12-11",
+      "count": 5
     }
   ],
   "classificationDistribution": [
     {
       "name": "Scam",
-      "value": 5
+      "value": 6
     },
     {
       "name": "Breach",
-      "value": 5
+      "value": 6
     },
     {
       "name": "Leak",
@@ -123,14 +112,18 @@
     },
     {
       "name": "Fraud",
-      "value": 1
-    },
-    {
-      "name": "Exploit",
       "value": 2
     },
     {
+      "name": "Exploit",
+      "value": 3
+    },
+    {
       "name": "Attack",
+      "value": 1
+    },
+    {
+      "name": "Malware",
       "value": 1
     }
   ]

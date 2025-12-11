@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-12-11T00:38:38.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instructions but ultimately lead to installing the AMOS info-stealing malware on macOS.\nSources:\n- https://bsky.app/profile/bleepingcomputer.com/post/3m7oau3isb42h"
+  },
+  {
+    "timestamp": "2025-12-11T00:14:32.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "There are reports of a trojan banker android.\nSources:\n- https://t.me/bchchannel"
+  },
+  {
+    "timestamp": "2025-12-10T14:31:40.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Nova hacking group claims to have breached GRUPO PUMA and exfiltrated 10 GB of data. The cyberattack is pending verification.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3m7n6zw77v22q"
+  },
+  {
+    "timestamp": "2025-12-10T11:06:45.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "There are reports of a potential scammer on Litecoin Telegram channel.\nSources:\n- https://t.me/Litecoin"
+  },
+  {
+    "timestamp": "2025-12-10T03:55:55.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A hacker hijacked the WeChat account of Binance co-founder Yi He to carry out a pump-and-dump scheme involving the Mubarakah token, generating roughly $55,000 in profits.\nSources:\n- https://beincrypto.com/yi-he-wechat-hack-mubarakah-pump\n- https://cryptopanic.com/news/27822588/Hack-on-WeChat-involves-the-co-founder-of-Binance"
+  }
+]
