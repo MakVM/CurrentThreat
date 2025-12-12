@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-12-11T21:55:26.000Z",
+    "entities": "Gladinet CentreStack, Gladinet Triofox",
+    "topic": "exploit",
+    "eventSummary": "Hackers are exploiting an undocumented vulnerability in the cryptographic algorithm implementation within Gladinet's CentreStack and Triofox products for secure remote file access and sharing, leading to RCE attacks.\nSources:\n- https://www.bleepingcomputer.com"
+  },
+  {
+    "timestamp": "2025-12-11T21:04:34.000Z",
+    "entities": "Yearn Finance, Redacted Cartel",
+    "topic": "hack",
+    "eventSummary": "Yearn Finance, a defi yield protocol, suffered its third hack due to bugs in its smart contract. The exploiter drained assets from several pools by minting a large number of yETH tokens and withdrawing corresponding assets. $2.4 million in pxETH, a liquid staking token issued by Redacted Cartel, was recovered after Redacted Cartel burned and reissued the stolen tokens.\nSources:\n- https://web3isgoinggreat.com/single/yearn-finance-hack-3"
+  },
+  {
+    "timestamp": "2025-12-11T05:43:08.000Z",
+    "entities": "Atradius, Crédito y Caución",
+    "topic": "breach",
+    "eventSummary": "The attacker reportedly exfiltrated 950,000 records, including client names, mobile numbers, optional emails, policy tiers, and contract types tied to the Atradius and Crédito y Caución divisions.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3m7ossmdwez2c"
+  }
+]

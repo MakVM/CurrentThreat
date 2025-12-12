@@ -1,62 +1,7 @@
 {
-  "startDate": "2025-12-05",
-  "endDate": "2025-12-11",
+  "startDate": "2025-12-06",
+  "endDate": "2025-12-12",
   "days": [
-    {
-      "date": "2025-12-05",
-      "events": [
-        {
-          "timestamp": "2025-12-04T19:54:49.000Z",
-          "entities": "Scammer Reported by User",
-          "eventSummary": "A user reported someone as a scammer.",
-          "severity": "Low",
-          "tags": "scam",
-          "source": "https://t.me/Litecoin"
-        },
-        {
-          "timestamp": "2025-12-04T14:15:26.000Z",
-          "entities": "Major Banking Software Vendor Breach",
-          "eventSummary": "A major breach occurred at a key banking software vendor.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1pdztje/a_major_breach_at_a_key_banking_software_vendor"
-        },
-        {
-          "timestamp": "2025-12-04T09:04:27.000Z",
-          "entities": "Incident Report: No Sensitive Data Leaked",
-          "eventSummary": "A report indicated that no confidential or proprietary data was downloaded, copied, or redistributed, and sensitive details were redacted from attached screenshots. More details about this incident, including the ESIX impact score, are available on HackRisk.io.",
-          "severity": "Low",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m75llk7flx2x"
-        },
-        {
-          "timestamp": "2025-12-04T06:07:08.000Z",
-          "entities": "Intellexa Surveillance Tech Leak",
-          "eventSummary": "Amnesty International Security Lab published a blog post detailing Intellexa's setup based on leaked materials, indicating Intellexa can observe their government clients' hacking tech.",
-          "severity": "Medium",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/rondeibert.bsky.social/post/3m75723jwkk2x"
-        },
-        {
-          "timestamp": "2025-12-04T06:07:08.000Z",
-          "entities": "Mainetti UK Breach Claimed by Qilin Group",
-          "eventSummary": "The Qilin hacking group claims to have breached Mainetti UK, a wholesale/retail sector company. The attack was observed on December 3, 2025, and its status is pending verification.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m75cjofki72j"
-        },
-        {
-          "timestamp": "2025-12-04T02:18:38.000Z",
-          "entities": "User Hack Report, Legal Advice Suggested",
-          "eventSummary": "A user reported a hack and advised to talk to a lawyer.",
-          "severity": "Low",
-          "tags": "hack",
-          "source": "https://t.me/Loo1M65"
-        }
-      ],
-      "overallDayThreatScore": 72,
-      "dailyBrief": "December 4, 2025 saw a significant cyber threat landscape with a high-profile breach at a banking software vendor driving the overall risk score. Alongside, alleged breaches and leaks involving Mainetti UK and Intellexa highlight ongoing risks in retail and surveillance sectors. User-reported scams and hacks continue to surface but remain mostly low severity, while no sensitive data was confirmed leaked in one incident. The day demonstrates rising threats in financial, retail, and surveillance domains, with vigilance advised for organizations in these sectors."
-    },
     {
       "date": "2025-12-06",
       "events": [],
@@ -248,6 +193,37 @@
       ],
       "overallDayThreatScore": 82,
       "dailyBrief": "Today's cyber threat landscape is marked by a high level of malicious activity, including a sophisticated infostealer campaign targeting macOS users through Google ads and AI chat impersonation, and a significant alleged breach of GRUPO PUMA by the Nova hacking group. Additional events include the emergence of an Android banking trojan, a notable social engineering attack involving the Binance co-founder's WeChat account, and reports of scams targeting cryptocurrency communities. The blend of high-impact breaches, widespread malware, and targeted frauds raises the overall risk profile for the day."
+    },
+    {
+      "date": "2025-12-12",
+      "events": [
+        {
+          "timestamp": "2025-12-11T21:55:26.000Z",
+          "entities": "Gladinet CentreStack & Triofox RCE vulnerability exploited",
+          "eventSummary": "Hackers are exploiting an undocumented vulnerability in the cryptographic algorithm implementation within Gladinet's CentreStack and Triofox products for secure remote file access and sharing, leading to RCE attacks.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://www.bleepingcomputer.com"
+        },
+        {
+          "timestamp": "2025-12-11T21:04:34.000Z",
+          "entities": "Yearn Finance smart contract hack and pxETH recovery",
+          "eventSummary": "Yearn Finance, a defi yield protocol, suffered its third hack due to bugs in its smart contract. The exploiter drained assets from several pools by minting a large number of yETH tokens and withdrawing corresponding assets. $2.4 million in pxETH, a liquid staking token issued by Redacted Cartel, was recovered after Redacted Cartel burned and reissued the stolen tokens.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://web3isgoinggreat.com/single/yearn-finance-hack-3"
+        },
+        {
+          "timestamp": "2025-12-11T05:43:08.000Z",
+          "entities": "Atradius & Crédito y Caución client data breach",
+          "eventSummary": "The attacker reportedly exfiltrated 950,000 records, including client names, mobile numbers, optional emails, policy tiers, and contract types tied to the Atradius and Crédito y Caución divisions.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3m7ossmdwez2c"
+        }
+      ],
+      "overallDayThreatScore": 90,
+      "dailyBrief": "Today saw a surge in critical cyber incidents targeting financial, SaaS, and insurance sectors. Hackers exploited a major cryptographic flaw in Gladinet’s CentreStack and Triofox products, resulting in remote code execution vulnerabilities. Yearn Finance suffered another substantial hack due to smart contract bugs, though partial asset recovery was achieved. Additionally, a large-scale data breach at Atradius and Crédito y Caución compromised nearly a million client records. The day reflects escalating risk from both technical exploits and data exfiltration, highlighting urgent needs for improved vulnerability management and incident response."
     }
   ]
 }

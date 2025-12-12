@@ -1,13 +1,13 @@
 {
-  "currentThreat": "OPERATION AI MALWARE WAVE",
-  "threatScore": 8.2,
+  "currentThreat": "OPERATION MULTI-SECTOR CASCADE",
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "AMOS Infostealer Campaign via Google Ads and AI Chat",
-      "description": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instructions but ultimately lead to installing the AMOS info-stealing malware on macOS.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m7oau3isb42h",
-      "time": "2025-12-11T00:38:38.000Z",
+      "title": "Gladinet CentreStack & Triofox RCE vulnerability exploited",
+      "description": "Hackers are exploiting an undocumented vulnerability in the cryptographic algorithm implementation within Gladinet's CentreStack and Triofox products for secure remote file access and sharing, leading to RCE attacks.",
+      "source": "https://www.bleepingcomputer.com",
+      "time": "2025-12-11T21:55:26.000Z",
       "severity": "High",
       "classification": [
         "Exploit"
@@ -15,59 +15,33 @@
     },
     {
       "id": 2,
-      "title": "Android Trojan Banker Reports",
-      "description": "There are reports of a trojan banker android.",
-      "source": "https://t.me/bchchannel",
-      "time": "2025-12-11T00:14:32.000Z",
-      "severity": "Medium",
+      "title": "Yearn Finance smart contract hack and pxETH recovery",
+      "description": "Yearn Finance, a defi yield protocol, suffered its third hack due to bugs in its smart contract. The exploiter drained assets from several pools by minting a large number of yETH tokens and withdrawing corresponding assets. $2.4 million in pxETH, a liquid staking token issued by Redacted Cartel, was recovered after Redacted Cartel burned and reissued the stolen tokens.",
+      "source": "https://web3isgoinggreat.com/single/yearn-finance-hack-3",
+      "time": "2025-12-11T21:04:34.000Z",
+      "severity": "High",
       "classification": [
-        "Malware"
+        "Hack"
       ]
     },
     {
       "id": 3,
-      "title": "Nova Hacking Group Claims GRUPO PUMA Breach",
-      "description": "Nova hacking group claims to have breached GRUPO PUMA and exfiltrated 10 GB of data. The cyberattack is pending verification.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m7n6zw77v22q",
-      "time": "2025-12-10T14:31:40.000Z",
+      "title": "Atradius & Crédito y Caución client data breach",
+      "description": "The attacker reportedly exfiltrated 950,000 records, including client names, mobile numbers, optional emails, policy tiers, and contract types tied to the Atradius and Crédito y Caución divisions.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m7ossmdwez2c",
+      "time": "2025-12-11T05:43:08.000Z",
       "severity": "High",
       "classification": [
         "Breach"
       ]
-    },
-    {
-      "id": 4,
-      "title": "Potential Scammer on Litecoin Telegram Channel",
-      "description": "There are reports of a potential scammer on Litecoin Telegram channel.",
-      "source": "https://t.me/Litecoin",
-      "time": "2025-12-10T11:06:45.000Z",
-      "severity": "Low",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Binance Co-Founder WeChat Account Hijack for Token Fraud",
-      "description": "A hacker hijacked the WeChat account of Binance co-founder Yi He to carry out a pump-and-dump scheme involving the Mubarakah token, generating roughly $55,000 in profits.",
-      "source": "https://beincrypto.com/yi-he-wechat-hack-mubarakah-pump",
-      "time": "2025-12-10T03:55:55.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Fraud"
-      ]
     }
   ],
   "past7Days": {
-    "briefing": "This week saw a marked escalation in cyber threat activity across multiple sectors, with major breaches, advanced exploits, and sophisticated social engineering campaigns. High-impact incidents included ransomware and VPN-related breaches at financial institutions, a substantial data leak affecting automakers, and the dismantling of a €700M deepfake-powered crypto scam network. Exploits targeting AI platforms (GeminiJack), zero-click spyware attacks (Intellexa Predator), and widespread infostealer campaigns demonstrated the increasing complexity and reach of threat actors. Social platforms like Telegram and WeChat were repeatedly leveraged for scams and fraud, targeting users in crypto and fintech communities. The convergence of high-severity breaches, advanced malware, and AI-related vulnerabilities highlights the urgent need for cross-sector vigilance and rapid response capabilities.",
-    "trends": "The week exhibited elevated threat scores on most days, correlating with peaks in ransomware, data breaches, and advanced exploit reports. Financial services and healthcare sectors were notably targeted, with persistent attacks exploiting VPN and software vulnerabilities. There was a visible uptick in AI-related threats, especially zero-click exploits and critical flaws in popular platforms, alongside a surge in deepfake-driven scams. Social engineering, fraud, and malware attacks via messaging platforms (Telegram, WeChat) remained consistent, with scammers adapting tactics to leverage altered profiles and vector attacks. Periods of relative calm (Dec 6, 8) were followed by concentrated spikes, indicating episodic but high-intensity activity.",
-    "predictions": "Expect continued targeting of financial, healthcare, and large enterprise sectors, with ransomware, third-party vendor exploits, and mass data exfiltration attempts likely to persist. AI platforms and services are at heightened risk for zero-click vulnerabilities and data leakage, especially as threat actors refine attack vectors involving poisoned files and malicious ads. Deepfake and social engineering scams will remain prevalent across crypto and fintech communities, with scammers leveraging messaging platforms and impersonation tactics. Malware campaigns targeting mobile and macOS users are expected to intensify, particularly via deceptive ads and chatbots. Confidence level: High for persistence of breaches, scams, and AI-related exploits; Medium for emergence of new ransomware strains or large-scale third-party vendor compromises."
+    "briefing": "This week’s cyber threat landscape was highly active and severe, marked by a series of impactful breaches, exploits, and scams across financial, healthcare, insurance, manufacturing, and crypto sectors. Notable events included ransomware attacks exploiting VPN and application vulnerabilities at major banks and NHS, a €700M deepfake-powered scam network dismantled by law enforcement, repeated and escalating hacks against Yearn Finance’s DeFi protocols, and significant data exfiltration from automakers and insurance providers. Attackers leveraged both technical vulnerabilities (such as zero-click exploits and cryptographic flaws) and sophisticated social engineering (including deepfakes and AI chat impersonation). In addition, multiple scam and fraud campaigns targeted popular platforms like Telegram and WeChat, amplifying risk for individual users and organizations alike. The prevalence of high-severity incidents underscores the urgency for enhanced vulnerability management, multi-factor authentication, and proactive monitoring.",
+    "trends": "High-impact ransomware and data breaches continued to target financial, healthcare, and insurance institutions, while DeFi platforms like Yearn Finance faced repeated smart contract hacks. Technical exploits, particularly zero-click and remote code execution vulnerabilities, are on the rise, affecting both legacy and cutting-edge systems (e.g., Gladinet, Oracle EBS, Gemini AI). The week also saw persistent fraud and scam activity across social channels (Telegram, WeChat), with deepfake technology and AI-driven attacks gaining ground. There is a growing pattern of attackers abusing third-party vendors, authentication weaknesses, and social engineering, with notable spikes in exploit disclosures and successful data exfiltration mid-to-late week.",
+    "predictions": "Expect continued and possibly intensified targeting of financial and DeFi platforms, with smart contract bugs and authentication bypasses remaining prime attack vectors (confidence: high). Technical exploits, especially zero-click and remote code execution vulnerabilities, will likely be weaponized further, affecting SaaS, cloud, and AI-powered systems (confidence: medium-high). Social engineering and deepfake scams will persist on major communication channels, posing ongoing fraud risks to both organizations and individuals (confidence: high). The insurance and manufacturing sectors may see follow-on activity as threat actors exploit recent breaches. Organizations should prioritize patching, incident response readiness, and user education against scams and phishing in the coming days."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-05",
-      "count": 6
-    },
     {
       "date": "2025-12-06",
       "count": 0
@@ -91,20 +65,16 @@
     {
       "date": "2025-12-11",
       "count": 5
+    },
+    {
+      "date": "2025-12-12",
+      "count": 3
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Scam",
-      "value": 6
-    },
-    {
       "name": "Breach",
-      "value": 6
-    },
-    {
-      "name": "Leak",
-      "value": 3
+      "value": 5
     },
     {
       "name": "Hack",
@@ -116,7 +86,15 @@
     },
     {
       "name": "Exploit",
-      "value": 3
+      "value": 4
+    },
+    {
+      "name": "Scam",
+      "value": 5
+    },
+    {
+      "name": "Leak",
+      "value": 1
     },
     {
       "name": "Attack",

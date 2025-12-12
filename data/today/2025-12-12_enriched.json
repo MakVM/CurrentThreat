@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-11T21:55:26.000Z",
+      "entities": "Gladinet CentreStack & Triofox RCE vulnerability exploited",
+      "eventSummary": "Hackers are exploiting an undocumented vulnerability in the cryptographic algorithm implementation within Gladinet's CentreStack and Triofox products for secure remote file access and sharing, leading to RCE attacks.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://www.bleepingcomputer.com"
+    },
+    {
+      "timestamp": "2025-12-11T21:04:34.000Z",
+      "entities": "Yearn Finance smart contract hack and pxETH recovery",
+      "eventSummary": "Yearn Finance, a defi yield protocol, suffered its third hack due to bugs in its smart contract. The exploiter drained assets from several pools by minting a large number of yETH tokens and withdrawing corresponding assets. $2.4 million in pxETH, a liquid staking token issued by Redacted Cartel, was recovered after Redacted Cartel burned and reissued the stolen tokens.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://web3isgoinggreat.com/single/yearn-finance-hack-3"
+    },
+    {
+      "timestamp": "2025-12-11T05:43:08.000Z",
+      "entities": "Atradius & Crédito y Caución client data breach",
+      "eventSummary": "The attacker reportedly exfiltrated 950,000 records, including client names, mobile numbers, optional emails, policy tiers, and contract types tied to the Atradius and Crédito y Caución divisions.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m7ossmdwez2c"
+    }
+  ],
+  "overallDayThreatScore": 90,
+  "dailyBrief": "Today saw a surge in critical cyber incidents targeting financial, SaaS, and insurance sectors. Hackers exploited a major cryptographic flaw in Gladinet’s CentreStack and Triofox products, resulting in remote code execution vulnerabilities. Yearn Finance suffered another substantial hack due to smart contract bugs, though partial asset recovery was achieved. Additionally, a large-scale data breach at Atradius and Crédito y Caución compromised nearly a million client records. The day reflects escalating risk from both technical exploits and data exfiltration, highlighting urgent needs for improved vulnerability management and incident response."
+}
