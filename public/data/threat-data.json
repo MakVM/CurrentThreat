@@ -1,51 +1,80 @@
 {
-  "currentThreat": "OPERATION MULTI-SECTOR CASCADE",
+  "currentThreat": "OPERATION CRYPTO CASCADE",
   "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Gladinet CentreStack & Triofox RCE vulnerability exploited",
-      "description": "Hackers are exploiting an undocumented vulnerability in the cryptographic algorithm implementation within Gladinet's CentreStack and Triofox products for secure remote file access and sharing, leading to RCE attacks.",
-      "source": "https://www.bleepingcomputer.com",
-      "time": "2025-12-11T21:55:26.000Z",
-      "severity": "High",
-      "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Yearn Finance smart contract hack and pxETH recovery",
-      "description": "Yearn Finance, a defi yield protocol, suffered its third hack due to bugs in its smart contract. The exploiter drained assets from several pools by minting a large number of yETH tokens and withdrawing corresponding assets. $2.4 million in pxETH, a liquid staking token issued by Redacted Cartel, was recovered after Redacted Cartel burned and reissued the stolen tokens.",
-      "source": "https://web3isgoinggreat.com/single/yearn-finance-hack-3",
-      "time": "2025-12-11T21:04:34.000Z",
+      "title": "ZEROBASE Front-End Hack Impacting Users",
+      "description": "A ZEROBASE front-end hack resulted in over 270 users losing more than $240K USDT. Following the attack, Binance Wallet has blocked malicious domains and contracts.",
+      "source": "https://twitter.com/2207129125/status/1999585206261469443",
+      "time": "2025-12-12T21:00:38.000Z",
       "severity": "High",
       "classification": [
         "Hack"
       ]
     },
     {
+      "id": 2,
+      "title": "Bitcoin Potential Hijack Investigation",
+      "description": "There are questions about whether Bitcoin has been hijacked.",
+      "source": "https://cryptopanic.com/news/27898676/Has-Bitcoin-Been-Hijacked",
+      "time": "2025-12-12T17:27:30.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Breach"
+      ]
+    },
+    {
       "id": 3,
-      "title": "Atradius & Crédito y Caución client data breach",
-      "description": "The attacker reportedly exfiltrated 950,000 records, including client names, mobile numbers, optional emails, policy tiers, and contract types tied to the Atradius and Crédito y Caución divisions.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m7ossmdwez2c",
-      "time": "2025-12-11T05:43:08.000Z",
+      "title": "Zerobasezk Frontend Compromise and User Fund Theft",
+      "description": "Hackers compromised the Zerobasezk frontend, stealing over $240K from more than 270 users, including one user who lost 123,597 $USDT. Users are advised to revoke any suspicious contract approvals in their wallets.",
+      "source": "https://cryptopanic.com/news/27897404/Hackers-compromised-the-zerobasezk-frontend-stealing-funds-from-270-users-totaling-over-240K-One-user-alone-lost-123597-USDT-Please-use-or-other-tools-to-revoke-any-suspicious-or-unnecessary-contract-approvals-in-your-wallet-Stay-safe",
+      "time": "2025-12-12T16:28:41.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Scam Activity Surge on Litecoin",
+      "description": "There are reports of many scammers on Litecoin today.",
+      "source": "https://t.me/Litecoin",
+      "time": "2025-12-12T14:19:23.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Nepes Corp Data Breach by Qilin Group",
+      "description": "The Qilin hacking group claims to have breached Nepes Corp and exfiltrated 1.5 TB of data. The cyberattack was observed on December 11, 2025.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3m7rfpmrkf62n",
+      "time": "2025-12-12T06:04:39.000Z",
       "severity": "High",
       "classification": [
         "Breach"
       ]
+    },
+    {
+      "id": 6,
+      "title": "Microsoft Accounts Hijacked via Consentfix Attack",
+      "description": "New Consentfix Attack Hijacks Microsoft Accounts Via Azure Cli.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pk4kpb/new_consentfix_attack_hijacks_microsoft_accounts",
+      "time": "2025-12-12T02:53:03.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
     }
   ],
   "past7Days": {
-    "briefing": "This week’s cyber threat landscape was highly active and severe, marked by a series of impactful breaches, exploits, and scams across financial, healthcare, insurance, manufacturing, and crypto sectors. Notable events included ransomware attacks exploiting VPN and application vulnerabilities at major banks and NHS, a €700M deepfake-powered scam network dismantled by law enforcement, repeated and escalating hacks against Yearn Finance’s DeFi protocols, and significant data exfiltration from automakers and insurance providers. Attackers leveraged both technical vulnerabilities (such as zero-click exploits and cryptographic flaws) and sophisticated social engineering (including deepfakes and AI chat impersonation). In addition, multiple scam and fraud campaigns targeted popular platforms like Telegram and WeChat, amplifying risk for individual users and organizations alike. The prevalence of high-severity incidents underscores the urgency for enhanced vulnerability management, multi-factor authentication, and proactive monitoring.",
-    "trends": "High-impact ransomware and data breaches continued to target financial, healthcare, and insurance institutions, while DeFi platforms like Yearn Finance faced repeated smart contract hacks. Technical exploits, particularly zero-click and remote code execution vulnerabilities, are on the rise, affecting both legacy and cutting-edge systems (e.g., Gladinet, Oracle EBS, Gemini AI). The week also saw persistent fraud and scam activity across social channels (Telegram, WeChat), with deepfake technology and AI-driven attacks gaining ground. There is a growing pattern of attackers abusing third-party vendors, authentication weaknesses, and social engineering, with notable spikes in exploit disclosures and successful data exfiltration mid-to-late week.",
-    "predictions": "Expect continued and possibly intensified targeting of financial and DeFi platforms, with smart contract bugs and authentication bypasses remaining prime attack vectors (confidence: high). Technical exploits, especially zero-click and remote code execution vulnerabilities, will likely be weaponized further, affecting SaaS, cloud, and AI-powered systems (confidence: medium-high). Social engineering and deepfake scams will persist on major communication channels, posing ongoing fraud risks to both organizations and individuals (confidence: high). The insurance and manufacturing sectors may see follow-on activity as threat actors exploit recent breaches. Organizations should prioritize patching, incident response readiness, and user education against scams and phishing in the coming days."
+    "briefing": "This week witnessed an intense escalation in cyber threats across sectors, characterized by high-profile ransomware attacks, sophisticated exploits, and widespread fraud targeting financial institutions, DeFi protocols, SaaS vendors, and major corporations. Ransomware and data breaches struck at least three large financial and insurance entities, leading to the compromise of millions of records. The DeFi sector experienced repeated high-value hacks, notably at Yearn Finance and ZEROBASE, highlighting persistent vulnerabilities in smart contract code and frontend infrastructure. Meanwhile, a €700M deepfake crypto scam network was dismantled, but social engineering scams and targeted malware campaigns—leveraging new zero-click vectors and abused ad platforms—remained rampant, particularly against cryptocurrency and AI users. The emergence of new exploits targeting authentication, AI platforms, and cloud services (e.g., Microsoft Azure) signals a rapidly evolving threat landscape.",
+    "trends": "Several clear trends emerged this week: \n- Ransomware and data breaches are increasingly exploiting third-party and software vulnerabilities, with the financial and insurance sectors being prime targets.\n- DeFi and crypto platforms remain under sustained attack, both via smart contract vulnerabilities and user-facing phishing/scam campaigns. Multiple hacks and a surge in scams on platforms like Telegram and Litecoin were reported.\n- Attackers are leveraging novel vectors, including zero-click spyware (Predator, GeminiJack), ad-based infostealer campaigns (AMOS), and sophisticated social engineering (deepfake scams, hijacked WeChat accounts).\n- Cloud and SaaS platforms (Microsoft Azure, Gladinet) are facing targeted exploits, with attackers exploiting authentication flows and cryptographic flaws.\n- The daily threat score remained persistently high, with most days seeing multiple high-severity incidents, indicating a sustained period of elevated cyber risk.",
+    "predictions": "In the coming days, organizations should expect continued high risk—especially in financial, crypto, and SaaS sectors. Ransomware and large-scale data breaches are likely to persist, with attackers exploiting unpatched vulnerabilities and targeting third-party providers. DeFi protocols and crypto wallets will remain in attackers' crosshairs, as smart contract bugs and frontend weaknesses offer lucrative targets. Social engineering, deepfake scams, and phishing on messaging platforms (Telegram, WeChat) are expected to intensify, driven by the holiday season and ongoing volatility in digital asset markets. Cloud service and AI platform exploits (e.g., Gemini AI, Azure) may proliferate as attackers weaponize newly discovered zero-click and consent-based vulnerabilities. Confidence level: High—these patterns are reinforced by ongoing global cybercrime trends and the volume/severity of recent incidents. Urgent focus on vulnerability management, user education, and layered incident response is recommended."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-06",
-      "count": 0
-    },
     {
       "date": "2025-12-07",
       "count": 6
@@ -69,16 +98,20 @@
     {
       "date": "2025-12-12",
       "count": 3
+    },
+    {
+      "date": "2025-12-13",
+      "count": 6
     }
   ],
   "classificationDistribution": [
     {
       "name": "Breach",
-      "value": 5
+      "value": 7
     },
     {
       "name": "Hack",
-      "value": 3
+      "value": 6
     },
     {
       "name": "Fraud",
@@ -90,7 +123,7 @@
     },
     {
       "name": "Scam",
-      "value": 5
+      "value": 6
     },
     {
       "name": "Leak",
