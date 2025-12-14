@@ -1,84 +1,13 @@
 {
-  "currentThreat": "OPERATION CRYPTO CASCADE",
-  "threatScore": 9,
-  "todaysEvents": [
-    {
-      "id": 1,
-      "title": "ZEROBASE Front-End Hack Impacting Users",
-      "description": "A ZEROBASE front-end hack resulted in over 270 users losing more than $240K USDT. Following the attack, Binance Wallet has blocked malicious domains and contracts.",
-      "source": "https://twitter.com/2207129125/status/1999585206261469443",
-      "time": "2025-12-12T21:00:38.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Bitcoin Potential Hijack Investigation",
-      "description": "There are questions about whether Bitcoin has been hijacked.",
-      "source": "https://cryptopanic.com/news/27898676/Has-Bitcoin-Been-Hijacked",
-      "time": "2025-12-12T17:27:30.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Zerobasezk Frontend Compromise and User Fund Theft",
-      "description": "Hackers compromised the Zerobasezk frontend, stealing over $240K from more than 270 users, including one user who lost 123,597 $USDT. Users are advised to revoke any suspicious contract approvals in their wallets.",
-      "source": "https://cryptopanic.com/news/27897404/Hackers-compromised-the-zerobasezk-frontend-stealing-funds-from-270-users-totaling-over-240K-One-user-alone-lost-123597-USDT-Please-use-or-other-tools-to-revoke-any-suspicious-or-unnecessary-contract-approvals-in-your-wallet-Stay-safe",
-      "time": "2025-12-12T16:28:41.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Scam Activity Surge on Litecoin",
-      "description": "There are reports of many scammers on Litecoin today.",
-      "source": "https://t.me/Litecoin",
-      "time": "2025-12-12T14:19:23.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Nepes Corp Data Breach by Qilin Group",
-      "description": "The Qilin hacking group claims to have breached Nepes Corp and exfiltrated 1.5 TB of data. The cyberattack was observed on December 11, 2025.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3m7rfpmrkf62n",
-      "time": "2025-12-12T06:04:39.000Z",
-      "severity": "High",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Microsoft Accounts Hijacked via Consentfix Attack",
-      "description": "New Consentfix Attack Hijacks Microsoft Accounts Via Azure Cli.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1pk4kpb/new_consentfix_attack_hijacks_microsoft_accounts",
-      "time": "2025-12-12T02:53:03.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    }
-  ],
+  "currentThreat": "OPERATION ZERO SIGNAL",
+  "threatScore": 0,
+  "todaysEvents": [],
   "past7Days": {
-    "briefing": "This week witnessed an intense escalation in cyber threats across sectors, characterized by high-profile ransomware attacks, sophisticated exploits, and widespread fraud targeting financial institutions, DeFi protocols, SaaS vendors, and major corporations. Ransomware and data breaches struck at least three large financial and insurance entities, leading to the compromise of millions of records. The DeFi sector experienced repeated high-value hacks, notably at Yearn Finance and ZEROBASE, highlighting persistent vulnerabilities in smart contract code and frontend infrastructure. Meanwhile, a €700M deepfake crypto scam network was dismantled, but social engineering scams and targeted malware campaigns—leveraging new zero-click vectors and abused ad platforms—remained rampant, particularly against cryptocurrency and AI users. The emergence of new exploits targeting authentication, AI platforms, and cloud services (e.g., Microsoft Azure) signals a rapidly evolving threat landscape.",
-    "trends": "Several clear trends emerged this week: \n- Ransomware and data breaches are increasingly exploiting third-party and software vulnerabilities, with the financial and insurance sectors being prime targets.\n- DeFi and crypto platforms remain under sustained attack, both via smart contract vulnerabilities and user-facing phishing/scam campaigns. Multiple hacks and a surge in scams on platforms like Telegram and Litecoin were reported.\n- Attackers are leveraging novel vectors, including zero-click spyware (Predator, GeminiJack), ad-based infostealer campaigns (AMOS), and sophisticated social engineering (deepfake scams, hijacked WeChat accounts).\n- Cloud and SaaS platforms (Microsoft Azure, Gladinet) are facing targeted exploits, with attackers exploiting authentication flows and cryptographic flaws.\n- The daily threat score remained persistently high, with most days seeing multiple high-severity incidents, indicating a sustained period of elevated cyber risk.",
-    "predictions": "In the coming days, organizations should expect continued high risk—especially in financial, crypto, and SaaS sectors. Ransomware and large-scale data breaches are likely to persist, with attackers exploiting unpatched vulnerabilities and targeting third-party providers. DeFi protocols and crypto wallets will remain in attackers' crosshairs, as smart contract bugs and frontend weaknesses offer lucrative targets. Social engineering, deepfake scams, and phishing on messaging platforms (Telegram, WeChat) are expected to intensify, driven by the holiday season and ongoing volatility in digital asset markets. Cloud service and AI platform exploits (e.g., Gemini AI, Azure) may proliferate as attackers weaponize newly discovered zero-click and consent-based vulnerabilities. Confidence level: High—these patterns are reinforced by ongoing global cybercrime trends and the volume/severity of recent incidents. Urgent focus on vulnerability management, user education, and layered incident response is recommended."
+    "briefing": "This week was marked by a series of high-severity cyber events affecting the financial, cryptocurrency, SaaS, and automotive sectors. Notably, Yearn Finance experienced repeated exploits resulting in multimillion-dollar losses, and major data breaches targeted prominent automakers and insurance firms, exposing vast troves of sensitive information. Law enforcement dismantled a €700M deepfake crypto scam network, highlighting the growing sophistication of fraud enabled by AI and deepfake technologies. Threats also escalated across popular platforms such as Telegram and WeChat, with persistent social engineering, malware campaigns, and high-profile account hijacks reported. The elevated risk environment underscores the urgent need for proactive vulnerability management, robust incident response, and heightened user awareness—especially in sectors handling digital assets and sensitive client data.",
+    "trends": "The week showed a clear pattern of intensified attacks on cryptocurrency platforms, DeFi protocols, and enterprise SaaS products. Smart contract vulnerabilities, front-end compromises, and remote code execution exploits emerged as recurring tactics for attackers, with rapid follow-on asset theft and data exfiltration. Social engineering and scam activities spiked on messaging platforms (Telegram, WeChat), while AI-related vulnerabilities surfaced, notably with the GeminiJack 0-click flaw. Data breaches affected large organizations in both manufacturing and insurance, suggesting attackers are targeting entities with broad data repositories. There was also a notable rise in deepfake-enabled scams and infostealer malware leveraging ads and chatbots. The concentration of high-impact events from December 9–13 signals a sustained period of elevated threat activity, especially in the crypto and tech sectors.",
+    "predictions": "For the upcoming days, continued vigilance is advised for cryptocurrency and DeFi platforms, as attackers are likely to pursue additional smart contract and front-end exploits. The financial and insurance sectors remain at heightened risk for targeted data breaches and ransomware campaigns. Users of SaaS products (especially those offering remote file access) should expect further attempts exploiting cryptographic and authentication flaws. Scam and social engineering activity is expected to persist on Telegram and other messaging platforms, with possible increases during periods of major financial news or crypto market volatility. The use of AI-driven attacks, including deepfakes and zero-click vulnerabilities, will likely grow—organizations should prioritize detection and patching of these emerging threats. Overall, risk remains high, with a 75–85% confidence level that attackers will continue to target digital assets, enterprise SaaS, and user data in the immediate term."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-07",
-      "count": 6
-    },
     {
       "date": "2025-12-08",
       "count": 0
@@ -102,24 +31,20 @@
     {
       "date": "2025-12-13",
       "count": 6
+    },
+    {
+      "date": "2025-12-14",
+      "count": 0
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Breach",
-      "value": 7
-    },
-    {
-      "name": "Hack",
-      "value": 6
-    },
-    {
-      "name": "Fraud",
-      "value": 2
-    },
-    {
       "name": "Exploit",
-      "value": 4
+      "value": 3
+    },
+    {
+      "name": "Breach",
+      "value": 5
     },
     {
       "name": "Scam",
@@ -136,6 +61,14 @@
     {
       "name": "Malware",
       "value": 1
+    },
+    {
+      "name": "Fraud",
+      "value": 1
+    },
+    {
+      "name": "Hack",
+      "value": 4
     }
   ]
 }
