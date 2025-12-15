@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-14T12:44:00.000Z",
+      "entities": "Discord Admin Account Compromise & Scam",
+      "eventSummary": "A user reported losing 5k after clicking a link from an admin on Discord. The admins claimed their accounts were hacked and refused to issue refunds.",
+      "severity": "High",
+      "tags": "scam",
+      "source": "https://t.me/ProfiT_Mafia_Chat"
+    },
+    {
+      "timestamp": "2025-12-14T05:46:19.000Z",
+      "entities": "Kyith Telegram Channel Scam Ads Incident",
+      "eventSummary": "A user reported that scam ads are being served on Kyith's Telegram channel.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://t.me/sgfinindependence"
+    },
+    {
+      "timestamp": "2025-12-14T01:39:49.000Z",
+      "entities": "PayPal Account Hack & Fraudulent Transfers",
+      "eventSummary": "A user reported their PayPal account was hacked and used for fraudulent transfers, resulting in a negative balance. PayPal customer service was unhelpful.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://www.reddit.com/r/paypal/comments/1pm17qo/someone_hacked_my_account_to_send_money_in_it_and"
+    }
+  ],
+  "overallDayThreatScore": 85,
+  "dailyBrief": "Today's cyber events indicate an elevated threat environment with two high-severity incidents involving major platforms, Discord and PayPal, resulting in direct financial losses and account compromise. Scam activity also persists on Telegram channels, reflecting persistent social engineering risks. The lack of effective response from service providers exacerbates user impact and highlights gaps in incident resolution. Vigilance is advised, particularly regarding admin impersonation and unsolicited messages."
+}

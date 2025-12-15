@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-12-14T12:44:00.000Z",
+    "entities": "Discord",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user reported losing 5k after clicking a link from an admin on Discord. The admins claimed their accounts were hacked and refused to issue refunds.Sources: - https://t.me/ProfiT_Mafia_Chat"
+  },
+  {
+    "timestamp": "2025-12-14T05:46:19.000Z",
+    "entities": "Kyith",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user reported that scam ads are being served on Kyith's Telegram channel.Sources: - https://t.me/sgfinindependence"
+  },
+  {
+    "timestamp": "2025-12-14T01:39:49.000Z",
+    "entities": "PayPal",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user reported their PayPal account was hacked and used for fraudulent transfers, resulting in a negative balance. PayPal customer service was unhelpful.Sources: - https://www.reddit.com/r/paypal/comments/1pm17qo/someone_hacked_my_account_to_send_money_in_it_and"
+  }
+]

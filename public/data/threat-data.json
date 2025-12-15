@@ -1,17 +1,47 @@
 {
-  "currentThreat": "OPERATION ZERO SIGNAL",
-  "threatScore": 0,
-  "todaysEvents": [],
+  "currentThreat": "OPERATION SOCIAL HEIST",
+  "threatScore": 8.5,
+  "todaysEvents": [
+    {
+      "id": 1,
+      "title": "Discord Admin Account Compromise & Scam",
+      "description": "A user reported losing 5k after clicking a link from an admin on Discord. The admins claimed their accounts were hacked and refused to issue refunds.",
+      "source": "https://t.me/ProfiT_Mafia_Chat",
+      "time": "2025-12-14T12:44:00.000Z",
+      "severity": "High",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kyith Telegram Channel Scam Ads Incident",
+      "description": "A user reported that scam ads are being served on Kyith's Telegram channel.",
+      "source": "https://t.me/sgfinindependence",
+      "time": "2025-12-14T05:46:19.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "PayPal Account Hack & Fraudulent Transfers",
+      "description": "A user reported their PayPal account was hacked and used for fraudulent transfers, resulting in a negative balance. PayPal customer service was unhelpful.",
+      "source": "https://www.reddit.com/r/paypal/comments/1pm17qo/someone_hacked_my_account_to_send_money_in_it_and",
+      "time": "2025-12-14T01:39:49.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
+    }
+  ],
   "past7Days": {
-    "briefing": "This week was marked by a series of high-severity cyber events affecting the financial, cryptocurrency, SaaS, and automotive sectors. Notably, Yearn Finance experienced repeated exploits resulting in multimillion-dollar losses, and major data breaches targeted prominent automakers and insurance firms, exposing vast troves of sensitive information. Law enforcement dismantled a €700M deepfake crypto scam network, highlighting the growing sophistication of fraud enabled by AI and deepfake technologies. Threats also escalated across popular platforms such as Telegram and WeChat, with persistent social engineering, malware campaigns, and high-profile account hijacks reported. The elevated risk environment underscores the urgent need for proactive vulnerability management, robust incident response, and heightened user awareness—especially in sectors handling digital assets and sensitive client data.",
-    "trends": "The week showed a clear pattern of intensified attacks on cryptocurrency platforms, DeFi protocols, and enterprise SaaS products. Smart contract vulnerabilities, front-end compromises, and remote code execution exploits emerged as recurring tactics for attackers, with rapid follow-on asset theft and data exfiltration. Social engineering and scam activities spiked on messaging platforms (Telegram, WeChat), while AI-related vulnerabilities surfaced, notably with the GeminiJack 0-click flaw. Data breaches affected large organizations in both manufacturing and insurance, suggesting attackers are targeting entities with broad data repositories. There was also a notable rise in deepfake-enabled scams and infostealer malware leveraging ads and chatbots. The concentration of high-impact events from December 9–13 signals a sustained period of elevated threat activity, especially in the crypto and tech sectors.",
-    "predictions": "For the upcoming days, continued vigilance is advised for cryptocurrency and DeFi platforms, as attackers are likely to pursue additional smart contract and front-end exploits. The financial and insurance sectors remain at heightened risk for targeted data breaches and ransomware campaigns. Users of SaaS products (especially those offering remote file access) should expect further attempts exploiting cryptographic and authentication flaws. Scam and social engineering activity is expected to persist on Telegram and other messaging platforms, with possible increases during periods of major financial news or crypto market volatility. The use of AI-driven attacks, including deepfakes and zero-click vulnerabilities, will likely grow—organizations should prioritize detection and patching of these emerging threats. Overall, risk remains high, with a 75–85% confidence level that attackers will continue to target digital assets, enterprise SaaS, and user data in the immediate term."
+    "briefing": "This week saw a heightened cyber threat landscape, with frequent high-severity incidents impacting the finance, cryptocurrency, SaaS, and automotive sectors. Notable events included multi-million dollar DeFi exploits (Yearn Finance), a massive data breach affecting top automakers, and a €700M deepfake-powered crypto scam network takedown. The week also exposed critical vulnerabilities in AI platforms (GeminiJack), SaaS products (Gladinet CentreStack & Triofox), and Microsoft accounts via Consentfix. Social engineering and scam activity surged across popular messaging platforms (Telegram, Discord), targeting both users and admins, while enterprise breaches (Atradius, Nepes Corp) led to large-scale data exfiltration. Despite a brief lull, threats remained consistently high, underscoring the urgent need for robust incident response, proactive vulnerability management, and increased user awareness.",
+    "trends": "The period was characterized by persistent high-impact cyber events, especially targeting financial and cryptocurrency platforms through smart contract exploits, account hijacks, and sophisticated scam operations. Attackers leveraged both technical vulnerabilities (RCE, 0-click flaws) and social engineering tactics across messaging apps (Telegram, Discord), with a visible spike in scam and fraud attempts. Data breaches involving large volumes of sensitive information remained a consistent trend, and the targeting of SaaS/cloud platforms and enterprise accounts (Microsoft, PayPal) signals attackers' expanding focus on critical infrastructure. There was a notable increase in incidents exploiting AI, deepfakes, and consent-based attacks, alongside continued abuse of popular communication channels for phishing and impersonation.",
+    "predictions": "In the upcoming days, expect continued targeting of financial and cryptocurrency platforms, with smart contract vulnerabilities, wallet hijacks, and scam/fraud attempts remaining prominent. Messaging platforms (Telegram, Discord) are likely to see sustained scam and impersonation activity, particularly targeting admins and high-profile accounts. Threat actors may intensify attacks on SaaS/cloud and enterprise platforms, exploiting consent and authentication weaknesses. Data breaches and exfiltration campaigns in both traditional and emerging tech sectors (automotive, insurance, manufacturing) are expected to persist. Watch for evolving AI-related exploits and deepfake-powered scams. Confidence level: High, given recurring themes and the volume of recent activity. Enhanced vigilance is recommended for organizations and individuals, with a priority on patching known vulnerabilities and strengthening user education."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-08",
-      "count": 0
-    },
     {
       "date": "2025-12-09",
       "count": 2
@@ -35,6 +65,10 @@
     {
       "date": "2025-12-14",
       "count": 0
+    },
+    {
+      "date": "2025-12-15",
+      "count": 3
     }
   ],
   "classificationDistribution": [
@@ -48,7 +82,7 @@
     },
     {
       "name": "Scam",
-      "value": 6
+      "value": 8
     },
     {
       "name": "Leak",
@@ -68,7 +102,7 @@
     },
     {
       "name": "Hack",
-      "value": 4
+      "value": 5
     }
   ]
 }
