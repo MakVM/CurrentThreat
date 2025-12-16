@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-12-15T20:36:50.000Z",
+    "entities": "OneInchNetwork",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A scammer was identified on the OneInchNetwork Telegram channel, with a recommendation to block and report them.\nSources:\n- https://t.me/OneInchNetwork"
+  },
+  {
+    "timestamp": "2025-12-15T15:30:55.000Z",
+    "entities": "React",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hackers are exploiting a React vulnerability on crypto platforms.\nSources:\n- https://cryptopanic.com/news/27965932/Hackers-Exploit-React-Vulnerability-on-Crypto-Platforms"
+  },
+  {
+    "timestamp": "2025-12-15T10:38:44.000Z",
+    "entities": "Nexo",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A user on the Nexo French Telegram channel observed and commented on a scam.\nSources:\n- https://t.me/Nexo_fr"
+  },
+  {
+    "timestamp": "2025-12-15T09:05:52.000Z",
+    "entities": "Security Alliance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A critical security flaw in React Server Components, identified as CVE-2025-55182, is being actively exploited by threat actors to drain wallets and deploy malware across the crypto industry and all websites using React. Security Alliance urges immediate review of front-end code.\nSources:\n- https://cryptonews.com/news/major-javascript-library-breach-puts-all-crypto-websites-at-risk"
+  },
+  {
+    "timestamp": "2025-12-15T08:58:22.000Z",
+    "entities": "Security Alliance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hackers are exploiting a React vulnerability to inject crypto wallet drainers, as warned by security groups.\nSources:\n- https://cryptopanic.com/news/27955098/DeFi-News-Hackers-Exploit-React-Vulnerability-to-Inject-Crypto-Wallet-Drainers-Security-Groups-Warn"
+  },
+  {
+    "timestamp": "2025-12-15T08:14:21.000Z",
+    "entities": "Security Alliance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "North Korean cybercriminals are using 'fake Zoom' tactics to install malware, stealing victims' sensitive data, including passwords and private keys. Cybersecurity firm Security Alliance (SEAL) warned that it has been tracking \"multiple daily\" such attempts.\nSources:\n- https://cryptonews.com/news/north-korean-actors-use-fake-zoom-to-drain-crypto-wallets-300m-stolen-already"
+  }
+]

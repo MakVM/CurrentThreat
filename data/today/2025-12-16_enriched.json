@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-15T20:36:50.000Z",
+      "entities": "OneInchNetwork Telegram Scam Incident",
+      "eventSummary": "A scammer was identified on the OneInchNetwork Telegram channel, with a recommendation to block and report them.",
+      "severity": "Low",
+      "tags": "scam",
+      "source": "https://t.me/OneInchNetwork"
+    },
+    {
+      "timestamp": "2025-12-15T15:30:55.000Z",
+      "entities": "React Vulnerability Exploitation on Crypto Platforms",
+      "eventSummary": "Hackers are exploiting a React vulnerability on crypto platforms.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://cryptopanic.com/news/27965932/Hackers-Exploit-React-Vulnerability-on-Crypto-Platforms"
+    },
+    {
+      "timestamp": "2025-12-15T10:38:44.000Z",
+      "entities": "Nexo Telegram Channel Scam Observation",
+      "eventSummary": "A user on the Nexo French Telegram channel observed and commented on a scam.",
+      "severity": "Low",
+      "tags": "scam",
+      "source": "https://t.me/Nexo_fr"
+    },
+    {
+      "timestamp": "2025-12-15T09:05:52.000Z",
+      "entities": "React Server Components CVE-2025-55182 Active Exploitation",
+      "eventSummary": "A critical security flaw in React Server Components, identified as CVE-2025-55182, is being actively exploited by threat actors to drain wallets and deploy malware across the crypto industry and all websites using React. Security Alliance urges immediate review of front-end code.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://cryptonews.com/news/major-javascript-library-breach-puts-all-crypto-websites-at-risk"
+    },
+    {
+      "timestamp": "2025-12-15T08:58:22.000Z",
+      "entities": "React Vulnerability Used for Crypto Wallet Drainers",
+      "eventSummary": "Hackers are exploiting a React vulnerability to inject crypto wallet drainers, as warned by security groups.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://cryptopanic.com/news/27955098/DeFi-News-Hackers-Exploit-React-Vulnerability-to-Inject-Crypto-Wallet-Drainers-Security-Groups-Warn"
+    },
+    {
+      "timestamp": "2025-12-15T08:14:21.000Z",
+      "entities": "North Korean Fake Zoom Malware Campaign",
+      "eventSummary": "North Korean cybercriminals are using 'fake Zoom' tactics to install malware, stealing victims' sensitive data, including passwords and private keys. Cybersecurity firm Security Alliance (SEAL) warned that it has been tracking \"multiple daily\" such attempts.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptonews.com/news/north-korean-actors-use-fake-zoom-to-drain-crypto-wallets-300m-stolen-already"
+    }
+  ],
+  "overallDayThreatScore": 92,
+  "dailyBrief": "Today's cyber landscape was marked by critical exploits targeting the React framework, with multiple high-severity incidents affecting crypto platforms and websites industry-wide. The discovery and active exploitation of CVE-2025-55182 poses a substantial threat, leading to widespread wallet draining and malware deployment. Additional alerts include North Korean threat actors leveraging fake Zoom applications for credential theft and persistent scams on major Telegram channels. The concentration of high-impact technical breaches and targeted attacks signals an elevated risk level, urging immediate defensive review and user vigilance."
+}
