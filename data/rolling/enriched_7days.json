@@ -1,62 +1,7 @@
 {
-  "startDate": "2025-12-10",
-  "endDate": "2025-12-16",
+  "startDate": "2025-12-11",
+  "endDate": "2025-12-17",
   "days": [
-    {
-      "date": "2025-12-10",
-      "events": [
-        {
-          "timestamp": "2025-12-09T18:20:02.000Z",
-          "entities": "€700M Deepfake Crypto Scam Network Dismantled",
-          "eventSummary": "Law enforcement has dismantled a €700M deepfake crypto scam network that used deepfakes and other malicious tactics to trick thousands into fake investments and money laundering.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://hackread.com/police-bust-eur700-million-deepfake-crypto-scam/"
-        },
-        {
-          "timestamp": "2025-12-09T15:17:30.000Z",
-          "entities": "'GeminiJack' 0-Click Flaw in Gemini AI Reported",
-          "eventSummary": "A new 'GeminiJack' 0-Click flaw in Gemini AI has been reported, potentially exposing users to data leaks through poisoned files that could trigger access to Gmail, Docs, and Calendar data.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://hackread.com/geminijack-0-click-flaw-gemini-ai-google-data-leak/"
-        },
-        {
-          "timestamp": "2025-12-09T12:49:51.000Z",
-          "entities": "Telegram Scam with Altered Profiles",
-          "eventSummary": "Users on Telegram are reporting a scam involving altered profiles and identical text.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/Cryptocom_BR"
-        },
-        {
-          "timestamp": "2025-12-09T11:58:37.000Z",
-          "entities": "Telegram Vector Attack and Scammer Reported",
-          "eventSummary": "Users on Telegram are reporting a vector attack and referring to a scammer.",
-          "severity": "Medium",
-          "tags": "attack",
-          "source": "https://t.me/curvefi"
-        },
-        {
-          "timestamp": "2025-12-09T08:24:15.000Z",
-          "entities": "Increase in Scammers on Telegram Channel",
-          "eventSummary": "Users on Telegram reported an increase in scammers on the channel.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/nexonians"
-        },
-        {
-          "timestamp": "2025-12-09T08:21:43.000Z",
-          "entities": "Scammers Encountered on Telegram Channels",
-          "eventSummary": "Users on Telegram channels reported encountering scammers.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/nexonians"
-        }
-      ],
-      "overallDayThreatScore": 84,
-      "dailyBrief": "Today's cyber landscape saw a significant takedown of a massive €700M deepfake-powered crypto scam network and the disclosure of a critical 0-click vulnerability ('GeminiJack') in Gemini AI, with potential exposure of Google user data. Telegram channels continued to be targeted by scammers and attack attempts, indicating persistent social engineering and fraud threats across popular platforms. High-severity incidents dominated, with deepfake scams and AI vulnerabilities representing top alerts."
-    },
     {
       "date": "2025-12-11",
       "events": [
@@ -281,6 +226,53 @@
       ],
       "overallDayThreatScore": 92,
       "dailyBrief": "Today's cyber landscape was marked by critical exploits targeting the React framework, with multiple high-severity incidents affecting crypto platforms and websites industry-wide. The discovery and active exploitation of CVE-2025-55182 poses a substantial threat, leading to widespread wallet draining and malware deployment. Additional alerts include North Korean threat actors leveraging fake Zoom applications for credential theft and persistent scams on major Telegram channels. The concentration of high-impact technical breaches and targeted attacks signals an elevated risk level, urging immediate defensive review and user vigilance."
+    },
+    {
+      "date": "2025-12-17",
+      "events": [
+        {
+          "timestamp": "2025-12-16T16:53:26.000Z",
+          "entities": "Fortinet Products Exploitation",
+          "eventSummary": "Hackers are exploiting critical-severity vulnerabilities in multiple Fortinet products to gain unauthorized access to admin accounts and steal system configuration files.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3ma4j7633wu2y"
+        },
+        {
+          "timestamp": "2025-12-16T10:55:25.000Z",
+          "entities": "700Credit Data Breach",
+          "eventSummary": "A massive data breach at 700Credit exposed personal information of millions of consumers, including SSNs, names, and addresses.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://hackread.com/700credit-data-breach-exposing-details-of-5-6-million-consumers"
+        },
+        {
+          "timestamp": "2025-12-16T09:21:41.000Z",
+          "entities": "Fiat Scam Continuation",
+          "eventSummary": "There are claims about the continuation of a 'fiat scam'.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/Ripple"
+        },
+        {
+          "timestamp": "2025-12-16T05:45:00.000Z",
+          "entities": "React Bug Exploitation",
+          "eventSummary": "A new React bug is being exploited to drain tokens, impacting thousands of websites and deploying malware and crypto-mining software.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://www.coindesk.com/tech/2025/12/16/new-react-bug-that-can-drain-all-your-tokens-is-impacting-thousands-of-websites"
+        },
+        {
+          "timestamp": "2025-12-16T05:28:42.000Z",
+          "entities": "French Ministry of the Interior Data Breach by BreachForums",
+          "eventSummary": "BreachForums claims responsibility for a hack on the French Ministry of the Interior, accessing data of over 16 million individuals and issuing a one-week ultimatum before potential data leaks.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://twitter.com/877710712734232576/status/2000800230162190412"
+        }
+      ],
+      "overallDayThreatScore": 92,
+      "dailyBrief": "Today saw a significant escalation in cyber threats, with multiple high-impact incidents reported. Critical vulnerabilities in Fortinet products and React software are actively being exploited, affecting both enterprise infrastructure and thousands of websites. Two major breaches—at 700Credit and the French Ministry of the Interior—resulted in the exposure of millions of personal records. Additionally, a persistent scam involving fiat transactions continues to circulate. The convergence of exploits, data breaches, and large-scale attacks indicates an elevated threat landscape requiring urgent defensive measures."
     }
   ]
 }

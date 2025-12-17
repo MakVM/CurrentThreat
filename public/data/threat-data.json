@@ -1,68 +1,57 @@
 {
-  "currentThreat": "OPERATION REACT DRAIN",
+  "currentThreat": "OPERATION MULTI-VECTOR CASCADE",
   "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "OneInchNetwork Telegram Scam Incident",
-      "description": "A scammer was identified on the OneInchNetwork Telegram channel, with a recommendation to block and report them.",
-      "source": "https://t.me/OneInchNetwork",
-      "time": "2025-12-15T20:36:50.000Z",
-      "severity": "Low",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "React Vulnerability Exploitation on Crypto Platforms",
-      "description": "Hackers are exploiting a React vulnerability on crypto platforms.",
-      "source": "https://cryptopanic.com/news/27965932/Hackers-Exploit-React-Vulnerability-on-Crypto-Platforms",
-      "time": "2025-12-15T15:30:55.000Z",
+      "title": "Fortinet Products Exploitation",
+      "description": "Hackers are exploiting critical-severity vulnerabilities in multiple Fortinet products to gain unauthorized access to admin accounts and steal system configuration files.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3ma4j7633wu2y",
+      "time": "2025-12-16T16:53:26.000Z",
       "severity": "High",
       "classification": [
         "Exploit"
       ]
     },
     {
-      "id": 3,
-      "title": "Nexo Telegram Channel Scam Observation",
-      "description": "A user on the Nexo French Telegram channel observed and commented on a scam.",
-      "source": "https://t.me/Nexo_fr",
-      "time": "2025-12-15T10:38:44.000Z",
-      "severity": "Low",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "React Server Components CVE-2025-55182 Active Exploitation",
-      "description": "A critical security flaw in React Server Components, identified as CVE-2025-55182, is being actively exploited by threat actors to drain wallets and deploy malware across the crypto industry and all websites using React. Security Alliance urges immediate review of front-end code.",
-      "source": "https://cryptonews.com/news/major-javascript-library-breach-puts-all-crypto-websites-at-risk",
-      "time": "2025-12-15T09:05:52.000Z",
+      "id": 2,
+      "title": "700Credit Data Breach",
+      "description": "A massive data breach at 700Credit exposed personal information of millions of consumers, including SSNs, names, and addresses.",
+      "source": "https://hackread.com/700credit-data-breach-exposing-details-of-5-6-million-consumers",
+      "time": "2025-12-16T10:55:25.000Z",
       "severity": "High",
       "classification": [
         "Breach"
       ]
     },
     {
-      "id": 5,
-      "title": "React Vulnerability Used for Crypto Wallet Drainers",
-      "description": "Hackers are exploiting a React vulnerability to inject crypto wallet drainers, as warned by security groups.",
-      "source": "https://cryptopanic.com/news/27955098/DeFi-News-Hackers-Exploit-React-Vulnerability-to-Inject-Crypto-Wallet-Drainers-Security-Groups-Warn",
-      "time": "2025-12-15T08:58:22.000Z",
+      "id": 3,
+      "title": "Fiat Scam Continuation",
+      "description": "There are claims about the continuation of a 'fiat scam'.",
+      "source": "https://t.me/Ripple",
+      "time": "2025-12-16T09:21:41.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "React Bug Exploitation",
+      "description": "A new React bug is being exploited to drain tokens, impacting thousands of websites and deploying malware and crypto-mining software.",
+      "source": "https://www.coindesk.com/tech/2025/12/16/new-react-bug-that-can-drain-all-your-tokens-is-impacting-thousands-of-websites",
+      "time": "2025-12-16T05:45:00.000Z",
       "severity": "High",
       "classification": [
         "Exploit"
       ]
     },
     {
-      "id": 6,
-      "title": "North Korean Fake Zoom Malware Campaign",
-      "description": "North Korean cybercriminals are using 'fake Zoom' tactics to install malware, stealing victims' sensitive data, including passwords and private keys. Cybersecurity firm Security Alliance (SEAL) warned that it has been tracking \"multiple daily\" such attempts.",
-      "source": "https://cryptonews.com/news/north-korean-actors-use-fake-zoom-to-drain-crypto-wallets-300m-stolen-already",
-      "time": "2025-12-15T08:14:21.000Z",
+      "id": 5,
+      "title": "French Ministry of the Interior Data Breach by BreachForums",
+      "description": "BreachForums claims responsibility for a hack on the French Ministry of the Interior, accessing data of over 16 million individuals and issuing a one-week ultimatum before potential data leaks.",
+      "source": "https://twitter.com/877710712734232576/status/2000800230162190412",
+      "time": "2025-12-16T05:28:42.000Z",
       "severity": "High",
       "classification": [
         "Hack"
@@ -70,15 +59,11 @@
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a surge in high-severity cyber events, with a pronounced focus on cryptocurrency, fintech, and SaaS platforms. Notable incidents included the dismantling of a €700M deepfake-powered crypto scam network, multiple smart contract and platform hacks draining millions from user wallets, and the emergence of actively exploited vulnerabilities in widely adopted frameworks like React and Gladinet products. Social engineering and scam activities remained persistent across Telegram, Discord, and PayPal, causing direct financial losses to users. Advanced threat actors, including North Korean groups, leveraged novel malware campaigns (e.g., fake Zoom apps) and exploits to target sensitive credentials and assets, while major breaches at corporations such as Nepes Corp and Atradius exposed vast amounts of personal and corporate data. The week’s events highlight an escalating risk environment, with both technical and social attack vectors converging across the digital asset ecosystem.",
-    "trends": "Key trends observed include a marked escalation in technical exploits—especially against crypto platforms and frameworks like React, with CVE-2025-55182 being actively weaponized for wallet draining and malware delivery. There is a recurring pattern of hacks targeting DeFi protocols, SaaS products, and major corporate databases, suggesting threat actors are focusing on high-value, high-impact targets. Social engineering scams remain rampant on messaging platforms (Telegram, Discord), often exploiting admin accounts and impersonation tactics. The emergence of infostealer campaigns abusing AI chat interfaces and Google ads illustrates a shift toward multi-layered, deceptive attack methods. Notably, North Korean-linked actors are increasingly active, deploying fake conferencing tools to exfiltrate credentials and crypto assets. Overall, threat scores peaked midweek, with persistent high-risk signals around credential theft, technical vulnerabilities, and fraud.",
-    "predictions": "For the coming days, expect continued exploitation of React vulnerabilities, especially CVE-2025-55182, with high risk to crypto platforms, fintech apps, and any service utilizing modern JavaScript frameworks (confidence: high). DeFi and smart contract hacks are likely to persist, with attackers targeting protocol bugs and user wallet approvals. Social engineering and impersonation scams on Telegram and Discord will remain prevalent. Watch for further large-scale data breaches, particularly in financial services and SaaS, as threat actors leverage recently disclosed RCE and credential flaws. North Korean and other advanced persistent threat (APT) groups are expected to intensify malware campaigns using deceptive video conferencing and chat applications. Organizations should prioritize rapid patching, incident response readiness, and user education. Overall, the risk environment remains elevated, with technical and social threats converging—urgent vigilance and proactive defense are recommended."
+    "briefing": "This week saw an intensification of cyber threats across multiple sectors, with a notable concentration of high-severity incidents targeting financial services, SaaS providers, cryptocurrency platforms, and government entities. Critical exploits were reported in widely-used technologies such as React and Fortinet products, resulting in active attacks against thousands of websites and enterprise systems. Major data breaches impacted organizations like Atradius, Nepes Corp, 700Credit, and the French Ministry of the Interior, exposing personal data of millions. Social engineering, account hijacks, and scams proliferated on popular channels including Discord, Telegram, and WeChat, compounding direct financial losses for users. The rapid escalation and diversity of attack vectors highlight an urgent need for organizations and individuals to reinforce their cyber defenses, prioritize vulnerability management, and remain highly vigilant against social engineering.",
+    "trends": "The past week exhibited several clear patterns: a surge in technical exploits leveraging newly identified vulnerabilities (notably in React and Fortinet products), widespread targeting of cryptocurrency platforms with wallet drainers and front-end compromises, and a consistent stream of large-scale data breaches affecting both corporate and government entities. Social engineering and scam activity remained persistent, particularly on messaging platforms and social media, often exploiting compromised admin accounts or advertising channels. Notably, there was a spike in coordinated attacks using malware campaigns and novel exploitation techniques, with threat actors such as North Korean groups and ransomware collectives actively involved. The overall threat scores stayed elevated, with no significant declines, indicating sustained adversarial activity.",
+    "predictions": "Looking ahead, we anticipate continued active exploitation of React and Fortinet vulnerabilities, with further attempts to drain crypto wallets and compromise enterprise infrastructure. The risk of additional large-scale data breaches remains high, especially for organizations with inadequate incident response and patch management. Social engineering scams are likely to persist on platforms where admin credentials can be compromised, and there is moderate-to-high risk of further government and financial sector attacks. Expect threat actors to adapt quickly, exploiting any lag in patch deployment or user awareness, especially during the holiday period when operational vigilance may be lower. Confidence in these predictions is high given recent escalation, ongoing news of vulnerability discoveries, and the sustained activity observed in threat channels."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-10",
-      "count": 6
-    },
     {
       "date": "2025-12-11",
       "count": 5
@@ -102,24 +87,16 @@
     {
       "date": "2025-12-16",
       "count": 6
+    },
+    {
+      "date": "2025-12-17",
+      "count": 5
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Scam",
-      "value": 10
-    },
-    {
-      "name": "Leak",
-      "value": 1
-    },
-    {
-      "name": "Attack",
-      "value": 1
-    },
-    {
       "name": "Exploit",
-      "value": 4
+      "value": 6
     },
     {
       "name": "Malware",
@@ -127,7 +104,11 @@
     },
     {
       "name": "Breach",
-      "value": 5
+      "value": 6
+    },
+    {
+      "name": "Scam",
+      "value": 7
     },
     {
       "name": "Fraud",
@@ -135,7 +116,7 @@
     },
     {
       "name": "Hack",
-      "value": 6
+      "value": 7
     }
   ]
 }

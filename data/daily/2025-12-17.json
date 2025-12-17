@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-12-16T16:53:26.000Z",
+    "entities": "Fortinet",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hackers are exploiting critical-severity vulnerabilities in multiple Fortinet products to gain unauthorized access to admin accounts and steal system configuration files. Sources:\n- https://bsky.app/profile/bleepingcomputer.com/post/3ma4j7633wu2y\n- https://www.bleepingcomputer.com"
+  },
+  {
+    "timestamp": "2025-12-16T10:55:25.000Z",
+    "entities": "700Credit",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A massive data breach at 700Credit exposed personal information of millions of consumers, including SSNs, names, and addresses. Sources:\n- https://bsky.app/profile/hackread.bsky.social/post/3ma3w5br5bk2x\n- https://hackread.com/700credit-data-breach-exposing-details-of-5-6-million-consumers"
+  },
+  {
+    "timestamp": "2025-12-16T09:21:41.000Z",
+    "entities": "fiat",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "There are claims about the continuation of a 'fiat scam'. Sources:\n- https://t.me/Ripple"
+  },
+  {
+    "timestamp": "2025-12-16T05:45:00.000Z",
+    "entities": "React",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A new React bug is being exploited to drain tokens, impacting thousands of websites and deploying malware and crypto-mining software. Sources:\n- https://www.coindesk.com/tech/2025/12/16/new-react-bug-that-can-drain-all-your-tokens-is-impacting-thousands-of-websites"
+  },
+  {
+    "timestamp": "2025-12-16T05:28:42.000Z",
+    "entities": "BreachForums, French Ministry of the Interior",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "BreachForums claims responsibility for a hack on the French Ministry of the Interior, accessing data of over 16 million individuals and issuing a one-week ultimatum before potential data leaks. Sources:\n- https://twitter.com/877710712734232576/status/2000800230162190412"
+  }
+]
