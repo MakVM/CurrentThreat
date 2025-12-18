@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-12-17T16:52:06.000Z",
+    "entities": "React2Shell",
+    "topic": "exploit",
+    "eventSummary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed file-encrypting malware in under a minute. Sources: https://bsky.app/profile/bleepingcomputer.com/post/3ma72e3vy4y2f, https://www.bleepingcomputer.com"
+  },
+  {
+    "timestamp": "2025-12-17T13:08:38.000Z",
+    "entities": "Phantom 3.5",
+    "topic": "exploit",
+    "eventSummary": "A blog reveals that Phantom 3.5, a stealer malware, exfiltrates sensitive data from victims using a fake Adobe installer and sophisticated evasion techniques to facilitate identity theft and larger attacks. Sources: https://twitter.com/877710712734232576/status/2001278364980551790"
+  },
+  {
+    "timestamp": "2025-12-17T11:57:19.000Z",
+    "entities": "Devman RaaS",
+    "topic": "leak",
+    "eventSummary": "A leak of Devman RaaS internal affiliate chats, victim access, and micromanagement details has been reported, indicating poor operational security. Sources: https://twitter.com/1915706282914271232/status/2001260415335231991"
+  },
+  {
+    "timestamp": "2025-12-17T05:48:57.000Z",
+    "entities": "Ribbon Finance",
+    "topic": "exploit",
+    "eventSummary": "Ribbon Finance suffered a $2.7 million exploit. Sources: https://www.reddit.com/r/CryptoCurrency/comments/1po7rim/ribbon_finance_suffers_27_million_exploit_plans, https://x.com/ribbonfinance/status/1999815546007584817, https://x.com/ribbonfinance/status/2000003294563905765"
+  },
+  {
+    "timestamp": "2025-12-17T03:54:13.000Z",
+    "entities": "Yearn Finance",
+    "topic": "exploit",
+    "eventSummary": "Yearn Finance's legacy v1 smart contract was exploited, resulting in an attacker making off with approximately 103 ETH (~$300,000) through a flash loan to manipulate token prices and withdraw iearn assets. Sources: https://web3isgoinggreat.com/single/yearn-finance-exploit-4"
+  },
+  {
+    "timestamp": "2025-12-17T01:58:38.000Z",
+    "entities": "Fortinet FortiGate",
+    "topic": "exploit",
+    "eventSummary": "Cybersecurity experts report that threat actors are actively exploiting two newly disclosed vulnerabilities in Fortinet FortiGate devices, utilizing malicious SSO logins and authentication bypasses (CVE-2025-59718 & CVE-2025-59719). Sources: https://twitter.com/877710712734232576/status/2001109751623508138"
+  }
+]

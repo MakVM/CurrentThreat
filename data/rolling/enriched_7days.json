@@ -1,54 +1,7 @@
 {
-  "startDate": "2025-12-11",
-  "endDate": "2025-12-17",
+  "startDate": "2025-12-12",
+  "endDate": "2025-12-18",
   "days": [
-    {
-      "date": "2025-12-11",
-      "events": [
-        {
-          "timestamp": "2025-12-11T00:38:38.000Z",
-          "entities": "AMOS Infostealer Campaign via Google Ads and AI Chat",
-          "eventSummary": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instructions but ultimately lead to installing the AMOS info-stealing malware on macOS.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3m7oau3isb42h"
-        },
-        {
-          "timestamp": "2025-12-11T00:14:32.000Z",
-          "entities": "Android Trojan Banker Reports",
-          "eventSummary": "There are reports of a trojan banker android.",
-          "severity": "Medium",
-          "tags": "malware",
-          "source": "https://t.me/bchchannel"
-        },
-        {
-          "timestamp": "2025-12-10T14:31:40.000Z",
-          "entities": "Nova Hacking Group Claims GRUPO PUMA Breach",
-          "eventSummary": "Nova hacking group claims to have breached GRUPO PUMA and exfiltrated 10 GB of data. The cyberattack is pending verification.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m7n6zw77v22q"
-        },
-        {
-          "timestamp": "2025-12-10T11:06:45.000Z",
-          "entities": "Potential Scammer on Litecoin Telegram Channel",
-          "eventSummary": "There are reports of a potential scammer on Litecoin Telegram channel.",
-          "severity": "Low",
-          "tags": "scam",
-          "source": "https://t.me/Litecoin"
-        },
-        {
-          "timestamp": "2025-12-10T03:55:55.000Z",
-          "entities": "Binance Co-Founder WeChat Account Hijack for Token Fraud",
-          "eventSummary": "A hacker hijacked the WeChat account of Binance co-founder Yi He to carry out a pump-and-dump scheme involving the Mubarakah token, generating roughly $55,000 in profits.",
-          "severity": "Medium",
-          "tags": "fraud",
-          "source": "https://beincrypto.com/yi-he-wechat-hack-mubarakah-pump"
-        }
-      ],
-      "overallDayThreatScore": 82,
-      "dailyBrief": "Today's cyber threat landscape is marked by a high level of malicious activity, including a sophisticated infostealer campaign targeting macOS users through Google ads and AI chat impersonation, and a significant alleged breach of GRUPO PUMA by the Nova hacking group. Additional events include the emergence of an Android banking trojan, a notable social engineering attack involving the Binance co-founder's WeChat account, and reports of scams targeting cryptocurrency communities. The blend of high-impact breaches, widespread malware, and targeted frauds raises the overall risk profile for the day."
-    },
     {
       "date": "2025-12-12",
       "events": [
@@ -273,6 +226,61 @@
       ],
       "overallDayThreatScore": 92,
       "dailyBrief": "Today saw a significant escalation in cyber threats, with multiple high-impact incidents reported. Critical vulnerabilities in Fortinet products and React software are actively being exploited, affecting both enterprise infrastructure and thousands of websites. Two major breaches—at 700Credit and the French Ministry of the Interior—resulted in the exposure of millions of personal records. Additionally, a persistent scam involving fiat transactions continues to circulate. The convergence of exploits, data breaches, and large-scale attacks indicates an elevated threat landscape requiring urgent defensive measures."
+    },
+    {
+      "date": "2025-12-18",
+      "events": [
+        {
+          "timestamp": "2025-12-17T16:52:06.000Z",
+          "entities": "React2Shell Ransomware Exploitation (CVE-2025-55182)",
+          "eventSummary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed file-encrypting malware in under a minute.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3ma72e3vy4y2f"
+        },
+        {
+          "timestamp": "2025-12-17T13:08:38.000Z",
+          "entities": "Phantom 3.5 Stealer Malware Campaign",
+          "eventSummary": "A blog reveals that Phantom 3.5, a stealer malware, exfiltrates sensitive data from victims using a fake Adobe installer and sophisticated evasion techniques to facilitate identity theft and larger attacks.",
+          "severity": "Medium",
+          "tags": "fraud",
+          "source": "https://twitter.com/877710712734232576/status/2001278364980551790"
+        },
+        {
+          "timestamp": "2025-12-17T11:57:19.000Z",
+          "entities": "Devman RaaS Affiliate Chat Leak",
+          "eventSummary": "A leak of Devman RaaS internal affiliate chats, victim access, and micromanagement details has been reported, indicating poor operational security.",
+          "severity": "Medium",
+          "tags": "leak",
+          "source": "https://twitter.com/1915706282914271232/status/2001260415335231991"
+        },
+        {
+          "timestamp": "2025-12-17T05:48:57.000Z",
+          "entities": "Ribbon Finance $2.7 Million Exploit",
+          "eventSummary": "Ribbon Finance suffered a $2.7 million exploit.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://www.reddit.com/r/CryptoCurrency/comments/1po7rim/ribbon_finance_suffers_27_million_exploit_plans"
+        },
+        {
+          "timestamp": "2025-12-17T03:54:13.000Z",
+          "entities": "Yearn Finance Flash Loan Exploit",
+          "eventSummary": "Yearn Finance's legacy v1 smart contract was exploited, resulting in an attacker making off with approximately 103 ETH (~$300,000) through a flash loan to manipulate token prices and withdraw iearn assets.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://web3isgoinggreat.com/single/yearn-finance-exploit-4"
+        },
+        {
+          "timestamp": "2025-12-17T01:58:38.000Z",
+          "entities": "Fortinet FortiGate Vulnerability Attack (CVE-2025-59718 & CVE-2025-59719)",
+          "eventSummary": "Cybersecurity experts report that threat actors are actively exploiting two newly disclosed vulnerabilities in Fortinet FortiGate devices, utilizing malicious SSO logins and authentication bypasses (CVE-2025-59718 & CVE-2025-59719).",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://twitter.com/877710712734232576/status/2001109751623508138"
+        }
+      ],
+      "overallDayThreatScore": 88,
+      "dailyBrief": "December 17th saw a surge in high-impact cyber events, including critical exploits targeting both corporate networks and major DeFi platforms. Ransomware actors rapidly weaponized a new React2Shell vulnerability, and Fortinet FortiGate devices faced active attacks on fresh flaws. Financial losses were significant, with Ribbon Finance suffering a $2.7 million breach and Yearn Finance losing $300,000 in a sophisticated flash loan exploit. Malware campaigns and leaks, such as Phantom 3.5 and Devman RaaS, highlight ongoing risks from fraud and poor operational security. Overall, the day demonstrates aggressive threat actor tactics, rapid exploitation of new vulnerabilities, and sustained financial targeting—requiring vigilant patching, incident response, and monitoring."
     }
   ]
 }

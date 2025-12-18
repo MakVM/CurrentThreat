@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-17T16:52:06.000Z",
+      "entities": "React2Shell Ransomware Exploitation (CVE-2025-55182)",
+      "eventSummary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed file-encrypting malware in under a minute.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3ma72e3vy4y2f"
+    },
+    {
+      "timestamp": "2025-12-17T13:08:38.000Z",
+      "entities": "Phantom 3.5 Stealer Malware Campaign",
+      "eventSummary": "A blog reveals that Phantom 3.5, a stealer malware, exfiltrates sensitive data from victims using a fake Adobe installer and sophisticated evasion techniques to facilitate identity theft and larger attacks.",
+      "severity": "Medium",
+      "tags": "fraud",
+      "source": "https://twitter.com/877710712734232576/status/2001278364980551790"
+    },
+    {
+      "timestamp": "2025-12-17T11:57:19.000Z",
+      "entities": "Devman RaaS Affiliate Chat Leak",
+      "eventSummary": "A leak of Devman RaaS internal affiliate chats, victim access, and micromanagement details has been reported, indicating poor operational security.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://twitter.com/1915706282914271232/status/2001260415335231991"
+    },
+    {
+      "timestamp": "2025-12-17T05:48:57.000Z",
+      "entities": "Ribbon Finance $2.7 Million Exploit",
+      "eventSummary": "Ribbon Finance suffered a $2.7 million exploit.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://www.reddit.com/r/CryptoCurrency/comments/1po7rim/ribbon_finance_suffers_27_million_exploit_plans"
+    },
+    {
+      "timestamp": "2025-12-17T03:54:13.000Z",
+      "entities": "Yearn Finance Flash Loan Exploit",
+      "eventSummary": "Yearn Finance's legacy v1 smart contract was exploited, resulting in an attacker making off with approximately 103 ETH (~$300,000) through a flash loan to manipulate token prices and withdraw iearn assets.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://web3isgoinggreat.com/single/yearn-finance-exploit-4"
+    },
+    {
+      "timestamp": "2025-12-17T01:58:38.000Z",
+      "entities": "Fortinet FortiGate Vulnerability Attack (CVE-2025-59718 & CVE-2025-59719)",
+      "eventSummary": "Cybersecurity experts report that threat actors are actively exploiting two newly disclosed vulnerabilities in Fortinet FortiGate devices, utilizing malicious SSO logins and authentication bypasses (CVE-2025-59718 & CVE-2025-59719).",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://twitter.com/877710712734232576/status/2001109751623508138"
+    }
+  ],
+  "overallDayThreatScore": 88,
+  "dailyBrief": "December 17th saw a surge in high-impact cyber events, including critical exploits targeting both corporate networks and major DeFi platforms. Ransomware actors rapidly weaponized a new React2Shell vulnerability, and Fortinet FortiGate devices faced active attacks on fresh flaws. Financial losses were significant, with Ribbon Finance suffering a $2.7 million breach and Yearn Finance losing $300,000 in a sophisticated flash loan exploit. Malware campaigns and leaks, such as Phantom 3.5 and Devman RaaS, highlight ongoing risks from fraud and poor operational security. Overall, the day demonstrates aggressive threat actor tactics, rapid exploitation of new vulnerabilities, and sustained financial targeting—requiring vigilant patching, incident response, and monitoring."
+}
