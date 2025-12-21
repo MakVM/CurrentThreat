@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2025-12-20T02:50:45.000Z",
+    "entities": "SlowMist",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A crypto user lost approximately $50 million in USDT due to an address-poisoning scam. The victim mistakenly copied a look-alike wallet address from their transaction history, transferring 49,999,950 USDT to the attacker. The funds were subsequently converted to ETH and partially funneled through Tornado Cash. The victim has reportedly sent an on-chain message offering a $1M white-hat bounty for the return of 98% of the funds.\nSources:\n- https://cryptonews.com/news/address-poisoning-scam-one-copy-paste-mistake-cost-a-crypto-trader-50-million\n- https://cryptopanic.com/news/28133983/A-victim-0xcB80-lost-50M-due-to-a-copy-paste-address-mistake-Before-transferring-50M-USDT-the-victim-sent-50-USDT-as-a-test-to-his-own-address-0xbaf4b1aFB6495F8b5-The-scammer-immediately-spoofed-a-wallet-with-the-same-first-and-last-4-characters-and-perfor\n- https://cryptopanic.com/news/28150390/According-to-Specter-the-address-that-lost-50m-USDT-to-a-phishing-attack-posted-an-on-chain-message-to-the-attacker-stating-that-it-demands-the-return-of-98-of-the-stolen-funds-to-a-specified-address-within-48-hours-allowing-the-attacker-to-keep-1m-as-a-wh"
+  }
+]

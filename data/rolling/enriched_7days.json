@@ -1,38 +1,7 @@
 {
-  "startDate": "2025-12-12",
-  "endDate": "2025-12-18",
+  "startDate": "2025-12-13",
+  "endDate": "2025-12-21",
   "days": [
-    {
-      "date": "2025-12-12",
-      "events": [
-        {
-          "timestamp": "2025-12-11T21:55:26.000Z",
-          "entities": "Gladinet CentreStack & Triofox RCE vulnerability exploited",
-          "eventSummary": "Hackers are exploiting an undocumented vulnerability in the cryptographic algorithm implementation within Gladinet's CentreStack and Triofox products for secure remote file access and sharing, leading to RCE attacks.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://www.bleepingcomputer.com"
-        },
-        {
-          "timestamp": "2025-12-11T21:04:34.000Z",
-          "entities": "Yearn Finance smart contract hack and pxETH recovery",
-          "eventSummary": "Yearn Finance, a defi yield protocol, suffered its third hack due to bugs in its smart contract. The exploiter drained assets from several pools by minting a large number of yETH tokens and withdrawing corresponding assets. $2.4 million in pxETH, a liquid staking token issued by Redacted Cartel, was recovered after Redacted Cartel burned and reissued the stolen tokens.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://web3isgoinggreat.com/single/yearn-finance-hack-3"
-        },
-        {
-          "timestamp": "2025-12-11T05:43:08.000Z",
-          "entities": "Atradius & Crédito y Caución client data breach",
-          "eventSummary": "The attacker reportedly exfiltrated 950,000 records, including client names, mobile numbers, optional emails, policy tiers, and contract types tied to the Atradius and Crédito y Caución divisions.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m7ossmdwez2c"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "Today saw a surge in critical cyber incidents targeting financial, SaaS, and insurance sectors. Hackers exploited a major cryptographic flaw in Gladinet’s CentreStack and Triofox products, resulting in remote code execution vulnerabilities. Yearn Finance suffered another substantial hack due to smart contract bugs, though partial asset recovery was achieved. Additionally, a large-scale data breach at Atradius and Crédito y Caución compromised nearly a million client records. The day reflects escalating risk from both technical exploits and data exfiltration, highlighting urgent needs for improved vulnerability management and incident response."
-    },
     {
       "date": "2025-12-13",
       "events": [
@@ -281,6 +250,21 @@
       ],
       "overallDayThreatScore": 88,
       "dailyBrief": "December 17th saw a surge in high-impact cyber events, including critical exploits targeting both corporate networks and major DeFi platforms. Ransomware actors rapidly weaponized a new React2Shell vulnerability, and Fortinet FortiGate devices faced active attacks on fresh flaws. Financial losses were significant, with Ribbon Finance suffering a $2.7 million breach and Yearn Finance losing $300,000 in a sophisticated flash loan exploit. Malware campaigns and leaks, such as Phantom 3.5 and Devman RaaS, highlight ongoing risks from fraud and poor operational security. Overall, the day demonstrates aggressive threat actor tactics, rapid exploitation of new vulnerabilities, and sustained financial targeting—requiring vigilant patching, incident response, and monitoring."
+    },
+    {
+      "date": "2025-12-21",
+      "events": [
+        {
+          "timestamp": "2025-12-20T02:50:45.000Z",
+          "entities": "Major USDT Address-Poisoning Scam Results in $50M Loss",
+          "eventSummary": "A crypto user lost approximately $50 million in USDT due to an address-poisoning scam. The victim mistakenly copied a look-alike wallet address from their transaction history, transferring 49,999,950 USDT to the attacker. The funds were subsequently converted to ETH and partially funneled through Tornado Cash. The victim has reportedly sent an on-chain message offering a $1M white-hat bounty for the return of 98% of the funds.",
+          "severity": "High",
+          "tags": "scam",
+          "source": "https://cryptonews.com/news/address-poisoning-scam-one-copy-paste-mistake-cost-a-crypto-trader-50-million"
+        }
+      ],
+      "overallDayThreatScore": 90,
+      "dailyBrief": "A significant address-poisoning scam led to the loss of $50 million in USDT after a user mistakenly transferred funds to a fraudulent wallet. The attacker rapidly laundered the funds through Tornado Cash, highlighting both the effectiveness of social engineering and the challenges of tracing crypto assets. Today's threat landscape is marked by sophisticated scams targeting crypto users and underscores the urgent need for improved wallet address verification and anti-phishing measures."
     }
   ]
 }

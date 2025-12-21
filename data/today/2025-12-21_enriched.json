@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-20T02:50:45.000Z",
+      "entities": "Major USDT Address-Poisoning Scam Results in $50M Loss",
+      "eventSummary": "A crypto user lost approximately $50 million in USDT due to an address-poisoning scam. The victim mistakenly copied a look-alike wallet address from their transaction history, transferring 49,999,950 USDT to the attacker. The funds were subsequently converted to ETH and partially funneled through Tornado Cash. The victim has reportedly sent an on-chain message offering a $1M white-hat bounty for the return of 98% of the funds.",
+      "severity": "High",
+      "tags": "scam",
+      "source": "https://cryptonews.com/news/address-poisoning-scam-one-copy-paste-mistake-cost-a-crypto-trader-50-million"
+    }
+  ],
+  "overallDayThreatScore": 90,
+  "dailyBrief": "A significant address-poisoning scam led to the loss of $50 million in USDT after a user mistakenly transferred funds to a fraudulent wallet. The attacker rapidly laundered the funds through Tornado Cash, highlighting both the effectiveness of social engineering and the challenges of tracing crypto assets. Today's threat landscape is marked by sophisticated scams targeting crypto users and underscores the urgent need for improved wallet address verification and anti-phishing measures."
+}

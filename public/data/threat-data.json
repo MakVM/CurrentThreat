@@ -1,84 +1,25 @@
 {
-  "currentThreat": "OPERATION RAPID EXPLOIT",
-  "threatScore": 9.1,
+  "currentThreat": "OPERATION CRYPTIC POISON",
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "React2Shell Ransomware Exploitation (CVE-2025-55182)",
-      "description": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed file-encrypting malware in under a minute.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3ma72e3vy4y2f",
-      "time": "2025-12-17T16:52:06.000Z",
+      "title": "Major USDT Address-Poisoning Scam Results in $50M Loss",
+      "description": "A crypto user lost approximately $50 million in USDT due to an address-poisoning scam. The victim mistakenly copied a look-alike wallet address from their transaction history, transferring 49,999,950 USDT to the attacker. The funds were subsequently converted to ETH and partially funneled through Tornado Cash. The victim has reportedly sent an on-chain message offering a $1M white-hat bounty for the return of 98% of the funds.",
+      "source": "https://cryptonews.com/news/address-poisoning-scam-one-copy-paste-mistake-cost-a-crypto-trader-50-million",
+      "time": "2025-12-20T02:50:45.000Z",
       "severity": "High",
       "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Phantom 3.5 Stealer Malware Campaign",
-      "description": "A blog reveals that Phantom 3.5, a stealer malware, exfiltrates sensitive data from victims using a fake Adobe installer and sophisticated evasion techniques to facilitate identity theft and larger attacks.",
-      "source": "https://twitter.com/877710712734232576/status/2001278364980551790",
-      "time": "2025-12-17T13:08:38.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Fraud"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Devman RaaS Affiliate Chat Leak",
-      "description": "A leak of Devman RaaS internal affiliate chats, victim access, and micromanagement details has been reported, indicating poor operational security.",
-      "source": "https://twitter.com/1915706282914271232/status/2001260415335231991",
-      "time": "2025-12-17T11:57:19.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Ribbon Finance $2.7 Million Exploit",
-      "description": "Ribbon Finance suffered a $2.7 million exploit.",
-      "source": "https://www.reddit.com/r/CryptoCurrency/comments/1po7rim/ribbon_finance_suffers_27_million_exploit_plans",
-      "time": "2025-12-17T05:48:57.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Yearn Finance Flash Loan Exploit",
-      "description": "Yearn Finance's legacy v1 smart contract was exploited, resulting in an attacker making off with approximately 103 ETH (~$300,000) through a flash loan to manipulate token prices and withdraw iearn assets.",
-      "source": "https://web3isgoinggreat.com/single/yearn-finance-exploit-4",
-      "time": "2025-12-17T03:54:13.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Fortinet FortiGate Vulnerability Attack (CVE-2025-59718 & CVE-2025-59719)",
-      "description": "Cybersecurity experts report that threat actors are actively exploiting two newly disclosed vulnerabilities in Fortinet FortiGate devices, utilizing malicious SSO logins and authentication bypasses (CVE-2025-59718 & CVE-2025-59719).",
-      "source": "https://twitter.com/877710712734232576/status/2001109751623508138",
-      "time": "2025-12-17T01:58:38.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
+        "Scam"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week saw a dramatic escalation in cyber risk across multiple sectors, with critical vulnerabilities and high-profile breaches dominating the landscape. The discovery and rapid exploitation of a major React framework flaw (CVE-2025-55182) led to widespread wallet draining, malware deployment, and even ransomware attacks within minutes of compromise. Financial platforms, especially DeFi protocols like Yearn and Ribbon Finance, suffered multi-million dollar losses from smart contract exploits, while enterprise infrastructure faced active attacks on Fortinet devices and Microsoft accounts. Data breaches at corporate giants such as 700Credit, Nepes Corp, and the French Ministry of the Interior exposed tens of millions of personal records. Social engineering and scam activity surged on popular social platforms, compounding direct financial and reputational damage. The convergence of technical exploits, targeted attacks, and data exfiltration signals an exceptionally high threat level, requiring immediate attention from both technical and executive leadership.",
-    "trends": "Key trends include a persistent and aggressive targeting of software supply chain vulnerabilities, notably in widely used frameworks like React, which exposed thousands of websites and crypto platforms to wallet drainers, malware, and ransomware. There has been a marked increase in attacks on enterprise products (Fortinet, Microsoft Azure), with threat actors exploiting newly disclosed flaws within hours of public release. Financial and DeFi sectors remain top targets, with sophisticated exploits causing substantial monetary loss. Data exfiltration from large organizations and government entities is on the rise, as evidenced by breaches at 700Credit, Nepes Corp, and the French Ministry. Social engineering and scam campaigns on platforms such as Discord, Telegram, and Litecoin communities persist, exploiting account compromises and admin impersonations. Overall, threat activity is elevated, with a notable spike in ransomware, data breaches, and financial fraud.",
-    "predictions": "In the coming days, expect continued exploitation of React and Fortinet vulnerabilities as threat actors race to compromise unpatched systems. Ransomware campaigns are likely to intensify, especially targeting enterprises slow to remediate React2Shell and FortiGate flaws (confidence: high). DeFi and crypto platforms remain at high risk for smart contract exploits, wallet drainers, and flash loan manipulations. Government and large corporate entities should brace for further data breach disclosures, especially if ransom demands or leak ultimatums are unmet. Social engineering and scam activity will persist across Discord, Telegram, and crypto communities, likely leveraging recent admin/account compromises. Security teams should prioritize urgent patching, incident response readiness, and enhanced monitoring of user-facing apps and infrastructure. Overall, the risk profile remains critical—proactive defense and rapid remediation are essential."
+    "briefing": "This week was marked by an unprecedented escalation in cyber threats, particularly targeting cryptocurrency platforms, fintech, and enterprise infrastructure. High-severity incidents included multimillion-dollar exploits (Ribbon Finance, USDT address-poisoning), large-scale data breaches (700Credit, French Ministry of the Interior, Nepes Corp), and aggressive exploitation of critical vulnerabilities in widely used technologies (React framework, Fortinet products, Microsoft Azure). Sophisticated technical attacks were complemented by persistent scams and social engineering on popular platforms such as Discord, Telegram, and PayPal. Ransomware actors and advanced persistent threat groups (including North Korean-linked campaigns) demonstrated rapid weaponization of new vulnerabilities and malware distribution, resulting in significant financial and personal data losses. The overall threat environment for the week was highly elevated, with attackers leveraging both technical exploits and user deception.",
+    "trends": "The period saw a clear pattern of rapid exploitation of newly discovered vulnerabilities, with multiple days dominated by attacks leveraging critical flaws in React (CVE-2025-55182 and related bugs) and Fortinet products. Crypto platforms and wallet users faced persistent financial targeting, from direct hacks and wallet drainers to sophisticated address-poisoning scams resulting in record losses. Scams and social engineering remained pervasive on social platforms, often exploiting compromised admin accounts. Data breaches increased in scale and impact, with millions of records exposed across both private and governmental entities. The frequency of high-severity events and cross-platform attacks suggests a spike in coordinated, opportunistic threat actor activity, particularly against crypto and fintech sectors.",
+    "predictions": "In the upcoming days, expect continued targeting of crypto platforms and users, with wallet-draining exploits and address-poisoning scams remaining prevalent. Newly disclosed vulnerabilities in popular frameworks (React, Fortinet) are likely to see further active exploitation, especially before widespread patching and mitigation. Ransomware and malware campaigns, including North Korean-linked fake app attacks, will persist and potentially escalate. Large-scale data breaches and leaks, especially following ultimatum periods (e.g., French Ministry of the Interior), could materialize. Social engineering and scams on messaging platforms will remain a constant threat. Confidence level: High—based on recent spikes, active exploits, and sophisticated attacker tactics. Organizations should prioritize patching, monitoring for suspicious wallet activity, and reinforcing user education to mitigate risks."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-12",
-      "count": 3
-    },
     {
       "date": "2025-12-13",
       "count": 6
@@ -102,24 +43,28 @@
     {
       "date": "2025-12-18",
       "count": 6
+    },
+    {
+      "date": "2025-12-21",
+      "count": 1
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Exploit",
-      "value": 5
-    },
-    {
       "name": "Hack",
-      "value": 11
+      "value": 10
     },
     {
       "name": "Breach",
-      "value": 5
+      "value": 4
     },
     {
       "name": "Scam",
-      "value": 6
+      "value": 7
+    },
+    {
+      "name": "Exploit",
+      "value": 4
     },
     {
       "name": "Fraud",
