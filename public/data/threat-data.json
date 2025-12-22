@@ -1,29 +1,91 @@
 {
-  "currentThreat": "OPERATION CRYPTIC POISON",
-  "threatScore": 9,
+  "currentThreat": "OPERATION CRIMSON CASCADE",
+  "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Major USDT Address-Poisoning Scam Results in $50M Loss",
-      "description": "A crypto user lost approximately $50 million in USDT due to an address-poisoning scam. The victim mistakenly copied a look-alike wallet address from their transaction history, transferring 49,999,950 USDT to the attacker. The funds were subsequently converted to ETH and partially funneled through Tornado Cash. The victim has reportedly sent an on-chain message offering a $1M white-hat bounty for the return of 98% of the funds.",
-      "source": "https://cryptonews.com/news/address-poisoning-scam-one-copy-paste-mistake-cost-a-crypto-trader-50-million",
-      "time": "2025-12-20T02:50:45.000Z",
+      "title": "B2Sell and Kitchem Data Breach and Website Defacement",
+      "description": "B2Sell and Kitchem have allegedly been victims of a data breach and website defacement.",
+      "source": "https://twitter.com/1697387633247150081/status/2002870552932110625",
+      "time": "2025-12-21T22:35:26.000Z",
+      "severity": "High",
+      "classification": [
+        "Breach"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Data to Win Systems Data Breach",
+      "description": "An alleged data breach has been reported involving the Spanish company Data to Win Systems.",
+      "source": "https://twitter.com/1697387633247150081/status/2002810961741451742",
+      "time": "2025-12-21T18:38:38.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Breach"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Critical Vulnerabilities Announced (iMessage, Dropbear, OrangeHRM)",
+      "description": "Security researchers highlight several critical vulnerabilities including an iMessage Zero-Click RCE chain (CVE-2025-31200, CVE-2025-31201), Dropbear privilege escalation (CVE-2025-14282), and OrangeHRM RCE (CVE-2025-66224).",
+      "source": "https://twitter.com/2342380454/status/2002797784991449253",
+      "time": "2025-12-21T17:46:16.000Z",
+      "severity": "High",
+      "classification": [
+        "Exploit"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Crypto Address Poisoning Scam ($50 Million Loss)",
+      "description": "A crypto user reportedly lost $50 million in a high-value address poisoning scam involving address manipulation.",
+      "source": "https://thecurrencyanalytics.com/altcoins/crypto-scam-costs-user-50-million-through-address-manipulation-231027",
+      "time": "2025-12-21T14:45:51.000Z",
       "severity": "High",
       "classification": [
         "Scam"
       ]
+    },
+    {
+      "id": 5,
+      "title": "PBH Token Scam",
+      "description": "Users report a scam involving the PBH token, resulting in the loss of funds.",
+      "source": "https://t.me/binanceexchange",
+      "time": "2025-12-21T10:51:47.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Starbucks CVE-2007-0450 Exploit Risk",
+      "description": "Reports indicate that Starbucks remains vulnerable to exploitation via CVE-2007-0450, a legacy directory traversal and authentication bypass vulnerability.",
+      "source": "https://twitter.com/92835108/status/2002687340897284445",
+      "time": "2025-12-21T10:27:24.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Exploit"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Government & Manufacturing Sectors Targeted by Email Malware Campaign",
+      "description": "Hackers are reportedly weaponizing SVG files and Office documents in a sophisticated email campaign to distribute Remote Access Trojans and information stealers targeting government and manufacturing sectors in Italy, Finland, and Saudi Arabia.",
+      "source": "https://twitter.com/1165106855879704577/status/2002668794184085832",
+      "time": "2025-12-21T09:13:42.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
     }
   ],
   "past7Days": {
-    "briefing": "This week was marked by an unprecedented escalation in cyber threats, particularly targeting cryptocurrency platforms, fintech, and enterprise infrastructure. High-severity incidents included multimillion-dollar exploits (Ribbon Finance, USDT address-poisoning), large-scale data breaches (700Credit, French Ministry of the Interior, Nepes Corp), and aggressive exploitation of critical vulnerabilities in widely used technologies (React framework, Fortinet products, Microsoft Azure). Sophisticated technical attacks were complemented by persistent scams and social engineering on popular platforms such as Discord, Telegram, and PayPal. Ransomware actors and advanced persistent threat groups (including North Korean-linked campaigns) demonstrated rapid weaponization of new vulnerabilities and malware distribution, resulting in significant financial and personal data losses. The overall threat environment for the week was highly elevated, with attackers leveraging both technical exploits and user deception.",
-    "trends": "The period saw a clear pattern of rapid exploitation of newly discovered vulnerabilities, with multiple days dominated by attacks leveraging critical flaws in React (CVE-2025-55182 and related bugs) and Fortinet products. Crypto platforms and wallet users faced persistent financial targeting, from direct hacks and wallet drainers to sophisticated address-poisoning scams resulting in record losses. Scams and social engineering remained pervasive on social platforms, often exploiting compromised admin accounts. Data breaches increased in scale and impact, with millions of records exposed across both private and governmental entities. The frequency of high-severity events and cross-platform attacks suggests a spike in coordinated, opportunistic threat actor activity, particularly against crypto and fintech sectors.",
-    "predictions": "In the upcoming days, expect continued targeting of crypto platforms and users, with wallet-draining exploits and address-poisoning scams remaining prevalent. Newly disclosed vulnerabilities in popular frameworks (React, Fortinet) are likely to see further active exploitation, especially before widespread patching and mitigation. Ransomware and malware campaigns, including North Korean-linked fake app attacks, will persist and potentially escalate. Large-scale data breaches and leaks, especially following ultimatum periods (e.g., French Ministry of the Interior), could materialize. Social engineering and scams on messaging platforms will remain a constant threat. Confidence level: High—based on recent spikes, active exploits, and sophisticated attacker tactics. Organizations should prioritize patching, monitoring for suspicious wallet activity, and reinforcing user education to mitigate risks."
+    "briefing": "This week witnessed an escalation in cyber threats, with several high-severity incidents impacting critical infrastructure, major financial platforms, government entities, and the crypto sector. Exploitation of newly disclosed vulnerabilities in React (CVE-2025-55182) and Fortinet products enabled rapid deployment of ransomware, malware, and unauthorized access to sensitive systems. Large-scale data breaches at 700Credit and the French Ministry of the Interior exposed personal information of millions, while a staggering $50 million was lost in a crypto address-poisoning scam, highlighting the effectiveness of social engineering. The period also saw sophisticated campaigns targeting government and manufacturing sectors in multiple countries, and widespread scams on popular messaging platforms. The sustained pace and scale of attacks, coupled with the emergence of new critical vulnerabilities, underscores a period of heightened risk requiring immediate defensive action and vigilant monitoring.",
+    "trends": "Key trends include a sharp rise in vulnerability exploitation, especially targeting React and Fortinet products, with attackers rapidly operationalizing new exploits for ransomware and data theft. The crypto sector remains a primary target, suffering both technical breaches and high-value social engineering scams, particularly address poisoning and fraudulent token activity. There is a persistent pattern of data breaches at both private companies and government entities, and an uptick in sophisticated malware campaigns delivered via email, targeting critical sectors across several countries. Newly disclosed vulnerabilities in widely used platforms (iMessage, Dropbear, OrangeHRM) are likely to attract further exploitation attempts. The overall threat score remains consistently high across the week, signaling ongoing and coordinated attacker activity.",
+    "predictions": "In the coming days, expect continued exploitation of React and Fortinet-related vulnerabilities, with ransomware groups and criminal affiliates seeking to capitalize on unpatched systems. The crypto ecosystem will likely remain under siege, with scammers deploying increasingly advanced social engineering techniques and wallet manipulation tactics—address verification and anti-phishing controls are critical. Government and manufacturing sectors should prepare for sophisticated malware-laden email campaigns, while organizations running platforms affected by newly announced CVEs (iMessage, Dropbear, OrangeHRM) face elevated risk of zero-day attacks. High-value data breaches and website defacements may persist. Confidence level: High, given the recent surge in critical vulnerabilities, coordinated campaigns, and the rapid monetization observed in recent incidents."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-13",
-      "count": 6
-    },
     {
       "date": "2025-12-14",
       "count": 0
@@ -47,23 +109,27 @@
     {
       "date": "2025-12-21",
       "count": 1
+    },
+    {
+      "date": "2025-12-22",
+      "count": 7
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Hack",
-      "value": 10
-    },
-    {
-      "name": "Breach",
-      "value": 4
-    },
-    {
       "name": "Scam",
-      "value": 7
+      "value": 8
+    },
+    {
+      "name": "Hack",
+      "value": 8
     },
     {
       "name": "Exploit",
+      "value": 6
+    },
+    {
+      "name": "Breach",
       "value": 4
     },
     {

@@ -1,62 +1,7 @@
 {
-  "startDate": "2025-12-13",
-  "endDate": "2025-12-21",
+  "startDate": "2025-12-14",
+  "endDate": "2025-12-22",
   "days": [
-    {
-      "date": "2025-12-13",
-      "events": [
-        {
-          "timestamp": "2025-12-12T21:00:38.000Z",
-          "entities": "ZEROBASE Front-End Hack Impacting Users",
-          "eventSummary": "A ZEROBASE front-end hack resulted in over 270 users losing more than $240K USDT. Following the attack, Binance Wallet has blocked malicious domains and contracts.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://twitter.com/2207129125/status/1999585206261469443"
-        },
-        {
-          "timestamp": "2025-12-12T17:27:30.000Z",
-          "entities": "Bitcoin Potential Hijack Investigation",
-          "eventSummary": "There are questions about whether Bitcoin has been hijacked.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://cryptopanic.com/news/27898676/Has-Bitcoin-Been-Hijacked"
-        },
-        {
-          "timestamp": "2025-12-12T16:28:41.000Z",
-          "entities": "Zerobasezk Frontend Compromise and User Fund Theft",
-          "eventSummary": "Hackers compromised the Zerobasezk frontend, stealing over $240K from more than 270 users, including one user who lost 123,597 $USDT. Users are advised to revoke any suspicious contract approvals in their wallets.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptopanic.com/news/27897404/Hackers-compromised-the-zerobasezk-frontend-stealing-funds-from-270-users-totaling-over-240K-One-user-alone-lost-123597-USDT-Please-use-or-other-tools-to-revoke-any-suspicious-or-unnecessary-contract-approvals-in-your-wallet-Stay-safe"
-        },
-        {
-          "timestamp": "2025-12-12T14:19:23.000Z",
-          "entities": "Scam Activity Surge on Litecoin",
-          "eventSummary": "There are reports of many scammers on Litecoin today.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/Litecoin"
-        },
-        {
-          "timestamp": "2025-12-12T06:04:39.000Z",
-          "entities": "Nepes Corp Data Breach by Qilin Group",
-          "eventSummary": "The Qilin hacking group claims to have breached Nepes Corp and exfiltrated 1.5 TB of data. The cyberattack was observed on December 11, 2025.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3m7rfpmrkf62n"
-        },
-        {
-          "timestamp": "2025-12-12T02:53:03.000Z",
-          "entities": "Microsoft Accounts Hijacked via Consentfix Attack",
-          "eventSummary": "New Consentfix Attack Hijacks Microsoft Accounts Via Azure Cli.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1pk4kpb/new_consentfix_attack_hijacks_microsoft_accounts"
-        }
-      ],
-      "overallDayThreatScore": 87,
-      "dailyBrief": "December 12, 2025 saw a significant uptick in high-impact cyber events, especially targeting cryptocurrency platforms and major corporations. Multiple hacks compromised user funds on ZEROBASE/Zerobasezk, with over $240K USDT stolen and coordinated mitigation efforts by Binance Wallet. Microsoft accounts faced a targeted hijack via Azure CLI, indicating increased risk for enterprise users. Nepes Corp suffered a major breach, losing 1.5 TB of data to the Qilin group. Scam activity surged in the Litecoin community, and concerns about a potential Bitcoin hijack highlight ongoing threats to major digital assets. The overall threat level is elevated, with strong recommendations for vigilance and rapid incident response."
-    },
     {
       "date": "2025-12-14",
       "events": [],
@@ -265,6 +210,69 @@
       ],
       "overallDayThreatScore": 90,
       "dailyBrief": "A significant address-poisoning scam led to the loss of $50 million in USDT after a user mistakenly transferred funds to a fraudulent wallet. The attacker rapidly laundered the funds through Tornado Cash, highlighting both the effectiveness of social engineering and the challenges of tracing crypto assets. Today's threat landscape is marked by sophisticated scams targeting crypto users and underscores the urgent need for improved wallet address verification and anti-phishing measures."
+    },
+    {
+      "date": "2025-12-22",
+      "events": [
+        {
+          "timestamp": "2025-12-21T22:35:26.000Z",
+          "entities": "B2Sell and Kitchem Data Breach and Website Defacement",
+          "eventSummary": "B2Sell and Kitchem have allegedly been victims of a data breach and website defacement.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/1697387633247150081/status/2002870552932110625"
+        },
+        {
+          "timestamp": "2025-12-21T18:38:38.000Z",
+          "entities": "Data to Win Systems Data Breach",
+          "eventSummary": "An alleged data breach has been reported involving the Spanish company Data to Win Systems.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://twitter.com/1697387633247150081/status/2002810961741451742"
+        },
+        {
+          "timestamp": "2025-12-21T17:46:16.000Z",
+          "entities": "Critical Vulnerabilities Announced (iMessage, Dropbear, OrangeHRM)",
+          "eventSummary": "Security researchers highlight several critical vulnerabilities including an iMessage Zero-Click RCE chain (CVE-2025-31200, CVE-2025-31201), Dropbear privilege escalation (CVE-2025-14282), and OrangeHRM RCE (CVE-2025-66224).",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://twitter.com/2342380454/status/2002797784991449253"
+        },
+        {
+          "timestamp": "2025-12-21T14:45:51.000Z",
+          "entities": "Crypto Address Poisoning Scam ($50 Million Loss)",
+          "eventSummary": "A crypto user reportedly lost $50 million in a high-value address poisoning scam involving address manipulation.",
+          "severity": "High",
+          "tags": "scam",
+          "source": "https://thecurrencyanalytics.com/altcoins/crypto-scam-costs-user-50-million-through-address-manipulation-231027"
+        },
+        {
+          "timestamp": "2025-12-21T10:51:47.000Z",
+          "entities": "PBH Token Scam",
+          "eventSummary": "Users report a scam involving the PBH token, resulting in the loss of funds.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/binanceexchange"
+        },
+        {
+          "timestamp": "2025-12-21T10:27:24.000Z",
+          "entities": "Starbucks CVE-2007-0450 Exploit Risk",
+          "eventSummary": "Reports indicate that Starbucks remains vulnerable to exploitation via CVE-2007-0450, a legacy directory traversal and authentication bypass vulnerability.",
+          "severity": "Medium",
+          "tags": "exploit",
+          "source": "https://twitter.com/92835108/status/2002687340897284445"
+        },
+        {
+          "timestamp": "2025-12-21T09:13:42.000Z",
+          "entities": "Government & Manufacturing Sectors Targeted by Email Malware Campaign",
+          "eventSummary": "Hackers are reportedly weaponizing SVG files and Office documents in a sophisticated email campaign to distribute Remote Access Trojans and information stealers targeting government and manufacturing sectors in Italy, Finland, and Saudi Arabia.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://twitter.com/1165106855879704577/status/2002668794184085832"
+        }
+      ],
+      "overallDayThreatScore": 90,
+      "dailyBrief": "December 21, 2025 saw a surge in high-severity cyber threats. Multiple organizations, including B2Sell, Kitchem, and Data to Win Systems, suffered breaches. Critical vulnerabilities were disclosed across major platforms, increasing exploitation risks. Financial losses were substantial, highlighted by a $50 million crypto scam and ongoing fraudulent token activity. Sophisticated malware campaigns targeted government and manufacturing sectors, and legacy vulnerabilities persist at major brands. The overall threat landscape remains highly active, with coordinated attacks and critical vulnerabilities driving urgent risk response."
     }
   ]
 }

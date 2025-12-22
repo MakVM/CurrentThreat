@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-12-21T22:35:26.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "B2Sell and Kitchem have allegedly been victims of a data breach and website defacement.\nSources:\n- https://twitter.com/1697387633247150081/status/2002870552932110625"
+  },
+  {
+    "timestamp": "2025-12-21T18:38:38.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "An alleged data breach has been reported involving the Spanish company Data to Win Systems.\nSources:\n- https://twitter.com/1697387633247150081/status/2002810961741451742"
+  },
+  {
+    "timestamp": "2025-12-21T17:46:16.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Security researchers highlight several critical vulnerabilities including an iMessage Zero-Click RCE chain (CVE-2025-31200, CVE-2025-31201), Dropbear privilege escalation (CVE-2025-14282), and OrangeHRM RCE (CVE-2025-66224).\nSources:\n- https://twitter.com/2342380454/status/2002797784991449253"
+  },
+  {
+    "timestamp": "2025-12-21T14:45:51.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A crypto user reportedly lost $50 million in a high-value address poisoning scam involving address manipulation.\nSources:\n- https://thecurrencyanalytics.com/altcoins/crypto-scam-costs-user-50-million-through-address-manipulation-231027"
+  },
+  {
+    "timestamp": "2025-12-21T10:51:47.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users report a scam involving the PBH token, resulting in the loss of funds.\nSources:\n- https://t.me/binanceexchange"
+  },
+  {
+    "timestamp": "2025-12-21T10:27:24.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Reports indicate that Starbucks remains vulnerable to exploitation via CVE-2007-0450, a legacy directory traversal and authentication bypass vulnerability.\nSources:\n- https://twitter.com/92835108/status/2002687340897284445"
+  },
+  {
+    "timestamp": "2025-12-21T09:13:42.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hackers are reportedly weaponizing SVG files and Office documents in a sophisticated email campaign to distribute Remote Access Trojans and information stealers targeting government and manufacturing sectors in Italy, Finland, and Saudi Arabia.\nSources:\n- https://twitter.com/1165106855879704577/status/2002668794184085832"
+  }
+]
