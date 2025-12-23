@@ -1,46 +1,46 @@
 {
-  "currentThreat": "OPERATION CRIMSON CASCADE",
+  "currentThreat": "OPERATION CRYPTO CASCADE",
   "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "B2Sell and Kitchem Data Breach and Website Defacement",
-      "description": "B2Sell and Kitchem have allegedly been victims of a data breach and website defacement.",
-      "source": "https://twitter.com/1697387633247150081/status/2002870552932110625",
-      "time": "2025-12-21T22:35:26.000Z",
+      "title": "RatOn Malware: NFC Fraud and RAT Capabilities",
+      "description": "RatOn Malware has been identified as a significant threat in NFC fraud, combining Remote Access Trojan (RAT) capabilities with NFC relay attacks.",
+      "source": "https://twitter.com/704115137116942336/status/2003120560302387285",
+      "time": "2025-12-22T15:08:52.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Malware"
       ]
     },
     {
       "id": 2,
-      "title": "Data to Win Systems Data Breach",
-      "description": "An alleged data breach has been reported involving the Spanish company Data to Win Systems.",
-      "source": "https://twitter.com/1697387633247150081/status/2002810961741451742",
-      "time": "2025-12-21T18:38:38.000Z",
-      "severity": "Medium",
+      "title": "Bybit Exchange Security Breach",
+      "description": "Security experts are advising on essential tactics to implement following a reported security breach at the Bybit cryptocurrency exchange.",
+      "source": "https://x.com/officer_secret/status/2003113258597724252?s=46",
+      "time": "2025-12-22T15:04:12.000Z",
+      "severity": "High",
       "classification": [
         "Breach"
       ]
     },
     {
       "id": 3,
-      "title": "Critical Vulnerabilities Announced (iMessage, Dropbear, OrangeHRM)",
-      "description": "Security researchers highlight several critical vulnerabilities including an iMessage Zero-Click RCE chain (CVE-2025-31200, CVE-2025-31201), Dropbear privilege escalation (CVE-2025-14282), and OrangeHRM RCE (CVE-2025-66224).",
-      "source": "https://twitter.com/2342380454/status/2002797784991449253",
-      "time": "2025-12-21T17:46:16.000Z",
+      "title": "University of Phoenix Ransomware Attack",
+      "description": "The Clop ransomware gang breached the University of Phoenix network, stealing data belonging to approximately 3.5 million students, staff, and suppliers.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3malgibx3lg2z",
+      "time": "2025-12-22T14:57:58.000Z",
       "severity": "High",
       "classification": [
-        "Exploit"
+        "Breach"
       ]
     },
     {
       "id": 4,
-      "title": "Crypto Address Poisoning Scam ($50 Million Loss)",
-      "description": "A crypto user reportedly lost $50 million in a high-value address poisoning scam involving address manipulation.",
-      "source": "https://thecurrencyanalytics.com/altcoins/crypto-scam-costs-user-50-million-through-address-manipulation-231027",
-      "time": "2025-12-21T14:45:51.000Z",
+      "title": "USDt Address Poisoning Scam Loss",
+      "description": "A victim lost $50 million in USDt due to an address poisoning scam, highlighting the risks associated with copy-pasting wallet addresses.",
+      "source": "https://cryptopanic.com/news/28192856/50M-Lost-in-USDt-Address-Poisoning-Scam-Exposes-Crypto-Copy-Paste-Risk",
+      "time": "2025-12-22T08:54:03.000Z",
       "severity": "High",
       "classification": [
         "Scam"
@@ -48,48 +48,44 @@
     },
     {
       "id": 5,
-      "title": "PBH Token Scam",
-      "description": "Users report a scam involving the PBH token, resulting in the loss of funds.",
-      "source": "https://t.me/binanceexchange",
-      "time": "2025-12-21T10:51:47.000Z",
+      "title": "Stealka Infostealer Malware Targeting Crypto",
+      "description": "Kaspersky identified a new infostealer malware named Stealka that targets over 80 crypto wallets and 100 browsers, spreading via fake game mods and pirated software.",
+      "source": "https://cryptopanic.com/news/28205104/Kaspersky-has-identified-a-new-infostealer-malware-called-Stealka-spreading-via-fake-game-mods-and-pirated-software-on-platforms-like-GitHub-and-Google-Sites-First-detected-in-November-2025-the-malware-targets-over-100-browsers-and-more-than-80-crypto-wall",
+      "time": "2025-12-22T08:54:03.000Z",
       "severity": "Medium",
       "classification": [
-        "Scam"
+        "Malware"
       ]
     },
     {
       "id": 6,
-      "title": "Starbucks CVE-2007-0450 Exploit Risk",
-      "description": "Reports indicate that Starbucks remains vulnerable to exploitation via CVE-2007-0450, a legacy directory traversal and authentication bypass vulnerability.",
-      "source": "https://twitter.com/92835108/status/2002687340897284445",
-      "time": "2025-12-21T10:27:24.000Z",
+      "title": "GitHub Zero-Day NTLM Hash Leak",
+      "description": "A new zero-day vulnerability (ms-photos_NTLM_Leak) has been disclosed on GitHub that allows attackers to leak NTLM hashes from browsers with a single click.",
+      "source": "https://twitter.com/1195107773589131265/status/2003014941498827201",
+      "time": "2025-12-22T08:09:10.000Z",
       "severity": "Medium",
       "classification": [
-        "Exploit"
+        "Leak"
       ]
     },
     {
       "id": 7,
-      "title": "Government & Manufacturing Sectors Targeted by Email Malware Campaign",
-      "description": "Hackers are reportedly weaponizing SVG files and Office documents in a sophisticated email campaign to distribute Remote Access Trojans and information stealers targeting government and manufacturing sectors in Italy, Finland, and Saudi Arabia.",
-      "source": "https://twitter.com/1165106855879704577/status/2002668794184085832",
-      "time": "2025-12-21T09:13:42.000Z",
-      "severity": "High",
+      "title": "Coinbase Account Drainage Scam",
+      "description": "A user reported a significant loss of 7,000 USD in cryptocurrency from their Coinbase account due to a drainage scam despite having security measures in place.",
+      "source": "https://www.reddit.com/r/CoinBase/comments/1ps9sda/yet_another_victim_of_scam",
+      "time": "2025-12-22T04:54:42.000Z",
+      "severity": "Medium",
       "classification": [
-        "Hack"
+        "Scam"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed an escalation in cyber threats, with several high-severity incidents impacting critical infrastructure, major financial platforms, government entities, and the crypto sector. Exploitation of newly disclosed vulnerabilities in React (CVE-2025-55182) and Fortinet products enabled rapid deployment of ransomware, malware, and unauthorized access to sensitive systems. Large-scale data breaches at 700Credit and the French Ministry of the Interior exposed personal information of millions, while a staggering $50 million was lost in a crypto address-poisoning scam, highlighting the effectiveness of social engineering. The period also saw sophisticated campaigns targeting government and manufacturing sectors in multiple countries, and widespread scams on popular messaging platforms. The sustained pace and scale of attacks, coupled with the emergence of new critical vulnerabilities, underscores a period of heightened risk requiring immediate defensive action and vigilant monitoring.",
-    "trends": "Key trends include a sharp rise in vulnerability exploitation, especially targeting React and Fortinet products, with attackers rapidly operationalizing new exploits for ransomware and data theft. The crypto sector remains a primary target, suffering both technical breaches and high-value social engineering scams, particularly address poisoning and fraudulent token activity. There is a persistent pattern of data breaches at both private companies and government entities, and an uptick in sophisticated malware campaigns delivered via email, targeting critical sectors across several countries. Newly disclosed vulnerabilities in widely used platforms (iMessage, Dropbear, OrangeHRM) are likely to attract further exploitation attempts. The overall threat score remains consistently high across the week, signaling ongoing and coordinated attacker activity.",
-    "predictions": "In the coming days, expect continued exploitation of React and Fortinet-related vulnerabilities, with ransomware groups and criminal affiliates seeking to capitalize on unpatched systems. The crypto ecosystem will likely remain under siege, with scammers deploying increasingly advanced social engineering techniques and wallet manipulation tactics—address verification and anti-phishing controls are critical. Government and manufacturing sectors should prepare for sophisticated malware-laden email campaigns, while organizations running platforms affected by newly announced CVEs (iMessage, Dropbear, OrangeHRM) face elevated risk of zero-day attacks. High-value data breaches and website defacements may persist. Confidence level: High, given the recent surge in critical vulnerabilities, coordinated campaigns, and the rapid monetization observed in recent incidents."
+    "briefing": "This week witnessed a surge in high-severity cyber incidents, with threat actors aggressively targeting both individuals and organizations. Major exploits affected widely used platforms such as React and Fortinet, leading to rapid ransomware deployment and mass credential theft. Financially motivated attacks peaked with two consecutive $50 million USDT address-poisoning scams, demonstrating the sophistication and impact of social engineering in the crypto sector. Data breaches hit critical infrastructures, including the University of Phoenix (3.5M records), 700Credit, and the French Ministry of the Interior, while advanced malware campaigns like RatOn and Stealka exposed vulnerabilities in both traditional and emerging digital environments. Persistent scams and technical exploits across messaging apps, DeFi platforms, and legacy systems underline a widespread and evolving threat landscape, demanding immediate defensive action and heightened vigilance.",
+    "trends": "Key trends include a marked escalation in technical exploitation of software vulnerabilities (particularly React CVE-2025-55182 and new Fortinet flaws), with threat actors moving swiftly to weaponize zero-days for ransomware and token draining. Social engineering scams, especially address-poisoning within the crypto ecosystem, have spiked, leading to unprecedented financial losses. Data breach volume remains high, with attackers targeting both public and private sectors for mass information theft. There is a noticeable emergence of multi-functional malware targeting NFC payments, browsers, and crypto wallets. The convergence of technical exploits, social scams, and multi-vector malware points to an increasingly hostile and opportunistic threat environment. Legacy vulnerabilities (e.g., Starbucks CVE-2007-0450) continue to be leveraged, while coordinated campaigns target government, education, and manufacturing sectors.",
+    "predictions": "Expect sustained high risk from both technical and social attack vectors in the coming days. We anticipate continued exploitation of recently disclosed critical vulnerabilities (React, Fortinet, iMessage, Dropbear), with ransomware and data theft campaigns likely to proliferate. Crypto platforms and users remain prime targets for advanced scams and wallet drainers, particularly through phishing and address manipulation—confidence in this trend is high. Further large-scale data breaches and sophisticated malware outbreaks (e.g., RatOn, Stealka) are probable, especially via supply chain and third-party platforms. Organizations should prioritize patching, monitor for signs of credential compromise, and strengthen anti-phishing controls. Special attention is warranted for sectors historically slow to patch (education, government, manufacturing) and for platforms exposed to legacy vulnerabilities. Overall, the threat level is expected to remain elevated, with high confidence in ongoing coordinated attacks and evolving scam techniques."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-14",
-      "count": 0
-    },
     {
       "date": "2025-12-15",
       "count": 3
@@ -113,12 +109,16 @@
     {
       "date": "2025-12-22",
       "count": 7
+    },
+    {
+      "date": "2025-12-23",
+      "count": 7
     }
   ],
   "classificationDistribution": [
     {
       "name": "Scam",
-      "value": 8
+      "value": 10
     },
     {
       "name": "Hack",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Breach",
-      "value": 4
+      "value": 6
     },
     {
       "name": "Fraud",
@@ -138,7 +138,11 @@
     },
     {
       "name": "Leak",
-      "value": 1
+      "value": 2
+    },
+    {
+      "name": "Malware",
+      "value": 2
     }
   ]
 }
