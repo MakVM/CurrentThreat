@@ -1,95 +1,113 @@
 {
-  "currentThreat": "OPERATION CRYPTO CASCADE",
+  "currentThreat": "OPERATION MALWARE CASCADE",
   "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "RatOn Malware: NFC Fraud and RAT Capabilities",
-      "description": "RatOn Malware has been identified as a significant threat in NFC fraud, combining Remote Access Trojan (RAT) capabilities with NFC relay attacks.",
-      "source": "https://twitter.com/704115137116942336/status/2003120560302387285",
-      "time": "2025-12-22T15:08:52.000Z",
+      "title": "Stealka Malware Targeting Gamers via Fake Mods",
+      "description": "Kaspersky researchers discovered 'Stealka' malware distributed as fake game mods on GitHub and SourceForge, targeting crypto wallets and browser credentials across 115 extensions.",
+      "source": "https://cryptonews.com/news/gamers-at-risk-as-fake-roblox-mods-spread-crypto-stealing-malware",
+      "time": "2025-12-23T19:12:56.000Z",
       "severity": "High",
       "classification": [
-        "Malware"
+        "Hack"
       ]
     },
     {
       "id": 2,
-      "title": "Bybit Exchange Security Breach",
-      "description": "Security experts are advising on essential tactics to implement following a reported security breach at the Bybit cryptocurrency exchange.",
-      "source": "https://x.com/officer_secret/status/2003113258597724252?s=46",
-      "time": "2025-12-22T15:04:12.000Z",
+      "title": "React2Shell RCE Exploited for Ransomware",
+      "description": "The React2Shell RCE vulnerability (CVE-2025-55182) affecting React Server Components is being exploited to deploy Weaxor ransomware.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1ptwmmd/react2shell_ransomware_weaxor_deployed_on",
+      "time": "2025-12-23T16:51:25.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Exploit"
       ]
     },
     {
       "id": 3,
-      "title": "University of Phoenix Ransomware Attack",
-      "description": "The Clop ransomware gang breached the University of Phoenix network, stealing data belonging to approximately 3.5 million students, staff, and suppliers.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3malgibx3lg2z",
-      "time": "2025-12-22T14:57:58.000Z",
+      "title": "Critical n8n Code Execution Vulnerability",
+      "description": "A critical flaw in n8n has been identified that could enable arbitrary code execution.",
+      "source": "https://twitter.com/405658492/status/2003487541723631776",
+      "time": "2025-12-23T15:27:07.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Exploit"
       ]
     },
     {
       "id": 4,
-      "title": "USDt Address Poisoning Scam Loss",
-      "description": "A victim lost $50 million in USDt due to an address poisoning scam, highlighting the risks associated with copy-pasting wallet addresses.",
-      "source": "https://cryptopanic.com/news/28192856/50M-Lost-in-USDt-Address-Poisoning-Scam-Exposes-Crypto-Copy-Paste-Risk",
-      "time": "2025-12-22T08:54:03.000Z",
-      "severity": "High",
+      "title": "Browser-based e-Challan Phishing Campaign",
+      "description": "CRIL uncovered a new wave of browser-based e-Challan phishing powered by a shared fraud infrastructure.",
+      "source": "https://twitter.com/1689959938003742720/status/2003487052676096376",
+      "time": "2025-12-23T15:25:11.000Z",
+      "severity": "Medium",
       "classification": [
         "Scam"
       ]
     },
     {
       "id": 5,
-      "title": "Stealka Infostealer Malware Targeting Crypto",
-      "description": "Kaspersky identified a new infostealer malware named Stealka that targets over 80 crypto wallets and 100 browsers, spreading via fake game mods and pirated software.",
-      "source": "https://cryptopanic.com/news/28205104/Kaspersky-has-identified-a-new-infostealer-malware-called-Stealka-spreading-via-fake-game-mods-and-pirated-software-on-platforms-like-GitHub-and-Google-Sites-First-detected-in-November-2025-the-malware-targets-over-100-browsers-and-more-than-80-crypto-wall",
-      "time": "2025-12-22T08:54:03.000Z",
-      "severity": "Medium",
+      "title": "Baker University Major Data Breach",
+      "description": "Baker University disclosed a data breach affecting over 53,000 individuals, involving the theft of personal, health, and financial information after attackers accessed its network a year ago.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3manhwk5oxl2t",
+      "time": "2025-12-23T10:11:41.000Z",
+      "severity": "High",
       "classification": [
-        "Malware"
+        "Breach"
       ]
     },
     {
       "id": 6,
-      "title": "GitHub Zero-Day NTLM Hash Leak",
-      "description": "A new zero-day vulnerability (ms-photos_NTLM_Leak) has been disclosed on GitHub that allows attackers to leak NTLM hashes from browsers with a single click.",
-      "source": "https://twitter.com/1195107773589131265/status/2003014941498827201",
-      "time": "2025-12-22T08:09:10.000Z",
-      "severity": "Medium",
+      "title": "US Justice Department Disrupts Fraud Infrastructure",
+      "description": "The U.S. Justice Department seized infrastructure used in a large-scale fraud operation that utilized fake search engine ads to harvest bank login credentials, resulting in at least $14.6 million in losses.",
+      "source": "https://twitter.com/209811713/status/2003379340105724184",
+      "time": "2025-12-23T08:17:10.000Z",
+      "severity": "High",
       "classification": [
-        "Leak"
+        "Fraud"
       ]
     },
     {
       "id": 7,
-      "title": "Coinbase Account Drainage Scam",
-      "description": "A user reported a significant loss of 7,000 USD in cryptocurrency from their Coinbase account due to a drainage scam despite having security measures in place.",
-      "source": "https://www.reddit.com/r/CoinBase/comments/1ps9sda/yet_another_victim_of_scam",
-      "time": "2025-12-22T04:54:42.000Z",
+      "title": "WebRAT Malware Masquerading on GitHub",
+      "description": "WebRAT malware is being distributed via GitHub repositories that falsely claim to host proof-of-concept exploits for recently disclosed vulnerabilities.",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3maoigta6lz27",
+      "time": "2025-12-23T08:06:14.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Hack"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Indian Income Tax-themed Phishing Campaign",
+      "description": "An Indian Income Tax-themed phishing campaign targeting local businesses has been identified. Attackers use fake compliance notices to deploy malware and establish remote access.",
+      "source": "https://twitter.com/877710712734232576/status/2003284073750368704",
+      "time": "2025-12-23T01:58:37.000Z",
       "severity": "Medium",
       "classification": [
         "Scam"
       ]
+    },
+    {
+      "id": 9,
+      "title": "Nissan Customer Data Exposure via Red Hat Breach",
+      "description": "Nissan has confirmed the exposure of customer data following a breach at Red Hat.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1ptdwus/nissan_confirms_customer_data_exposure_following",
+      "time": "2025-12-23T01:52:10.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Leak"
+      ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a surge in high-severity cyber incidents, with threat actors aggressively targeting both individuals and organizations. Major exploits affected widely used platforms such as React and Fortinet, leading to rapid ransomware deployment and mass credential theft. Financially motivated attacks peaked with two consecutive $50 million USDT address-poisoning scams, demonstrating the sophistication and impact of social engineering in the crypto sector. Data breaches hit critical infrastructures, including the University of Phoenix (3.5M records), 700Credit, and the French Ministry of the Interior, while advanced malware campaigns like RatOn and Stealka exposed vulnerabilities in both traditional and emerging digital environments. Persistent scams and technical exploits across messaging apps, DeFi platforms, and legacy systems underline a widespread and evolving threat landscape, demanding immediate defensive action and heightened vigilance.",
-    "trends": "Key trends include a marked escalation in technical exploitation of software vulnerabilities (particularly React CVE-2025-55182 and new Fortinet flaws), with threat actors moving swiftly to weaponize zero-days for ransomware and token draining. Social engineering scams, especially address-poisoning within the crypto ecosystem, have spiked, leading to unprecedented financial losses. Data breach volume remains high, with attackers targeting both public and private sectors for mass information theft. There is a noticeable emergence of multi-functional malware targeting NFC payments, browsers, and crypto wallets. The convergence of technical exploits, social scams, and multi-vector malware points to an increasingly hostile and opportunistic threat environment. Legacy vulnerabilities (e.g., Starbucks CVE-2007-0450) continue to be leveraged, while coordinated campaigns target government, education, and manufacturing sectors.",
-    "predictions": "Expect sustained high risk from both technical and social attack vectors in the coming days. We anticipate continued exploitation of recently disclosed critical vulnerabilities (React, Fortinet, iMessage, Dropbear), with ransomware and data theft campaigns likely to proliferate. Crypto platforms and users remain prime targets for advanced scams and wallet drainers, particularly through phishing and address manipulation—confidence in this trend is high. Further large-scale data breaches and sophisticated malware outbreaks (e.g., RatOn, Stealka) are probable, especially via supply chain and third-party platforms. Organizations should prioritize patching, monitor for signs of credential compromise, and strengthen anti-phishing controls. Special attention is warranted for sectors historically slow to patch (education, government, manufacturing) and for platforms exposed to legacy vulnerabilities. Overall, the threat level is expected to remain elevated, with high confidence in ongoing coordinated attacks and evolving scam techniques."
+    "briefing": "This week witnessed a sustained escalation in cyber threats, with multiple high-severity incidents impacting both enterprises and individuals across the globe. The most disruptive events included widespread exploitation of critical vulnerabilities in React Server Components (CVE-2025-55182), Fortinet products, and newly disclosed flaws in key platforms such as n8n, iMessage, and Dropbear. The financial sector was heavily targeted, highlighted by a $50 million USDT address-poisoning scam and significant breaches at Ribbon Finance and Yearn Finance. Ransomware and infostealer campaigns (e.g., Clop at University of Phoenix, Stealka malware, RatOn NFC fraud) demonstrated increasing sophistication and reach, while coordinated phishing and fraud operations affected government, education, and manufacturing sectors. Notably, law enforcement made impactful interventions against large-scale fraud, but the overall threat landscape remains volatile, with cybercriminals exploiting both technical and social attack vectors.",
+    "trends": "Key trends include a surge in exploits targeting web application frameworks (React, n8n), persistent weaponization of zero-day vulnerabilities, and rapid deployment of ransomware following initial access. Scams and credential theft—especially via address poisoning in crypto and phishing campaigns—are at all-time highs, with major losses reported. Malware distribution is increasingly leveraging trusted platforms such as GitHub and game mods, broadening the reach to non-traditional targets like gamers and university staff. Data breaches affecting millions (700Credit, University of Phoenix, Baker University, French Ministry of the Interior) indicate an uptick in attacks on large data repositories. Sectors seeing increased targeting include government, manufacturing, finance, and education, with multi-stage campaigns mixing technical exploits and social engineering.",
+    "predictions": "In the upcoming days, expect continued active exploitation of recently disclosed vulnerabilities (React2Shell, n8n, Dropbear, iMessage), likely resulting in further ransomware and data breach incidents. The crypto sector remains highly vulnerable to sophisticated scams and wallet-draining malware, with high confidence in ongoing address-poisoning and phishing attacks. New infostealers and RATs (e.g., Stealka, RatOn) are likely to proliferate via fake mods and pirated software, targeting both individuals and organizations. Large-scale data breaches and credential theft will continue, particularly targeting sectors with high-value data (finance, education, government). Organizations should prioritize immediate patching, multi-factor authentication, and user awareness programs. Confidence level: High for technical exploit/ransomware activity, Medium-High for social engineering and financial fraud campaigns."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-15",
-      "count": 3
-    },
     {
       "date": "2025-12-16",
       "count": 6
@@ -113,6 +131,10 @@
     {
       "date": "2025-12-23",
       "count": 7
+    },
+    {
+      "date": "2025-12-24",
+      "count": 9
     }
   ],
   "classificationDistribution": [
@@ -121,24 +143,24 @@
       "value": 10
     },
     {
-      "name": "Hack",
+      "name": "Exploit",
       "value": 8
     },
     {
-      "name": "Exploit",
-      "value": 6
+      "name": "Breach",
+      "value": 7
     },
     {
-      "name": "Breach",
-      "value": 6
+      "name": "Hack",
+      "value": 9
     },
     {
       "name": "Fraud",
-      "value": 1
+      "value": 2
     },
     {
       "name": "Leak",
-      "value": 2
+      "value": 3
     },
     {
       "name": "Malware",

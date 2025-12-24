@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-23T19:12:56.000Z",
+      "entities": "Stealka Malware Targeting Gamers via Fake Mods",
+      "eventSummary": "Kaspersky researchers discovered 'Stealka' malware distributed as fake game mods on GitHub and SourceForge, targeting crypto wallets and browser credentials across 115 extensions.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptonews.com/news/gamers-at-risk-as-fake-roblox-mods-spread-crypto-stealing-malware"
+    },
+    {
+      "timestamp": "2025-12-23T16:51:25.000Z",
+      "entities": "React2Shell RCE Exploited for Ransomware",
+      "eventSummary": "The React2Shell RCE vulnerability (CVE-2025-55182) affecting React Server Components is being exploited to deploy Weaxor ransomware.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1ptwmmd/react2shell_ransomware_weaxor_deployed_on"
+    },
+    {
+      "timestamp": "2025-12-23T15:27:07.000Z",
+      "entities": "Critical n8n Code Execution Vulnerability",
+      "eventSummary": "A critical flaw in n8n has been identified that could enable arbitrary code execution.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://twitter.com/405658492/status/2003487541723631776"
+    },
+    {
+      "timestamp": "2025-12-23T15:25:11.000Z",
+      "entities": "Browser-based e-Challan Phishing Campaign",
+      "eventSummary": "CRIL uncovered a new wave of browser-based e-Challan phishing powered by a shared fraud infrastructure.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://twitter.com/1689959938003742720/status/2003487052676096376"
+    },
+    {
+      "timestamp": "2025-12-23T10:11:41.000Z",
+      "entities": "Baker University Major Data Breach",
+      "eventSummary": "Baker University disclosed a data breach affecting over 53,000 individuals, involving the theft of personal, health, and financial information after attackers accessed its network a year ago.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3manhwk5oxl2t"
+    },
+    {
+      "timestamp": "2025-12-23T08:17:10.000Z",
+      "entities": "US Justice Department Disrupts Fraud Infrastructure",
+      "eventSummary": "The U.S. Justice Department seized infrastructure used in a large-scale fraud operation that utilized fake search engine ads to harvest bank login credentials, resulting in at least $14.6 million in losses.",
+      "severity": "High",
+      "tags": "fraud",
+      "source": "https://twitter.com/209811713/status/2003379340105724184"
+    },
+    {
+      "timestamp": "2025-12-23T08:06:14.000Z",
+      "entities": "WebRAT Malware Masquerading on GitHub",
+      "eventSummary": "WebRAT malware is being distributed via GitHub repositories that falsely claim to host proof-of-concept exploits for recently disclosed vulnerabilities.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3maoigta6lz27"
+    },
+    {
+      "timestamp": "2025-12-23T01:58:37.000Z",
+      "entities": "Indian Income Tax-themed Phishing Campaign",
+      "eventSummary": "An Indian Income Tax-themed phishing campaign targeting local businesses has been identified. Attackers use fake compliance notices to deploy malware and establish remote access.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://twitter.com/877710712734232576/status/2003284073750368704"
+    },
+    {
+      "timestamp": "2025-12-23T01:52:10.000Z",
+      "entities": "Nissan Customer Data Exposure via Red Hat Breach",
+      "eventSummary": "Nissan has confirmed the exposure of customer data following a breach at Red Hat.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1ptdwus/nissan_confirms_customer_data_exposure_following"
+    }
+  ],
+  "overallDayThreatScore": 88,
+  "dailyBrief": "December 23, 2025 saw a surge in high-severity cyber threats, including several malware campaigns targeting popular platforms, major data breaches, and critical software vulnerabilities actively exploited for ransomware. Notably, the Stealka and WebRAT malware attacks leveraged trusted sites to infect users, while Baker University’s breach affected tens of thousands. The US Justice Department’s takedown of a $14.6 million fraud operation highlights continued large-scale credential theft. Organizations should prioritize patching, threat intelligence, and phishing awareness as attackers increasingly exploit both technical and social vectors."
+}
