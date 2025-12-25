@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-24T09:33:58.000Z",
+      "entities": "Cryptocurrency Sector Losses Exceed $3.35 Billion",
+      "eventSummary": "A report from CertiK indicates that total losses from hacks, exploits, and scams in the cryptocurrency sector exceeded $3.35 billion this year.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptopanic.com/news/28232092/ALERT-Losses-from-hacks-exploits-and-scams-topped-335B-this-year-per-CertiK"
+    },
+    {
+      "timestamp": "2025-12-24T08:33:18.000Z",
+      "entities": "Polymarket User Account Breach via Third-Party Authentication",
+      "eventSummary": "Polymarket users reported account breaches linked to a third-party authentication vulnerability.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://cryptopanic.com/news/28230542/Polymarket-cites-third-party-vulnerability-in-recent-user-account-hack"
+    },
+    {
+      "timestamp": "2025-12-24T07:35:07.000Z",
+      "entities": "SantaStealer Malware Targets Crypto and Browser Data",
+      "eventSummary": "A new malware identified as SantaStealer is reportedly targeting and stealing data from web browsers and cryptocurrency wallets.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://www.reddit.com/r/CryptoCurrency/comments/1pu35zm/new_santastealer_malware_steals_data_from"
+    },
+    {
+      "timestamp": "2025-12-24T06:34:23.000Z",
+      "entities": "Gnosis Hard Fork to Recover $116M from Balancer Exploit",
+      "eventSummary": "Gnosis executed a hard fork to recover funds following a November exploit of Balancer that resulted in $116M in stolen digital assets.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://cryptopanic.com/news/28227241/LATEST-Gnosis-executed-a-hard-fork-on-Monday-to-recover-funds-from-a-November-Balancer-exploit-that-saw-116M-in-digital-assets-stolen-with-the-funds-now-out-of-the-hackers-control"
+    },
+    {
+      "timestamp": "2025-12-24T04:51:03.000Z",
+      "entities": "University of Phoenix Data Breach Impacts 3.5 Million",
+      "eventSummary": "The University of Phoenix confirmed a data breach affecting 3.5 million individuals, stemming from a zero-day vulnerability exploit in Oracle EBS enterprise software attributed to threat groups Cl0p or FIN11.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pude2k/35_million_affected_by_university_of_phoenix_data"
+    },
+    {
+      "timestamp": "2025-12-23T00:00:00.000Z",
+      "entities": "OMNIBUS JAPAN INC. Breach Claimed by Lynx Group",
+      "eventSummary": "The Lynx hacking group claimed to have breached OMNIBUS JAPAN INC., a Japanese news and multimedia company. The incident is currently pending verification.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mapuwmusa62q"
+    }
+  ],
+  "overallDayThreatScore": 92,
+  "dailyBrief": "Today's cyber landscape is marked by multiple high-severity incidents, including major data breaches, sophisticated exploits, and large-scale financial losses. The cryptocurrency sector faces significant threats with over $3.35 billion lost to malicious activities and the emergence of new malware targeting wallet and browser data. Institutions such as the University of Phoenix and Polymarket have suffered breaches due to advanced vulnerabilities, and a major hard fork was executed to recover stolen assets. The high volume and impact of these events signal elevated risk levels, with ongoing threats from advanced persistent groups and novel attack vectors."
+}

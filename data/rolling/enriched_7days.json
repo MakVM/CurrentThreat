@@ -1,62 +1,7 @@
 {
-  "startDate": "2025-12-16",
-  "endDate": "2025-12-24",
+  "startDate": "2025-12-17",
+  "endDate": "2025-12-25",
   "days": [
-    {
-      "date": "2025-12-16",
-      "events": [
-        {
-          "timestamp": "2025-12-15T20:36:50.000Z",
-          "entities": "OneInchNetwork Telegram Scam Incident",
-          "eventSummary": "A scammer was identified on the OneInchNetwork Telegram channel, with a recommendation to block and report them.",
-          "severity": "Low",
-          "tags": "scam",
-          "source": "https://t.me/OneInchNetwork"
-        },
-        {
-          "timestamp": "2025-12-15T15:30:55.000Z",
-          "entities": "React Vulnerability Exploitation on Crypto Platforms",
-          "eventSummary": "Hackers are exploiting a React vulnerability on crypto platforms.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://cryptopanic.com/news/27965932/Hackers-Exploit-React-Vulnerability-on-Crypto-Platforms"
-        },
-        {
-          "timestamp": "2025-12-15T10:38:44.000Z",
-          "entities": "Nexo Telegram Channel Scam Observation",
-          "eventSummary": "A user on the Nexo French Telegram channel observed and commented on a scam.",
-          "severity": "Low",
-          "tags": "scam",
-          "source": "https://t.me/Nexo_fr"
-        },
-        {
-          "timestamp": "2025-12-15T09:05:52.000Z",
-          "entities": "React Server Components CVE-2025-55182 Active Exploitation",
-          "eventSummary": "A critical security flaw in React Server Components, identified as CVE-2025-55182, is being actively exploited by threat actors to drain wallets and deploy malware across the crypto industry and all websites using React. Security Alliance urges immediate review of front-end code.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://cryptonews.com/news/major-javascript-library-breach-puts-all-crypto-websites-at-risk"
-        },
-        {
-          "timestamp": "2025-12-15T08:58:22.000Z",
-          "entities": "React Vulnerability Used for Crypto Wallet Drainers",
-          "eventSummary": "Hackers are exploiting a React vulnerability to inject crypto wallet drainers, as warned by security groups.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://cryptopanic.com/news/27955098/DeFi-News-Hackers-Exploit-React-Vulnerability-to-Inject-Crypto-Wallet-Drainers-Security-Groups-Warn"
-        },
-        {
-          "timestamp": "2025-12-15T08:14:21.000Z",
-          "entities": "North Korean Fake Zoom Malware Campaign",
-          "eventSummary": "North Korean cybercriminals are using 'fake Zoom' tactics to install malware, stealing victims' sensitive data, including passwords and private keys. Cybersecurity firm Security Alliance (SEAL) warned that it has been tracking \"multiple daily\" such attempts.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptonews.com/news/north-korean-actors-use-fake-zoom-to-drain-crypto-wallets-300m-stolen-already"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today's cyber landscape was marked by critical exploits targeting the React framework, with multiple high-severity incidents affecting crypto platforms and websites industry-wide. The discovery and active exploitation of CVE-2025-55182 poses a substantial threat, leading to widespread wallet draining and malware deployment. Additional alerts include North Korean threat actors leveraging fake Zoom applications for credential theft and persistent scams on major Telegram channels. The concentration of high-impact technical breaches and targeted attacks signals an elevated risk level, urging immediate defensive review and user vigilance."
-    },
     {
       "date": "2025-12-17",
       "events": [
@@ -378,6 +323,61 @@
       ],
       "overallDayThreatScore": 88,
       "dailyBrief": "December 23, 2025 saw a surge in high-severity cyber threats, including several malware campaigns targeting popular platforms, major data breaches, and critical software vulnerabilities actively exploited for ransomware. Notably, the Stealka and WebRAT malware attacks leveraged trusted sites to infect users, while Baker University’s breach affected tens of thousands. The US Justice Department’s takedown of a $14.6 million fraud operation highlights continued large-scale credential theft. Organizations should prioritize patching, threat intelligence, and phishing awareness as attackers increasingly exploit both technical and social vectors."
+    },
+    {
+      "date": "2025-12-25",
+      "events": [
+        {
+          "timestamp": "2025-12-24T09:33:58.000Z",
+          "entities": "Cryptocurrency Sector Losses Exceed $3.35 Billion",
+          "eventSummary": "A report from CertiK indicates that total losses from hacks, exploits, and scams in the cryptocurrency sector exceeded $3.35 billion this year.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://cryptopanic.com/news/28232092/ALERT-Losses-from-hacks-exploits-and-scams-topped-335B-this-year-per-CertiK"
+        },
+        {
+          "timestamp": "2025-12-24T08:33:18.000Z",
+          "entities": "Polymarket User Account Breach via Third-Party Authentication",
+          "eventSummary": "Polymarket users reported account breaches linked to a third-party authentication vulnerability.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28230542/Polymarket-cites-third-party-vulnerability-in-recent-user-account-hack"
+        },
+        {
+          "timestamp": "2025-12-24T07:35:07.000Z",
+          "entities": "SantaStealer Malware Targets Crypto and Browser Data",
+          "eventSummary": "A new malware identified as SantaStealer is reportedly targeting and stealing data from web browsers and cryptocurrency wallets.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://www.reddit.com/r/CryptoCurrency/comments/1pu35zm/new_santastealer_malware_steals_data_from"
+        },
+        {
+          "timestamp": "2025-12-24T06:34:23.000Z",
+          "entities": "Gnosis Hard Fork to Recover $116M from Balancer Exploit",
+          "eventSummary": "Gnosis executed a hard fork to recover funds following a November exploit of Balancer that resulted in $116M in stolen digital assets.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://cryptopanic.com/news/28227241/LATEST-Gnosis-executed-a-hard-fork-on-Monday-to-recover-funds-from-a-November-Balancer-exploit-that-saw-116M-in-digital-assets-stolen-with-the-funds-now-out-of-the-hackers-control"
+        },
+        {
+          "timestamp": "2025-12-24T04:51:03.000Z",
+          "entities": "University of Phoenix Data Breach Impacts 3.5 Million",
+          "eventSummary": "The University of Phoenix confirmed a data breach affecting 3.5 million individuals, stemming from a zero-day vulnerability exploit in Oracle EBS enterprise software attributed to threat groups Cl0p or FIN11.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://www.reddit.com/r/cybersecurity/comments/1pude2k/35_million_affected_by_university_of_phoenix_data"
+        },
+        {
+          "timestamp": "2025-12-23T00:00:00.000Z",
+          "entities": "OMNIBUS JAPAN INC. Breach Claimed by Lynx Group",
+          "eventSummary": "The Lynx hacking group claimed to have breached OMNIBUS JAPAN INC., a Japanese news and multimedia company. The incident is currently pending verification.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mapuwmusa62q"
+        }
+      ],
+      "overallDayThreatScore": 92,
+      "dailyBrief": "Today's cyber landscape is marked by multiple high-severity incidents, including major data breaches, sophisticated exploits, and large-scale financial losses. The cryptocurrency sector faces significant threats with over $3.35 billion lost to malicious activities and the emergence of new malware targeting wallet and browser data. Institutions such as the University of Phoenix and Polymarket have suffered breaches due to advanced vulnerabilities, and a major hard fork was executed to recover stolen assets. The high volume and impact of these events signal elevated risk levels, with ongoing threats from advanced persistent groups and novel attack vectors."
     }
   ]
 }
