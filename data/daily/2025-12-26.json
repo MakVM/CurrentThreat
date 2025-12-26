@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-12-25T20:02:34.000Z",
+    "entities": "Trust Wallet",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Reports indicate that the Trust Wallet browser extension was compromised, leading to the unauthorized draining of user funds. Preliminary observations suggest the incident may be linked to a Chrome extension update released recently, with estimated losses around $6 million.\nSources:\n- https://cryptopanic.com/news/28256304/Trust-browser-extension-was-hacked\n- https://t.me/bybitukrainian"
+  },
+  {
+    "timestamp": "2025-12-25T14:04:10.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A security bulletin reports shifting cyber threat tactics, including data leak vulnerabilities in AI chatbots and Docker prompt injection exploits. Other highlighted risks include stealthy loaders, Android NFC malware, and fake Proof of Concepts (PoCs).\nSources:\n- https://twitter.com/209811713/status/2004191442848436632"
+  }
+]

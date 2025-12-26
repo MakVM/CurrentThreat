@@ -1,13 +1,13 @@
 {
-  "currentThreat": "OPERATION CRYPTO CASCADE",
-  "threatScore": 9.2,
+  "currentThreat": "OPERATION CRYPTO DRAIN",
+  "threatScore": 8.3,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Cryptocurrency Sector Losses Exceed $3.35 Billion",
-      "description": "A report from CertiK indicates that total losses from hacks, exploits, and scams in the cryptocurrency sector exceeded $3.35 billion this year.",
-      "source": "https://cryptopanic.com/news/28232092/ALERT-Losses-from-hacks-exploits-and-scams-topped-335B-this-year-per-CertiK",
-      "time": "2025-12-24T09:33:58.000Z",
+      "title": "Trust Wallet Extension Compromise",
+      "description": "Reports indicate that the Trust Wallet browser extension was compromised, leading to the unauthorized draining of user funds. Preliminary observations suggest the incident may be linked to a Chrome extension update released recently, with estimated losses around $6 million.",
+      "source": "https://cryptopanic.com/news/28256304/Trust-browser-extension-was-hacked",
+      "time": "2025-12-25T20:02:34.000Z",
       "severity": "High",
       "classification": [
         "Hack"
@@ -15,70 +15,22 @@
     },
     {
       "id": 2,
-      "title": "Polymarket User Account Breach via Third-Party Authentication",
-      "description": "Polymarket users reported account breaches linked to a third-party authentication vulnerability.",
-      "source": "https://cryptopanic.com/news/28230542/Polymarket-cites-third-party-vulnerability-in-recent-user-account-hack",
-      "time": "2025-12-24T08:33:18.000Z",
+      "title": "Emerging Cyber Threats Report",
+      "description": "A security bulletin reports shifting cyber threat tactics, including data leak vulnerabilities in AI chatbots and Docker prompt injection exploits. Other highlighted risks include stealthy loaders, Android NFC malware, and fake Proof of Concepts (PoCs).",
+      "source": "https://twitter.com/209811713/status/2004191442848436632",
+      "time": "2025-12-25T14:04:10.000Z",
       "severity": "Medium",
       "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "SantaStealer Malware Targets Crypto and Browser Data",
-      "description": "A new malware identified as SantaStealer is reportedly targeting and stealing data from web browsers and cryptocurrency wallets.",
-      "source": "https://www.reddit.com/r/CryptoCurrency/comments/1pu35zm/new_santastealer_malware_steals_data_from",
-      "time": "2025-12-24T07:35:07.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Gnosis Hard Fork to Recover $116M from Balancer Exploit",
-      "description": "Gnosis executed a hard fork to recover funds following a November exploit of Balancer that resulted in $116M in stolen digital assets.",
-      "source": "https://cryptopanic.com/news/28227241/LATEST-Gnosis-executed-a-hard-fork-on-Monday-to-recover-funds-from-a-November-Balancer-exploit-that-saw-116M-in-digital-assets-stolen-with-the-funds-now-out-of-the-hackers-control",
-      "time": "2025-12-24T06:34:23.000Z",
-      "severity": "High",
-      "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "University of Phoenix Data Breach Impacts 3.5 Million",
-      "description": "The University of Phoenix confirmed a data breach affecting 3.5 million individuals, stemming from a zero-day vulnerability exploit in Oracle EBS enterprise software attributed to threat groups Cl0p or FIN11.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1pude2k/35_million_affected_by_university_of_phoenix_data",
-      "time": "2025-12-24T04:51:03.000Z",
-      "severity": "High",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "OMNIBUS JAPAN INC. Breach Claimed by Lynx Group",
-      "description": "The Lynx hacking group claimed to have breached OMNIBUS JAPAN INC., a Japanese news and multimedia company. The incident is currently pending verification.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mapuwmusa62q",
-      "time": "2025-12-23T00:00:00.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Breach"
+        "Leak"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "The week ending December 25, 2025, witnessed a pronounced escalation in cyber risk across multiple sectors, highlighted by high-profile data breaches, aggressive exploitation of zero-day vulnerabilities, and record-setting financial losses, particularly in the cryptocurrency domain. Major institutions—including the University of Phoenix, the French Ministry of the Interior, and multiple DeFi platforms—suffered breaches impacting millions, while attackers rapidly weaponized vulnerabilities in widely used products like Fortinet, React, and n8n. The emergence of advanced malware (Stealka, RatOn, SantaStealer) and large-scale phishing and scam campaigns further amplified the threat landscape, with the crypto sector alone reporting over $3.35 billion in annual losses. This convergence of technical exploits, social engineering, and data-theft tactics signals a period of heightened cyber activity requiring urgent, coordinated defensive measures.",
-    "trends": "Key trends observed this week include: 1) Persistent exploitation of newly disclosed vulnerabilities (React2Shell, Fortinet FortiGate, n8n) with rapid deployment of ransomware and credential theft; 2) Massive breaches and leaks targeting educational, governmental, and financial organizations, with attackers leveraging both technical and social attack vectors; 3) A surge in malware and infostealer campaigns targeting crypto users and gamers via trusted platforms like GitHub and SourceForge; 4) Sophisticated scams, especially address poisoning and phishing, causing unprecedented financial losses in crypto; 5) Ongoing targeting of legacy vulnerabilities and supply chain weaknesses, as seen in the Polymarket and Nissan incidents. There is a notable concentration of attacks around crypto, finance, and education, alongside coordinated campaigns against government and manufacturing entities.",
-    "predictions": "For the upcoming days, continued high risk is expected—especially in the cryptocurrency, finance, and education sectors. Advanced persistent groups are likely to intensify exploitation of recently disclosed vulnerabilities and may leverage holiday periods for disruptive attacks. Expect further ransomware incidents, large-scale phishing, and infostealer campaigns (high confidence, 80%). Zero-day exploitation and supply chain attacks will remain prevalent, with attackers targeting platforms with wide user bases (React, Fortinet, cloud services). Crypto scams (address poisoning, wallet malware) will persist, potentially escalating as threat actors adapt tactics. Institutions should prioritize patching, multi-factor authentication, and user education, with particular attention to monitoring for both technical and social engineering threats."
+    "briefing": "This week was marked by an exceptional volume and severity of cyber incidents, with a clear focus on the cryptocurrency sector, large-scale data breaches, and rapid exploitation of critical vulnerabilities. High-profile attacks included a $50M USDT address-poisoning scam, multi-million dollar DeFi exploits, and major ransomware breaches impacting institutions like the University of Phoenix and Baker University. Attackers leveraged newly disclosed vulnerabilities (e.g., React2Shell, Fortinet FortiGate, n8n) for swift exploitation, while advanced malware campaigns such as Stealka and SantaStealer continued to target crypto assets and browser credentials. The surge in sophisticated phishing and fraud infrastructure, along with legacy vulnerabilities at major brands, underscores a persistent and diverse threat landscape. Overall, the week demonstrates that attackers are increasingly targeting both financial and personal data, exploiting both technical and social weaknesses at scale.",
+    "trends": "Key trends include a sustained spike in financial sector attacks—especially targeting crypto exchanges, wallets, and DeFi platforms—resulting in both individual and institutional losses. Ransomware and infostealer malware campaigns are increasingly utilizing trusted platforms (e.g., GitHub, SourceForge) and social engineering to maximize reach and impact. Critical vulnerabilities are being weaponized almost immediately upon disclosure, with exploitation chains targeting widely used infrastructure (React2Shell, Fortinet, iMessage RCE). Data breaches remain frequent and high-impact, affecting millions of records in education, news media, and enterprise environments. Notably, address-poisoning scams highlight persistent risks associated with user behavior, while fraud operations leveraging phishing and fake PoCs continue to evolve. The overall threat level remains high, with daily threat scores reflecting a relentless, multi-vector attack environment. There is a growing intersection of technical exploitation and social engineering—attackers are increasingly adept at blending these tactics for maximum effect.",
+    "predictions": "In the coming days, expect continued high risk for the crypto sector, with further wallet- and exchange-targeted scams, new malware strains, and opportunistic attacks exploiting recent vulnerabilities. Ransomware and infostealer activity will likely remain elevated, particularly targeting platforms with unpatched flaws or weak authentication mechanisms. Watch for rapid exploitation of any newly disclosed vulnerabilities, especially in popular cloud services, enterprise software, and widely deployed browser extensions. Data breaches in education and media may persist as attackers leverage stolen credentials and compromised infrastructure. Fraud and phishing campaigns are anticipated to intensify, targeting both individuals and businesses with increasingly realistic lures. Confidence level: High—based on the volume, diversity, and sophistication of recent attacks, organizations and users should maintain heightened vigilance, prioritize patching, and reinforce anti-phishing and account protection measures."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-17",
-      "count": 5
-    },
     {
       "date": "2025-12-18",
       "count": 6
@@ -102,21 +54,13 @@
     {
       "date": "2025-12-25",
       "count": 6
+    },
+    {
+      "date": "2025-12-26",
+      "count": 2
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Exploit",
-      "value": 7
-    },
-    {
-      "name": "Breach",
-      "value": 9
-    },
-    {
-      "name": "Scam",
-      "value": 8
-    },
     {
       "name": "Hack",
       "value": 10
@@ -127,7 +71,19 @@
     },
     {
       "name": "Leak",
-      "value": 3
+      "value": 4
+    },
+    {
+      "name": "Scam",
+      "value": 7
+    },
+    {
+      "name": "Breach",
+      "value": 8
+    },
+    {
+      "name": "Exploit",
+      "value": 5
     },
     {
       "name": "Malware",

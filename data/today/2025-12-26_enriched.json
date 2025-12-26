@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-25T20:02:34.000Z",
+      "entities": "Trust Wallet Extension Compromise",
+      "eventSummary": "Reports indicate that the Trust Wallet browser extension was compromised, leading to the unauthorized draining of user funds. Preliminary observations suggest the incident may be linked to a Chrome extension update released recently, with estimated losses around $6 million.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptopanic.com/news/28256304/Trust-browser-extension-was-hacked"
+    },
+    {
+      "timestamp": "2025-12-25T14:04:10.000Z",
+      "entities": "Emerging Cyber Threats Report",
+      "eventSummary": "A security bulletin reports shifting cyber threat tactics, including data leak vulnerabilities in AI chatbots and Docker prompt injection exploits. Other highlighted risks include stealthy loaders, Android NFC malware, and fake Proof of Concepts (PoCs).",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://twitter.com/209811713/status/2004191442848436632"
+    }
+  ],
+  "overallDayThreatScore": 83,
+  "dailyBrief": "A major breach affected Trust Wallet users through a compromised browser extension, resulting in significant financial losses. Additionally, a security report highlights evolving tactics targeting AI, container environments, and mobile platforms, emphasizing the rise of data leaks and sophisticated exploits. The day's risks reflect an elevated threat landscape, with critical alerts for both large-scale hacks and emerging vulnerabilities."
+}
