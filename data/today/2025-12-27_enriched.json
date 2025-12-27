@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-26T03:41:44.000Z",
+      "entities": "Trust Wallet Chrome Extension Security Breach",
+      "eventSummary": "Trust Wallet reported a security breach affecting its Chrome browser extension (version 2.68.0), resulting in approximately $7 million in user funds being drained. The team is investigating how a malicious version was submitted, while confirming that affected user funds will be covered.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://twitter.com/902926941413453824/status/2004397190819783013"
+    }
+  ],
+  "overallDayThreatScore": 90,
+  "dailyBrief": "A significant security breach was reported involving Trust Wallet's Chrome extension, resulting in the theft of approximately $7 million in user funds. The incident highlights the critical risks associated with browser extension vulnerabilities and the importance of rapid response and user fund protection. Users are advised to monitor updates and practice heightened vigilance."
+}
