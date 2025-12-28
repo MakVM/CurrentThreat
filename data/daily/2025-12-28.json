@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-12-27T18:48:09.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Two banks have issued urgent data breach alerts to 69,662 customers following a cyberattack on a third-party vendor.\nSources:\n- https://cryptopanic.com/news/28296934/Two-Banks-Issue-Urgent-Data-Breach-Alerts-Warn-69662-Customers-After-Hacker-Hits-Third-Party-Vendor"
+  },
+  {
+    "timestamp": "2025-12-27T18:32:58.000Z",
+    "entities": "Condé Nast, Wired.com",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A hacker has claimed a massive data breach affecting 40 million users of Condé Nast and has already leaked 2.3 million records from Wired.com while threatening to release the remaining data.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mayg3byzls2e"
+  },
+  {
+    "timestamp": "2025-12-27T14:42:36.000Z",
+    "entities": "Trust Wallet",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Trust Wallet Chrome extension version 2.68 was compromised in a supply chain attack involving malicious code that exfiltrated seed phrases and drained approximately $7 million from users. Trust Wallet has since launched a compensation process for the victims.\nSources:\n- https://cryptoslate.com/how-browser-extensions-expose-your-crypto-to-a-fatal-design-flaw-that-the-industry-ignored-bleeding-713m-in-2025\n- https://web3isgoinggreat.com/single/trust-wallet-hack\n- https://t.me/the_block_crypto/32169"
+  }
+]

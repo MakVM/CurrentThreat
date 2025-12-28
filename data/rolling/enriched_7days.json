@@ -1,22 +1,7 @@
 {
-  "startDate": "2025-12-21",
-  "endDate": "2025-12-27",
+  "startDate": "2025-12-22",
+  "endDate": "2025-12-28",
   "days": [
-    {
-      "date": "2025-12-21",
-      "events": [
-        {
-          "timestamp": "2025-12-20T02:50:45.000Z",
-          "entities": "Major USDT Address-Poisoning Scam Results in $50M Loss",
-          "eventSummary": "A crypto user lost approximately $50 million in USDT due to an address-poisoning scam. The victim mistakenly copied a look-alike wallet address from their transaction history, transferring 49,999,950 USDT to the attacker. The funds were subsequently converted to ETH and partially funneled through Tornado Cash. The victim has reportedly sent an on-chain message offering a $1M white-hat bounty for the return of 98% of the funds.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://cryptonews.com/news/address-poisoning-scam-one-copy-paste-mistake-cost-a-crypto-trader-50-million"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "A significant address-poisoning scam led to the loss of $50 million in USDT after a user mistakenly transferred funds to a fraudulent wallet. The attacker rapidly laundered the funds through Tornado Cash, highlighting both the effectiveness of social engineering and the challenges of tracing crypto assets. Today's threat landscape is marked by sophisticated scams targeting crypto users and underscores the urgent need for improved wallet address verification and anti-phishing measures."
-    },
     {
       "date": "2025-12-22",
       "events": [
@@ -314,6 +299,37 @@
       ],
       "overallDayThreatScore": 90,
       "dailyBrief": "A significant security breach was reported involving Trust Wallet's Chrome extension, resulting in the theft of approximately $7 million in user funds. The incident highlights the critical risks associated with browser extension vulnerabilities and the importance of rapid response and user fund protection. Users are advised to monitor updates and practice heightened vigilance."
+    },
+    {
+      "date": "2025-12-28",
+      "events": [
+        {
+          "timestamp": "2025-12-27T18:48:09.000Z",
+          "entities": "Bank Data Breach via Third-Party Vendor",
+          "eventSummary": "Two banks have issued urgent data breach alerts to 69,662 customers following a cyberattack on a third-party vendor.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28296934/Two-Banks-Issue-Urgent-Data-Breach-Alerts-Warn-69662-Customers-After-Hacker-Hits-Third-Party-Vendor"
+        },
+        {
+          "timestamp": "2025-12-27T18:32:58.000Z",
+          "entities": "Condé Nast & Wired.com Data Leak",
+          "eventSummary": "A hacker has claimed a massive data breach affecting 40 million users of Condé Nast and has already leaked 2.3 million records from Wired.com while threatening to release the remaining data.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/hackread.bsky.social/post/3mayg3byzls2e"
+        },
+        {
+          "timestamp": "2025-12-27T14:42:36.000Z",
+          "entities": "Trust Wallet Chrome Extension Supply Chain Attack",
+          "eventSummary": "The Trust Wallet Chrome extension version 2.68 was compromised in a supply chain attack involving malicious code that exfiltrated seed phrases and drained approximately $7 million from users. Trust Wallet has since launched a compensation process for the victims.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://cryptoslate.com/how-browser-extensions-expose-your-crypto-to-a-fatal-design-flaw-that-the-industry-ignored-bleeding-713m-in-2025"
+        }
+      ],
+      "overallDayThreatScore": 92,
+      "dailyBrief": "Today saw a spike in severe cyber incidents across financial, media, and crypto sectors. Major banks issued breach alerts due to a third-party compromise, Condé Nast faced an unprecedented data leak affecting tens of millions, and Trust Wallet's browser extension suffered a damaging supply chain attack resulting in significant financial loss. The trend highlights escalating risks from third-party integrations and supply chain vulnerabilities, with attackers targeting both personal data and financial assets at scale."
     }
   ]
 }
