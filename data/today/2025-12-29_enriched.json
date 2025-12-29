@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-28T14:48:44.000Z",
+      "entities": "Qilin breach of Atalian",
+      "eventSummary": "The Qilin hacking group claims to have breached the French service company Atalian, allegedly exfiltrating 500 GB of data. Samples of the stolen data have been provided as proof of the breach.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mb2ih6f6w32"
+    },
+    {
+      "timestamp": "2025-12-28T04:58:32.000Z",
+      "entities": "WIRED/Condé Nast subscriber data leak",
+      "eventSummary": "A database containing personal details of over 2.3 million WIRED subscribers was reportedly leaked on BreachForums. The breach, confirmed by Hudson Rock, is part of a larger attack on Condé Nast that may compromise up to 40 million records across various properties.",
+      "severity": "High",
+      "tags": "leak",
+      "source": "https://twitter.com/877710712734232576/status/2005141294486536581"
+    },
+    {
+      "timestamp": "2025-12-28T03:42:10.000Z",
+      "entities": "Trust Wallet browser extension breach",
+      "eventSummary": "Trust Wallet has enhanced its security measures following a breach involving its browser extension.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://cryptopanic.com/news/28303882/Trust-Wallet-Bolsters-Security-Amid-Browser-Extension-Breach"
+    }
+  ],
+  "overallDayThreatScore": 90,
+  "dailyBrief": "Today's cyber landscape is marked by two major breaches with significant data exposure: Qilin's breach of Atalian with 500 GB exfiltrated, and the leak of over 2.3 million WIRED subscriber records, part of a larger Condé Nast compromise. Trust Wallet's response to its browser extension breach highlights ongoing threats to crypto platforms. The day reflects heightened risk, especially for large organizations and digital service providers, with data leaks and breaches as dominant trends."
+}

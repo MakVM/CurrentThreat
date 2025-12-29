@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-12-28T14:48:44.000Z",
+    "entities": "Atalian, Qilin",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Qilin hacking group claims to have breached the French service company Atalian, allegedly exfiltrating 500 GB of data. Samples of the stolen data have been provided as proof of the breach.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mb2ih6f6w32q"
+  },
+  {
+    "timestamp": "2025-12-28T04:58:32.000Z",
+    "entities": "WIRED, Condé Nast, Hudson Rock",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A database containing personal details of over 2.3 million WIRED subscribers was reportedly leaked on BreachForums. The breach, confirmed by Hudson Rock, is part of a larger attack on Condé Nast that may compromise up to 40 million records across various properties.\nSources:\n- https://twitter.com/877710712734232576/status/2005141294486536581\n- https://bsky.app/profile/bleepingcomputer.com/post/3mb2vitlcfc2s"
+  },
+  {
+    "timestamp": "2025-12-28T03:42:10.000Z",
+    "entities": "Trust Wallet",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Trust Wallet has enhanced its security measures following a breach involving its browser extension.\nSources:\n- https://cryptopanic.com/news/28303882/Trust-Wallet-Bolsters-Security-Amid-Browser-Extension-Breach"
+  }
+]

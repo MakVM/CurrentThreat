@@ -1,13 +1,13 @@
 {
-  "currentThreat": "OPERATION CASCADE EXPOSURE",
-  "threatScore": 9.2,
+  "currentThreat": "OPERATION DATA CASCADE",
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Bank Data Breach via Third-Party Vendor",
-      "description": "Two banks have issued urgent data breach alerts to 69,662 customers following a cyberattack on a third-party vendor.",
-      "source": "https://cryptopanic.com/news/28296934/Two-Banks-Issue-Urgent-Data-Breach-Alerts-Warn-69662-Customers-After-Hacker-Hits-Third-Party-Vendor",
-      "time": "2025-12-27T18:48:09.000Z",
+      "title": "Qilin breach of Atalian",
+      "description": "The Qilin hacking group claims to have breached the French service company Atalian, allegedly exfiltrating 500 GB of data. Samples of the stolen data have been provided as proof of the breach.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mb2ih6f6w32",
+      "time": "2025-12-28T14:48:44.000Z",
       "severity": "High",
       "classification": [
         "Breach"
@@ -15,10 +15,10 @@
     },
     {
       "id": 2,
-      "title": "Condé Nast & Wired.com Data Leak",
-      "description": "A hacker has claimed a massive data breach affecting 40 million users of Condé Nast and has already leaked 2.3 million records from Wired.com while threatening to release the remaining data.",
-      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mayg3byzls2e",
-      "time": "2025-12-27T18:32:58.000Z",
+      "title": "WIRED/Condé Nast subscriber data leak",
+      "description": "A database containing personal details of over 2.3 million WIRED subscribers was reportedly leaked on BreachForums. The breach, confirmed by Hudson Rock, is part of a larger attack on Condé Nast that may compromise up to 40 million records across various properties.",
+      "source": "https://twitter.com/877710712734232576/status/2005141294486536581",
+      "time": "2025-12-28T04:58:32.000Z",
       "severity": "High",
       "classification": [
         "Leak"
@@ -26,26 +26,22 @@
     },
     {
       "id": 3,
-      "title": "Trust Wallet Chrome Extension Supply Chain Attack",
-      "description": "The Trust Wallet Chrome extension version 2.68 was compromised in a supply chain attack involving malicious code that exfiltrated seed phrases and drained approximately $7 million from users. Trust Wallet has since launched a compensation process for the victims.",
-      "source": "https://cryptoslate.com/how-browser-extensions-expose-your-crypto-to-a-fatal-design-flaw-that-the-industry-ignored-bleeding-713m-in-2025",
-      "time": "2025-12-27T14:42:36.000Z",
-      "severity": "High",
+      "title": "Trust Wallet browser extension breach",
+      "description": "Trust Wallet has enhanced its security measures following a breach involving its browser extension.",
+      "source": "https://cryptopanic.com/news/28303882/Trust-Wallet-Bolsters-Security-Amid-Browser-Extension-Breach",
+      "time": "2025-12-28T03:42:10.000Z",
+      "severity": "Medium",
       "classification": [
-        "Hack"
+        "Breach"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week saw an alarming escalation in high-impact cyber threats, with a persistent focus on the cryptocurrency and financial sectors alongside major breaches targeting educational institutions and large enterprises. Notable incidents included multi-million-dollar losses from sophisticated crypto scams, a series of damaging browser extension supply chain attacks (notably impacting Trust Wallet), and widespread data breaches affecting millions (University of Phoenix, Condé Nast, Wired.com, major banks). Advanced malware campaigns such as Stealka and SantaStealer exploited trusted platforms and targeted both personal and organization-level credentials and assets. Critical vulnerabilities in popular software and social engineering tactics complemented the technical attacks, underlining a highly active and evolving threat landscape that demands rapid defensive adaptation.",
-    "trends": "The period was characterized by frequent and severe breaches, especially those exploiting third-party vendors, browser extensions, and authentication mechanisms. Supply chain attacks have spiked, with Trust Wallet's Chrome extension compromise serving as a vivid example of attackers targeting update mechanisms and trusted distribution channels. The cryptocurrency sector remains a prime target, with both direct wallet thefts and large-scale scams driving up losses; malware such as Stealka and SantaStealer are increasingly distributed via gaming and open-source platforms. Data leaks from media companies and financial institutions also highlight a trend toward mass exploitation and extortion. Ransomware activity persisted, targeting universities and leveraging recent vulnerabilities. Overall, attackers are combining technical exploits with social engineering and leveraging weak links in supply chains and authentication flows.",
-    "predictions": "In the coming days, expect continued targeting of browser extensions, third-party service providers, and large organizations with mass data stores. Cryptocurrency users and exchanges remain at elevated risk for both direct theft and sophisticated scams. Supply chain vulnerabilities, especially in widely used apps and browser extensions, are likely to be further exploited, and we may see additional disclosures or fallout related to the recent Trust Wallet and Condé Nast breaches. The education, finance, and media sectors should brace for increased ransomware and credential theft campaigns. With new malware variants and critical vulnerabilities surfacing, the threat environment is unlikely to abate; organizations should prioritize patch management, vendor risk reviews, and user awareness. Confidence level: High, based on the sustained volume and sophistication of recent attacks and ongoing external threat actor activity reported in global cyber news."
+    "briefing": "The week ending December 29, 2025, was marked by an unprecedented wave of high-impact cyber incidents spanning financial, educational, media, and cryptocurrency sectors. Major breaches and leaks affected millions, including the University of Phoenix, Baker University, Condé Nast/Wired, and multiple banks, amplifying concerns about data privacy and third-party vulnerabilities. The cryptocurrency ecosystem was hit especially hard, with losses exceeding $3.35 billion for the year, fueled by sophisticated malware (RatOn, Stealka, SantaStealer), supply chain attacks (Trust Wallet extension), and large-scale scams. Critical vulnerabilities were actively exploited, and ransomware operations continued to target institutions worldwide. The scale, velocity, and diversity of attacks signal an elevated, complex threat landscape, demanding rigorous attention to supply chain, authentication, and endpoint security.",
+    "trends": "Key trends include a notable surge in breaches linked to third-party vendors and supply chain attacks, exemplified by the Trust Wallet Chrome extension compromise and bank breaches. Data leaks are increasingly targeting large media outlets and financial institutions, with attackers exfiltrating and publicly distributing millions of personal records. Cryptocurrency platforms and users remain top targets, facing persistent malware campaigns, scams, and exploits—often spread via popular sites and browser extensions. There is ongoing exploitation of zero-day vulnerabilities and a shift towards multi-vector attacks leveraging social engineering, phishing, and technical flaws. Law enforcement disruption of fraud infrastructure is notable but does not significantly slow down adversary activity. Overall, attackers are pursuing high-value data and assets through increasingly stealthy and scalable methods.",
+    "predictions": "In the coming days, expect continued high risk for organizations relying on third-party platforms and browser extensions, especially in the crypto and financial sectors. New malware variants and supply chain attacks are likely, with threat actors targeting software updates and authentication mechanisms. Data leaks involving large user bases—media, banks, and SaaS platforms—may spike further, as adversaries leverage stolen information for secondary campaigns. Ransomware and infostealer activity will remain elevated, with increased use of phishing and social engineering around the holiday/New Year period. Confidence is high (80-90%) that high-severity incidents will persist, and organizations should prioritize patching, vendor risk management, user awareness, and rapid response capabilities. Watch for heightened regulatory and law enforcement actions, but expect attackers to adapt quickly."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-22",
-      "count": 7
-    },
     {
       "date": "2025-12-23",
       "count": 7
@@ -69,32 +65,36 @@
     {
       "date": "2025-12-28",
       "count": 3
+    },
+    {
+      "date": "2025-12-29",
+      "count": 3
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Breach",
-      "value": 10
-    },
-    {
-      "name": "Exploit",
-      "value": 5
-    },
-    {
-      "name": "Scam",
-      "value": 6
-    },
-    {
-      "name": "Hack",
-      "value": 7
-    },
     {
       "name": "Malware",
       "value": 2
     },
     {
-      "name": "Leak",
+      "name": "Breach",
+      "value": 10
+    },
+    {
+      "name": "Scam",
       "value": 4
+    },
+    {
+      "name": "Leak",
+      "value": 5
+    },
+    {
+      "name": "Hack",
+      "value": 6
+    },
+    {
+      "name": "Exploit",
+      "value": 3
     },
     {
       "name": "Fraud",

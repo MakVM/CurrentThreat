@@ -1,70 +1,7 @@
 {
-  "startDate": "2025-12-22",
-  "endDate": "2025-12-28",
+  "startDate": "2025-12-23",
+  "endDate": "2025-12-29",
   "days": [
-    {
-      "date": "2025-12-22",
-      "events": [
-        {
-          "timestamp": "2025-12-21T22:35:26.000Z",
-          "entities": "B2Sell and Kitchem Data Breach and Website Defacement",
-          "eventSummary": "B2Sell and Kitchem have allegedly been victims of a data breach and website defacement.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://twitter.com/1697387633247150081/status/2002870552932110625"
-        },
-        {
-          "timestamp": "2025-12-21T18:38:38.000Z",
-          "entities": "Data to Win Systems Data Breach",
-          "eventSummary": "An alleged data breach has been reported involving the Spanish company Data to Win Systems.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://twitter.com/1697387633247150081/status/2002810961741451742"
-        },
-        {
-          "timestamp": "2025-12-21T17:46:16.000Z",
-          "entities": "Critical Vulnerabilities Announced (iMessage, Dropbear, OrangeHRM)",
-          "eventSummary": "Security researchers highlight several critical vulnerabilities including an iMessage Zero-Click RCE chain (CVE-2025-31200, CVE-2025-31201), Dropbear privilege escalation (CVE-2025-14282), and OrangeHRM RCE (CVE-2025-66224).",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://twitter.com/2342380454/status/2002797784991449253"
-        },
-        {
-          "timestamp": "2025-12-21T14:45:51.000Z",
-          "entities": "Crypto Address Poisoning Scam ($50 Million Loss)",
-          "eventSummary": "A crypto user reportedly lost $50 million in a high-value address poisoning scam involving address manipulation.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://thecurrencyanalytics.com/altcoins/crypto-scam-costs-user-50-million-through-address-manipulation-231027"
-        },
-        {
-          "timestamp": "2025-12-21T10:51:47.000Z",
-          "entities": "PBH Token Scam",
-          "eventSummary": "Users report a scam involving the PBH token, resulting in the loss of funds.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://t.me/binanceexchange"
-        },
-        {
-          "timestamp": "2025-12-21T10:27:24.000Z",
-          "entities": "Starbucks CVE-2007-0450 Exploit Risk",
-          "eventSummary": "Reports indicate that Starbucks remains vulnerable to exploitation via CVE-2007-0450, a legacy directory traversal and authentication bypass vulnerability.",
-          "severity": "Medium",
-          "tags": "exploit",
-          "source": "https://twitter.com/92835108/status/2002687340897284445"
-        },
-        {
-          "timestamp": "2025-12-21T09:13:42.000Z",
-          "entities": "Government & Manufacturing Sectors Targeted by Email Malware Campaign",
-          "eventSummary": "Hackers are reportedly weaponizing SVG files and Office documents in a sophisticated email campaign to distribute Remote Access Trojans and information stealers targeting government and manufacturing sectors in Italy, Finland, and Saudi Arabia.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://twitter.com/1165106855879704577/status/2002668794184085832"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "December 21, 2025 saw a surge in high-severity cyber threats. Multiple organizations, including B2Sell, Kitchem, and Data to Win Systems, suffered breaches. Critical vulnerabilities were disclosed across major platforms, increasing exploitation risks. Financial losses were substantial, highlighted by a $50 million crypto scam and ongoing fraudulent token activity. Sophisticated malware campaigns targeted government and manufacturing sectors, and legacy vulnerabilities persist at major brands. The overall threat landscape remains highly active, with coordinated attacks and critical vulnerabilities driving urgent risk response."
-    },
     {
       "date": "2025-12-23",
       "events": [
@@ -330,6 +267,37 @@
       ],
       "overallDayThreatScore": 92,
       "dailyBrief": "Today saw a spike in severe cyber incidents across financial, media, and crypto sectors. Major banks issued breach alerts due to a third-party compromise, Condé Nast faced an unprecedented data leak affecting tens of millions, and Trust Wallet's browser extension suffered a damaging supply chain attack resulting in significant financial loss. The trend highlights escalating risks from third-party integrations and supply chain vulnerabilities, with attackers targeting both personal data and financial assets at scale."
+    },
+    {
+      "date": "2025-12-29",
+      "events": [
+        {
+          "timestamp": "2025-12-28T14:48:44.000Z",
+          "entities": "Qilin breach of Atalian",
+          "eventSummary": "The Qilin hacking group claims to have breached the French service company Atalian, allegedly exfiltrating 500 GB of data. Samples of the stolen data have been provided as proof of the breach.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mb2ih6f6w32"
+        },
+        {
+          "timestamp": "2025-12-28T04:58:32.000Z",
+          "entities": "WIRED/Condé Nast subscriber data leak",
+          "eventSummary": "A database containing personal details of over 2.3 million WIRED subscribers was reportedly leaked on BreachForums. The breach, confirmed by Hudson Rock, is part of a larger attack on Condé Nast that may compromise up to 40 million records across various properties.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://twitter.com/877710712734232576/status/2005141294486536581"
+        },
+        {
+          "timestamp": "2025-12-28T03:42:10.000Z",
+          "entities": "Trust Wallet browser extension breach",
+          "eventSummary": "Trust Wallet has enhanced its security measures following a breach involving its browser extension.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28303882/Trust-Wallet-Bolsters-Security-Amid-Browser-Extension-Breach"
+        }
+      ],
+      "overallDayThreatScore": 90,
+      "dailyBrief": "Today's cyber landscape is marked by two major breaches with significant data exposure: Qilin's breach of Atalian with 500 GB exfiltrated, and the leak of over 2.3 million WIRED subscriber records, part of a larger Condé Nast compromise. Trust Wallet's response to its browser extension breach highlights ongoing threats to crypto platforms. The day reflects heightened risk, especially for large organizations and digital service providers, with data leaks and breaches as dominant trends."
     }
   ]
 }
