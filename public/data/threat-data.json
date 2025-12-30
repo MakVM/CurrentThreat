@@ -1,51 +1,69 @@
 {
-  "currentThreat": "OPERATION DATA CASCADE",
-  "threatScore": 9,
+  "currentThreat": "OPERATION MULTI-SECTOR CASCADE",
+  "threatScore": 8.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Qilin breach of Atalian",
-      "description": "The Qilin hacking group claims to have breached the French service company Atalian, allegedly exfiltrating 500 GB of data. Samples of the stolen data have been provided as proof of the breach.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mb2ih6f6w32",
-      "time": "2025-12-28T14:48:44.000Z",
+      "title": "Trust Wallet Christmas Day Exploit – 2,596 Addresses Compromised",
+      "description": "Trust Wallet has identified 2,596 compromised addresses after a Christmas Day exploit. The company is currently moving into a verification phase to distinguish legitimate victims from false claims.",
+      "source": "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack",
+      "time": "2025-12-29T13:21:24.000Z",
       "severity": "High",
+      "classification": [
+        "Exploit"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mens Den Data Breach – User Information Exposed",
+      "description": "US-based entity Mens Den reportedly suffered a data breach. The leaked database allegedly contains user email addresses, password hashes, and personal profile information.",
+      "source": "https://twitter.com/1507666230102138882/status/2005615380694278290",
+      "time": "2025-12-29T12:22:23.000Z",
+      "severity": "Medium",
       "classification": [
         "Breach"
       ]
     },
     {
-      "id": 2,
-      "title": "WIRED/Condé Nast subscriber data leak",
-      "description": "A database containing personal details of over 2.3 million WIRED subscribers was reportedly leaked on BreachForums. The breach, confirmed by Hudson Rock, is part of a larger attack on Condé Nast that may compromise up to 40 million records across various properties.",
-      "source": "https://twitter.com/877710712734232576/status/2005141294486536581",
-      "time": "2025-12-28T04:58:32.000Z",
-      "severity": "High",
+      "id": 3,
+      "title": "Ubisoft Source Code Leak Claims – Unverified",
+      "description": "Reports indicate that a breach at Ubisoft involving the injection of massive amounts of in-game currency may be exaggerated. While hacker groups claim to have leaked 900 GB of source code and internal documentation, no evidence has been provided to verify these claims.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pyhnld/ubisoft_hack_is_reportedly_blown_way_out_of",
+      "time": "2025-12-29T12:21:07.000Z",
+      "severity": "Medium",
       "classification": [
         "Leak"
       ]
     },
     {
-      "id": 3,
-      "title": "Trust Wallet browser extension breach",
-      "description": "Trust Wallet has enhanced its security measures following a breach involving its browser extension.",
-      "source": "https://cryptopanic.com/news/28303882/Trust-Wallet-Bolsters-Security-Amid-Browser-Extension-Breach",
-      "time": "2025-12-28T03:42:10.000Z",
-      "severity": "Medium",
+      "id": 4,
+      "title": "Omrania Ransomware Breach – 400 GB Data Exfiltrated",
+      "description": "The Omrania INC Ransom group claims to have breached Saudi Arabian firm Omrania, allegedly exfiltrating 400 GB of sensitive data. The stolen information reportedly includes confidential documents, client data, financial records, and project drawings.",
+      "source": "https://twitter.com/190389182/status/2005591551020343622",
+      "time": "2025-12-29T10:47:42.000Z",
+      "severity": "High",
       "classification": [
         "Breach"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "npm Package Phishing Campaign – Industrial & Healthcare Targeted",
+      "description": "Attackers utilized 27 npm packages as CDN-hosted phishing lures over a five-month period. These packages mimicked Microsoft sign-in and document-sharing pages to target sales staff at 25 industrial and healthcare companies.",
+      "source": "https://twitter.com/209811713/status/2005576160407863561",
+      "time": "2025-12-29T09:46:33.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "The week ending December 29, 2025, was marked by an unprecedented wave of high-impact cyber incidents spanning financial, educational, media, and cryptocurrency sectors. Major breaches and leaks affected millions, including the University of Phoenix, Baker University, Condé Nast/Wired, and multiple banks, amplifying concerns about data privacy and third-party vulnerabilities. The cryptocurrency ecosystem was hit especially hard, with losses exceeding $3.35 billion for the year, fueled by sophisticated malware (RatOn, Stealka, SantaStealer), supply chain attacks (Trust Wallet extension), and large-scale scams. Critical vulnerabilities were actively exploited, and ransomware operations continued to target institutions worldwide. The scale, velocity, and diversity of attacks signal an elevated, complex threat landscape, demanding rigorous attention to supply chain, authentication, and endpoint security.",
-    "trends": "Key trends include a notable surge in breaches linked to third-party vendors and supply chain attacks, exemplified by the Trust Wallet Chrome extension compromise and bank breaches. Data leaks are increasingly targeting large media outlets and financial institutions, with attackers exfiltrating and publicly distributing millions of personal records. Cryptocurrency platforms and users remain top targets, facing persistent malware campaigns, scams, and exploits—often spread via popular sites and browser extensions. There is ongoing exploitation of zero-day vulnerabilities and a shift towards multi-vector attacks leveraging social engineering, phishing, and technical flaws. Law enforcement disruption of fraud infrastructure is notable but does not significantly slow down adversary activity. Overall, attackers are pursuing high-value data and assets through increasingly stealthy and scalable methods.",
-    "predictions": "In the coming days, expect continued high risk for organizations relying on third-party platforms and browser extensions, especially in the crypto and financial sectors. New malware variants and supply chain attacks are likely, with threat actors targeting software updates and authentication mechanisms. Data leaks involving large user bases—media, banks, and SaaS platforms—may spike further, as adversaries leverage stolen information for secondary campaigns. Ransomware and infostealer activity will remain elevated, with increased use of phishing and social engineering around the holiday/New Year period. Confidence is high (80-90%) that high-severity incidents will persist, and organizations should prioritize patching, vendor risk management, user awareness, and rapid response capabilities. Watch for heightened regulatory and law enforcement actions, but expect attackers to adapt quickly."
+    "briefing": "This week has been marked by a surge in high-impact cyber incidents spanning critical sectors such as cryptocurrency, education, finance, media, and gaming. Notable events include major data breaches at Baker University, University of Phoenix, and large-scale leaks affecting Condé Nast and Wired.com, collectively exposing tens of millions of records. The cryptocurrency sector suffered persistent threats, with Trust Wallet's browser extension compromise draining over $7 million, and sector-wide losses exceeding $3.35 billion for the year. Sophisticated malware campaigns, supply chain attacks, and phishing operations—often exploiting trusted platforms and third-party software—underscore the increasing complexity and scale of adversary tactics. The prevalence of exploits targeting enterprise software and browser extensions highlights the urgent need for patch management and vendor risk oversight.",
+    "trends": "The past seven days reveal several critical trends: (1) Supply chain and third-party vendor breaches are escalating, as seen in the Trust Wallet, banking, and media sector incidents. (2) Attackers are increasingly leveraging browser extensions, npm packages, and fake PoCs to deliver malware and conduct phishing campaigns, targeting both technical and non-technical users. (3) Ransomware, credential theft, and data exfiltration remain dominant, with financial, educational, and healthcare organizations disproportionately affected. (4) There is a noticeable spike in large-scale data leaks—often claimed by organized threat groups—accompanied by ransom demands or public dumps. (5) Cryptocurrency platforms and users face persistent, multi-vector threats, with attackers exploiting vulnerabilities and social engineering at scale.",
+    "predictions": "Over the coming days, expect continued high-severity breaches, particularly targeting financial services, crypto platforms, and enterprises with weak supply chain defenses. Threat actors will likely intensify attacks leveraging browser extensions, third-party authentication vulnerabilities, and phishing campaigns via popular package repositories. Media and gaming companies should remain alert for extortion attempts and unverified breach claims. Supply chain and vendor risk will remain a top concern, with a strong likelihood of further incidents involving trusted platforms. Organizations should prioritize rapid patching, enhanced monitoring, and verification of vendor and extension updates. Overall, confidence in these predictions is high (>80%), given the sustained attacker activity and evolving tactics observed this week."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-23",
-      "count": 7
-    },
     {
       "date": "2025-12-24",
       "count": 9
@@ -69,36 +87,36 @@
     {
       "date": "2025-12-29",
       "count": 3
+    },
+    {
+      "date": "2025-12-30",
+      "count": 5
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Malware",
-      "value": 2
-    },
-    {
-      "name": "Breach",
-      "value": 10
-    },
-    {
-      "name": "Scam",
-      "value": 4
-    },
-    {
-      "name": "Leak",
-      "value": 5
-    },
     {
       "name": "Hack",
       "value": 6
     },
     {
       "name": "Exploit",
+      "value": 4
+    },
+    {
+      "name": "Scam",
       "value": 3
+    },
+    {
+      "name": "Breach",
+      "value": 10
     },
     {
       "name": "Fraud",
       "value": 1
+    },
+    {
+      "name": "Leak",
+      "value": 5
     }
   ]
 }

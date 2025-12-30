@@ -1,70 +1,7 @@
 {
-  "startDate": "2025-12-23",
-  "endDate": "2025-12-29",
+  "startDate": "2025-12-24",
+  "endDate": "2025-12-30",
   "days": [
-    {
-      "date": "2025-12-23",
-      "events": [
-        {
-          "timestamp": "2025-12-22T15:08:52.000Z",
-          "entities": "RatOn Malware: NFC Fraud and RAT Capabilities",
-          "eventSummary": "RatOn Malware has been identified as a significant threat in NFC fraud, combining Remote Access Trojan (RAT) capabilities with NFC relay attacks.",
-          "severity": "High",
-          "tags": "malware",
-          "source": "https://twitter.com/704115137116942336/status/2003120560302387285"
-        },
-        {
-          "timestamp": "2025-12-22T15:04:12.000Z",
-          "entities": "Bybit Exchange Security Breach",
-          "eventSummary": "Security experts are advising on essential tactics to implement following a reported security breach at the Bybit cryptocurrency exchange.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://x.com/officer_secret/status/2003113258597724252?s=46"
-        },
-        {
-          "timestamp": "2025-12-22T14:57:58.000Z",
-          "entities": "University of Phoenix Ransomware Attack",
-          "eventSummary": "The Clop ransomware gang breached the University of Phoenix network, stealing data belonging to approximately 3.5 million students, staff, and suppliers.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/bleepingcomputer.com/post/3malgibx3lg2z"
-        },
-        {
-          "timestamp": "2025-12-22T08:54:03.000Z",
-          "entities": "USDt Address Poisoning Scam Loss",
-          "eventSummary": "A victim lost $50 million in USDt due to an address poisoning scam, highlighting the risks associated with copy-pasting wallet addresses.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://cryptopanic.com/news/28192856/50M-Lost-in-USDt-Address-Poisoning-Scam-Exposes-Crypto-Copy-Paste-Risk"
-        },
-        {
-          "timestamp": "2025-12-22T08:54:03.000Z",
-          "entities": "Stealka Infostealer Malware Targeting Crypto",
-          "eventSummary": "Kaspersky identified a new infostealer malware named Stealka that targets over 80 crypto wallets and 100 browsers, spreading via fake game mods and pirated software.",
-          "severity": "Medium",
-          "tags": "malware",
-          "source": "https://cryptopanic.com/news/28205104/Kaspersky-has-identified-a-new-infostealer-malware-called-Stealka-spreading-via-fake-game-mods-and-pirated-software-on-platforms-like-GitHub-and-Google-Sites-First-detected-in-November-2025-the-malware-targets-over-100-browsers-and-more-than-80-crypto-wall"
-        },
-        {
-          "timestamp": "2025-12-22T08:09:10.000Z",
-          "entities": "GitHub Zero-Day NTLM Hash Leak",
-          "eventSummary": "A new zero-day vulnerability (ms-photos_NTLM_Leak) has been disclosed on GitHub that allows attackers to leak NTLM hashes from browsers with a single click.",
-          "severity": "Medium",
-          "tags": "leak",
-          "source": "https://twitter.com/1195107773589131265/status/2003014941498827201"
-        },
-        {
-          "timestamp": "2025-12-22T04:54:42.000Z",
-          "entities": "Coinbase Account Drainage Scam",
-          "eventSummary": "A user reported a significant loss of 7,000 USD in cryptocurrency from their Coinbase account due to a drainage scam despite having security measures in place.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://www.reddit.com/r/CoinBase/comments/1ps9sda/yet_another_victim_of_scam"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today's cyber landscape is marked by several high-severity incidents, dominated by significant financial losses and data breaches. Major events include the theft of $50 million in USDt via an address poisoning scam and a ransomware assault on the University of Phoenix impacting 3.5 million individuals. The emergence of advanced malware, like RatOn and Stealka, highlights heightened risks to crypto assets and personal data. Breaches at Bybit and new zero-day vulnerabilities further amplify the threat environment. Users and organizations are urged to review security controls and bolster vigilance, especially around account management and malware prevention."
-    },
     {
       "date": "2025-12-24",
       "events": [
@@ -298,6 +235,53 @@
       ],
       "overallDayThreatScore": 90,
       "dailyBrief": "Today's cyber landscape is marked by two major breaches with significant data exposure: Qilin's breach of Atalian with 500 GB exfiltrated, and the leak of over 2.3 million WIRED subscriber records, part of a larger Condé Nast compromise. Trust Wallet's response to its browser extension breach highlights ongoing threats to crypto platforms. The day reflects heightened risk, especially for large organizations and digital service providers, with data leaks and breaches as dominant trends."
+    },
+    {
+      "date": "2025-12-30",
+      "events": [
+        {
+          "timestamp": "2025-12-29T13:21:24.000Z",
+          "entities": "Trust Wallet Christmas Day Exploit – 2,596 Addresses Compromised",
+          "eventSummary": "Trust Wallet has identified 2,596 compromised addresses after a Christmas Day exploit. The company is currently moving into a verification phase to distinguish legitimate victims from false claims.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack"
+        },
+        {
+          "timestamp": "2025-12-29T12:22:23.000Z",
+          "entities": "Mens Den Data Breach – User Information Exposed",
+          "eventSummary": "US-based entity Mens Den reportedly suffered a data breach. The leaked database allegedly contains user email addresses, password hashes, and personal profile information.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://twitter.com/1507666230102138882/status/2005615380694278290"
+        },
+        {
+          "timestamp": "2025-12-29T12:21:07.000Z",
+          "entities": "Ubisoft Source Code Leak Claims – Unverified",
+          "eventSummary": "Reports indicate that a breach at Ubisoft involving the injection of massive amounts of in-game currency may be exaggerated. While hacker groups claim to have leaked 900 GB of source code and internal documentation, no evidence has been provided to verify these claims.",
+          "severity": "Medium",
+          "tags": "leak",
+          "source": "https://www.reddit.com/r/cybersecurity/comments/1pyhnld/ubisoft_hack_is_reportedly_blown_way_out_of"
+        },
+        {
+          "timestamp": "2025-12-29T10:47:42.000Z",
+          "entities": "Omrania Ransomware Breach – 400 GB Data Exfiltrated",
+          "eventSummary": "The Omrania INC Ransom group claims to have breached Saudi Arabian firm Omrania, allegedly exfiltrating 400 GB of sensitive data. The stolen information reportedly includes confidential documents, client data, financial records, and project drawings.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/190389182/status/2005591551020343622"
+        },
+        {
+          "timestamp": "2025-12-29T09:46:33.000Z",
+          "entities": "npm Package Phishing Campaign – Industrial & Healthcare Targeted",
+          "eventSummary": "Attackers utilized 27 npm packages as CDN-hosted phishing lures over a five-month period. These packages mimicked Microsoft sign-in and document-sharing pages to target sales staff at 25 industrial and healthcare companies.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://twitter.com/209811713/status/2005576160407863561"
+        }
+      ],
+      "overallDayThreatScore": 82,
+      "dailyBrief": "A high-threat day with several significant cyber events reported. Trust Wallet and Omrania both suffered high-severity breaches, with thousands of users and large amounts of sensitive data impacted. Ongoing phishing campaigns via npm packages targeted industrial and healthcare sectors, while Mens Den and Ubisoft experienced medium-severity incidents. The volume and diversity of attacks suggest increased activity by threat actors, especially targeting financial, gaming, and critical infrastructure organizations."
     }
   ]
 }
