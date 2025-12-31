@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "timestamp": "2025-12-30T21:19:53.000Z",
+      "entities": "ErrTraffic ClickFix Attack Automation Tool",
+      "eventSummary": "A new cybercrime tool named ErrTraffic has been identified, allowing threat actors to automate ClickFix attacks by generating fake browser glitches on compromised websites to deliver malicious payloads.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3mbab3xcveq2z"
+    },
+    {
+      "timestamp": "2025-12-30T19:37:21.000Z",
+      "entities": "Trust Wallet Chrome Extension Exploit Compensation",
+      "eventSummary": "Trust Wallet has begun compensating users affected by a security exploit targeting its Chrome browser extension.",
+      "severity": "Medium",
+      "tags": "exploit",
+      "source": "https://cryptopanic.com/news/28378778/Trust-Wallet-Compensates-Users-After-Chrome-Extension-Exploit"
+    },
+    {
+      "timestamp": "2025-12-30T12:13:29.000Z",
+      "entities": "Unleash Protocol Multisig Exploit & Governance Failure",
+      "eventSummary": "Unleash Protocol halted all on-chain activities following a multisig exploit and governance failure that led to a hack. Reports indicate the incident is part of a growing trend of DeFi-related scams.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://u.today/scam-alert-unleash-protocol-faces-multisig-exploit"
+    },
+    {
+      "timestamp": "2025-12-30T10:48:33.000Z",
+      "entities": "Silver Fox ValleyRAT Phishing Operation India",
+      "eventSummary": "The threat actor Silver Fox has shifted active phishing operations toward India, utilizing income tax lures to deploy the modular ValleyRAT. The attack leverages DLL sideloading in legitimate Windows software to gain persistent access for credential theft.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://twitter.com/209811713/status/2005954151034019860"
+    }
+  ],
+  "overallDayThreatScore": 85,
+  "dailyBrief": "The day saw a significant spike in targeted cyber attacks and exploits, particularly in the DeFi and browser extension sectors. ErrTraffic introduces a new automated tool for delivering malicious payloads via fake browser glitches, while Unleash Protocol faced a critical multisig exploit, halting all operations. Trust Wallet responded proactively by compensating victims of a Chrome extension breach. Silver Fox's phishing campaign targeting Indian users via ValleyRAT highlights the threat actor’s evolving tactics. The overall threat environment is elevated, with DeFi and credential theft as dominant concerns."
+}
