@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-12-31T16:35:53.000Z",
+    "entities": "ENSAI, report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A hacker claimed responsibility for a cyberattack on ENSAI (École nationale de la statistique et de l'information), leaking 21 GB of data including profiles of 3,900 students.\nSources:\n- https://twitter.com/1200764024172023808/status/2006403950375842051"
+  },
+  {
+    "timestamp": "2025-12-31T13:34:45.000Z",
+    "entities": "Unleash Protocol, report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "An attacker drained approximately $3.9 million from Unleash Protocol in a cryptocurrency exploit.\nSources:\n- https://cryptopanic.com/news/28400379/Crypto-Hack-Attacker-Drains-39M-from-Unleash-Protocol"
+  },
+  {
+    "timestamp": "2025-12-31T10:21:35.000Z",
+    "entities": "3GH INC, report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The 3GH INC Ransom hacking group claims to have breached 3GH, a Spanish ICT sector company, and has provided data samples as proof.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbblmuxcjy27"
+  },
+  {
+    "timestamp": "2025-12-31T02:45:35.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Admin credentials were reportedly exposed in source code provided by a hosting provider.\nSources:\n- https://www.reddit.com/r/cybersecurity/comments/1pzxfkf/admin_credentials_accidentally_exposed_in_source"
+  }
+]

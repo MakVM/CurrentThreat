@@ -1,62 +1,58 @@
 {
-  "currentThreat": "OPERATION AUTOMATED GLITCH",
-  "threatScore": 8.5,
+  "currentThreat": "OPERATION DATA CASCADE",
+  "threatScore": 8.7,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "ErrTraffic ClickFix Attack Automation Tool",
-      "description": "A new cybercrime tool named ErrTraffic has been identified, allowing threat actors to automate ClickFix attacks by generating fake browser glitches on compromised websites to deliver malicious payloads.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3mbab3xcveq2z",
-      "time": "2025-12-30T21:19:53.000Z",
+      "title": "ENSAI student data leak",
+      "description": "A hacker claimed responsibility for a cyberattack on ENSAI (École nationale de la statistique et de l'information), leaking 21 GB of data including profiles of 3,900 students.",
+      "source": "https://twitter.com/1200764024172023808/status/2006403950375842051",
+      "time": "2025-12-31T16:35:53.000Z",
       "severity": "High",
       "classification": [
-        "Hack"
+        "Leak"
       ]
     },
     {
       "id": 2,
-      "title": "Trust Wallet Chrome Extension Exploit Compensation",
-      "description": "Trust Wallet has begun compensating users affected by a security exploit targeting its Chrome browser extension.",
-      "source": "https://cryptopanic.com/news/28378778/Trust-Wallet-Compensates-Users-After-Chrome-Extension-Exploit",
-      "time": "2025-12-30T19:37:21.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Unleash Protocol Multisig Exploit & Governance Failure",
-      "description": "Unleash Protocol halted all on-chain activities following a multisig exploit and governance failure that led to a hack. Reports indicate the incident is part of a growing trend of DeFi-related scams.",
-      "source": "https://u.today/scam-alert-unleash-protocol-faces-multisig-exploit",
-      "time": "2025-12-30T12:13:29.000Z",
+      "title": "Unleash Protocol crypto exploit",
+      "description": "An attacker drained approximately $3.9 million from Unleash Protocol in a cryptocurrency exploit.",
+      "source": "https://cryptopanic.com/news/28400379/Crypto-Hack-Attacker-Drains-39M-from-Unleash-Protocol",
+      "time": "2025-12-31T13:34:45.000Z",
       "severity": "High",
       "classification": [
         "Hack"
       ]
     },
     {
-      "id": 4,
-      "title": "Silver Fox ValleyRAT Phishing Operation India",
-      "description": "The threat actor Silver Fox has shifted active phishing operations toward India, utilizing income tax lures to deploy the modular ValleyRAT. The attack leverages DLL sideloading in legitimate Windows software to gain persistent access for credential theft.",
-      "source": "https://twitter.com/209811713/status/2005954151034019860",
-      "time": "2025-12-30T10:48:33.000Z",
+      "id": 3,
+      "title": "3GH INC ransomware breach",
+      "description": "The 3GH INC Ransom hacking group claims to have breached 3GH, a Spanish ICT sector company, and has provided data samples as proof.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbblmuxcjy27",
+      "time": "2025-12-31T10:21:35.000Z",
       "severity": "Medium",
       "classification": [
-        "Scam"
+        "Breach"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Hosting provider credential exposure",
+      "description": "Admin credentials were reportedly exposed in source code provided by a hosting provider.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1pzxfkf/admin_credentials_accidentally_exposed_in_source",
+      "time": "2025-12-31T02:45:35.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Leak"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed an escalation in both the scale and sophistication of cyber threats, with high-severity incidents impacting financial institutions, cryptocurrency platforms, media companies, and global enterprises. The cryptocurrency sector saw repeated, large-scale breaches, including Trust Wallet's supply chain attack, resulting in multi-million dollar losses and rapid compensation efforts. Data breaches proliferated across industries, with major leaks at Condé Nast/WIRED, the University of Phoenix, and third-party vendors serving banks and enterprises, exposing millions of sensitive records. Attackers leveraged advanced tactics such as supply chain compromises, zero-day exploits, and phishing via npm packages, while the emergence of new tools like ErrTraffic and malware such as SantaStealer and ValleyRAT highlighted the evolving cybercrime ecosystem. Overall, the week underscores a critical need for heightened vigilance and robust security controls, especially for organizations managing digital assets or large user databases.",
-    "trends": "Key trends include a clear surge in supply chain and third-party vendor attacks, demonstrating attackers’ preference for exploiting indirect access points. The crypto sector remained a prime target, with persistent exploitation of wallet extensions and DeFi protocols, while financial and media organizations faced increasingly impactful data leaks. A noticeable shift in phishing tactics was observed, with the use of npm packages and region-specific lures (such as Silver Fox’s Indian tax scam). Automation and new attack tools (e.g., ErrTraffic) are enabling broader, faster exploitation. The steady flow of high-severity incidents suggests threat actors are capitalizing on holiday periods and patching lapses, with clusters of activity around browser extensions, large databases, and multisig governance vulnerabilities.",
-    "predictions": "Anticipate continued high risk for cryptocurrency platforms, browser extensions, and organizations relying on third-party integrations. DeFi protocols and large user databases will remain attractive targets, with likely increases in supply chain and credential theft campaigns. Expect further phishing operations leveraging social engineering and automation, with regional targeting expanding (e.g., India, Middle East). The rapid emergence of new malware and attack automation tools signals a potential spike in novel exploits. Confidence level: High for continued attacks on crypto and media sectors; Medium for expansion into industrial and healthcare verticals. Organizations should prioritize patch management, supply chain scrutiny, and user education to mitigate imminent risks."
+    "briefing": "This week witnessed an intense escalation in cyber threats, spanning large-scale financial thefts, data breaches affecting millions, and high-impact exploits targeting the crypto and DeFi sectors. The Trust Wallet extension compromise was a recurring theme, resulting in user losses exceeding $7 million and exposing persistent supply chain risks. Major organizations such as banks, Condé Nast, Atalian, and Omrania suffered substantial data and financial losses, while threat actors actively leveraged new attack automation tools and sophisticated phishing campaigns. The emergence of advanced threat vectors—ransomware, credential theft, and automated exploit kits—underscores a rapidly evolving landscape where both institutional and individual targets face increasingly complex and damaging attacks.",
+    "trends": "Key patterns include a spike in supply chain and third-party vendor breaches, especially impacting financial institutions, media companies, and crypto platforms. Data leaks and ransomware incidents surged, with attackers demonstrating a preference for large-scale exfiltration (hundreds of GBs, millions of records) and credential theft. Phishing campaigns using npm packages and modular RATs targeted industrial, healthcare, and regional sectors (notably India). DeFi platforms experienced notable governance and multisig failures, leading to drained funds and halted operations. A new wave of attack automation (ErrTraffic) and persistent compensation efforts by affected organizations reflect both threat actor innovation and defensive adaptation. Overall, the week saw elevated threat scores, with multiple consecutive days above 80, indicating sustained high risk.",
+    "predictions": "Expect continued targeting of browser extensions, DeFi platforms, and third-party vendors, with attackers likely to leverage supply chain weaknesses and automation tools. Data leaks—especially involving personal and financial information—will remain frequent, with ransomware actors focusing on service providers and critical infrastructure. Watch for expansion of phishing operations into new regions and sectors, plus further exploits in the crypto space as compensation mechanisms are stress-tested. The emergence of new cybercrime kits suggests a growing threat to web-facing assets and credential stores. Confidence level: high, based on consistent patterns, elevated threat scores, and global news indicating increased cybercriminal activity during the holiday period. Organizations should prioritize third-party risk management, rapid incident response, and proactive user protection."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-25",
-      "count": 6
-    },
     {
       "date": "2025-12-26",
       "count": 2
@@ -80,24 +76,28 @@
     {
       "date": "2025-12-31",
       "count": 4
+    },
+    {
+      "date": "2026-01-01",
+      "count": 4
     }
   ],
   "classificationDistribution": [
     {
       "name": "Hack",
+      "value": 5
+    },
+    {
+      "name": "Leak",
       "value": 6
     },
     {
       "name": "Breach",
-      "value": 9
+      "value": 7
     },
     {
       "name": "Exploit",
-      "value": 3
-    },
-    {
-      "name": "Leak",
-      "value": 4
+      "value": 2
     },
     {
       "name": "Scam",

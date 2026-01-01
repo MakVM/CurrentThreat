@@ -1,62 +1,7 @@
 {
-  "startDate": "2025-12-25",
-  "endDate": "2025-12-31",
+  "startDate": "2025-12-26",
+  "endDate": "2026-01-01",
   "days": [
-    {
-      "date": "2025-12-25",
-      "events": [
-        {
-          "timestamp": "2025-12-24T09:33:58.000Z",
-          "entities": "Cryptocurrency Sector Losses Exceed $3.35 Billion",
-          "eventSummary": "A report from CertiK indicates that total losses from hacks, exploits, and scams in the cryptocurrency sector exceeded $3.35 billion this year.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptopanic.com/news/28232092/ALERT-Losses-from-hacks-exploits-and-scams-topped-335B-this-year-per-CertiK"
-        },
-        {
-          "timestamp": "2025-12-24T08:33:18.000Z",
-          "entities": "Polymarket User Account Breach via Third-Party Authentication",
-          "eventSummary": "Polymarket users reported account breaches linked to a third-party authentication vulnerability.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://cryptopanic.com/news/28230542/Polymarket-cites-third-party-vulnerability-in-recent-user-account-hack"
-        },
-        {
-          "timestamp": "2025-12-24T07:35:07.000Z",
-          "entities": "SantaStealer Malware Targets Crypto and Browser Data",
-          "eventSummary": "A new malware identified as SantaStealer is reportedly targeting and stealing data from web browsers and cryptocurrency wallets.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://www.reddit.com/r/CryptoCurrency/comments/1pu35zm/new_santastealer_malware_steals_data_from"
-        },
-        {
-          "timestamp": "2025-12-24T06:34:23.000Z",
-          "entities": "Gnosis Hard Fork to Recover $116M from Balancer Exploit",
-          "eventSummary": "Gnosis executed a hard fork to recover funds following a November exploit of Balancer that resulted in $116M in stolen digital assets.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://cryptopanic.com/news/28227241/LATEST-Gnosis-executed-a-hard-fork-on-Monday-to-recover-funds-from-a-November-Balancer-exploit-that-saw-116M-in-digital-assets-stolen-with-the-funds-now-out-of-the-hackers-control"
-        },
-        {
-          "timestamp": "2025-12-24T04:51:03.000Z",
-          "entities": "University of Phoenix Data Breach Impacts 3.5 Million",
-          "eventSummary": "The University of Phoenix confirmed a data breach affecting 3.5 million individuals, stemming from a zero-day vulnerability exploit in Oracle EBS enterprise software attributed to threat groups Cl0p or FIN11.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1pude2k/35_million_affected_by_university_of_phoenix_data"
-        },
-        {
-          "timestamp": "2025-12-23T00:00:00.000Z",
-          "entities": "OMNIBUS JAPAN INC. Breach Claimed by Lynx Group",
-          "eventSummary": "The Lynx hacking group claimed to have breached OMNIBUS JAPAN INC., a Japanese news and multimedia company. The incident is currently pending verification.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3mapuwmusa62q"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today's cyber landscape is marked by multiple high-severity incidents, including major data breaches, sophisticated exploits, and large-scale financial losses. The cryptocurrency sector faces significant threats with over $3.35 billion lost to malicious activities and the emergence of new malware targeting wallet and browser data. Institutions such as the University of Phoenix and Polymarket have suffered breaches due to advanced vulnerabilities, and a major hard fork was executed to recover stolen assets. The high volume and impact of these events signal elevated risk levels, with ongoing threats from advanced persistent groups and novel attack vectors."
-    },
     {
       "date": "2025-12-26",
       "events": [
@@ -242,6 +187,45 @@
       ],
       "overallDayThreatScore": 85,
       "dailyBrief": "The day saw a significant spike in targeted cyber attacks and exploits, particularly in the DeFi and browser extension sectors. ErrTraffic introduces a new automated tool for delivering malicious payloads via fake browser glitches, while Unleash Protocol faced a critical multisig exploit, halting all operations. Trust Wallet responded proactively by compensating victims of a Chrome extension breach. Silver Fox's phishing campaign targeting Indian users via ValleyRAT highlights the threat actor’s evolving tactics. The overall threat environment is elevated, with DeFi and credential theft as dominant concerns."
+    },
+    {
+      "date": "2026-01-01",
+      "events": [
+        {
+          "timestamp": "2025-12-31T16:35:53.000Z",
+          "entities": "ENSAI student data leak",
+          "eventSummary": "A hacker claimed responsibility for a cyberattack on ENSAI (École nationale de la statistique et de l'information), leaking 21 GB of data including profiles of 3,900 students.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://twitter.com/1200764024172023808/status/2006403950375842051"
+        },
+        {
+          "timestamp": "2025-12-31T13:34:45.000Z",
+          "entities": "Unleash Protocol crypto exploit",
+          "eventSummary": "An attacker drained approximately $3.9 million from Unleash Protocol in a cryptocurrency exploit.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://cryptopanic.com/news/28400379/Crypto-Hack-Attacker-Drains-39M-from-Unleash-Protocol"
+        },
+        {
+          "timestamp": "2025-12-31T10:21:35.000Z",
+          "entities": "3GH INC ransomware breach",
+          "eventSummary": "The 3GH INC Ransom hacking group claims to have breached 3GH, a Spanish ICT sector company, and has provided data samples as proof.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbblmuxcjy27"
+        },
+        {
+          "timestamp": "2025-12-31T02:45:35.000Z",
+          "entities": "Hosting provider credential exposure",
+          "eventSummary": "Admin credentials were reportedly exposed in source code provided by a hosting provider.",
+          "severity": "Medium",
+          "tags": "leak",
+          "source": "https://www.reddit.com/r/cybersecurity/comments/1pzxfkf/admin_credentials_accidentally_exposed_in_source"
+        }
+      ],
+      "overallDayThreatScore": 87,
+      "dailyBrief": "Cyber threats surged today with two high-severity incidents: a major student data leak at ENSAI and a multimillion-dollar crypto exploit targeting Unleash Protocol. Additional breaches include ransomware claims against Spanish firm 3GH INC and exposed admin credentials at a hosting provider. The prevalence of data leaks and financial hacks underscores heightened risks for both organizations and individuals. Vigilance and rapid incident response are strongly advised."
     }
   ]
 }
