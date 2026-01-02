@@ -1,62 +1,69 @@
 {
-  "currentThreat": "OPERATION DATA CASCADE",
-  "threatScore": 8.7,
+  "currentThreat": "OPERATION CRYPTO CASCADE",
+  "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "ENSAI student data leak",
-      "description": "A hacker claimed responsibility for a cyberattack on ENSAI (École nationale de la statistique et de l'information), leaking 21 GB of data including profiles of 3,900 students.",
-      "source": "https://twitter.com/1200764024172023808/status/2006403950375842051",
-      "time": "2025-12-31T16:35:53.000Z",
-      "severity": "High",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Unleash Protocol crypto exploit",
-      "description": "An attacker drained approximately $3.9 million from Unleash Protocol in a cryptocurrency exploit.",
-      "source": "https://cryptopanic.com/news/28400379/Crypto-Hack-Attacker-Drains-39M-from-Unleash-Protocol",
-      "time": "2025-12-31T13:34:45.000Z",
+      "title": "Ongoing EVM Chain Wallet Attack",
+      "description": "An ongoing attack across various EVM chains has siphoned over $107,000 from hundreds of wallets in small increments under $2,000 each. The underlying cause of the wallet compromises is currently unknown.",
+      "source": "https://twitter.com/1697387633247150081/status/2006878331656921546",
+      "time": "2026-01-02T00:00:54.000Z",
       "severity": "High",
       "classification": [
         "Hack"
       ]
     },
     {
+      "id": 2,
+      "title": "Massive Internal System Data Leak",
+      "description": "Attackers allegedly compromised over 3 million records from multiple internal systems, leaking personal data including names, email addresses, dates of birth, IP addresses, and login IDs.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbff4ev7cj2u",
+      "time": "2026-01-01T22:39:43.000Z",
+      "severity": "High",
+      "classification": [
+        "Leak"
+      ]
+    },
+    {
       "id": 3,
-      "title": "3GH INC ransomware breach",
-      "description": "The 3GH INC Ransom hacking group claims to have breached 3GH, a Spanish ICT sector company, and has provided data samples as proof.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbblmuxcjy27",
-      "time": "2025-12-31T10:21:35.000Z",
+      "title": "Multiple Threats: AWS Key Flaw, Disney Fine, OceanLotus, Magecart",
+      "description": "A security bulletin identified multiple active threats at the start of 2026, including an AWS key flaw, a fine for Disney, malware operations by OceanLotus, and upgrades to Magecart tactics.",
+      "source": "https://twitter.com/209811713/status/2006755921519841745",
+      "time": "2026-01-01T15:54:30.000Z",
       "severity": "Medium",
       "classification": [
-        "Breach"
+        "Hack"
       ]
     },
     {
       "id": 4,
-      "title": "Hosting provider credential exposure",
-      "description": "Admin credentials were reportedly exposed in source code provided by a hosting provider.",
-      "source": "https://www.reddit.com/r/cybersecurity/comments/1pzxfkf/admin_credentials_accidentally_exposed_in_source",
-      "time": "2025-12-31T02:45:35.000Z",
+      "title": "Binance Customer Support Targeted by Fraud",
+      "description": "Binance has flagged a new fraud tactic specifically designed to target and manipulate customer support services.",
+      "source": "https://cryptopanic.com/news/28416968/Binance-Flags-New-Fraud-Tactic-Aimed-at-Manipulating-Customer-Support",
+      "time": "2026-01-01T07:23:15.000Z",
       "severity": "Medium",
       "classification": [
-        "Leak"
+        "Fraud"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "RondoDox Botnet Exploiting Next.js Servers",
+      "description": "The RondoDox botnet is reportedly exploiting a React2Shell vulnerability to breach Next.js servers.",
+      "source": "https://twitter.com/128484298/status/2006605236325200015",
+      "time": "2026-01-01T05:55:43.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Exploit"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed an intense escalation in cyber threats, spanning large-scale financial thefts, data breaches affecting millions, and high-impact exploits targeting the crypto and DeFi sectors. The Trust Wallet extension compromise was a recurring theme, resulting in user losses exceeding $7 million and exposing persistent supply chain risks. Major organizations such as banks, Condé Nast, Atalian, and Omrania suffered substantial data and financial losses, while threat actors actively leveraged new attack automation tools and sophisticated phishing campaigns. The emergence of advanced threat vectors—ransomware, credential theft, and automated exploit kits—underscores a rapidly evolving landscape where both institutional and individual targets face increasingly complex and damaging attacks.",
-    "trends": "Key patterns include a spike in supply chain and third-party vendor breaches, especially impacting financial institutions, media companies, and crypto platforms. Data leaks and ransomware incidents surged, with attackers demonstrating a preference for large-scale exfiltration (hundreds of GBs, millions of records) and credential theft. Phishing campaigns using npm packages and modular RATs targeted industrial, healthcare, and regional sectors (notably India). DeFi platforms experienced notable governance and multisig failures, leading to drained funds and halted operations. A new wave of attack automation (ErrTraffic) and persistent compensation efforts by affected organizations reflect both threat actor innovation and defensive adaptation. Overall, the week saw elevated threat scores, with multiple consecutive days above 80, indicating sustained high risk.",
-    "predictions": "Expect continued targeting of browser extensions, DeFi platforms, and third-party vendors, with attackers likely to leverage supply chain weaknesses and automation tools. Data leaks—especially involving personal and financial information—will remain frequent, with ransomware actors focusing on service providers and critical infrastructure. Watch for expansion of phishing operations into new regions and sectors, plus further exploits in the crypto space as compensation mechanisms are stress-tested. The emergence of new cybercrime kits suggests a growing threat to web-facing assets and credential stores. Confidence level: high, based on consistent patterns, elevated threat scores, and global news indicating increased cybercriminal activity during the holiday period. Organizations should prioritize third-party risk management, rapid incident response, and proactive user protection."
+    "briefing": "This week marked a surge in high-severity cyber incidents affecting financial institutions, crypto platforms, digital media, and service providers worldwide. Notable attacks included major breaches at Trust Wallet, significant data leaks impacting Condé Nast and ENSAI, ransomware and supply chain exploits targeting Omrania and Atalian, and an ongoing campaign draining wallets across EVM chains. The rapid emergence of new attack automation tools (ErrTraffic), sophisticated phishing operations, and exploitation of vulnerabilities in browser extensions and server frameworks underscored the expanding threat landscape. Financial losses, large-scale data exposure, and persistent attacks on critical infrastructure and DeFi protocols highlight the urgent need for improved defense, third-party risk management, and user awareness.",
+    "trends": "Multiple days saw spikes in high-severity breaches and data leaks, particularly in the crypto and financial sectors, with Trust Wallet and Unleash Protocol repeatedly in headlines. Large-scale exfiltration of sensitive data from digital media (Condé Nast, WIRED), education (ENSAI), and service firms (Atalian, Omrania) shows adversaries targeting institutions rich in personal and financial information. There is a clear uptick in supply chain and third-party vendor attacks, along with increased automation of attack delivery (ErrTraffic) and evolving phishing tactics (Silver Fox, npm packages). The latter part of the week saw more credential theft, botnet activity, and exploitation of emerging vulnerabilities (React2Shell, AWS key flaw), indicating threat actors are diversifying methods and targets. Financial, DeFi, and support platforms (Binance) remain under sustained pressure.",
+    "predictions": "In the coming days, expect continued high threat levels against crypto wallets, DeFi platforms, and financial institutions, with supply chain vulnerabilities and third-party risks persisting as major attack vectors. Data leaks, ransomware, and credential theft will likely remain prominent, especially as attackers exploit new automation tools and unpatched vulnerabilities in web and server frameworks. The proliferation of phishing campaigns targeting specific regions (e.g., India) and sectors (industrial, healthcare) is set to continue. Organizations handling large user databases and financial transactions should anticipate increased targeting, and prioritize rapid patching, third-party risk assessment, and user education. Confidence in these predictions is high, given the sustained activity and diversification of tactics observed across sectors and geographies."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-26",
-      "count": 2
-    },
     {
       "date": "2025-12-27",
       "count": 1
@@ -80,28 +87,36 @@
     {
       "date": "2026-01-01",
       "count": 4
+    },
+    {
+      "date": "2026-01-02",
+      "count": 5
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Hack",
-      "value": 5
+      "name": "Breach",
+      "value": 7
     },
     {
       "name": "Leak",
       "value": 6
     },
     {
-      "name": "Breach",
-      "value": 7
+      "name": "Hack",
+      "value": 6
     },
     {
       "name": "Exploit",
-      "value": 2
+      "value": 3
     },
     {
       "name": "Scam",
       "value": 2
+    },
+    {
+      "name": "Fraud",
+      "value": 1
     }
   ]
 }

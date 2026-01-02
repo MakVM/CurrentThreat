@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-01-02T00:00:54.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "An ongoing attack across various EVM chains has siphoned over $107,000 from hundreds of wallets in small increments under $2,000 each. The underlying cause of the wallet compromises is currently unknown.\nSources:\n- https://twitter.com/1697387633247150081/status/2006878331656921546"
+  },
+  {
+    "timestamp": "2026-01-01T22:39:43.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Attackers allegedly compromised over 3 million records from multiple internal systems, leaking personal data including names, email addresses, dates of birth, IP addresses, and login IDs.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbff4ev7cj2u"
+  },
+  {
+    "timestamp": "2026-01-01T15:54:30.000Z",
+    "entities": "Amazon Web Services, Meta, Disney, OceanLotus, Magecart",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A security bulletin identified multiple active threats at the start of 2026, including an AWS key flaw, a fine for Disney, malware operations by OceanLotus, and upgrades to Magecart tactics.\nSources:\n- https://twitter.com/209811713/status/2006755921519841745"
+  },
+  {
+    "timestamp": "2026-01-01T07:23:15.000Z",
+    "entities": "Binance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Binance has flagged a new fraud tactic specifically designed to target and manipulate customer support services.\nSources:\n- https://cryptopanic.com/news/28416968/Binance-Flags-New-Fraud-Tactic-Aimed-at-Manipulating-Customer-Support"
+  },
+  {
+    "timestamp": "2026-01-01T05:55:43.000Z",
+    "entities": "RondoDox, Next.js",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The RondoDox botnet is reportedly exploiting a React2Shell vulnerability to breach Next.js servers.\nSources:\n- https://twitter.com/128484298/status/2006605236325200015"
+  }
+]
