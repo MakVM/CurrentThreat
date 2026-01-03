@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-02T18:43:11.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A threat actor known as 888 has claimed a data breach of the Italian e-commerce site OfferteCartucce, allegedly exposing the personal details of 229,000 unique users including tax codes and phone numbers.\nSources:\n- https://twitter.com/1697387633247150081/status/2007160761110671780"
+  },
+  {
+    "timestamp": "2026-01-02T06:35:18.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A multi-chain exploit is currently draining hundreds of crypto wallets across various EVM-compatible blockchains, with reported losses exceeding $107,000. Investigators, including ZachXBT, are working to identify the root cause of the ongoing draining activity.\nSources:\n- https://beincrypto.com/multi-chain-crypto-wallet-drain-phishing-exploit\n- https://cryptonews.com/news/hundreds-of-wallets-drained-in-ongoing-cross-chain-attack-zachxbt-warns\n- https://cryptopanic.com/news/28454960/Hack-Warning-Mysterious-Wallet-Draining-Attack-Spreads-Across-EVM-Chains"
+  },
+  {
+    "timestamp": "2026-01-02T01:38:39.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "CloudSEK reports that the RondoDox botnet is actively exploiting a critical React2Shell vulnerability (CVE-2025-55182) to install malware and cryptominers on Next.js servers.\nSources:\n- https://twitter.com/877710712734232576/status/2006902927466639716"
+  }
+]

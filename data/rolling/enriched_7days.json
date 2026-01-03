@@ -1,22 +1,7 @@
 {
-  "startDate": "2025-12-27",
-  "endDate": "2026-01-02",
+  "startDate": "2025-12-28",
+  "endDate": "2026-01-03",
   "days": [
-    {
-      "date": "2025-12-27",
-      "events": [
-        {
-          "timestamp": "2025-12-26T03:41:44.000Z",
-          "entities": "Trust Wallet Chrome Extension Security Breach",
-          "eventSummary": "Trust Wallet reported a security breach affecting its Chrome browser extension (version 2.68.0), resulting in approximately $7 million in user funds being drained. The team is investigating how a malicious version was submitted, while confirming that affected user funds will be covered.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://twitter.com/902926941413453824/status/2004397190819783013"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "A significant security breach was reported involving Trust Wallet's Chrome extension, resulting in the theft of approximately $7 million in user funds. The incident highlights the critical risks associated with browser extension vulnerabilities and the importance of rapid response and user fund protection. Users are advised to monitor updates and practice heightened vigilance."
-    },
     {
       "date": "2025-12-28",
       "events": [
@@ -250,6 +235,37 @@
       ],
       "overallDayThreatScore": 85,
       "dailyBrief": "The day saw several high-impact cyber incidents, with a major ongoing attack draining funds from EVM chain wallets and a massive leak of over 3 million records from internal systems. Multiple active threats were identified across major platforms, including vulnerabilities and enhanced malware tactics. Binance flagged targeted fraud on customer support, and a botnet is exploiting a new server vulnerability. The overall risk level is high, with significant concerns around financial theft, personal data exposure, and evolving attack methods."
+    },
+    {
+      "date": "2026-01-03",
+      "events": [
+        {
+          "timestamp": "2026-01-02T18:43:11.000Z",
+          "entities": "OfferteCartucce Data Breach",
+          "eventSummary": "A threat actor known as 888 has claimed a data breach of the Italian e-commerce site OfferteCartucce, allegedly exposing the personal details of 229,000 unique users including tax codes and phone numbers.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/1697387633247150081/status/2007160761110671780"
+        },
+        {
+          "timestamp": "2026-01-02T06:35:18.000Z",
+          "entities": "Multi-chain Crypto Wallet Draining Exploit",
+          "eventSummary": "A multi-chain exploit is currently draining hundreds of crypto wallets across various EVM-compatible blockchains, with reported losses exceeding $107,000. Investigators, including ZachXBT, are working to identify the root cause of the ongoing draining activity.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://beincrypto.com/multi-chain-crypto-wallet-drain-phishing-exploit"
+        },
+        {
+          "timestamp": "2026-01-02T01:38:39.000Z",
+          "entities": "RondoDox Botnet Next.js Malware Campaign",
+          "eventSummary": "CloudSEK reports that the RondoDox botnet is actively exploiting a critical React2Shell vulnerability (CVE-2025-55182) to install malware and cryptominers on Next.js servers.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://twitter.com/877710712734232576/status/2006902927466639716"
+        }
+      ],
+      "overallDayThreatScore": 92,
+      "dailyBrief": "Today's cyber events highlight a significant escalation in threats: a major data breach impacting Italian e-commerce users, an ongoing multi-chain exploit draining crypto wallets across EVM blockchains, and a critical vulnerability being actively abused to compromise Next.js servers. All incidents present high severity and impact, indicating an urgent need for heightened security measures and rapid incident response in both finance and tech sectors."
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-02T18:43:11.000Z",
+      "entities": "OfferteCartucce Data Breach",
+      "eventSummary": "A threat actor known as 888 has claimed a data breach of the Italian e-commerce site OfferteCartucce, allegedly exposing the personal details of 229,000 unique users including tax codes and phone numbers.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://twitter.com/1697387633247150081/status/2007160761110671780"
+    },
+    {
+      "timestamp": "2026-01-02T06:35:18.000Z",
+      "entities": "Multi-chain Crypto Wallet Draining Exploit",
+      "eventSummary": "A multi-chain exploit is currently draining hundreds of crypto wallets across various EVM-compatible blockchains, with reported losses exceeding $107,000. Investigators, including ZachXBT, are working to identify the root cause of the ongoing draining activity.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://beincrypto.com/multi-chain-crypto-wallet-drain-phishing-exploit"
+    },
+    {
+      "timestamp": "2026-01-02T01:38:39.000Z",
+      "entities": "RondoDox Botnet Next.js Malware Campaign",
+      "eventSummary": "CloudSEK reports that the RondoDox botnet is actively exploiting a critical React2Shell vulnerability (CVE-2025-55182) to install malware and cryptominers on Next.js servers.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://twitter.com/877710712734232576/status/2006902927466639716"
+    }
+  ],
+  "overallDayThreatScore": 92,
+  "dailyBrief": "Today's cyber events highlight a significant escalation in threats: a major data breach impacting Italian e-commerce users, an ongoing multi-chain exploit draining crypto wallets across EVM blockchains, and a critical vulnerability being actively abused to compromise Next.js servers. All incidents present high severity and impact, indicating an urgent need for heightened security measures and rapid incident response in both finance and tech sectors."
+}
