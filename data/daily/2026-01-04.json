@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-01-03T23:02:20.000Z",
+    "entities": "MetaMask",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hundreds of EVM-compatible wallets were drained of over $107,000 in a phishing attack involving a fake MetaMask upgrade email. Security researcher ZachXBT flagged the suspicious activity, which involved victims receiving a New Year themed phishing email that funneled funds into a single address.\nSources:\n- https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update"
+  },
+  {
+    "timestamp": "2026-01-03T17:54:42.000Z",
+    "entities": "ShinyHunters, Resecurity",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hacker group ShinyHunters claimed to have breached the US cybersecurity firm Resecurity, allegedly leaking internal system screenshots and employee data. However, Resecurity stated the hackers only accessed a fake honeypot environment and no real data was compromised.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mbjutcvtcs26\n- https://bsky.app/profile/hackread.bsky.social/post/3mbk5mkfksk27"
+  },
+  {
+    "timestamp": "2026-01-03T16:02:37.000Z",
+    "entities": "Android",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A major malware attack is reportedly targeting Android users across 60 banks and financial institutions worldwide, resulting in drained bank accounts.\nSources:\n- https://cryptopanic.com/news/28475986/Hackers-Drain-Android-Users-Bank-Accounts-Target-60-Banks-and-Financial-Institutions-Worldwide-in-Major-Malware-Attack-Report"
+  },
+  {
+    "timestamp": "2026-01-03T10:59:22.000Z",
+    "entities": "LastPass",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "New cryptocurrency theft attacks have been reported and linked to the historical 2022 LastPass data breach.\nSources:\n- https://cryptopanic.com/news/28471153/Cryptocurrency-theft-attacks-linked-to-2022-LastPass-breach"
+  }
+]

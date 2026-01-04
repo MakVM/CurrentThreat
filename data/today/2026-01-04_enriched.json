@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-03T23:02:20.000Z",
+      "entities": "MetaMask Phishing Exploit Drains EVM Wallets",
+      "eventSummary": "Hundreds of EVM-compatible wallets were drained of over $107,000 in a phishing attack involving a fake MetaMask upgrade email. Security researcher ZachXBT flagged the suspicious activity, which involved victims receiving a New Year themed phishing email that funneled funds into a single address.",
+      "severity": "High",
+      "tags": "scam",
+      "source": "https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update"
+    },
+    {
+      "timestamp": "2026-01-03T17:54:42.000Z",
+      "entities": "ShinyHunters Claims Resecurity Breach",
+      "eventSummary": "Hacker group ShinyHunters claimed to have breached the US cybersecurity firm Resecurity, allegedly leaking internal system screenshots and employee data. However, Resecurity stated the hackers only accessed a fake honeypot environment and no real data was compromised.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbjutcvtcs26"
+    },
+    {
+      "timestamp": "2026-01-03T16:02:37.000Z",
+      "entities": "Android Malware Targets Global Banks",
+      "eventSummary": "A major malware attack is reportedly targeting Android users across 60 banks and financial institutions worldwide, resulting in drained bank accounts.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://cryptopanic.com/news/28475986/Hackers-Drain-Android-Users-Bank-Accounts-Target-60-Banks-and-Financial-Institutions-Worldwide-in-Major-Malware-Attack-Report"
+    },
+    {
+      "timestamp": "2026-01-03T10:59:22.000Z",
+      "entities": "Cryptocurrency Theft Linked to LastPass Breach",
+      "eventSummary": "New cryptocurrency theft attacks have been reported and linked to the historical 2022 LastPass data breach.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://cryptopanic.com/news/28471153/Cryptocurrency-theft-attacks-linked-to-2022-LastPass-breach"
+    }
+  ],
+  "overallDayThreatScore": 85,
+  "dailyBrief": "Today's cyber threat landscape shows an elevated risk level, with high-impact events affecting both crypto and banking sectors. Major phishing and malware attacks have resulted in substantial financial losses for EVM wallet holders and Android banking users. Persistent threats from past breaches, as seen with LastPass, continue to drive cryptocurrency theft. Claims of corporate breaches, like the ShinyHunters-Resecurity incident, highlight ongoing targeting of cybersecurity firms, though the impact was mitigated. Vigilance against phishing, malware, and exploitation of historical data leaks remains critical."
+}

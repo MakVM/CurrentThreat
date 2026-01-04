@@ -1,38 +1,7 @@
 {
-  "startDate": "2025-12-28",
-  "endDate": "2026-01-03",
+  "startDate": "2025-12-29",
+  "endDate": "2026-01-04",
   "days": [
-    {
-      "date": "2025-12-28",
-      "events": [
-        {
-          "timestamp": "2025-12-27T18:48:09.000Z",
-          "entities": "Bank Data Breach via Third-Party Vendor",
-          "eventSummary": "Two banks have issued urgent data breach alerts to 69,662 customers following a cyberattack on a third-party vendor.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://cryptopanic.com/news/28296934/Two-Banks-Issue-Urgent-Data-Breach-Alerts-Warn-69662-Customers-After-Hacker-Hits-Third-Party-Vendor"
-        },
-        {
-          "timestamp": "2025-12-27T18:32:58.000Z",
-          "entities": "Condé Nast & Wired.com Data Leak",
-          "eventSummary": "A hacker has claimed a massive data breach affecting 40 million users of Condé Nast and has already leaked 2.3 million records from Wired.com while threatening to release the remaining data.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/hackread.bsky.social/post/3mayg3byzls2e"
-        },
-        {
-          "timestamp": "2025-12-27T14:42:36.000Z",
-          "entities": "Trust Wallet Chrome Extension Supply Chain Attack",
-          "eventSummary": "The Trust Wallet Chrome extension version 2.68 was compromised in a supply chain attack involving malicious code that exfiltrated seed phrases and drained approximately $7 million from users. Trust Wallet has since launched a compensation process for the victims.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptoslate.com/how-browser-extensions-expose-your-crypto-to-a-fatal-design-flaw-that-the-industry-ignored-bleeding-713m-in-2025"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today saw a spike in severe cyber incidents across financial, media, and crypto sectors. Major banks issued breach alerts due to a third-party compromise, Condé Nast faced an unprecedented data leak affecting tens of millions, and Trust Wallet's browser extension suffered a damaging supply chain attack resulting in significant financial loss. The trend highlights escalating risks from third-party integrations and supply chain vulnerabilities, with attackers targeting both personal data and financial assets at scale."
-    },
     {
       "date": "2025-12-29",
       "events": [
@@ -266,6 +235,45 @@
       ],
       "overallDayThreatScore": 92,
       "dailyBrief": "Today's cyber events highlight a significant escalation in threats: a major data breach impacting Italian e-commerce users, an ongoing multi-chain exploit draining crypto wallets across EVM blockchains, and a critical vulnerability being actively abused to compromise Next.js servers. All incidents present high severity and impact, indicating an urgent need for heightened security measures and rapid incident response in both finance and tech sectors."
+    },
+    {
+      "date": "2026-01-04",
+      "events": [
+        {
+          "timestamp": "2026-01-03T23:02:20.000Z",
+          "entities": "MetaMask Phishing Exploit Drains EVM Wallets",
+          "eventSummary": "Hundreds of EVM-compatible wallets were drained of over $107,000 in a phishing attack involving a fake MetaMask upgrade email. Security researcher ZachXBT flagged the suspicious activity, which involved victims receiving a New Year themed phishing email that funneled funds into a single address.",
+          "severity": "High",
+          "tags": "scam",
+          "source": "https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update"
+        },
+        {
+          "timestamp": "2026-01-03T17:54:42.000Z",
+          "entities": "ShinyHunters Claims Resecurity Breach",
+          "eventSummary": "Hacker group ShinyHunters claimed to have breached the US cybersecurity firm Resecurity, allegedly leaking internal system screenshots and employee data. However, Resecurity stated the hackers only accessed a fake honeypot environment and no real data was compromised.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbjutcvtcs26"
+        },
+        {
+          "timestamp": "2026-01-03T16:02:37.000Z",
+          "entities": "Android Malware Targets Global Banks",
+          "eventSummary": "A major malware attack is reportedly targeting Android users across 60 banks and financial institutions worldwide, resulting in drained bank accounts.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://cryptopanic.com/news/28475986/Hackers-Drain-Android-Users-Bank-Accounts-Target-60-Banks-and-Financial-Institutions-Worldwide-in-Major-Malware-Attack-Report"
+        },
+        {
+          "timestamp": "2026-01-03T10:59:22.000Z",
+          "entities": "Cryptocurrency Theft Linked to LastPass Breach",
+          "eventSummary": "New cryptocurrency theft attacks have been reported and linked to the historical 2022 LastPass data breach.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28471153/Cryptocurrency-theft-attacks-linked-to-2022-LastPass-breach"
+        }
+      ],
+      "overallDayThreatScore": 85,
+      "dailyBrief": "Today's cyber threat landscape shows an elevated risk level, with high-impact events affecting both crypto and banking sectors. Major phishing and malware attacks have resulted in substantial financial losses for EVM wallet holders and Android banking users. Persistent threats from past breaches, as seen with LastPass, continue to drive cryptocurrency theft. Claims of corporate breaches, like the ShinyHunters-Resecurity incident, highlight ongoing targeting of cybersecurity firms, though the impact was mitigated. Vigilance against phishing, malware, and exploitation of historical data leaks remains critical."
     }
   ]
 }
