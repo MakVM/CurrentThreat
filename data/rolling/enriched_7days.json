@@ -1,38 +1,7 @@
 {
-  "startDate": "2025-12-29",
-  "endDate": "2026-01-04",
+  "startDate": "2025-12-30",
+  "endDate": "2026-01-05",
   "days": [
-    {
-      "date": "2025-12-29",
-      "events": [
-        {
-          "timestamp": "2025-12-28T14:48:44.000Z",
-          "entities": "Qilin breach of Atalian",
-          "eventSummary": "The Qilin hacking group claims to have breached the French service company Atalian, allegedly exfiltrating 500 GB of data. Samples of the stolen data have been provided as proof of the breach.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3mb2ih6f6w32"
-        },
-        {
-          "timestamp": "2025-12-28T04:58:32.000Z",
-          "entities": "WIRED/Condé Nast subscriber data leak",
-          "eventSummary": "A database containing personal details of over 2.3 million WIRED subscribers was reportedly leaked on BreachForums. The breach, confirmed by Hudson Rock, is part of a larger attack on Condé Nast that may compromise up to 40 million records across various properties.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://twitter.com/877710712734232576/status/2005141294486536581"
-        },
-        {
-          "timestamp": "2025-12-28T03:42:10.000Z",
-          "entities": "Trust Wallet browser extension breach",
-          "eventSummary": "Trust Wallet has enhanced its security measures following a breach involving its browser extension.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://cryptopanic.com/news/28303882/Trust-Wallet-Bolsters-Security-Amid-Browser-Extension-Breach"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "Today's cyber landscape is marked by two major breaches with significant data exposure: Qilin's breach of Atalian with 500 GB exfiltrated, and the leak of over 2.3 million WIRED subscriber records, part of a larger Condé Nast compromise. Trust Wallet's response to its browser extension breach highlights ongoing threats to crypto platforms. The day reflects heightened risk, especially for large organizations and digital service providers, with data leaks and breaches as dominant trends."
-    },
     {
       "date": "2025-12-30",
       "events": [
@@ -274,6 +243,29 @@
       ],
       "overallDayThreatScore": 85,
       "dailyBrief": "Today's cyber threat landscape shows an elevated risk level, with high-impact events affecting both crypto and banking sectors. Major phishing and malware attacks have resulted in substantial financial losses for EVM wallet holders and Android banking users. Persistent threats from past breaches, as seen with LastPass, continue to drive cryptocurrency theft. Claims of corporate breaches, like the ShinyHunters-Resecurity incident, highlight ongoing targeting of cybersecurity firms, though the impact was mitigated. Vigilance against phishing, malware, and exploitation of historical data leaks remains critical."
+    },
+    {
+      "date": "2026-01-05",
+      "events": [
+        {
+          "timestamp": "2026-01-04T17:25:31.000Z",
+          "entities": "OKX Wallet Radiant Capital Exploit Connection",
+          "eventSummary": "Reports indicate that the OKX wallet (formerly OKEx) remains connected to the Radiant Capital aggregator following an exploit.",
+          "severity": "Medium",
+          "tags": "exploit",
+          "source": "https://t.me/okxofficial_id"
+        },
+        {
+          "timestamp": "2026-01-04T15:05:48.000Z",
+          "entities": "Farmacia San Pablo Breach by Qilin Hacking Group",
+          "eventSummary": "The Qilin hacking group claims to have breached Farmacia San Pablo, a Mexican wholesale and retail pharmacy chain. The incident was reportedly observed on January 2, 2026, and is currently pending verification.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbm4kqyikr25"
+        }
+      ],
+      "overallDayThreatScore": 72,
+      "dailyBrief": "Today's cyber events showcase significant threats in both the cryptocurrency and healthcare sectors. The ongoing exploit affecting OKX wallet via Radiant Capital aggregator raises concerns for digital asset holders, while the claimed breach at Farmacia San Pablo by the Qilin hacking group highlights persistent targeting of retail and healthcare entities. Verification and further monitoring of both incidents are advised, with heightened alert for potential data compromise and operational disruption."
     }
   ]
 }

@@ -1,62 +1,36 @@
 {
-  "currentThreat": "OPERATION FINANCIAL DRAIN",
-  "threatScore": 8.5,
+  "currentThreat": "OPERATION DUAL SECTOR STRIKE",
+  "threatScore": 8.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "MetaMask Phishing Exploit Drains EVM Wallets",
-      "description": "Hundreds of EVM-compatible wallets were drained of over $107,000 in a phishing attack involving a fake MetaMask upgrade email. Security researcher ZachXBT flagged the suspicious activity, which involved victims receiving a New Year themed phishing email that funneled funds into a single address.",
-      "source": "https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update",
-      "time": "2026-01-03T23:02:20.000Z",
-      "severity": "High",
-      "classification": [
-        "Scam"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "ShinyHunters Claims Resecurity Breach",
-      "description": "Hacker group ShinyHunters claimed to have breached the US cybersecurity firm Resecurity, allegedly leaking internal system screenshots and employee data. However, Resecurity stated the hackers only accessed a fake honeypot environment and no real data was compromised.",
-      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbjutcvtcs26",
-      "time": "2026-01-03T17:54:42.000Z",
+      "title": "OKX Wallet Radiant Capital Exploit Connection",
+      "description": "Reports indicate that the OKX wallet (formerly OKEx) remains connected to the Radiant Capital aggregator following an exploit.",
+      "source": "https://t.me/okxofficial_id",
+      "time": "2026-01-04T17:25:31.000Z",
       "severity": "Medium",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Android Malware Targets Global Banks",
-      "description": "A major malware attack is reportedly targeting Android users across 60 banks and financial institutions worldwide, resulting in drained bank accounts.",
-      "source": "https://cryptopanic.com/news/28475986/Hackers-Drain-Android-Users-Bank-Accounts-Target-60-Banks-and-Financial-Institutions-Worldwide-in-Major-Malware-Attack-Report",
-      "time": "2026-01-03T16:02:37.000Z",
-      "severity": "High",
       "classification": [
         "Exploit"
       ]
     },
     {
-      "id": 4,
-      "title": "Cryptocurrency Theft Linked to LastPass Breach",
-      "description": "New cryptocurrency theft attacks have been reported and linked to the historical 2022 LastPass data breach.",
-      "source": "https://cryptopanic.com/news/28471153/Cryptocurrency-theft-attacks-linked-to-2022-LastPass-breach",
-      "time": "2026-01-03T10:59:22.000Z",
-      "severity": "Medium",
+      "id": 2,
+      "title": "Farmacia San Pablo Breach by Qilin Hacking Group",
+      "description": "The Qilin hacking group claims to have breached Farmacia San Pablo, a Mexican wholesale and retail pharmacy chain. The incident was reportedly observed on January 2, 2026, and is currently pending verification.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbm4kqyikr25",
+      "time": "2026-01-04T15:05:48.000Z",
+      "severity": "High",
       "classification": [
         "Breach"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week was marked by a pronounced surge in high-severity cyberattacks, with a particular focus on large-scale data breaches, exploits targeting crypto wallets and financial institutions, and sophisticated phishing operations. Major incidents included breaches impacting millions of records in media, education, and e-commerce sectors; targeted ransomware and botnet campaigns; and evolving threats against DeFi protocols and wallet infrastructures. Notably, coordinated attacks on EVM-compatible wallets and Android banking users resulted in significant financial losses, while the continued exploitation of historical breaches (e.g., LastPass) underscored the persistent nature of credential theft. Organizations across critical infrastructure, financial services, and technology remain at heightened risk, with threat actors demonstrating increased sophistication and adaptability.",
-    "trends": "Several clear trends emerged: 1) A spike in financially motivated attacks, especially targeting crypto wallets (Trust Wallet, MetaMask, multi-chain exploits) and global banking apps (Android malware). 2) Data breaches and leaks affected a wide range of sectors, with attackers exfiltrating massive datasets (Condé Nast, ENSAI, OfferteCartucce) and leveraging exposed credentials for further exploitation. 3) Attackers are rapidly adopting new tools and vulnerabilities, such as ErrTraffic and React2Shell, to automate and scale malware delivery, particularly against server infrastructure (Next.js). 4) Phishing remains a dominant attack vector, with campaigns growing more targeted and leveraging holiday-themed lures. The persistence of botnets and the reactivation of old breach data (LastPass) for new thefts highlight a cycle of ongoing risk.",
-    "predictions": "Expect continued high-risk activity in the coming days, particularly in crypto and financial services. Multi-chain wallet draining exploits and phishing campaigns are likely to persist or escalate, with attackers targeting users during seasonal periods of high online activity. Vulnerabilities in web infrastructure (Next.js, npm packages) and the rise of automated attack tools suggest further exploitation attempts against tech and cloud service providers. Data breaches will remain frequent, with attackers seeking to monetize leaked credentials and personal information. The risk of credential theft linked to historical breaches will continue, especially as threat actors recycle old data for new campaigns. Overall, confidence in these predictions is high given the volume and sophistication of recent events, with finance, tech, and critical infrastructure sectors advised to operate at elevated alert levels and prioritize rapid incident response and user education."
+    "briefing": "The week was marked by a series of high-severity cyber incidents spanning cryptocurrency, finance, e-commerce, and critical infrastructure. Notable events included major exploits draining EVM chain wallets and phishing attacks leveraging MetaMask, as well as data breaches impacting Trust Wallet, OfferteCartucce, ENSAI, and Farmacia San Pablo. The emergence of advanced attack automation tools (ErrTraffic), multi-vector botnet campaigns targeting Next.js servers, and persistent malware against global banks underscored the rapidly evolving threat landscape. Organizations in crypto, healthcare, and technology sectors faced elevated risk, with attackers exploiting software vulnerabilities, supply chain weaknesses, and social engineering tactics. The overall environment is one of heightened alert, with threat actors showing increased sophistication and persistence.",
+    "trends": "Several converging trends dominated the week: 1) Intensified wallet-draining attacks across EVM blockchains, often involving phishing and exploits on major platforms like MetaMask and Trust Wallet; 2) Frequent and large-scale data breaches targeting both public-facing companies (e.g., OfferteCartucce, ENSAI, Farmacia San Pablo) and internal systems; 3) Growth of credential theft and phishing campaigns, including those leveraging npm packages and targeting specific geographies such as India; 4) Increased targeting of financial institutions, both traditional (banking malware) and crypto-related, with persistent threat actors reusing historical breach data (LastPass). Automation and modular tools are enabling more scalable, diverse, and persistent attacks, while ransomware and botnet operations are exploiting newly disclosed vulnerabilities. Notably, threat scores peaked midweek, suggesting a post-holiday surge in malicious activity.",
+    "predictions": "In the coming days, expect continued high risk for crypto wallet holders, especially on EVM-compatible chains, as wallet-draining, phishing, and exploit campaigns persist. Data breaches and credential leaks are likely to remain frequent, with e-commerce, healthcare, and financial sectors especially vulnerable. Botnet and ransomware activity will probably escalate, targeting new software vulnerabilities (such as React2Shell and Next.js) and supply chains. Phishing and credential theft will expand geographically, with increased sophistication in lure tactics. Given the ongoing verification and investigation phases in current incidents (e.g., Farmacia San Pablo, OKX wallet), more details and possibly additional victims may emerge. Confidence level: High for continued wallet and data compromise, Moderate for escalation of botnet and ransomware campaigns. Organizations should maintain elevated vigilance, update incident response plans, and closely monitor threat intelligence feeds."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-29",
-      "count": 3
-    },
     {
       "date": "2025-12-30",
       "count": 5
@@ -80,20 +54,24 @@
     {
       "date": "2026-01-04",
       "count": 4
+    },
+    {
+      "date": "2026-01-05",
+      "count": 2
     }
   ],
   "classificationDistribution": [
     {
+      "name": "Exploit",
+      "value": 6
+    },
+    {
       "name": "Breach",
-      "value": 7
+      "value": 6
     },
     {
       "name": "Leak",
-      "value": 5
-    },
-    {
-      "name": "Exploit",
-      "value": 5
+      "value": 4
     },
     {
       "name": "Scam",
