@@ -1,54 +1,7 @@
 {
-  "startDate": "2025-12-30",
-  "endDate": "2026-01-05",
+  "startDate": "2025-12-31",
+  "endDate": "2026-01-06",
   "days": [
-    {
-      "date": "2025-12-30",
-      "events": [
-        {
-          "timestamp": "2025-12-29T13:21:24.000Z",
-          "entities": "Trust Wallet Christmas Day Exploit – 2,596 Addresses Compromised",
-          "eventSummary": "Trust Wallet has identified 2,596 compromised addresses after a Christmas Day exploit. The company is currently moving into a verification phase to distinguish legitimate victims from false claims.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://cointelegraph.com/news/trust-wallet-verification-phase-false-claims-hack"
-        },
-        {
-          "timestamp": "2025-12-29T12:22:23.000Z",
-          "entities": "Mens Den Data Breach – User Information Exposed",
-          "eventSummary": "US-based entity Mens Den reportedly suffered a data breach. The leaked database allegedly contains user email addresses, password hashes, and personal profile information.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://twitter.com/1507666230102138882/status/2005615380694278290"
-        },
-        {
-          "timestamp": "2025-12-29T12:21:07.000Z",
-          "entities": "Ubisoft Source Code Leak Claims – Unverified",
-          "eventSummary": "Reports indicate that a breach at Ubisoft involving the injection of massive amounts of in-game currency may be exaggerated. While hacker groups claim to have leaked 900 GB of source code and internal documentation, no evidence has been provided to verify these claims.",
-          "severity": "Medium",
-          "tags": "leak",
-          "source": "https://www.reddit.com/r/cybersecurity/comments/1pyhnld/ubisoft_hack_is_reportedly_blown_way_out_of"
-        },
-        {
-          "timestamp": "2025-12-29T10:47:42.000Z",
-          "entities": "Omrania Ransomware Breach – 400 GB Data Exfiltrated",
-          "eventSummary": "The Omrania INC Ransom group claims to have breached Saudi Arabian firm Omrania, allegedly exfiltrating 400 GB of sensitive data. The stolen information reportedly includes confidential documents, client data, financial records, and project drawings.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://twitter.com/190389182/status/2005591551020343622"
-        },
-        {
-          "timestamp": "2025-12-29T09:46:33.000Z",
-          "entities": "npm Package Phishing Campaign – Industrial & Healthcare Targeted",
-          "eventSummary": "Attackers utilized 27 npm packages as CDN-hosted phishing lures over a five-month period. These packages mimicked Microsoft sign-in and document-sharing pages to target sales staff at 25 industrial and healthcare companies.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://twitter.com/209811713/status/2005576160407863561"
-        }
-      ],
-      "overallDayThreatScore": 82,
-      "dailyBrief": "A high-threat day with several significant cyber events reported. Trust Wallet and Omrania both suffered high-severity breaches, with thousands of users and large amounts of sensitive data impacted. Ongoing phishing campaigns via npm packages targeted industrial and healthcare sectors, while Mens Den and Ubisoft experienced medium-severity incidents. The volume and diversity of attacks suggest increased activity by threat actors, especially targeting financial, gaming, and critical infrastructure organizations."
-    },
     {
       "date": "2025-12-31",
       "events": [
@@ -266,6 +219,45 @@
       ],
       "overallDayThreatScore": 72,
       "dailyBrief": "Today's cyber events showcase significant threats in both the cryptocurrency and healthcare sectors. The ongoing exploit affecting OKX wallet via Radiant Capital aggregator raises concerns for digital asset holders, while the claimed breach at Farmacia San Pablo by the Qilin hacking group highlights persistent targeting of retail and healthcare entities. Verification and further monitoring of both incidents are advised, with heightened alert for potential data compromise and operational disruption."
+    },
+    {
+      "date": "2026-01-06",
+      "events": [
+        {
+          "timestamp": "2026-01-05T15:56:06.000Z",
+          "entities": "Litecoin Telegram Channel Account Hack",
+          "eventSummary": "Multiple reports indicate users on the Litecoin Telegram channel have lost access to their accounts due to hacking.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://t.me/Litecoin"
+        },
+        {
+          "timestamp": "2026-01-05T13:01:12.000Z",
+          "entities": "Trust Wallet Chrome Extension Breach & Crypto Scam Risks",
+          "eventSummary": "A security recap identifies a breach involving the Trust Wallet Chrome extension alongside other persistent cyber risks such as IoT botnets and crypto scams via fake wallet updates.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/209811713/status/2008161863201063290"
+        },
+        {
+          "timestamp": "2026-01-05T09:27:10.000Z",
+          "entities": "Major Data Exfiltration Report (186 GB)",
+          "eventSummary": "Attackers allegedly exfiltrated 186 GB of data, including employee and agent account details, customer information, policy records, and financial parameters from an unspecified entity.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbnzjedaum22"
+        },
+        {
+          "timestamp": "2026-01-05T07:46:09.000Z",
+          "entities": "MetaMask 2FA Phishing Scam",
+          "eventSummary": "A sophisticated phishing campaign targeting MetaMask users is utilizing a realistic two-factor authentication (2FA) flow to steal wallet recovery phrases. The scam was highlighted by blockchain security firm SlowMist.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://beincrypto.com/metamask-phishing-2fa-scam"
+        }
+      ],
+      "overallDayThreatScore": 84,
+      "dailyBrief": "Today's cyber landscape saw two high-severity incidents: a major data exfiltration involving sensitive business and customer records, and a breach of the Trust Wallet Chrome extension accompanied by widespread crypto scams. Additional medium-severity attacks targeted the Litecoin Telegram channel and MetaMask users, highlighting persistent threats in the cryptocurrency space, especially social engineering and phishing. The overall risk remains elevated, with multiple vectors impacting wallet security and user accounts."
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-05T15:56:06.000Z",
+      "entities": "Litecoin Telegram Channel Account Hack",
+      "eventSummary": "Multiple reports indicate users on the Litecoin Telegram channel have lost access to their accounts due to hacking.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://t.me/Litecoin"
+    },
+    {
+      "timestamp": "2026-01-05T13:01:12.000Z",
+      "entities": "Trust Wallet Chrome Extension Breach & Crypto Scam Risks",
+      "eventSummary": "A security recap identifies a breach involving the Trust Wallet Chrome extension alongside other persistent cyber risks such as IoT botnets and crypto scams via fake wallet updates.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://twitter.com/209811713/status/2008161863201063290"
+    },
+    {
+      "timestamp": "2026-01-05T09:27:10.000Z",
+      "entities": "Major Data Exfiltration Report (186 GB)",
+      "eventSummary": "Attackers allegedly exfiltrated 186 GB of data, including employee and agent account details, customer information, policy records, and financial parameters from an unspecified entity.",
+      "severity": "High",
+      "tags": "leak",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbnzjedaum22"
+    },
+    {
+      "timestamp": "2026-01-05T07:46:09.000Z",
+      "entities": "MetaMask 2FA Phishing Scam",
+      "eventSummary": "A sophisticated phishing campaign targeting MetaMask users is utilizing a realistic two-factor authentication (2FA) flow to steal wallet recovery phrases. The scam was highlighted by blockchain security firm SlowMist.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://beincrypto.com/metamask-phishing-2fa-scam"
+    }
+  ],
+  "overallDayThreatScore": 84,
+  "dailyBrief": "Today's cyber landscape saw two high-severity incidents: a major data exfiltration involving sensitive business and customer records, and a breach of the Trust Wallet Chrome extension accompanied by widespread crypto scams. Additional medium-severity attacks targeted the Litecoin Telegram channel and MetaMask users, highlighting persistent threats in the cryptocurrency space, especially social engineering and phishing. The overall risk remains elevated, with multiple vectors impacting wallet security and user accounts."
+}
