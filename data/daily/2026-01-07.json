@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-01-06T22:37:21.000Z",
+    "entities": "Ledger, Trezor, Global-e",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Ledger users are being targeted by a phishing campaign featuring a fake merger between Ledger and Trezor. This follows a data breach at Ledger's e-commerce partner, Global-e, which exposed customer contact and order information.\nSources:\n- https://cryptopotato.com/ledger-users-targeted-in-phishing-scam-following-global-e-data-breach"
+  },
+  {
+    "timestamp": "2026-01-06T22:19:10.000Z",
+    "entities": "Flow",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Flow released details regarding a December exploit involving counterfeit tokens that resulted in losses totaling $3.9 million.\nSources:\n- https://cryptopanic.com/news/28563003/Flow-details-December-exploit-that-led-to-39M-in-losses-due-to-counterfeit-tokens"
+  },
+  {
+    "timestamp": "2026-01-06T11:25:02.000Z",
+    "entities": "NordVPN",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "NordVPN has officially denied claims of a data breach following reports that a hacker leaked company data online.\nSources:\n- https://twitter.com/41258937/status/2008500050981515388"
+  },
+  {
+    "timestamp": "2026-01-06T10:07:10.000Z",
+    "entities": "PeckShield",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A hacker successfully exploited a multi-signature wallet to steal approximately $27.3 million, with subsequent reports from PeckShield indicating the attacker is laundering the stolen ETH.\nSources:\n- https://cryptopanic.com/news/28543090/Hacker-Steals-273M-Using-Multi-Signature-Wallet-Exploit\n- https://cryptopanic.com/news/28545264/Crypto-hacker-launders-more-ETH-from-compromised-multisig-as-27M-exploit-unfolds-PeckShield"
+  },
+  {
+    "timestamp": "2026-01-06T03:21:44.000Z",
+    "entities": "ClickFix",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The ClickFix attack campaign is reportedly utilizing deceptive Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.\nSources:\n- https://twitter.com/128484298/status/2008378424591630574"
+  }
+]

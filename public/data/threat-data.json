@@ -1,46 +1,57 @@
 {
   "currentThreat": "OPERATION CRYPTO CASCADE",
-  "threatScore": 8.4,
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Litecoin Telegram Channel Account Hack",
-      "description": "Multiple reports indicate users on the Litecoin Telegram channel have lost access to their accounts due to hacking.",
-      "source": "https://t.me/Litecoin",
-      "time": "2026-01-05T15:56:06.000Z",
-      "severity": "Medium",
+      "title": "Ledger-Trezor Phishing Scam Following Global-e Breach",
+      "description": "Ledger users are being targeted by a phishing campaign featuring a fake merger between Ledger and Trezor. This follows a data breach at Ledger's e-commerce partner, Global-e, which exposed customer contact and order information.",
+      "source": "https://cryptopotato.com/ledger-users-targeted-in-phishing-scam-following-global-e-data-breach",
+      "time": "2026-01-06T22:37:21.000Z",
+      "severity": "High",
       "classification": [
-        "Hack"
+        "Scam"
       ]
     },
     {
       "id": 2,
-      "title": "Trust Wallet Chrome Extension Breach & Crypto Scam Risks",
-      "description": "A security recap identifies a breach involving the Trust Wallet Chrome extension alongside other persistent cyber risks such as IoT botnets and crypto scams via fake wallet updates.",
-      "source": "https://twitter.com/209811713/status/2008161863201063290",
-      "time": "2026-01-05T13:01:12.000Z",
+      "title": "Flow Counterfeit Token Exploit",
+      "description": "Flow released details regarding a December exploit involving counterfeit tokens that resulted in losses totaling $3.9 million.",
+      "source": "https://cryptopanic.com/news/28563003/Flow-details-December-exploit-that-led-to-39M-in-losses-due-to-counterfeit-tokens",
+      "time": "2026-01-06T22:19:10.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Exploit"
       ]
     },
     {
       "id": 3,
-      "title": "Major Data Exfiltration Report (186 GB)",
-      "description": "Attackers allegedly exfiltrated 186 GB of data, including employee and agent account details, customer information, policy records, and financial parameters from an unspecified entity.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbnzjedaum22",
-      "time": "2026-01-05T09:27:10.000Z",
-      "severity": "High",
+      "title": "NordVPN Alleged Data Leak Denial",
+      "description": "NordVPN has officially denied claims of a data breach following reports that a hacker leaked company data online.",
+      "source": "https://twitter.com/41258937/status/2008500050981515388",
+      "time": "2026-01-06T11:25:02.000Z",
+      "severity": "Low",
       "classification": [
         "Leak"
       ]
     },
     {
       "id": 4,
-      "title": "MetaMask 2FA Phishing Scam",
-      "description": "A sophisticated phishing campaign targeting MetaMask users is utilizing a realistic two-factor authentication (2FA) flow to steal wallet recovery phrases. The scam was highlighted by blockchain security firm SlowMist.",
-      "source": "https://beincrypto.com/metamask-phishing-2fa-scam",
-      "time": "2026-01-05T07:46:09.000Z",
+      "title": "Multi-Signature Wallet $27.3M PeckShield ETH Laundering",
+      "description": "A hacker successfully exploited a multi-signature wallet to steal approximately $27.3 million, with subsequent reports from PeckShield indicating the attacker is laundering the stolen ETH.",
+      "source": "https://cryptopanic.com/news/28543090/Hacker-Steals-273M-Using-Multi-Signature-Wallet-Exploit",
+      "time": "2026-01-06T10:07:10.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "ClickFix BSOD Malware Attack Campaign",
+      "description": "The ClickFix attack campaign is reportedly utilizing deceptive Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.",
+      "source": "https://twitter.com/128484298/status/2008378424591630574",
+      "time": "2026-01-06T03:21:44.000Z",
       "severity": "Medium",
       "classification": [
         "Scam"
@@ -48,15 +59,11 @@
     }
   ],
   "past7Days": {
-    "briefing": "Over the past week, the cyber threat landscape has been marked by a surge in high-severity incidents targeting cryptocurrency platforms, financial institutions, and personal data repositories. Notable events include a series of ongoing attacks against EVM-compatible wallets, major data breaches (such as the ENSAI student leak and OfferteCartucce breach), and sophisticated phishing and malware campaigns exploiting both new and old vulnerabilities. Crypto wallet exploits and phishing related to MetaMask and Trust Wallet have led to substantial financial losses, while ransomware and botnet activity continue to threaten tech infrastructure globally. The persistent targeting of healthcare, retail, and tech sectors, as well as the exploitation of previously compromised data (e.g., LastPass), underscores the evolving tactics and growing scale of cybercriminal operations. Organizations and individuals are urged to prioritize vigilance, timely patching, and robust incident response.",
-    "trends": "Multiple incidents point to a sustained spike in attacks against crypto wallets and exchanges, with wallet-draining exploits recurring almost daily. Phishing campaigns have become more sophisticated, leveraging realistic 2FA flows and themed emails (such as the New Year MetaMask scam). Data leaks and breaches remain high, with several large-scale exposures reported, affecting both businesses and individuals. Botnets and malware campaigns, notably the RondoDox exploits targeting Next.js servers and Android banking malware, highlight a trend toward infrastructure and supply chain compromise. There is a rising pattern of attacks exploiting both new vulnerabilities (React2Shell, AWS key flaws) and historic breaches (LastPass), suggesting attackers are leveraging a diverse set of entry points. Declines are not evident; the threat level remains consistently elevated throughout the week.",
-    "predictions": "In the coming days, expect continued, high-confidence risks to crypto wallets and exchanges, with wallet-draining exploits and phishing campaigns likely to persist and potentially escalate. Financial and personal data leaks will remain a critical concern, particularly for organizations in finance, retail, and healthcare. The sophistication of phishing techniques—including advanced 2FA scams and themed lures—will likely increase, targeting both end-users and customer support channels. Infrastructure attacks leveraging emerging vulnerabilities (such as React2Shell and supply chain flaws) may see further exploitation, especially as attackers pivot tactics post-holiday. Ongoing monitoring of DeFi platforms, browser extensions, and cloud environments is highly recommended. Confidence level: high for continued wallet/phishing risks; medium for major infrastructure or supply chain exploits; and high for persistent data breach attempts."
+    "briefing": "During the first week of 2026, the cyber threat landscape was marked by a series of high-severity incidents, predominantly targeting the cryptocurrency sector, e-commerce platforms, and personal data repositories. Major financial losses resulted from sophisticated exploits and phishing campaigns, including multi-million dollar thefts from Unleash Protocol, Flow, and multi-signature wallet attacks, as well as widespread wallet-draining scams leveraging phishing tactics against MetaMask and Ledger users. E-commerce and retail sectors faced significant breaches, such as the compromise of Italian site OfferteCartucce and Mexico's Farmacia San Pablo, exposing sensitive user and operational data. The prevalence of advanced malware campaigns (e.g., Android banking malware, ClickFix BSOD scams) and exploitation of critical vulnerabilities (Next.js servers, Trust Wallet extension) underscores the evolving and multi-vector nature of current cyber risks. Notably, persistent threats from previous breaches (LastPass, Global-e) continue to facilitate new attacks, highlighting the importance of ongoing vigilance and robust incident response.",
+    "trends": "The data reveals several clear trends: 1) Cryptocurrency platforms and wallets remain prime targets, with a noticeable spike in high-value exploits, wallet-draining attacks, and scam campaigns—phishing and social engineering are increasingly sophisticated, using themed lures and realistic 2FA flows. 2) Data breaches involving large-scale personal information leaks are frequent, affecting both educational institutions and retail/e-commerce sectors. 3) Malware and botnet activity is on the rise, with attacks exploiting new vulnerabilities (Next.js, React2Shell) and targeting both servers and end-users (Android malware, BSOD scam). 4) Attackers are rapidly adapting tactics, leveraging historical breaches and exploiting supply chain partners to expand victim reach. Overall, threat scores remained consistently high, peaking mid-week, with no significant decline in intensity.",
+    "predictions": "For the upcoming days, expect continued high risk in the cryptocurrency and financial services space, with further exploitation of wallet, exchange, and aggregator vulnerabilities. Advanced phishing and social engineering campaigns are likely to proliferate, leveraging emerging events and historical data leaks with increasing realism. The attack surface for e-commerce, healthcare, and educational sectors will remain vulnerable to data compromise, especially as attackers seek new entry points via supply chain partners and misconfigured cloud environments. Watch for more botnet-driven exploits targeting popular frameworks and browser extensions. Confidence in these predictions is high (80–90%) given the sustained volume and sophistication of recent attacks. Organizations should prioritize securing endpoints, educating users on phishing, and monitoring for anomalous activity linked to both new and historical breaches."
   },
   "eventFrequency": [
-    {
-      "date": "2025-12-31",
-      "count": 4
-    },
     {
       "date": "2026-01-01",
       "count": 4
@@ -80,24 +87,20 @@
     {
       "date": "2026-01-06",
       "count": 4
+    },
+    {
+      "date": "2026-01-07",
+      "count": 5
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Hack",
-      "value": 8
-    },
-    {
-      "name": "Exploit",
+      "name": "Leak",
       "value": 5
     },
     {
-      "name": "Scam",
-      "value": 3
-    },
-    {
-      "name": "Leak",
-      "value": 4
+      "name": "Hack",
+      "value": 7
     },
     {
       "name": "Breach",
@@ -106,6 +109,14 @@
     {
       "name": "Fraud",
       "value": 1
+    },
+    {
+      "name": "Exploit",
+      "value": 5
+    },
+    {
+      "name": "Scam",
+      "value": 4
     }
   ]
 }
