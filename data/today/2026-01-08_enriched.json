@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-07T16:00:05.000Z",
+      "entities": "Ghost Tap malware drives remote NFC payment fraud",
+      "eventSummary": "New Ghost Tap malware is reportedly driving a significant increase in remote NFC payment fraud.",
+      "severity": "High",
+      "tags": "fraud",
+      "source": "https://twitter.com/29415843/status/2008931657701613955"
+    },
+    {
+      "timestamp": "2026-01-07T02:50:53.000Z",
+      "entities": "Web Cache Deception vulnerability leads to user data leakage",
+      "eventSummary": "A report details how specific cache rules can lead to user data leakage through Web Cache Deception vulnerabilities.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://twitter.com/1689512391300751362/status/2008733048037068884"
+    },
+    {
+      "timestamp": "2026-01-07T01:37:59.000Z",
+      "entities": "ClickFix attack uses fake BSOD screens for malware delivery",
+      "eventSummary": "A ClickFix attack method has been identified that utilizes fraudulent Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1q5c8yw/clickfix_attack_uses_fake_windows_bsod_screens_to"
+    }
+  ],
+  "overallDayThreatScore": 78,
+  "dailyBrief": "Today's cyber landscape shows a worrying trend in sophisticated fraud and scam tactics. The standout threat is the emergence of Ghost Tap malware, which is driving a surge in NFC payment fraud and poses significant risk to financial transactions. Additionally, a Web Cache Deception vulnerability and deceptive malware delivery via fake BSOD screens highlight the ongoing dangers of both data leaks and social engineering. Organizations should reinforce payment security and user education against scams."
+}

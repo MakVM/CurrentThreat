@@ -1,57 +1,35 @@
 {
-  "currentThreat": "OPERATION CRYPTO CASCADE",
-  "threatScore": 9,
+  "currentThreat": "OPERATION FRAUD WAVE",
+  "threatScore": 8.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Ledger-Trezor Phishing Scam Following Global-e Breach",
-      "description": "Ledger users are being targeted by a phishing campaign featuring a fake merger between Ledger and Trezor. This follows a data breach at Ledger's e-commerce partner, Global-e, which exposed customer contact and order information.",
-      "source": "https://cryptopotato.com/ledger-users-targeted-in-phishing-scam-following-global-e-data-breach",
-      "time": "2026-01-06T22:37:21.000Z",
+      "title": "Ghost Tap malware drives remote NFC payment fraud",
+      "description": "New Ghost Tap malware is reportedly driving a significant increase in remote NFC payment fraud.",
+      "source": "https://twitter.com/29415843/status/2008931657701613955",
+      "time": "2026-01-07T16:00:05.000Z",
       "severity": "High",
       "classification": [
-        "Scam"
+        "Fraud"
       ]
     },
     {
       "id": 2,
-      "title": "Flow Counterfeit Token Exploit",
-      "description": "Flow released details regarding a December exploit involving counterfeit tokens that resulted in losses totaling $3.9 million.",
-      "source": "https://cryptopanic.com/news/28563003/Flow-details-December-exploit-that-led-to-39M-in-losses-due-to-counterfeit-tokens",
-      "time": "2026-01-06T22:19:10.000Z",
-      "severity": "High",
-      "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "NordVPN Alleged Data Leak Denial",
-      "description": "NordVPN has officially denied claims of a data breach following reports that a hacker leaked company data online.",
-      "source": "https://twitter.com/41258937/status/2008500050981515388",
-      "time": "2026-01-06T11:25:02.000Z",
-      "severity": "Low",
+      "title": "Web Cache Deception vulnerability leads to user data leakage",
+      "description": "A report details how specific cache rules can lead to user data leakage through Web Cache Deception vulnerabilities.",
+      "source": "https://twitter.com/1689512391300751362/status/2008733048037068884",
+      "time": "2026-01-07T02:50:53.000Z",
+      "severity": "Medium",
       "classification": [
         "Leak"
       ]
     },
     {
-      "id": 4,
-      "title": "Multi-Signature Wallet $27.3M PeckShield ETH Laundering",
-      "description": "A hacker successfully exploited a multi-signature wallet to steal approximately $27.3 million, with subsequent reports from PeckShield indicating the attacker is laundering the stolen ETH.",
-      "source": "https://cryptopanic.com/news/28543090/Hacker-Steals-273M-Using-Multi-Signature-Wallet-Exploit",
-      "time": "2026-01-06T10:07:10.000Z",
-      "severity": "High",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "ClickFix BSOD Malware Attack Campaign",
-      "description": "The ClickFix attack campaign is reportedly utilizing deceptive Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.",
-      "source": "https://twitter.com/128484298/status/2008378424591630574",
-      "time": "2026-01-06T03:21:44.000Z",
+      "id": 3,
+      "title": "ClickFix attack uses fake BSOD screens for malware delivery",
+      "description": "A ClickFix attack method has been identified that utilizes fraudulent Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.",
+      "source": "https://www.reddit.com/r/cybersecurity/comments/1q5c8yw/clickfix_attack_uses_fake_windows_bsod_screens_to",
+      "time": "2026-01-07T01:37:59.000Z",
       "severity": "Medium",
       "classification": [
         "Scam"
@@ -59,15 +37,11 @@
     }
   ],
   "past7Days": {
-    "briefing": "During the first week of 2026, the cyber threat landscape was marked by a series of high-severity incidents, predominantly targeting the cryptocurrency sector, e-commerce platforms, and personal data repositories. Major financial losses resulted from sophisticated exploits and phishing campaigns, including multi-million dollar thefts from Unleash Protocol, Flow, and multi-signature wallet attacks, as well as widespread wallet-draining scams leveraging phishing tactics against MetaMask and Ledger users. E-commerce and retail sectors faced significant breaches, such as the compromise of Italian site OfferteCartucce and Mexico's Farmacia San Pablo, exposing sensitive user and operational data. The prevalence of advanced malware campaigns (e.g., Android banking malware, ClickFix BSOD scams) and exploitation of critical vulnerabilities (Next.js servers, Trust Wallet extension) underscores the evolving and multi-vector nature of current cyber risks. Notably, persistent threats from previous breaches (LastPass, Global-e) continue to facilitate new attacks, highlighting the importance of ongoing vigilance and robust incident response.",
-    "trends": "The data reveals several clear trends: 1) Cryptocurrency platforms and wallets remain prime targets, with a noticeable spike in high-value exploits, wallet-draining attacks, and scam campaigns—phishing and social engineering are increasingly sophisticated, using themed lures and realistic 2FA flows. 2) Data breaches involving large-scale personal information leaks are frequent, affecting both educational institutions and retail/e-commerce sectors. 3) Malware and botnet activity is on the rise, with attacks exploiting new vulnerabilities (Next.js, React2Shell) and targeting both servers and end-users (Android malware, BSOD scam). 4) Attackers are rapidly adapting tactics, leveraging historical breaches and exploiting supply chain partners to expand victim reach. Overall, threat scores remained consistently high, peaking mid-week, with no significant decline in intensity.",
-    "predictions": "For the upcoming days, expect continued high risk in the cryptocurrency and financial services space, with further exploitation of wallet, exchange, and aggregator vulnerabilities. Advanced phishing and social engineering campaigns are likely to proliferate, leveraging emerging events and historical data leaks with increasing realism. The attack surface for e-commerce, healthcare, and educational sectors will remain vulnerable to data compromise, especially as attackers seek new entry points via supply chain partners and misconfigured cloud environments. Watch for more botnet-driven exploits targeting popular frameworks and browser extensions. Confidence in these predictions is high (80–90%) given the sustained volume and sophistication of recent attacks. Organizations should prioritize securing endpoints, educating users on phishing, and monitoring for anomalous activity linked to both new and historical breaches."
+    "briefing": "This week witnessed a surge in high-severity cyber incidents spanning the financial, crypto, e-commerce, and healthcare sectors. Multiple large-scale data breaches and leaks were reported, including the exposure of millions of internal records, targeted attacks on e-commerce and pharmacy platforms, and a major data exfiltration incident exceeding 186 GB. The cryptocurrency ecosystem faced relentless threats, with multi-chain wallet draining exploits, phishing campaigns against MetaMask and Ledger users, high-value smart contract and multi-signature wallet exploits, and a notable uptick in sophisticated scams targeting wallet users. New and evolving malware, such as Ghost Tap and ClickFix, exploited both user trust and technical vulnerabilities, driving new waves of fraud and malware infections. Social engineering remained a prominent attack vector, leveraging phishing, fake software updates, and deceptive interfaces (such as bogus BSOD screens). The persistent exploitation of both novel and historic vulnerabilities (e.g., React2Shell, Web Cache Deception, and lasting impacts from prior breaches like LastPass) underscores the increasingly complex and interconnected threat landscape. Organizations and individuals are facing heightened risks of financial loss, data compromise, and reputational damage.",
+    "trends": "The week displayed several clear trends: 1) A sustained and escalating threat to cryptocurrency wallets and platforms, with daily incidents of wallet draining, phishing, and high-value exploits; 2) Increasing use of social engineering and phishing, particularly leveraging recent data breaches (e.g., Global-e, LastPass) to target users with believable lures and fake security flows; 3) An uptick in malware campaigns that blend technical exploits (React2Shell, Web Cache Deception) with psychological manipulation (Ghost Tap, ClickFix); 4) Continued large-scale data breaches and leaks affecting e-commerce, healthcare, and financial entities, with attackers seeking both immediate financial gain and long-term exploitation of stolen data. Notably, there is a convergence of technical and social attack vectors, with attackers rapidly adapting their methods to exploit both human and system vulnerabilities. The overall threat score remained consistently high throughout the week, highlighting a climate of elevated cyber risk.",
+    "predictions": "Looking ahead, it is highly likely that attacks targeting cryptocurrency wallets and platforms will persist and possibly intensify, including new phishing and malware campaigns exploiting both recent and historic data leaks. Expect further evolution of social engineering tactics, particularly around 2FA phishing, fake updates, and fraudulent support channels. Technical exploits targeting web infrastructure (like Web Cache Deception and server vulnerabilities) are likely to continue, especially as attackers capitalize on unpatched systems and weak security controls. The risk of major data breaches in retail, healthcare, and fintech remains high, with possible follow-on attacks leveraging newly exfiltrated data. Fraud involving emerging technologies (such as NFC payment systems) will likely rise, as demonstrated by the Ghost Tap malware wave. Overall, the confidence level in these predictions is high, given the sustained pattern of attacks, the rapid exploitation of new vulnerabilities, and ongoing global economic uncertainty fueling cybercrime incentives. Organizations should prioritize patching, payment security, and user education to mitigate immediate risks."
   },
   "eventFrequency": [
-    {
-      "date": "2026-01-01",
-      "count": 4
-    },
     {
       "date": "2026-01-02",
       "count": 5
@@ -91,32 +65,36 @@
     {
       "date": "2026-01-07",
       "count": 5
+    },
+    {
+      "date": "2026-01-08",
+      "count": 3
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Leak",
-      "value": 5
-    },
-    {
       "name": "Hack",
-      "value": 7
+      "value": 6
     },
     {
-      "name": "Breach",
-      "value": 5
+      "name": "Leak",
+      "value": 4
     },
     {
       "name": "Fraud",
-      "value": 1
+      "value": 2
     },
     {
       "name": "Exploit",
       "value": 5
     },
     {
-      "name": "Scam",
+      "name": "Breach",
       "value": 4
+    },
+    {
+      "name": "Scam",
+      "value": 5
     }
   ]
 }

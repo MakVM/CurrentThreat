@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-07T16:00:05.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "New Ghost Tap malware is reportedly driving a significant increase in remote NFC payment fraud.\nSources:\n- https://twitter.com/29415843/status/2008931657701613955"
+  },
+  {
+    "timestamp": "2026-01-07T02:50:53.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A report details how specific cache rules can lead to user data leakage through Web Cache Deception vulnerabilities.\nSources:\n- https://twitter.com/1689512391300751362/status/2008733048037068884"
+  },
+  {
+    "timestamp": "2026-01-07T01:37:59.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A ClickFix attack method has been identified that utilizes fraudulent Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.\nSources:\n- https://www.reddit.com/r/cybersecurity/comments/1q5c8yw/clickfix_attack_uses_fake_windows_bsod_screens_to"
+  }
+]
