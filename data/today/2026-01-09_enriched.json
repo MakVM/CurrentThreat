@@ -1,0 +1,86 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-08T23:59:26.000Z",
+      "entities": "China-linked Linux-based Malware Breach at Southeastern Europe Telecom Providers",
+      "eventSummary": "A China-linked threat actor using Linux-based malware has breached telecommunications providers in Southeastern Europe by exploiting edge devices.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3mbx5ptw3nq2l"
+    },
+    {
+      "timestamp": "2026-01-08T23:15:54.000Z",
+      "entities": "Truebit Protocol $26M ETH Exploit",
+      "eventSummary": "Truebit protocol confirmed a security incident involving an exploit that drained over $26 million in ETH.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://cryptopanic.com/news/28641772/Truebit-protocol-confirms-security-incident-as-exploit-drains-over-26m-in-ETH"
+    },
+    {
+      "timestamp": "2026-01-08T17:54:32.000Z",
+      "entities": "Qilin Group Breach of Anteriad (3TB Data Exfiltration)",
+      "eventSummary": "The Qilin hacking group claims to have breached US-based company Anteriad, allegedly exfiltrating 3.0 TB of data.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbwhbelexy22"
+    },
+    {
+      "timestamp": "2026-01-08T17:54:32.000Z",
+      "entities": "Qilin Group Breach of Softlab SpA",
+      "eventSummary": "The Qilin hacking group claims to have breached Italian ICT company Softlab SpA.",
+      "severity": "Medium",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbwh6tyt7y26"
+    },
+    {
+      "timestamp": "2026-01-08T12:48:41.000Z",
+      "entities": "ChatGPT & DeepSeek Vulnerabilities and Malicious AI Extension Leaks",
+      "eventSummary": "New vulnerabilities in ChatGPT and malicious Chrome extensions posing as AI tools have been discovered, allegedly spying on over 1 million users and exfiltrating sensitive conversation data.",
+      "severity": "High",
+      "tags": "leak",
+      "source": "https://twitter.com/877710712734232576/status/2009245877949301076"
+    },
+    {
+      "timestamp": "2026-01-08T09:48:40.000Z",
+      "entities": "Cisco ISE Patch for Public Exploit",
+      "eventSummary": "Cisco has patched a vulnerability in its Identity Service Engine (ISE) and warned of public proof-of-concept exploit code available for use by authenticated attackers.",
+      "severity": "Medium",
+      "tags": "exploit",
+      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3mbvndgjhbe2b"
+    },
+    {
+      "timestamp": "2026-01-08T08:47:13.000Z",
+      "entities": "Salt Typhoon Cyber Espionage Campaign",
+      "eventSummary": "A massive cyber espionage campaign known as Salt Typhoon, attributed to Beijing's intelligence service, has been identified in a series of recent attacks.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://bsky.app/profile/financialtimes.com/post/3mbuuze5arl2f"
+    },
+    {
+      "timestamp": "2026-01-08T07:45:39.000Z",
+      "entities": "HPE OneView Maximum Severity Vulnerability Exploitation",
+      "eventSummary": "CISA flagged a maximum severity vulnerability in HPE OneView that is being actively exploited in attacks.",
+      "severity": "High",
+      "tags": "exploit",
+      "source": "https://twitter.com/50026664/status/2009169616992346409"
+    },
+    {
+      "timestamp": "2026-01-08T05:04:19.000Z",
+      "entities": "Smaregi Breach and Leak of 100,000 Customer Records",
+      "eventSummary": "The lulzintel threat actor claims to have breached Japanese company Smaregi, allegedly leaking a database containing personal information of 100,000 customers.",
+      "severity": "High",
+      "tags": "leak",
+      "source": "https://twitter.com/190389182/status/2009129012313129157"
+    },
+    {
+      "timestamp": "2026-01-08T05:01:46.000Z",
+      "entities": "GoBruteforcer Attacks on Crypto/Blockchain Projects",
+      "eventSummary": "A new wave of GoBruteforcer attacks is targeting cryptocurrency and blockchain projects.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://twitter.com/128484298/status/2009128373604188325"
+    }
+  ],
+  "overallDayThreatScore": 92,
+  "dailyBrief": "Today's cyber landscape saw a series of high-impact attacks and exploits, including major breaches by nation-state actors and criminal groups targeting telecom, AI platforms, and financial assets. Notably, China-linked groups compromised Southeastern Europe telecom providers using advanced Linux malware, while the Salt Typhoon espionage campaign underscores persistent state-driven threats. Cryptocurrency platforms were hit hard, with Truebit losing $26M to an exploit and GoBruteforcer targeting blockchain projects. Widespread vulnerabilities in popular products (Cisco ISE, HPE OneView, ChatGPT) were actively exploited, while large-scale data leaks affected millions of users, particularly in the AI and retail sectors. The overall threat level is critically high, with coordinated attacks, sophisticated exploits, and significant financial and information losses reported."
+}

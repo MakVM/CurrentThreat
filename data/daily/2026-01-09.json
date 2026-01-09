@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": "2026-01-08T23:59:26.000Z",
+    "entities": "Southeastern Europe Telecommunications",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A China-linked threat actor using Linux-based malware has breached telecommunications providers in Southeastern Europe by exploiting edge devices.\nSources:\n- https://bsky.app/profile/bleepingcomputer.com/post/3mbx5ptw3nq2l"
+  },
+  {
+    "timestamp": "2026-01-08T23:15:54.000Z",
+    "entities": "Truebit",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Truebit protocol confirmed a security incident involving an exploit that drained over $26 million in ETH.\nSources:\n- https://cryptopanic.com/news/28641772/Truebit-protocol-confirms-security-incident-as-exploit-drains-over-26m-in-ETH"
+  },
+  {
+    "timestamp": "2026-01-08T17:54:32.000Z",
+    "entities": "Anteriad",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Qilin hacking group claims to have breached US-based company Anteriad, allegedly exfiltrating 3.0 TB of data.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbwhbelexy22"
+  },
+  {
+    "timestamp": "2026-01-08T17:54:32.000Z",
+    "entities": "Softlab SpA",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Qilin hacking group claims to have breached Italian ICT company Softlab SpA.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbwh6tyt7y26"
+  },
+  {
+    "timestamp": "2026-01-08T12:48:41.000Z",
+    "entities": "ChatGPT, DeepSeek",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "New vulnerabilities in ChatGPT and malicious Chrome extensions posing as AI tools have been discovered, allegedly spying on over 1 million users and exfiltrating sensitive conversation data.\nSources:\n- https://twitter.com/877710712734232576/status/2009245877949301076\n- https://bsky.app/profile/hackread.bsky.social/post/3mbw5vrk6w22i"
+  },
+  {
+    "timestamp": "2026-01-08T09:48:40.000Z",
+    "entities": "Cisco",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Cisco has patched a vulnerability in its Identity Service Engine (ISE) and warned of public proof-of-concept exploit code available for use by authenticated attackers.\nSources:\n- https://bsky.app/profile/bleepingcomputer.com/post/3mbvndgjhbe2b\n- https://www.reddit.com/r/cybersecurity/comments/1q7aitc/cisco_warns_of_identity_service_engine_flaw_with"
+  },
+  {
+    "timestamp": "2026-01-08T08:47:13.000Z",
+    "entities": "Salt Typhoon",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A massive cyber espionage campaign known as Salt Typhoon, attributed to Beijing's intelligence service, has been identified in a series of recent attacks.\nSources:\n- https://bsky.app/profile/financialtimes.com/post/3mbuuze5arl2f"
+  },
+  {
+    "timestamp": "2026-01-08T07:45:39.000Z",
+    "entities": "HPE OneView",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "CISA flagged a maximum severity vulnerability in HPE OneView that is being actively exploited in attacks.\nSources:\n- https://twitter.com/50026664/status/2009169616992346409\n- https://twitter.com/41258937/status/2009221080209379713"
+  },
+  {
+    "timestamp": "2026-01-08T05:04:19.000Z",
+    "entities": "Smaregi",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The lulzintel threat actor claims to have breached Japanese company Smaregi, allegedly leaking a database containing personal information of 100,000 customers.\nSources:\n- https://twitter.com/190389182/status/2009129012313129157\n- https://bsky.app/profile/hackmanac.com/post/3mbv7jkwguw2u"
+  },
+  {
+    "timestamp": "2026-01-08T05:01:46.000Z",
+    "entities": "GoBruteforcer",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A new wave of GoBruteforcer attacks is targeting cryptocurrency and blockchain projects.\nSources:\n- https://twitter.com/128484298/status/2009128373604188325"
+  }
+]
