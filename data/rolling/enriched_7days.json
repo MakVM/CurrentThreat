@@ -1,38 +1,7 @@
 {
-  "startDate": "2026-01-03",
-  "endDate": "2026-01-09",
+  "startDate": "2026-01-04",
+  "endDate": "2026-01-10",
   "days": [
-    {
-      "date": "2026-01-03",
-      "events": [
-        {
-          "timestamp": "2026-01-02T18:43:11.000Z",
-          "entities": "OfferteCartucce Data Breach",
-          "eventSummary": "A threat actor known as 888 has claimed a data breach of the Italian e-commerce site OfferteCartucce, allegedly exposing the personal details of 229,000 unique users including tax codes and phone numbers.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://twitter.com/1697387633247150081/status/2007160761110671780"
-        },
-        {
-          "timestamp": "2026-01-02T06:35:18.000Z",
-          "entities": "Multi-chain Crypto Wallet Draining Exploit",
-          "eventSummary": "A multi-chain exploit is currently draining hundreds of crypto wallets across various EVM-compatible blockchains, with reported losses exceeding $107,000. Investigators, including ZachXBT, are working to identify the root cause of the ongoing draining activity.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://beincrypto.com/multi-chain-crypto-wallet-drain-phishing-exploit"
-        },
-        {
-          "timestamp": "2026-01-02T01:38:39.000Z",
-          "entities": "RondoDox Botnet Next.js Malware Campaign",
-          "eventSummary": "CloudSEK reports that the RondoDox botnet is actively exploiting a critical React2Shell vulnerability (CVE-2025-55182) to install malware and cryptominers on Next.js servers.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://twitter.com/877710712734232576/status/2006902927466639716"
-        }
-      ],
-      "overallDayThreatScore": 92,
-      "dailyBrief": "Today's cyber events highlight a significant escalation in threats: a major data breach impacting Italian e-commerce users, an ongoing multi-chain exploit draining crypto wallets across EVM blockchains, and a critical vulnerability being actively abused to compromise Next.js servers. All incidents present high severity and impact, indicating an urgent need for heightened security measures and rapid incident response in both finance and tech sectors."
-    },
     {
       "date": "2026-01-04",
       "events": [
@@ -298,6 +267,85 @@
       ],
       "overallDayThreatScore": 92,
       "dailyBrief": "Today's cyber landscape saw a series of high-impact attacks and exploits, including major breaches by nation-state actors and criminal groups targeting telecom, AI platforms, and financial assets. Notably, China-linked groups compromised Southeastern Europe telecom providers using advanced Linux malware, while the Salt Typhoon espionage campaign underscores persistent state-driven threats. Cryptocurrency platforms were hit hard, with Truebit losing $26M to an exploit and GoBruteforcer targeting blockchain projects. Widespread vulnerabilities in popular products (Cisco ISE, HPE OneView, ChatGPT) were actively exploited, while large-scale data leaks affected millions of users, particularly in the AI and retail sectors. The overall threat level is critically high, with coordinated attacks, sophisticated exploits, and significant financial and information losses reported."
+    },
+    {
+      "date": "2026-01-10",
+      "events": [
+        {
+          "timestamp": "2026-01-09T23:59:56.000Z",
+          "entities": "Betterment Security Breach Suspected",
+          "eventSummary": "Reports have emerged from users indicating that the investment platform Betterment may have suffered a security breach.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked"
+        },
+        {
+          "timestamp": "2026-01-09T16:14:34.000Z",
+          "entities": "Condé Nast Massive Data Leak",
+          "eventSummary": "A threat actor is reportedly selling 40 million user records belonging to Condé Nast subsidiary websites. This follows a previous leak of 2.3 million Wired.com accounts by the same hacker.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbyufof6pk2u"
+        },
+        {
+          "timestamp": "2026-01-09T15:14:44.000Z",
+          "entities": "Frontline Fabrics Vendor Email Fraud",
+          "eventSummary": "Frontline Fabrics has filed a lawsuit against a unit of Chubb and several banks following an alleged $1.4 million fraud involving a vendor email hack.",
+          "severity": "Medium",
+          "tags": "fraud",
+          "source": "https://www.insurancebusinessmag.com/us/news/legal-insights/frontline-fabrics-sues-chubb-unit-banks-over-alleged-1-4-million-fraud-561537.aspx"
+        },
+        {
+          "timestamp": "2026-01-09T14:12:48.000Z",
+          "entities": "Empresas Copec S.A. VPN Breach",
+          "eventSummary": "The Anubis hacking group claimed to have breached Empresas Copec S.A. in Chile via a corporate VPN vulnerability, allegedly exfiltrating 6 TB of data despite partial encryption blocking.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbylabyhll2c"
+        },
+        {
+          "timestamp": "2026-01-09T13:11:24.000Z",
+          "entities": "Grupo Ruiz Transportation Cyberattack",
+          "eventSummary": "The Lynx hacking group claimed a cyberattack against the Spanish transportation company Grupo Ruiz and provided data samples as proof of the breach.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbyihzpswn2s"
+        },
+        {
+          "timestamp": "2026-01-09T10:43:58.000Z",
+          "entities": "Epoch Protocol Developer Malware Incident",
+          "eventSummary": "A developer at Epoch Protocol lost over $20,000 after running a malicious repository linked to 'contagious interview' malware. The exploit granted attackers root access and leaked environment keys, leading to the drainage of multiple EVM and Solana wallets.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://t.me/leviathan_news"
+        },
+        {
+          "timestamp": "2026-01-09T06:06:08.000Z",
+          "entities": "Mutti Manufacturing Breach Claim",
+          "eventSummary": "The Cl0p hacking group has claimed a breach against the Italian manufacturing company Mutti. The incident is currently pending verification.",
+          "severity": "Low",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbxsbcicex22"
+        },
+        {
+          "timestamp": "2026-01-09T06:06:08.000Z",
+          "entities": "Universidade Federal de Sergipe Data Exfiltration",
+          "eventSummary": "The Vect hacking group allegedly breached the Universidade Federal de Sergipe in Brazil, exfiltrating 150 GB of data. The stolen information reportedly includes administrative account hashes, student and staff records, medical data, and financial information.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mbxqxcf6td2c"
+        },
+        {
+          "timestamp": "2026-01-09T03:08:03.000Z",
+          "entities": "Truebit Protocol Smart Contract Exploit",
+          "eventSummary": "Truebit Protocol suffered a major security exploit targeting a vulnerability in a five-year-old smart contract, resulting in the theft of approximately 8,500 ETH (valued at $26.5 million). The incident caused the protocol's native token, TRU, to plummet by nearly 100%.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://cryptopotato.com/truebit-suffers-26-5m-loss-in-first-major-defi-hack-of-2026"
+        }
+      ],
+      "overallDayThreatScore": 89,
+      "dailyBrief": "2026-01-09 saw an elevated level of cyber threats, with multiple high-severity breaches and data leaks reported across financial, media, manufacturing, education, and crypto sectors. Notable events include the suspected Betterment breach, the sale of 40 million Condé Nast user records, a $26.5 million exploit against Truebit Protocol, and significant data exfiltration from Universidade Federal de Sergipe. Ongoing trends highlight persistent targeting of large data stores, financial assets, and supply chain vulnerabilities. Organizations are urged to review VPN, email, and smart contract security controls. Crypto platforms remain high-value targets, with incident severity and financial loss continuing to climb."
     }
   ]
 }

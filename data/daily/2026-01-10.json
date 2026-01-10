@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-01-09T23:59:56.000Z",
+    "entities": "Betterment",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Reports have emerged from users indicating that the investment platform Betterment may have suffered a security breach.\nSources:\n- https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked"
+  },
+  {
+    "timestamp": "2026-01-09T16:14:34.000Z",
+    "entities": "Condé Nast",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A threat actor is reportedly selling 40 million user records belonging to Condé Nast subsidiary websites. This follows a previous leak of 2.3 million Wired.com accounts by the same hacker.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mbyufof6pk2u"
+  },
+  {
+    "timestamp": "2026-01-09T15:14:44.000Z",
+    "entities": "Frontline Fabrics",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Frontline Fabrics has filed a lawsuit against a unit of Chubb and several banks following an alleged $1.4 million fraud involving a vendor email hack.\nSources:\n- https://www.insurancebusinessmag.com/us/news/legal-insights/frontline-fabrics-sues-chubb-unit-banks-over-alleged-1-4-million-fraud-561537.aspx"
+  },
+  {
+    "timestamp": "2026-01-09T14:12:48.000Z",
+    "entities": "Empresas Copec S.A.",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Anubis hacking group claimed to have breached Empresas Copec S.A. in Chile via a corporate VPN vulnerability, allegedly exfiltrating 6 TB of data despite partial encryption blocking.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbylabyhll2c\n- https://bsky.app/profile/hackmanac.com/post/3mbyladjakk2f"
+  },
+  {
+    "timestamp": "2026-01-09T13:11:24.000Z",
+    "entities": "Grupo Ruiz",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Lynx hacking group claimed a cyberattack against the Spanish transportation company Grupo Ruiz and provided data samples as proof of the breach.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbyihzpswn2s"
+  },
+  {
+    "timestamp": "2026-01-09T10:43:58.000Z",
+    "entities": "Epoch Protocol",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A developer at Epoch Protocol lost over $20,000 after running a malicious repository linked to 'contagious interview' malware. The exploit granted attackers root access and leaked environment keys, leading to the drainage of multiple EVM and Solana wallets.\nSources:\n- https://t.me/leviathan_news"
+  },
+  {
+    "timestamp": "2026-01-09T06:06:08.000Z",
+    "entities": "Mutti",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Cl0p hacking group has claimed a breach against the Italian manufacturing company Mutti. The incident is currently pending verification.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbxsbcicex22"
+  },
+  {
+    "timestamp": "2026-01-09T06:06:08.000Z",
+    "entities": "Universidade Federal de Sergipe",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Vect hacking group allegedly breached the Universidade Federal de Sergipe in Brazil, exfiltrating 150 GB of data. The stolen information reportedly includes administrative account hashes, student and staff records, medical data, and financial information.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mbxqxcf6td2c\n- https://bsky.app/profile/hackmanac.com/post/3mbxs5qmh7x2c"
+  },
+  {
+    "timestamp": "2026-01-09T03:08:03.000Z",
+    "entities": "Truebit Protocol",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Truebit Protocol suffered a major security exploit targeting a vulnerability in a five-year-old smart contract, resulting in the theft of approximately 8,500 ETH (valued at $26.5 million). The incident caused the protocol's native token, TRU, to plummet by nearly 100%.\nSources:\n- https://cryptopotato.com/truebit-suffers-26-5m-loss-in-first-major-defi-hack-of-2026\n- https://www.coindesk.com/markets/2026/01/09/truebit-token-tru-crashes-99-9-after-usd26-6m-exploit-drains-8-535-eth\n- https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026"
+  }
+]

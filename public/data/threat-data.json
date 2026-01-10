@@ -1,13 +1,13 @@
 {
-  "currentThreat": "OPERATION RED SPECTER",
-  "threatScore": 9.5,
+  "currentThreat": "OPERATION DATA CASCADE",
+  "threatScore": 9,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "China-linked Linux-based Malware Breach at Southeastern Europe Telecom Providers",
-      "description": "A China-linked threat actor using Linux-based malware has breached telecommunications providers in Southeastern Europe by exploiting edge devices.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3mbx5ptw3nq2l",
-      "time": "2026-01-08T23:59:26.000Z",
+      "title": "Betterment Security Breach Suspected",
+      "description": "Reports have emerged from users indicating that the investment platform Betterment may have suffered a security breach.",
+      "source": "https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked",
+      "time": "2026-01-09T23:59:56.000Z",
       "severity": "High",
       "classification": [
         "Breach"
@@ -15,114 +15,99 @@
     },
     {
       "id": 2,
-      "title": "Truebit Protocol $26M ETH Exploit",
-      "description": "Truebit protocol confirmed a security incident involving an exploit that drained over $26 million in ETH.",
-      "source": "https://cryptopanic.com/news/28641772/Truebit-protocol-confirms-security-incident-as-exploit-drains-over-26m-in-ETH",
-      "time": "2026-01-08T23:15:54.000Z",
+      "title": "Condé Nast Massive Data Leak",
+      "description": "A threat actor is reportedly selling 40 million user records belonging to Condé Nast subsidiary websites. This follows a previous leak of 2.3 million Wired.com accounts by the same hacker.",
+      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbyufof6pk2u",
+      "time": "2026-01-09T16:14:34.000Z",
       "severity": "High",
       "classification": [
-        "Exploit"
+        "Leak"
       ]
     },
     {
       "id": 3,
-      "title": "Qilin Group Breach of Anteriad (3TB Data Exfiltration)",
-      "description": "The Qilin hacking group claims to have breached US-based company Anteriad, allegedly exfiltrating 3.0 TB of data.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbwhbelexy22",
-      "time": "2026-01-08T17:54:32.000Z",
-      "severity": "High",
+      "title": "Frontline Fabrics Vendor Email Fraud",
+      "description": "Frontline Fabrics has filed a lawsuit against a unit of Chubb and several banks following an alleged $1.4 million fraud involving a vendor email hack.",
+      "source": "https://www.insurancebusinessmag.com/us/news/legal-insights/frontline-fabrics-sues-chubb-unit-banks-over-alleged-1-4-million-fraud-561537.aspx",
+      "time": "2026-01-09T15:14:44.000Z",
+      "severity": "Medium",
       "classification": [
-        "Breach"
+        "Fraud"
       ]
     },
     {
       "id": 4,
-      "title": "Qilin Group Breach of Softlab SpA",
-      "description": "The Qilin hacking group claims to have breached Italian ICT company Softlab SpA.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbwh6tyt7y26",
-      "time": "2026-01-08T17:54:32.000Z",
-      "severity": "Medium",
+      "title": "Empresas Copec S.A. VPN Breach",
+      "description": "The Anubis hacking group claimed to have breached Empresas Copec S.A. in Chile via a corporate VPN vulnerability, allegedly exfiltrating 6 TB of data despite partial encryption blocking.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbylabyhll2c",
+      "time": "2026-01-09T14:12:48.000Z",
+      "severity": "High",
       "classification": [
         "Breach"
       ]
     },
     {
       "id": 5,
-      "title": "ChatGPT & DeepSeek Vulnerabilities and Malicious AI Extension Leaks",
-      "description": "New vulnerabilities in ChatGPT and malicious Chrome extensions posing as AI tools have been discovered, allegedly spying on over 1 million users and exfiltrating sensitive conversation data.",
-      "source": "https://twitter.com/877710712734232576/status/2009245877949301076",
-      "time": "2026-01-08T12:48:41.000Z",
-      "severity": "High",
+      "title": "Grupo Ruiz Transportation Cyberattack",
+      "description": "The Lynx hacking group claimed a cyberattack against the Spanish transportation company Grupo Ruiz and provided data samples as proof of the breach.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbyihzpswn2s",
+      "time": "2026-01-09T13:11:24.000Z",
+      "severity": "Medium",
       "classification": [
-        "Leak"
+        "Hack"
       ]
     },
     {
       "id": 6,
-      "title": "Cisco ISE Patch for Public Exploit",
-      "description": "Cisco has patched a vulnerability in its Identity Service Engine (ISE) and warned of public proof-of-concept exploit code available for use by authenticated attackers.",
-      "source": "https://bsky.app/profile/bleepingcomputer.com/post/3mbvndgjhbe2b",
-      "time": "2026-01-08T09:48:40.000Z",
+      "title": "Epoch Protocol Developer Malware Incident",
+      "description": "A developer at Epoch Protocol lost over $20,000 after running a malicious repository linked to 'contagious interview' malware. The exploit granted attackers root access and leaked environment keys, leading to the drainage of multiple EVM and Solana wallets.",
+      "source": "https://t.me/leviathan_news",
+      "time": "2026-01-09T10:43:58.000Z",
       "severity": "Medium",
       "classification": [
-        "Exploit"
+        "Hack"
       ]
     },
     {
       "id": 7,
-      "title": "Salt Typhoon Cyber Espionage Campaign",
-      "description": "A massive cyber espionage campaign known as Salt Typhoon, attributed to Beijing's intelligence service, has been identified in a series of recent attacks.",
-      "source": "https://bsky.app/profile/financialtimes.com/post/3mbuuze5arl2f",
-      "time": "2026-01-08T08:47:13.000Z",
-      "severity": "High",
+      "title": "Mutti Manufacturing Breach Claim",
+      "description": "The Cl0p hacking group has claimed a breach against the Italian manufacturing company Mutti. The incident is currently pending verification.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbxsbcicex22",
+      "time": "2026-01-09T06:06:08.000Z",
+      "severity": "Low",
       "classification": [
-        "Hack"
+        "Breach"
       ]
     },
     {
       "id": 8,
-      "title": "HPE OneView Maximum Severity Vulnerability Exploitation",
-      "description": "CISA flagged a maximum severity vulnerability in HPE OneView that is being actively exploited in attacks.",
-      "source": "https://twitter.com/50026664/status/2009169616992346409",
-      "time": "2026-01-08T07:45:39.000Z",
+      "title": "Universidade Federal de Sergipe Data Exfiltration",
+      "description": "The Vect hacking group allegedly breached the Universidade Federal de Sergipe in Brazil, exfiltrating 150 GB of data. The stolen information reportedly includes administrative account hashes, student and staff records, medical data, and financial information.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mbxqxcf6td2c",
+      "time": "2026-01-09T06:06:08.000Z",
       "severity": "High",
       "classification": [
-        "Exploit"
+        "Breach"
       ]
     },
     {
       "id": 9,
-      "title": "Smaregi Breach and Leak of 100,000 Customer Records",
-      "description": "The lulzintel threat actor claims to have breached Japanese company Smaregi, allegedly leaking a database containing personal information of 100,000 customers.",
-      "source": "https://twitter.com/190389182/status/2009129012313129157",
-      "time": "2026-01-08T05:04:19.000Z",
+      "title": "Truebit Protocol Smart Contract Exploit",
+      "description": "Truebit Protocol suffered a major security exploit targeting a vulnerability in a five-year-old smart contract, resulting in the theft of approximately 8,500 ETH (valued at $26.5 million). The incident caused the protocol's native token, TRU, to plummet by nearly 100%.",
+      "source": "https://cryptopotato.com/truebit-suffers-26-5m-loss-in-first-major-defi-hack-of-2026",
+      "time": "2026-01-09T03:08:03.000Z",
       "severity": "High",
       "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 10,
-      "title": "GoBruteforcer Attacks on Crypto/Blockchain Projects",
-      "description": "A new wave of GoBruteforcer attacks is targeting cryptocurrency and blockchain projects.",
-      "source": "https://twitter.com/128484298/status/2009128373604188325",
-      "time": "2026-01-08T05:01:46.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Hack"
+        "Exploit"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a dramatic escalation in cyber threats across multiple sectors—finance, technology, healthcare, telecommunications, and AI. High-severity breaches, exploits, and data leaks dominated the landscape, with attacks targeting crypto wallets, financial institutions, major retail chains, and telecom providers. Notably, threat actors such as Qilin, Salt Typhoon, and other nation-state linked groups executed coordinated campaigns, resulting in multi-million dollar losses, massive data exfiltration (some exceeding terabytes), and exposure of sensitive customer and business information worldwide. The proliferation of sophisticated social engineering, phishing, and malware campaigns—often leveraging current vulnerabilities and trusted platforms (e.g., MetaMask, Trust Wallet, ChatGPT)—has compounded risks for both organizations and individuals. The overall threat level remains critically high, with ongoing exploitation of zero-day vulnerabilities, advanced persistent threats, and highly targeted attacks on digital assets and infrastructure.",
-    "trends": "Several clear patterns have emerged: (1) Cryptocurrency and blockchain platforms are under sustained attack, with wallet-draining exploits, multi-signature wallet breaches, and targeted scams continuing unabated—totaling over $80M in reported losses. (2) Nation-state actors, particularly China-linked groups, are increasingly active, focusing on telecom and espionage campaigns (Salt Typhoon), exploiting edge devices and Linux-based malware. (3) Large-scale data exfiltration and leaks from both corporate and consumer platforms are rising, with threat groups like Qilin breaching healthcare, retail, ICT, and marketing companies. (4) Social engineering and phishing is growing more sophisticated, often exploiting trusted brands (MetaMask, Ledger, Chrome extensions, ChatGPT) and leveraging topical themes (New Year, fake 2FA flows). (5) Vulnerabilities in widely deployed software (Cisco ISE, HPE OneView, Next.js, AI platforms) are being rapidly weaponized, with public exploit code circulating and active exploitation confirmed. (6) There is an uptick in fraud techniques—such as NFC payment fraud via Ghost Tap malware—and deceptive malware delivery (fake BSOD screens).",
-    "predictions": "Expect continued high-frequency, high-impact attacks targeting cryptocurrency and blockchain projects, with more wallet-draining exploits and large-scale thefts likely. Nation-state activity, especially from China-linked actors, will remain elevated, focusing on telecoms, critical infrastructure, and supply chain partners. Data breaches and leaks—especially involving AI platforms, financial institutions, and healthcare—will persist, with new vulnerabilities and exploit kits rapidly adopted by both criminal and APT groups. Social engineering and phishing attacks will become increasingly convincing, targeting both organizations and end-users through trusted channels and emerging technologies. Fraud, especially in payment systems (NFC, mobile wallets), will spike further as attackers refine techniques. Confidence Level: High—these predictions are based on clear, recent escalation and broad actor activity, supported by global news of increased ransomware, espionage, and exploit-driven campaigns in early 2026. Organizations should prioritize patching, incident response readiness, user awareness, and crypto asset protection over the coming days."
+    "briefing": "This week witnessed a highly volatile and hostile cyber threat landscape, marked by multiple high-impact attacks targeting cryptocurrency platforms, financial institutions, telecom providers, and major enterprises across the globe. The most notable incidents involved sophisticated exploits draining millions of dollars from EVM wallets, Truebit Protocol, and multi-signature wallets, alongside widespread phishing and social engineering campaigns against MetaMask, Ledger, and Trust Wallet users. Nation-state actors, especially China-linked groups, executed advanced breaches in telecom and cyber espionage campaigns (Salt Typhoon), while criminal groups like Qilin and Cl0p intensified attacks on healthcare, manufacturing, and education sectors. Large-scale data leaks affected millions, with Condé Nast, Smaregi, and AI platforms like ChatGPT suffering significant breaches and exfiltrations. The surge in malware (Ghost Tap, ClickFix) and the exploitation of longstanding vulnerabilities in critical infrastructure (Cisco ISE, HPE OneView) further elevated organizational risk profiles.",
+    "trends": "The week showed a marked escalation in both the frequency and severity of attacks, with particular emphasis on cryptocurrency thefts and exploits—often leveraging social engineering and technical flaws in wallet interfaces and smart contracts. There is a clear pattern of threat actors targeting large data repositories, evidenced by massive leaks from Condé Nast, Smaregi, and educational institutions. Nation-state activities are on the rise, with China-linked campaigns focusing on telecom and cyber espionage. The emergence of advanced malware (Ghost Tap driving NFC payment fraud, ClickFix using fake BSOD screens) and the active exploitation of public vulnerabilities (Cisco ISE, HPE OneView) suggest attackers are increasingly using multi-vector approaches. Healthcare, education, and supply-chain entities remain attractive targets, and the use of malicious AI extensions points to growing risks in the adoption of AI-driven tools.",
+    "predictions": "In the coming days, expect continued high-intensity attacks against cryptocurrency platforms, smart contracts, and wallet services, with likely further financial losses and token destabilizations (confidence: high). Data leaks and breaches targeting large user databases, especially in media, retail, and education sectors, will probably persist, fueled by both criminal and nation-state activity (confidence: medium-high). Watch for more sophisticated phishing campaigns leveraging timely social engineering tactics, including 2FA and merger-themed lures. Vulnerabilities in widely-used enterprise and cloud infrastructure (VPNs, identity services, AI platforms) will remain actively exploited, making rapid patching and monitoring essential. The trend of malware targeting payment systems and mobile platforms is likely to accelerate, especially as attackers exploit remote NFC and mobile banking vectors. Organizations should prioritize monitoring for anomalous access, rapid incident response, and user education to counter evolving scams and exploits."
   },
   "eventFrequency": [
-    {
-      "date": "2026-01-03",
-      "count": 3
-    },
     {
       "date": "2026-01-04",
       "count": 4
@@ -146,11 +131,19 @@
     {
       "date": "2026-01-09",
       "count": 10
+    },
+    {
+      "date": "2026-01-10",
+      "count": 9
     }
   ],
   "classificationDistribution": [
     {
-      "name": "Breach",
+      "name": "Scam",
+      "value": 5
+    },
+    {
+      "name": "Hack",
       "value": 7
     },
     {
@@ -158,20 +151,16 @@
       "value": 7
     },
     {
-      "name": "Hack",
-      "value": 6
-    },
-    {
-      "name": "Scam",
-      "value": 5
+      "name": "Breach",
+      "value": 10
     },
     {
       "name": "Leak",
-      "value": 5
+      "value": 6
     },
     {
       "name": "Fraud",
-      "value": 1
+      "value": 2
     }
   ]
 }
