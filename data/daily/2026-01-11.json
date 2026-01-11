@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-01-10T23:56:41.000Z",
+    "entities": "Futureswap",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Arbitrum-based protocol Futureswap reportedly lost $400,000 in a suspected security exploit.\nSources:\n- https://cryptopanic.com/news/28700101/Arbitrum-based-Futureswap-loses-400K-in-suspected-hack"
+  },
+  {
+    "timestamp": "2026-01-10T18:20:33.000Z",
+    "entities": "FBI",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The FBI issued an urgent warning regarding 'quishing' scams, where a hacking group is targeting U.S. entities by embedding malicious QR codes in emails to steal information.\nSources:\n- https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mc3jzbjup72s"
+  },
+  {
+    "timestamp": "2026-01-10T18:17:45.000Z",
+    "entities": "BreachForums",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A database containing records for approximately 324,000 BreachForums users has been leaked online. The leak includes rhetoric referencing groups such as ShinyHunters and Scattered groups.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mc3lzwbkks22\n- https://twitter.com/50026664/status/2010053463477039171"
+  },
+  {
+    "timestamp": "2026-01-10T17:41:16.000Z",
+    "entities": "New York health system",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A $1.2 billion health fraud scandal has been exposed in New York, which is reportedly ten times larger than a similar case in Minnesota.\nSources:\n- https://twitter.com/1852499847133143040/status/2010044281512440084"
+  },
+  {
+    "timestamp": "2026-01-10T07:19:53.000Z",
+    "entities": "Betterment",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Betterment users were targeted by unauthorized scam notifications promising to triple cryptocurrency deposits. The company confirmed the messages were sent through a compromised third-party communications system.\nSources:\n- https://cryptonews.com/news/scam-notification-promising-triple-crypto-returns-sent-to-betterment-accounts"
+  },
+  {
+    "timestamp": "2026-01-07T00:00:00.000Z",
+    "entities": "Instagram",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Malwarebytes reports a major data leak affecting 17.5 million Instagram users, including usernames, emails, phone numbers, and partial addresses. The data, which reportedly surfaced on BreachForums around Jan 7, 2026, appears to originate from a 2024 API exposure and is being actively exploited by hackers to send password reset emails.\nSources:\n- https://twitter.com/1592695259502370817/status/2009955610071015554\n- https://twitter.com/1176026136117166080/status/2010103201266340147\n- https://twitter.com/190389182/status/2009870969998049400"
+  }
+]

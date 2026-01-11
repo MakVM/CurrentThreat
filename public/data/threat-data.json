@@ -1,117 +1,80 @@
 {
   "currentThreat": "OPERATION DATA CASCADE",
-  "threatScore": 9,
+  "threatScore": 9.2,
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Betterment Security Breach Suspected",
-      "description": "Reports have emerged from users indicating that the investment platform Betterment may have suffered a security breach.",
-      "source": "https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked",
-      "time": "2026-01-09T23:59:56.000Z",
+      "title": "Futureswap $400K Security Exploit",
+      "description": "The Arbitrum-based protocol Futureswap reportedly lost $400,000 in a suspected security exploit.",
+      "source": "https://cryptopanic.com/news/28700101/Arbitrum-based-Futureswap-loses-400K-in-suspected-hack",
+      "time": "2026-01-10T23:56:41.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
+        "Exploit"
       ]
     },
     {
       "id": 2,
-      "title": "Condé Nast Massive Data Leak",
-      "description": "A threat actor is reportedly selling 40 million user records belonging to Condé Nast subsidiary websites. This follows a previous leak of 2.3 million Wired.com accounts by the same hacker.",
-      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbyufof6pk2u",
-      "time": "2026-01-09T16:14:34.000Z",
+      "title": "FBI Quishing Scam Warning",
+      "description": "The FBI issued an urgent warning regarding 'quishing' scams, where a hacking group is targeting U.S. entities by embedding malicious QR codes in emails to steal information.",
+      "source": "https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mc3jzbjup72s",
+      "time": "2026-01-10T18:20:33.000Z",
+      "severity": "Medium",
+      "classification": [
+        "Scam"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "BreachForums User Data Leak",
+      "description": "A database containing records for approximately 324,000 BreachForums users has been leaked online. The leak includes rhetoric referencing groups such as ShinyHunters and Scattered groups.",
+      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mc3lzwbkks22",
+      "time": "2026-01-10T18:17:45.000Z",
       "severity": "High",
       "classification": [
         "Leak"
       ]
     },
     {
-      "id": 3,
-      "title": "Frontline Fabrics Vendor Email Fraud",
-      "description": "Frontline Fabrics has filed a lawsuit against a unit of Chubb and several banks following an alleged $1.4 million fraud involving a vendor email hack.",
-      "source": "https://www.insurancebusinessmag.com/us/news/legal-insights/frontline-fabrics-sues-chubb-unit-banks-over-alleged-1-4-million-fraud-561537.aspx",
-      "time": "2026-01-09T15:14:44.000Z",
-      "severity": "Medium",
+      "id": 4,
+      "title": "New York Health System $1.2B Fraud Scandal",
+      "description": "A $1.2 billion health fraud scandal has been exposed in New York, which is reportedly ten times larger than a similar case in Minnesota.",
+      "source": "https://twitter.com/1852499847133143040/status/2010044281512440084",
+      "time": "2026-01-10T17:41:16.000Z",
+      "severity": "High",
       "classification": [
         "Fraud"
       ]
     },
     {
-      "id": 4,
-      "title": "Empresas Copec S.A. VPN Breach",
-      "description": "The Anubis hacking group claimed to have breached Empresas Copec S.A. in Chile via a corporate VPN vulnerability, allegedly exfiltrating 6 TB of data despite partial encryption blocking.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbylabyhll2c",
-      "time": "2026-01-09T14:12:48.000Z",
-      "severity": "High",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
       "id": 5,
-      "title": "Grupo Ruiz Transportation Cyberattack",
-      "description": "The Lynx hacking group claimed a cyberattack against the Spanish transportation company Grupo Ruiz and provided data samples as proof of the breach.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbyihzpswn2s",
-      "time": "2026-01-09T13:11:24.000Z",
+      "title": "Betterment Crypto Scam Notifications",
+      "description": "Betterment users were targeted by unauthorized scam notifications promising to triple cryptocurrency deposits. The company confirmed the messages were sent through a compromised third-party communications system.",
+      "source": "https://cryptonews.com/news/scam-notification-promising-triple-crypto-returns-sent-to-betterment-accounts",
+      "time": "2026-01-10T07:19:53.000Z",
       "severity": "Medium",
       "classification": [
-        "Hack"
+        "Scam"
       ]
     },
     {
       "id": 6,
-      "title": "Epoch Protocol Developer Malware Incident",
-      "description": "A developer at Epoch Protocol lost over $20,000 after running a malicious repository linked to 'contagious interview' malware. The exploit granted attackers root access and leaked environment keys, leading to the drainage of multiple EVM and Solana wallets.",
-      "source": "https://t.me/leviathan_news",
-      "time": "2026-01-09T10:43:58.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Hack"
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Mutti Manufacturing Breach Claim",
-      "description": "The Cl0p hacking group has claimed a breach against the Italian manufacturing company Mutti. The incident is currently pending verification.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbxsbcicex22",
-      "time": "2026-01-09T06:06:08.000Z",
-      "severity": "Low",
-      "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Universidade Federal de Sergipe Data Exfiltration",
-      "description": "The Vect hacking group allegedly breached the Universidade Federal de Sergipe in Brazil, exfiltrating 150 GB of data. The stolen information reportedly includes administrative account hashes, student and staff records, medical data, and financial information.",
-      "source": "https://bsky.app/profile/hackmanac.com/post/3mbxqxcf6td2c",
-      "time": "2026-01-09T06:06:08.000Z",
+      "title": "Instagram 17.5M User Data Leak",
+      "description": "Malwarebytes reports a major data leak affecting 17.5 million Instagram users, including usernames, emails, phone numbers, and partial addresses. The data, which reportedly surfaced on BreachForums around Jan 7, 2026, appears to originate from a 2024 API exposure and is being actively exploited by hackers to send password reset emails.",
+      "source": "https://twitter.com/1592695259502370817/status/2009955610071015554",
+      "time": "2026-01-07T00:00:00.000Z",
       "severity": "High",
       "classification": [
-        "Breach"
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Truebit Protocol Smart Contract Exploit",
-      "description": "Truebit Protocol suffered a major security exploit targeting a vulnerability in a five-year-old smart contract, resulting in the theft of approximately 8,500 ETH (valued at $26.5 million). The incident caused the protocol's native token, TRU, to plummet by nearly 100%.",
-      "source": "https://cryptopotato.com/truebit-suffers-26-5m-loss-in-first-major-defi-hack-of-2026",
-      "time": "2026-01-09T03:08:03.000Z",
-      "severity": "High",
-      "classification": [
-        "Exploit"
+        "Leak"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a highly volatile and hostile cyber threat landscape, marked by multiple high-impact attacks targeting cryptocurrency platforms, financial institutions, telecom providers, and major enterprises across the globe. The most notable incidents involved sophisticated exploits draining millions of dollars from EVM wallets, Truebit Protocol, and multi-signature wallets, alongside widespread phishing and social engineering campaigns against MetaMask, Ledger, and Trust Wallet users. Nation-state actors, especially China-linked groups, executed advanced breaches in telecom and cyber espionage campaigns (Salt Typhoon), while criminal groups like Qilin and Cl0p intensified attacks on healthcare, manufacturing, and education sectors. Large-scale data leaks affected millions, with Condé Nast, Smaregi, and AI platforms like ChatGPT suffering significant breaches and exfiltrations. The surge in malware (Ghost Tap, ClickFix) and the exploitation of longstanding vulnerabilities in critical infrastructure (Cisco ISE, HPE OneView) further elevated organizational risk profiles.",
-    "trends": "The week showed a marked escalation in both the frequency and severity of attacks, with particular emphasis on cryptocurrency thefts and exploits—often leveraging social engineering and technical flaws in wallet interfaces and smart contracts. There is a clear pattern of threat actors targeting large data repositories, evidenced by massive leaks from Condé Nast, Smaregi, and educational institutions. Nation-state activities are on the rise, with China-linked campaigns focusing on telecom and cyber espionage. The emergence of advanced malware (Ghost Tap driving NFC payment fraud, ClickFix using fake BSOD screens) and the active exploitation of public vulnerabilities (Cisco ISE, HPE OneView) suggest attackers are increasingly using multi-vector approaches. Healthcare, education, and supply-chain entities remain attractive targets, and the use of malicious AI extensions points to growing risks in the adoption of AI-driven tools.",
-    "predictions": "In the coming days, expect continued high-intensity attacks against cryptocurrency platforms, smart contracts, and wallet services, with likely further financial losses and token destabilizations (confidence: high). Data leaks and breaches targeting large user databases, especially in media, retail, and education sectors, will probably persist, fueled by both criminal and nation-state activity (confidence: medium-high). Watch for more sophisticated phishing campaigns leveraging timely social engineering tactics, including 2FA and merger-themed lures. Vulnerabilities in widely-used enterprise and cloud infrastructure (VPNs, identity services, AI platforms) will remain actively exploited, making rapid patching and monitoring essential. The trend of malware targeting payment systems and mobile platforms is likely to accelerate, especially as attackers exploit remote NFC and mobile banking vectors. Organizations should prioritize monitoring for anomalous access, rapid incident response, and user education to counter evolving scams and exploits."
+    "briefing": "This week witnessed an unprecedented surge in cyber threats across multiple sectors, including finance, cryptocurrency, healthcare, media, retail, telecommunications, and emerging AI platforms. High-severity incidents dominated the landscape, with nation-state groups and sophisticated criminal actors executing coordinated attacks resulting in massive data breaches, financial losses, and advanced social engineering scams. Notable events included multi-million dollar exploits in blockchain protocols (Truebit, Futureswap, Flow), strategic breaches at global telecoms and supply chain companies, and record-setting leaks impacting millions of users (Condé Nast, Instagram, Smaregi, BreachForums). The exposure of vulnerabilities in critical infrastructure (Cisco ISE, HPE OneView), persistent phishing and scam campaigns (MetaMask, Ledger, quishing), and large-scale fraud scandals (New York health systems) underscored the escalating complexity and impact of cyber risks. Organizations and individuals alike are facing a rapidly evolving threat landscape, demanding heightened vigilance and proactive incident response.",
+    "trends": "Key trends observed over the week include a continual upward trajectory in the frequency and severity of attacks, with a marked focus on cryptocurrency platforms, financial institutions, and large data repositories. Nation-state actors, particularly China-linked groups, intensified espionage efforts targeting telecoms and supply chains, while criminal groups like Qilin and Cl0p expanded their operations globally. Exploitation of older or poorly maintained smart contracts and critical infrastructure vulnerabilities remains prevalent. Social engineering attacks grew more sophisticated, leveraging new methods such as QR code ('quishing') scams, realistic phishing flows (2FA, fake mergers), and malware distribution disguised as legitimate system errors (BSOD screens). Data leaks surged, especially affecting major tech and media platforms, with stolen records being actively monetized or used for secondary attacks. The healthcare sector saw a spike in both fraud and breaches, pointing to systemic weaknesses in data protection and incident response.",
+    "predictions": "In the coming days, expect continued high-volume, coordinated attacks targeting cryptocurrency protocols, financial platforms, healthcare providers, and global supply chains. There is a strong likelihood of further exploits leveraging unpatched vulnerabilities in legacy systems, smart contracts, and third-party integrations. Social engineering and scam tactics, including quishing and advanced phishing campaigns, will likely intensify, aiming to capitalize on recent high-profile breaches and leaks. AI-driven threats, including malicious extensions and data exfiltration from popular platforms, are expected to rise as attackers seek new avenues for mass compromise. Data leak monetization will accelerate, with threat actors targeting large user bases for credential harvesting and fraud. Confidence level: High. Organizations should prioritize vulnerability patching, multi-factor authentication, supply chain risk review, and targeted user education to mitigate these evolving risks."
   },
   "eventFrequency": [
-    {
-      "date": "2026-01-04",
-      "count": 4
-    },
     {
       "date": "2026-01-05",
       "count": 2
@@ -135,32 +98,36 @@
     {
       "date": "2026-01-10",
       "count": 9
+    },
+    {
+      "date": "2026-01-11",
+      "count": 6
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Scam",
-      "value": 5
-    },
-    {
-      "name": "Hack",
-      "value": 7
-    },
     {
       "name": "Exploit",
       "value": 7
     },
     {
       "name": "Breach",
-      "value": 10
+      "value": 9
+    },
+    {
+      "name": "Hack",
+      "value": 6
     },
     {
       "name": "Leak",
+      "value": 8
+    },
+    {
+      "name": "Scam",
       "value": 6
     },
     {
       "name": "Fraud",
-      "value": 2
+      "value": 3
     }
   ]
 }

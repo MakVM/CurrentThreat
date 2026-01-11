@@ -1,46 +1,7 @@
 {
-  "startDate": "2026-01-04",
-  "endDate": "2026-01-10",
+  "startDate": "2026-01-05",
+  "endDate": "2026-01-11",
   "days": [
-    {
-      "date": "2026-01-04",
-      "events": [
-        {
-          "timestamp": "2026-01-03T23:02:20.000Z",
-          "entities": "MetaMask Phishing Exploit Drains EVM Wallets",
-          "eventSummary": "Hundreds of EVM-compatible wallets were drained of over $107,000 in a phishing attack involving a fake MetaMask upgrade email. Security researcher ZachXBT flagged the suspicious activity, which involved victims receiving a New Year themed phishing email that funneled funds into a single address.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://cryptoslate.com/hundreds-of-evm-wallets-drained-what-to-check-before-you-update"
-        },
-        {
-          "timestamp": "2026-01-03T17:54:42.000Z",
-          "entities": "ShinyHunters Claims Resecurity Breach",
-          "eventSummary": "Hacker group ShinyHunters claimed to have breached the US cybersecurity firm Resecurity, allegedly leaking internal system screenshots and employee data. However, Resecurity stated the hackers only accessed a fake honeypot environment and no real data was compromised.",
-          "severity": "Medium",
-          "tags": "hack",
-          "source": "https://bsky.app/profile/hackread.bsky.social/post/3mbjutcvtcs26"
-        },
-        {
-          "timestamp": "2026-01-03T16:02:37.000Z",
-          "entities": "Android Malware Targets Global Banks",
-          "eventSummary": "A major malware attack is reportedly targeting Android users across 60 banks and financial institutions worldwide, resulting in drained bank accounts.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://cryptopanic.com/news/28475986/Hackers-Drain-Android-Users-Bank-Accounts-Target-60-Banks-and-Financial-Institutions-Worldwide-in-Major-Malware-Attack-Report"
-        },
-        {
-          "timestamp": "2026-01-03T10:59:22.000Z",
-          "entities": "Cryptocurrency Theft Linked to LastPass Breach",
-          "eventSummary": "New cryptocurrency theft attacks have been reported and linked to the historical 2022 LastPass data breach.",
-          "severity": "Medium",
-          "tags": "breach",
-          "source": "https://cryptopanic.com/news/28471153/Cryptocurrency-theft-attacks-linked-to-2022-LastPass-breach"
-        }
-      ],
-      "overallDayThreatScore": 85,
-      "dailyBrief": "Today's cyber threat landscape shows an elevated risk level, with high-impact events affecting both crypto and banking sectors. Major phishing and malware attacks have resulted in substantial financial losses for EVM wallet holders and Android banking users. Persistent threats from past breaches, as seen with LastPass, continue to drive cryptocurrency theft. Claims of corporate breaches, like the ShinyHunters-Resecurity incident, highlight ongoing targeting of cybersecurity firms, though the impact was mitigated. Vigilance against phishing, malware, and exploitation of historical data leaks remains critical."
-    },
     {
       "date": "2026-01-05",
       "events": [
@@ -346,6 +307,61 @@
       ],
       "overallDayThreatScore": 89,
       "dailyBrief": "2026-01-09 saw an elevated level of cyber threats, with multiple high-severity breaches and data leaks reported across financial, media, manufacturing, education, and crypto sectors. Notable events include the suspected Betterment breach, the sale of 40 million Condé Nast user records, a $26.5 million exploit against Truebit Protocol, and significant data exfiltration from Universidade Federal de Sergipe. Ongoing trends highlight persistent targeting of large data stores, financial assets, and supply chain vulnerabilities. Organizations are urged to review VPN, email, and smart contract security controls. Crypto platforms remain high-value targets, with incident severity and financial loss continuing to climb."
+    },
+    {
+      "date": "2026-01-11",
+      "events": [
+        {
+          "timestamp": "2026-01-10T23:56:41.000Z",
+          "entities": "Futureswap $400K Security Exploit",
+          "eventSummary": "The Arbitrum-based protocol Futureswap reportedly lost $400,000 in a suspected security exploit.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://cryptopanic.com/news/28700101/Arbitrum-based-Futureswap-loses-400K-in-suspected-hack"
+        },
+        {
+          "timestamp": "2026-01-10T18:20:33.000Z",
+          "entities": "FBI Quishing Scam Warning",
+          "eventSummary": "The FBI issued an urgent warning regarding 'quishing' scams, where a hacking group is targeting U.S. entities by embedding malicious QR codes in emails to steal information.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mc3jzbjup72s"
+        },
+        {
+          "timestamp": "2026-01-10T18:17:45.000Z",
+          "entities": "BreachForums User Data Leak",
+          "eventSummary": "A database containing records for approximately 324,000 BreachForums users has been leaked online. The leak includes rhetoric referencing groups such as ShinyHunters and Scattered groups.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/hackread.bsky.social/post/3mc3lzwbkks22"
+        },
+        {
+          "timestamp": "2026-01-10T17:41:16.000Z",
+          "entities": "New York Health System $1.2B Fraud Scandal",
+          "eventSummary": "A $1.2 billion health fraud scandal has been exposed in New York, which is reportedly ten times larger than a similar case in Minnesota.",
+          "severity": "High",
+          "tags": "fraud",
+          "source": "https://twitter.com/1852499847133143040/status/2010044281512440084"
+        },
+        {
+          "timestamp": "2026-01-10T07:19:53.000Z",
+          "entities": "Betterment Crypto Scam Notifications",
+          "eventSummary": "Betterment users were targeted by unauthorized scam notifications promising to triple cryptocurrency deposits. The company confirmed the messages were sent through a compromised third-party communications system.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://cryptonews.com/news/scam-notification-promising-triple-crypto-returns-sent-to-betterment-accounts"
+        },
+        {
+          "timestamp": "2026-01-07T00:00:00.000Z",
+          "entities": "Instagram 17.5M User Data Leak",
+          "eventSummary": "Malwarebytes reports a major data leak affecting 17.5 million Instagram users, including usernames, emails, phone numbers, and partial addresses. The data, which reportedly surfaced on BreachForums around Jan 7, 2026, appears to originate from a 2024 API exposure and is being actively exploited by hackers to send password reset emails.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://twitter.com/1592695259502370817/status/2009955610071015554"
+        }
+      ],
+      "overallDayThreatScore": 89,
+      "dailyBrief": "Today saw multiple major cyber incidents, with high-severity events including a $400K exploit on Futureswap, a $1.2 billion fraud exposure in New York health systems, and significant data leaks impacting BreachForums and 17.5 million Instagram users. Scams targeting financial platforms and new 'quishing' tactics exploiting QR codes were also reported. The prevalence of large-scale breaches and fraud points to escalating risks in finance and healthcare sectors, while data leaks continue to threaten millions. Vigilance and rapid response are advised as threat actors target both organizations and individuals with increasingly sophisticated attacks."
     }
   ]
 }
