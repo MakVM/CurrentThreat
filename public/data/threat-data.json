@@ -4,21 +4,21 @@
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Futureswap $400K Security Exploit",
-      "description": "The Arbitrum-based protocol Futureswap reportedly lost $400,000 in a suspected security exploit.",
-      "source": "https://cryptopanic.com/news/28700101/Arbitrum-based-Futureswap-loses-400K-in-suspected-hack",
-      "time": "2026-01-10T23:56:41.000Z",
+      "title": "Nissan Motor Co. Data Breach by Everest Group",
+      "description": "The Everest hacking group claims to have breached Nissan Motor Co., Ltd., allegedly exfiltrating 900 GB of data. The status of the breach is currently pending verification.",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mc5bufy2ui2c",
+      "time": "2026-01-11T11:04:16.000Z",
       "severity": "High",
       "classification": [
-        "Exploit"
+        "Breach"
       ]
     },
     {
       "id": 2,
-      "title": "FBI Quishing Scam Warning",
-      "description": "The FBI issued an urgent warning regarding 'quishing' scams, where a hacking group is targeting U.S. entities by embedding malicious QR codes in emails to steal information.",
-      "source": "https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mc3jzbjup72s",
-      "time": "2026-01-10T18:20:33.000Z",
+      "title": "Curve Finance Oracle Scam on Arbitrum",
+      "description": "Users of Curve Finance on the Arbitrum network are reportedly being targeted by a scam involving a malicious oracle. The scam tricks users into depositing funds into a specific factory stable pool which are then withdrawn by the attackers.",
+      "source": "https://t.me/curvefi",
+      "time": "2026-01-11T10:30:05.000Z",
       "severity": "Medium",
       "classification": [
         "Scam"
@@ -26,59 +26,55 @@
     },
     {
       "id": 3,
-      "title": "BreachForums User Data Leak",
-      "description": "A database containing records for approximately 324,000 BreachForums users has been leaked online. The leak includes rhetoric referencing groups such as ShinyHunters and Scattered groups.",
-      "source": "https://bsky.app/profile/hackread.bsky.social/post/3mc3lzwbkks22",
-      "time": "2026-01-10T18:17:45.000Z",
-      "severity": "High",
+      "title": "Bogotá Health Department Emergency Database Leak",
+      "description": "A threat actor claimed responsibility for an SQL database leak targeting the Secretaría Distrital de Salud de Bogotá (saludcapital.gov.co). The breach allegedly exposed over 90,000 records from emergency health system users due to outdated systems.",
+      "source": "https://bsky.app/profile/falconfeedsio.bsky.social/post/3mc4uc5fvrk26",
+      "time": "2026-01-11T07:01:13.000Z",
+      "severity": "Medium",
       "classification": [
         "Leak"
       ]
     },
     {
       "id": 4,
-      "title": "New York Health System $1.2B Fraud Scandal",
-      "description": "A $1.2 billion health fraud scandal has been exposed in New York, which is reportedly ten times larger than a similar case in Minnesota.",
-      "source": "https://twitter.com/1852499847133143040/status/2010044281512440084",
-      "time": "2026-01-10T17:41:16.000Z",
+      "title": "IDHS Ransomware Data Breach Impacting 700,000",
+      "description": "An IDHS data breach has reportedly impacted 700,000 individuals. This incident was noted alongside reports of thousands of ransomware attacks and Chinese hacking of US government emails.",
+      "source": "https://twitter.com/41258937/status/2010199739514646769",
+      "time": "2026-01-11T03:59:00.000Z",
       "severity": "High",
       "classification": [
-        "Fraud"
+        "Breach"
       ]
     },
     {
       "id": 5,
-      "title": "Betterment Crypto Scam Notifications",
-      "description": "Betterment users were targeted by unauthorized scam notifications promising to triple cryptocurrency deposits. The company confirmed the messages were sent through a compromised third-party communications system.",
-      "source": "https://cryptonews.com/news/scam-notification-promising-triple-crypto-returns-sent-to-betterment-accounts",
-      "time": "2026-01-10T07:19:53.000Z",
-      "severity": "Medium",
+      "title": "Instagram User Data Breach (17.5M Exposed)",
+      "description": "Instagram reportedly suffered a data breach exposing the sensitive information of approximately 17.5 million users, including emails, phone numbers, and physical addresses. The data is allegedly being sold on the dark web.",
+      "source": "https://cryptopanic.com/news/28701913/According-to-Engadget-citing-Malwarebytes-Instagram-reportedly-suffered-a-data-breach-exposing-sensitive-information-of-175M-users-including-usernames-emails-phone-numbers-and-physical-addresses-The-data-is-allegedly-being-sold-on-the-dark-web-and-could-en",
+      "time": "2026-01-11T02:53:36.000Z",
+      "severity": "High",
       "classification": [
-        "Scam"
+        "Breach"
       ]
     },
     {
       "id": 6,
-      "title": "Instagram 17.5M User Data Leak",
-      "description": "Malwarebytes reports a major data leak affecting 17.5 million Instagram users, including usernames, emails, phone numbers, and partial addresses. The data, which reportedly surfaced on BreachForums around Jan 7, 2026, appears to originate from a 2024 API exposure and is being actively exploited by hackers to send password reset emails.",
-      "source": "https://twitter.com/1592695259502370817/status/2009955610071015554",
-      "time": "2026-01-07T00:00:00.000Z",
-      "severity": "High",
+      "title": "BreachForums User Database Leak (324K Exposed)",
+      "description": "BreachForums hacking forum database was leaked, exposing approximately 324,000 user accounts. The leak reportedly includes usernames and emails.",
+      "source": "https://www.bleepingcomputer.com",
+      "time": "2026-01-11T02:47:33.000Z",
+      "severity": "Medium",
       "classification": [
         "Leak"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed an unprecedented surge in cyber threats across multiple sectors, including finance, cryptocurrency, healthcare, media, retail, telecommunications, and emerging AI platforms. High-severity incidents dominated the landscape, with nation-state groups and sophisticated criminal actors executing coordinated attacks resulting in massive data breaches, financial losses, and advanced social engineering scams. Notable events included multi-million dollar exploits in blockchain protocols (Truebit, Futureswap, Flow), strategic breaches at global telecoms and supply chain companies, and record-setting leaks impacting millions of users (Condé Nast, Instagram, Smaregi, BreachForums). The exposure of vulnerabilities in critical infrastructure (Cisco ISE, HPE OneView), persistent phishing and scam campaigns (MetaMask, Ledger, quishing), and large-scale fraud scandals (New York health systems) underscored the escalating complexity and impact of cyber risks. Organizations and individuals alike are facing a rapidly evolving threat landscape, demanding heightened vigilance and proactive incident response.",
-    "trends": "Key trends observed over the week include a continual upward trajectory in the frequency and severity of attacks, with a marked focus on cryptocurrency platforms, financial institutions, and large data repositories. Nation-state actors, particularly China-linked groups, intensified espionage efforts targeting telecoms and supply chains, while criminal groups like Qilin and Cl0p expanded their operations globally. Exploitation of older or poorly maintained smart contracts and critical infrastructure vulnerabilities remains prevalent. Social engineering attacks grew more sophisticated, leveraging new methods such as QR code ('quishing') scams, realistic phishing flows (2FA, fake mergers), and malware distribution disguised as legitimate system errors (BSOD screens). Data leaks surged, especially affecting major tech and media platforms, with stolen records being actively monetized or used for secondary attacks. The healthcare sector saw a spike in both fraud and breaches, pointing to systemic weaknesses in data protection and incident response.",
-    "predictions": "In the coming days, expect continued high-volume, coordinated attacks targeting cryptocurrency protocols, financial platforms, healthcare providers, and global supply chains. There is a strong likelihood of further exploits leveraging unpatched vulnerabilities in legacy systems, smart contracts, and third-party integrations. Social engineering and scam tactics, including quishing and advanced phishing campaigns, will likely intensify, aiming to capitalize on recent high-profile breaches and leaks. AI-driven threats, including malicious extensions and data exfiltration from popular platforms, are expected to rise as attackers seek new avenues for mass compromise. Data leak monetization will accelerate, with threat actors targeting large user bases for credential harvesting and fraud. Confidence level: High. Organizations should prioritize vulnerability patching, multi-factor authentication, supply chain risk review, and targeted user education to mitigate these evolving risks."
+    "briefing": "The week saw an alarming escalation in cyber threats, characterized by a series of high-impact breaches, exploits, and data leaks affecting global organizations, financial platforms, and millions of individuals. Nation-state actors and criminal groups executed coordinated attacks targeting telecom, automotive, healthcare, education, and cryptocurrency sectors. Major incidents included large-scale data exfiltrations (Nissan, Condé Nast, Smaregi, Anteriad), sophisticated financial exploits (Truebit, Futureswap, multi-signature wallets), and widespread user data exposures (Instagram, BreachForums). Social engineering tactics evolved, with quishing scams and deceptive malware campaigns proliferating. The scope and severity of attacks reflect an environment of heightened risk, with threat actors leveraging both technical vulnerabilities and compromised third-party systems. Executive vigilance, rapid response, and reinforced controls are vital as organizations face both targeted and opportunistic attacks.",
+    "trends": "Several trends emerged and intensified: 1) Persistent targeting of cryptocurrency and financial platforms through advanced exploits, wallet scams, and laundering activities, resulting in multimillion-dollar losses; 2) A rise in large-scale data breaches and leaks, especially affecting media, social, and healthcare organizations, with millions of records offered for sale on dark web forums; 3) Nation-state cyber espionage and supply chain attacks, notably from China-linked actors targeting telecom and critical infrastructure; 4) Increasing sophistication in social engineering and fraud, including quishing (QR-based phishing), 2FA phishing scams, and malware delivery via fake system errors. The prevalence of vulnerabilities in widely used technologies (AI tools, Cisco, HPE, VPNs) and the exploitation of outdated or unpatched systems remain key enablers.",
+    "predictions": "In the coming days, cyber risk is expected to remain critically high. Cryptocurrency platforms and financial services will continue to be prime targets for both technical exploits and social engineering scams, with further losses likely. Data breaches will persist, especially for organizations with large user bases or sensitive information (healthcare, education, automotive, media), and data sales on underground forums may spike. The threat landscape will be dominated by ransomware, supply chain attacks, and nation-state campaigns, with a strong possibility of more incidents leveraging unpatched vulnerabilities in popular enterprise products and AI extensions. Fraud and phishing tactics will evolve, increasing risk for end-users. Confidence in these predictions is high (80-90%), given the consistency and scale of recent incidents, continued vulnerability disclosures, and ongoing geopolitical tensions impacting cyber operations."
   },
   "eventFrequency": [
-    {
-      "date": "2026-01-05",
-      "count": 2
-    },
     {
       "date": "2026-01-06",
       "count": 4
@@ -102,27 +98,31 @@
     {
       "date": "2026-01-11",
       "count": 6
+    },
+    {
+      "date": "2026-01-12",
+      "count": 6
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Exploit",
-      "value": 7
-    },
-    {
-      "name": "Breach",
-      "value": 9
-    },
     {
       "name": "Hack",
       "value": 6
     },
     {
+      "name": "Breach",
+      "value": 11
+    },
+    {
       "name": "Leak",
-      "value": 8
+      "value": 10
     },
     {
       "name": "Scam",
+      "value": 7
+    },
+    {
+      "name": "Exploit",
       "value": 6
     },
     {

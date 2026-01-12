@@ -1,30 +1,7 @@
 {
-  "startDate": "2026-01-05",
-  "endDate": "2026-01-11",
+  "startDate": "2026-01-06",
+  "endDate": "2026-01-12",
   "days": [
-    {
-      "date": "2026-01-05",
-      "events": [
-        {
-          "timestamp": "2026-01-04T17:25:31.000Z",
-          "entities": "OKX Wallet Radiant Capital Exploit Connection",
-          "eventSummary": "Reports indicate that the OKX wallet (formerly OKEx) remains connected to the Radiant Capital aggregator following an exploit.",
-          "severity": "Medium",
-          "tags": "exploit",
-          "source": "https://t.me/okxofficial_id"
-        },
-        {
-          "timestamp": "2026-01-04T15:05:48.000Z",
-          "entities": "Farmacia San Pablo Breach by Qilin Hacking Group",
-          "eventSummary": "The Qilin hacking group claims to have breached Farmacia San Pablo, a Mexican wholesale and retail pharmacy chain. The incident was reportedly observed on January 2, 2026, and is currently pending verification.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3mbm4kqyikr25"
-        }
-      ],
-      "overallDayThreatScore": 72,
-      "dailyBrief": "Today's cyber events showcase significant threats in both the cryptocurrency and healthcare sectors. The ongoing exploit affecting OKX wallet via Radiant Capital aggregator raises concerns for digital asset holders, while the claimed breach at Farmacia San Pablo by the Qilin hacking group highlights persistent targeting of retail and healthcare entities. Verification and further monitoring of both incidents are advised, with heightened alert for potential data compromise and operational disruption."
-    },
     {
       "date": "2026-01-06",
       "events": [
@@ -362,6 +339,61 @@
       ],
       "overallDayThreatScore": 89,
       "dailyBrief": "Today saw multiple major cyber incidents, with high-severity events including a $400K exploit on Futureswap, a $1.2 billion fraud exposure in New York health systems, and significant data leaks impacting BreachForums and 17.5 million Instagram users. Scams targeting financial platforms and new 'quishing' tactics exploiting QR codes were also reported. The prevalence of large-scale breaches and fraud points to escalating risks in finance and healthcare sectors, while data leaks continue to threaten millions. Vigilance and rapid response are advised as threat actors target both organizations and individuals with increasingly sophisticated attacks."
+    },
+    {
+      "date": "2026-01-12",
+      "events": [
+        {
+          "timestamp": "2026-01-11T11:04:16.000Z",
+          "entities": "Nissan Motor Co. Data Breach by Everest Group",
+          "eventSummary": "The Everest hacking group claims to have breached Nissan Motor Co., Ltd., allegedly exfiltrating 900 GB of data. The status of the breach is currently pending verification.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://bsky.app/profile/hackmanac.com/post/3mc5bufy2ui2c"
+        },
+        {
+          "timestamp": "2026-01-11T10:30:05.000Z",
+          "entities": "Curve Finance Oracle Scam on Arbitrum",
+          "eventSummary": "Users of Curve Finance on the Arbitrum network are reportedly being targeted by a scam involving a malicious oracle. The scam tricks users into depositing funds into a specific factory stable pool which are then withdrawn by the attackers.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://t.me/curvefi"
+        },
+        {
+          "timestamp": "2026-01-11T07:01:13.000Z",
+          "entities": "Bogotá Health Department Emergency Database Leak",
+          "eventSummary": "A threat actor claimed responsibility for an SQL database leak targeting the Secretaría Distrital de Salud de Bogotá (saludcapital.gov.co). The breach allegedly exposed over 90,000 records from emergency health system users due to outdated systems.",
+          "severity": "Medium",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/falconfeedsio.bsky.social/post/3mc4uc5fvrk26"
+        },
+        {
+          "timestamp": "2026-01-11T03:59:00.000Z",
+          "entities": "IDHS Ransomware Data Breach Impacting 700,000",
+          "eventSummary": "An IDHS data breach has reportedly impacted 700,000 individuals. This incident was noted alongside reports of thousands of ransomware attacks and Chinese hacking of US government emails.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/41258937/status/2010199739514646769"
+        },
+        {
+          "timestamp": "2026-01-11T02:53:36.000Z",
+          "entities": "Instagram User Data Breach (17.5M Exposed)",
+          "eventSummary": "Instagram reportedly suffered a data breach exposing the sensitive information of approximately 17.5 million users, including emails, phone numbers, and physical addresses. The data is allegedly being sold on the dark web.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28701913/According-to-Engadget-citing-Malwarebytes-Instagram-reportedly-suffered-a-data-breach-exposing-sensitive-information-of-175M-users-including-usernames-emails-phone-numbers-and-physical-addresses-The-data-is-allegedly-being-sold-on-the-dark-web-and-could-en"
+        },
+        {
+          "timestamp": "2026-01-11T02:47:33.000Z",
+          "entities": "BreachForums User Database Leak (324K Exposed)",
+          "eventSummary": "BreachForums hacking forum database was leaked, exposing approximately 324,000 user accounts. The leak reportedly includes usernames and emails.",
+          "severity": "Medium",
+          "tags": "leak",
+          "source": "https://www.bleepingcomputer.com"
+        }
+      ],
+      "overallDayThreatScore": 88,
+      "dailyBrief": "A surge of major breaches characterized today's cyber landscape, with high-severity incidents affecting Nissan Motor Co., Instagram, and IDHS, exposing millions of personal records. Multiple leaks and scams targeted both public sector and financial platforms, highlighting ongoing risks to personal data and financial assets. The prevalence of large-scale breaches and active exploitation tactics signals an elevated threat environment requiring urgent mitigation and vigilance."
     }
   ]
 }

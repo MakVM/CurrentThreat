@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-11T11:04:16.000Z",
+      "entities": "Nissan Motor Co. Data Breach by Everest Group",
+      "eventSummary": "The Everest hacking group claims to have breached Nissan Motor Co., Ltd., allegedly exfiltrating 900 GB of data. The status of the breach is currently pending verification.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://bsky.app/profile/hackmanac.com/post/3mc5bufy2ui2c"
+    },
+    {
+      "timestamp": "2026-01-11T10:30:05.000Z",
+      "entities": "Curve Finance Oracle Scam on Arbitrum",
+      "eventSummary": "Users of Curve Finance on the Arbitrum network are reportedly being targeted by a scam involving a malicious oracle. The scam tricks users into depositing funds into a specific factory stable pool which are then withdrawn by the attackers.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://t.me/curvefi"
+    },
+    {
+      "timestamp": "2026-01-11T07:01:13.000Z",
+      "entities": "Bogotá Health Department Emergency Database Leak",
+      "eventSummary": "A threat actor claimed responsibility for an SQL database leak targeting the Secretaría Distrital de Salud de Bogotá (saludcapital.gov.co). The breach allegedly exposed over 90,000 records from emergency health system users due to outdated systems.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://bsky.app/profile/falconfeedsio.bsky.social/post/3mc4uc5fvrk26"
+    },
+    {
+      "timestamp": "2026-01-11T03:59:00.000Z",
+      "entities": "IDHS Ransomware Data Breach Impacting 700,000",
+      "eventSummary": "An IDHS data breach has reportedly impacted 700,000 individuals. This incident was noted alongside reports of thousands of ransomware attacks and Chinese hacking of US government emails.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://twitter.com/41258937/status/2010199739514646769"
+    },
+    {
+      "timestamp": "2026-01-11T02:53:36.000Z",
+      "entities": "Instagram User Data Breach (17.5M Exposed)",
+      "eventSummary": "Instagram reportedly suffered a data breach exposing the sensitive information of approximately 17.5 million users, including emails, phone numbers, and physical addresses. The data is allegedly being sold on the dark web.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://cryptopanic.com/news/28701913/According-to-Engadget-citing-Malwarebytes-Instagram-reportedly-suffered-a-data-breach-exposing-sensitive-information-of-175M-users-including-usernames-emails-phone-numbers-and-physical-addresses-The-data-is-allegedly-being-sold-on-the-dark-web-and-could-en"
+    },
+    {
+      "timestamp": "2026-01-11T02:47:33.000Z",
+      "entities": "BreachForums User Database Leak (324K Exposed)",
+      "eventSummary": "BreachForums hacking forum database was leaked, exposing approximately 324,000 user accounts. The leak reportedly includes usernames and emails.",
+      "severity": "Medium",
+      "tags": "leak",
+      "source": "https://www.bleepingcomputer.com"
+    }
+  ],
+  "overallDayThreatScore": 88,
+  "dailyBrief": "A surge of major breaches characterized today's cyber landscape, with high-severity incidents affecting Nissan Motor Co., Instagram, and IDHS, exposing millions of personal records. Multiple leaks and scams targeted both public sector and financial platforms, highlighting ongoing risks to personal data and financial assets. The prevalence of large-scale breaches and active exploitation tactics signals an elevated threat environment requiring urgent mitigation and vigilance."
+}

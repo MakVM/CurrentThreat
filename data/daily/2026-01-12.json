@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-01-11T11:04:16.000Z",
+    "entities": "Nissan Motor Co., Ltd.",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Everest hacking group claims to have breached Nissan Motor Co., Ltd., allegedly exfiltrating 900 GB of data. The status of the breach is currently pending verification.\nSources:\n- https://bsky.app/profile/hackmanac.com/post/3mc5bufy2ui2c"
+  },
+  {
+    "timestamp": "2026-01-11T10:30:05.000Z",
+    "entities": "Curve Finance",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Users of Curve Finance on the Arbitrum network are reportedly being targeted by a scam involving a malicious oracle. The scam tricks users into depositing funds into a specific factory stable pool which are then withdrawn by the attackers.\nSources:\n- https://t.me/curvefi"
+  },
+  {
+    "timestamp": "2026-01-11T07:01:13.000Z",
+    "entities": "Secretaría Distrital de Salud de Bogotá",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A threat actor claimed responsibility for an SQL database leak targeting the Secretaría Distrital de Salud de Bogotá (saludcapital.gov.co). The breach allegedly exposed over 90,000 records from emergency health system users due to outdated systems.\nSources:\n- https://bsky.app/profile/falconfeedsio.bsky.social/post/3mc4uc5fvrk26\n- https://bsky.app/profile/falconfeedsio.bsky.social/post/3mc4ueg3sic26"
+  },
+  {
+    "timestamp": "2026-01-11T03:59:00.000Z",
+    "entities": "IDHS",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "An IDHS data breach has reportedly impacted 700,000 individuals. This incident was noted alongside reports of thousands of ransomware attacks and Chinese hacking of US government emails.\nSources:\n- https://twitter.com/41258937/status/2010199739514646769"
+  },
+  {
+    "timestamp": "2026-01-11T02:53:36.000Z",
+    "entities": "Instagram",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Instagram reportedly suffered a data breach exposing the sensitive information of approximately 17.5 million users, including emails, phone numbers, and physical addresses. The data is allegedly being sold on the dark web.\nSources:\n- https://cryptopanic.com/news/28701913/According-to-Engadget-citing-Malwarebytes-Instagram-reportedly-suffered-a-data-breach-exposing-sensitive-information-of-175M-users-including-usernames-emails-phone-numbers-and-physical-addresses-The-data-is-allegedly-being-sold-on-the-dark-web-and-could-en"
+  },
+  {
+    "timestamp": "2026-01-11T02:47:33.000Z",
+    "entities": "BreachForums",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "BreachForums hacking forum database was leaked, exposing approximately 324,000 user accounts. The leak reportedly includes usernames and emails.\nSources:\n- https://www.bleepingcomputer.com\n- https://www.reddit.com/r/cybersecurity/comments/1q9ju7r/breachforums_hacking_forum_exposes_324000_user\n- https://bsky.app/profile/ransomwaresommelier.com/post/3mc5pyifd5224"
+  }
+]
