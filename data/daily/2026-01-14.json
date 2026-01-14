@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-01-13T16:16:44.000Z",
+    "entities": "Telcel",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A security researcher identified a vulnerability in the Telcel registration platform that allows for unlimited spam and SMS bombing by abusing the company's own infrastructure.\nSources:\n- https://twitter.com/39680205/status/2011110173209735582"
+  },
+  {
+    "timestamp": "2026-01-13T13:21:35.000Z",
+    "entities": "Target",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Current and former Target employees have confirmed that source code and documentation leaked by a threat actor are authentic. The company has since initiated an 'accelerated' lockdown of its internal Git systems.\nSources:\n- https://bsky.app/profile/axsharma.com/post/3mccoemr4fk2l\n- https://bsky.app/profile/bleepingcomputer.com/post/3mccmslomt42b"
+  },
+  {
+    "timestamp": "2026-01-13T10:41:07.000Z",
+    "entities": "Dell Technologies",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The threat actor group 'ShinyCorporation' claimed to have breached the database of Dell Technologies, allegedly gaining unauthorized access to employee data including email addresses, IP addresses, and passwords.\nSources:\n- https://twitter.com/190389182/status/2011025711545668012\n- https://bsky.app/profile/hackmanac.com/post/3mccptsglfk2c"
+  },
+  {
+    "timestamp": "2026-01-13T09:27:45.000Z",
+    "entities": "Betterment",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Digital investment advisor Betterment confirmed a data breach after hackers gained unauthorized access to systems and sent fraudulent crypto-related notifications and scam emails to customers.\nSources:\n- https://cryptopanic.com/news/28762622/Betterment-hacked-customer-data-breached-in-the-attack\n- https://bsky.app/profile/bleepingcomputer.com/post/3mccyxr4g3b2p\n- https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/"
+  },
+  {
+    "timestamp": "2026-01-13T08:58:53.000Z",
+    "entities": "Nexo",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A Nexo user reported a stolen account incident that occurred on January 9th, where all funds were lost and security settings (2FA and whitelisting) were compromised despite the user having offline authentication enabled.\nSources:\n- https://www.reddit.com/r/Nexo/comments/1qav46k/stolen_account"
+  },
+  {
+    "timestamp": "2026-01-13T03:21:35.000Z",
+    "entities": "Truebit",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "The Ethereum-based project Truebit was exploited for approximately $26.4 million (8,535 ETH) due to a smart contract overflow bug in a 2021 contract. The vulnerability allowed an attacker to mint large quantities of TRU tokens at near-zero cost, resulting in a 99% price drop for the token.\nSources:\n- https://cointelegraph.com/news/26m-truebit-hack-smart-contract-vulnerability\n- https://web3isgoinggreat.com/single/truebit-exploit"
+  },
+  {
+    "timestamp": "2026-01-13T03:21:35.000Z",
+    "entities": "Flow",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Flow announced plans to destroy counterfeit tokens that were created following a security breach.\nSources:\n- https://cryptopanic.com/news/28755514/Flow-Plans-Destruction-of-Counterfeit-Tokens-Following-Security-Breach"
+  }
+]

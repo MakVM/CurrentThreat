@@ -1,46 +1,7 @@
 {
-  "startDate": "2026-01-06",
-  "endDate": "2026-01-12",
+  "startDate": "2026-01-07",
+  "endDate": "2026-01-14",
   "days": [
-    {
-      "date": "2026-01-06",
-      "events": [
-        {
-          "timestamp": "2026-01-05T15:56:06.000Z",
-          "entities": "Litecoin Telegram Channel Account Hack",
-          "eventSummary": "Multiple reports indicate users on the Litecoin Telegram channel have lost access to their accounts due to hacking.",
-          "severity": "Medium",
-          "tags": "hack",
-          "source": "https://t.me/Litecoin"
-        },
-        {
-          "timestamp": "2026-01-05T13:01:12.000Z",
-          "entities": "Trust Wallet Chrome Extension Breach & Crypto Scam Risks",
-          "eventSummary": "A security recap identifies a breach involving the Trust Wallet Chrome extension alongside other persistent cyber risks such as IoT botnets and crypto scams via fake wallet updates.",
-          "severity": "High",
-          "tags": "breach",
-          "source": "https://twitter.com/209811713/status/2008161863201063290"
-        },
-        {
-          "timestamp": "2026-01-05T09:27:10.000Z",
-          "entities": "Major Data Exfiltration Report (186 GB)",
-          "eventSummary": "Attackers allegedly exfiltrated 186 GB of data, including employee and agent account details, customer information, policy records, and financial parameters from an unspecified entity.",
-          "severity": "High",
-          "tags": "leak",
-          "source": "https://bsky.app/profile/hackmanac.com/post/3mbnzjedaum22"
-        },
-        {
-          "timestamp": "2026-01-05T07:46:09.000Z",
-          "entities": "MetaMask 2FA Phishing Scam",
-          "eventSummary": "A sophisticated phishing campaign targeting MetaMask users is utilizing a realistic two-factor authentication (2FA) flow to steal wallet recovery phrases. The scam was highlighted by blockchain security firm SlowMist.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://beincrypto.com/metamask-phishing-2fa-scam"
-        }
-      ],
-      "overallDayThreatScore": 84,
-      "dailyBrief": "Today's cyber landscape saw two high-severity incidents: a major data exfiltration involving sensitive business and customer records, and a breach of the Trust Wallet Chrome extension accompanied by widespread crypto scams. Additional medium-severity attacks targeted the Litecoin Telegram channel and MetaMask users, highlighting persistent threats in the cryptocurrency space, especially social engineering and phishing. The overall risk remains elevated, with multiple vectors impacting wallet security and user accounts."
-    },
     {
       "date": "2026-01-07",
       "events": [
@@ -394,6 +355,69 @@
       ],
       "overallDayThreatScore": 88,
       "dailyBrief": "A surge of major breaches characterized today's cyber landscape, with high-severity incidents affecting Nissan Motor Co., Instagram, and IDHS, exposing millions of personal records. Multiple leaks and scams targeted both public sector and financial platforms, highlighting ongoing risks to personal data and financial assets. The prevalence of large-scale breaches and active exploitation tactics signals an elevated threat environment requiring urgent mitigation and vigilance."
+    },
+    {
+      "date": "2026-01-14",
+      "events": [
+        {
+          "timestamp": "2026-01-13T16:16:44.000Z",
+          "entities": "Telcel registration platform vulnerability enabling SMS bombing",
+          "eventSummary": "A security researcher identified a vulnerability in the Telcel registration platform that allows for unlimited spam and SMS bombing by abusing the company's own infrastructure.",
+          "severity": "Medium",
+          "tags": "exploit",
+          "source": "https://twitter.com/39680205/status/2011110173209735582"
+        },
+        {
+          "timestamp": "2026-01-13T13:21:35.000Z",
+          "entities": "Target source code and documentation leak",
+          "eventSummary": "Current and former Target employees have confirmed that source code and documentation leaked by a threat actor are authentic. The company has since initiated an 'accelerated' lockdown of its internal Git systems.",
+          "severity": "High",
+          "tags": "leak",
+          "source": "https://bsky.app/profile/axsharma.com/post/3mccoemr4fk2l"
+        },
+        {
+          "timestamp": "2026-01-13T10:41:07.000Z",
+          "entities": "Dell Technologies employee data breach",
+          "eventSummary": "The threat actor group 'ShinyCorporation' claimed to have breached the database of Dell Technologies, allegedly gaining unauthorized access to employee data including email addresses, IP addresses, and passwords.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/190389182/status/2011025711545668012"
+        },
+        {
+          "timestamp": "2026-01-13T09:27:45.000Z",
+          "entities": "Betterment customer data breach and crypto scam notifications",
+          "eventSummary": "Digital investment advisor Betterment confirmed a data breach after hackers gained unauthorized access to systems and sent fraudulent crypto-related notifications and scam emails to customers.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28762622/Betterment-hacked-customer-data-breached-in-the-attack"
+        },
+        {
+          "timestamp": "2026-01-13T08:58:53.000Z",
+          "entities": "Nexo account compromise and fund theft",
+          "eventSummary": "A Nexo user reported a stolen account incident that occurred on January 9th, where all funds were lost and security settings (2FA and whitelisting) were compromised despite the user having offline authentication enabled.",
+          "severity": "Medium",
+          "tags": "fraud",
+          "source": "https://www.reddit.com/r/Nexo/comments/1qav46k/stolen_account"
+        },
+        {
+          "timestamp": "2026-01-13T03:21:35.000Z",
+          "entities": "Truebit smart contract exploit causing $26.4M loss",
+          "eventSummary": "The Ethereum-based project Truebit was exploited for approximately $26.4 million (8,535 ETH) due to a smart contract overflow bug in a 2021 contract. The vulnerability allowed an attacker to mint large quantities of TRU tokens at near-zero cost, resulting in a 99% price drop for the token.",
+          "severity": "High",
+          "tags": "exploit",
+          "source": "https://cointelegraph.com/news/26m-truebit-hack-smart-contract-vulnerability"
+        },
+        {
+          "timestamp": "2026-01-13T03:21:35.000Z",
+          "entities": "Flow counterfeit token destruction after breach",
+          "eventSummary": "Flow announced plans to destroy counterfeit tokens that were created following a security breach.",
+          "severity": "Medium",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28755514/Flow-Plans-Destruction-of-Counterfeit-Tokens-Following-Security-Breach"
+        }
+      ],
+      "overallDayThreatScore": 87,
+      "dailyBrief": "Today's cyber landscape saw a surge in high-severity events, including major breaches at Dell Technologies and Betterment, a confirmed leak of Target's source code, and a $26M exploit of Truebit's smart contract. Multiple incidents involved direct customer impact and financial loss, particularly in fintech and crypto platforms. Notable trends include repeated exploitation of authentication systems, targeting of internal data repositories, and sophisticated smart contract vulnerabilities. Organizations should prioritize internal code repository security, strengthen authentication mechanisms, and monitor for emerging exploit patterns."
     }
   ]
 }
