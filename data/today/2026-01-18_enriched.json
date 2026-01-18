@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-01-17T15:39:44.000Z",
+      "entities": "Milwaukee Airport Official Social Media Account Hijack",
+      "eventSummary": "Hackers took over the official X (formerly Twitter) page of Milwaukee airport to promote cryptocurrency scams.",
+      "severity": "Medium",
+      "tags": "scam",
+      "source": "https://cryptopanic.com/news/28907351/Hackers-take-over-Milwaukee-airport-X-page-to-promote-crypto"
+    },
+    {
+      "timestamp": "2026-01-17T08:10:17.000Z",
+      "entities": "JPMorgan Chase Third-Party Data Breach",
+      "eventSummary": "JPMorgan Chase issued a data breach warning after a third-party hack exposed customer bank account numbers and personal information.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://cryptopanic.com/news/28898330/JPMorgan-Chase-Issues-Data-Breach-Warning-Says-Customers-Bank-Account-Numbers-and-Personal-Information-Exposed-in-Third-Party-Hack"
+    },
+    {
+      "timestamp": "2026-01-17T06:09:06.000Z",
+      "entities": "Polygon Smart Contracts Attack",
+      "eventSummary": "Polygon smart contracts are reportedly under attack, with researchers warning of potential ongoing risks to the network's ecosystem.",
+      "severity": "High",
+      "tags": "hack",
+      "source": "https://cryptopanic.com/news/28897146/Polygon-smart-contracts-under-attack-but-the-real-danger-may-be-just-starting"
+    },
+    {
+      "timestamp": "2026-01-17T05:57:32.000Z",
+      "entities": "French Citizens Massive Data Breach",
+      "eventSummary": "A significant data breach has exposed the records of tens of millions of French citizens.",
+      "severity": "High",
+      "tags": "breach",
+      "source": "https://twitter.com/128484298/status/2012403897281749405"
+    },
+    {
+      "timestamp": "2026-01-17T05:56:15.000Z",
+      "entities": "China-Based Malware C2 Network Discovery",
+      "eventSummary": "Security researchers uncovered a massive malware Command and Control (C2) server network originating from China.",
+      "severity": "Medium",
+      "tags": "hack",
+      "source": "https://twitter.com/128484298/status/2012403575272485373"
+    },
+    {
+      "timestamp": "2026-01-17T01:41:27.000Z",
+      "entities": "Hardware Wallet Social Engineering Scam: $282M Crypto Theft",
+      "eventSummary": "A victim lost over $282 million in Bitcoin (BTC) and Litecoin (LTC) in a massive social engineering scam involving a hardware wallet. The attacker, who impersonated Trezor customer support to obtain the victim's seed phrase, converted the stolen funds into Monero (XMR) and used THORChain to bridge assets to other networks, causing a sharp spike in XMR's price.",
+      "severity": "High",
+      "tags": "scam",
+      "source": "https://cryptopotato.com/massive-hardware-wallet-scam-victim-loses-280m-as-funds-move-to-monero"
+    }
+  ],
+  "overallDayThreatScore": 88,
+  "dailyBrief": "Today saw a surge in high-severity cyber threats, with multiple major breaches and hacks impacting the financial sector, national infrastructure, and blockchain ecosystems. Notable events include a third-party data breach at JPMorgan Chase, a mass data leak affecting French citizens, and an ongoing attack on Polygon smart contracts. A staggering $282M crypto theft via social engineering highlights the rise in sophisticated scams. The discovery of a large China-based malware C2 network and the hijacking of Milwaukee Airport's social media further heighten the day's risk profile. Organizations are advised to review incident response protocols and strengthen defenses against targeted scams, social engineering, and supply chain vulnerabilities."
+}

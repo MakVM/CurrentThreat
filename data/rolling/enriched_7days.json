@@ -1,54 +1,7 @@
 {
-  "startDate": "2026-01-07",
-  "endDate": "2026-01-14",
+  "startDate": "2026-01-08",
+  "endDate": "2026-01-18",
   "days": [
-    {
-      "date": "2026-01-07",
-      "events": [
-        {
-          "timestamp": "2026-01-06T22:37:21.000Z",
-          "entities": "Ledger-Trezor Phishing Scam Following Global-e Breach",
-          "eventSummary": "Ledger users are being targeted by a phishing campaign featuring a fake merger between Ledger and Trezor. This follows a data breach at Ledger's e-commerce partner, Global-e, which exposed customer contact and order information.",
-          "severity": "High",
-          "tags": "scam",
-          "source": "https://cryptopotato.com/ledger-users-targeted-in-phishing-scam-following-global-e-data-breach"
-        },
-        {
-          "timestamp": "2026-01-06T22:19:10.000Z",
-          "entities": "Flow Counterfeit Token Exploit",
-          "eventSummary": "Flow released details regarding a December exploit involving counterfeit tokens that resulted in losses totaling $3.9 million.",
-          "severity": "High",
-          "tags": "exploit",
-          "source": "https://cryptopanic.com/news/28563003/Flow-details-December-exploit-that-led-to-39M-in-losses-due-to-counterfeit-tokens"
-        },
-        {
-          "timestamp": "2026-01-06T11:25:02.000Z",
-          "entities": "NordVPN Alleged Data Leak Denial",
-          "eventSummary": "NordVPN has officially denied claims of a data breach following reports that a hacker leaked company data online.",
-          "severity": "Low",
-          "tags": "leak",
-          "source": "https://twitter.com/41258937/status/2008500050981515388"
-        },
-        {
-          "timestamp": "2026-01-06T10:07:10.000Z",
-          "entities": "Multi-Signature Wallet $27.3M PeckShield ETH Laundering",
-          "eventSummary": "A hacker successfully exploited a multi-signature wallet to steal approximately $27.3 million, with subsequent reports from PeckShield indicating the attacker is laundering the stolen ETH.",
-          "severity": "High",
-          "tags": "hack",
-          "source": "https://cryptopanic.com/news/28543090/Hacker-Steals-273M-Using-Multi-Signature-Wallet-Exploit"
-        },
-        {
-          "timestamp": "2026-01-06T03:21:44.000Z",
-          "entities": "ClickFix BSOD Malware Attack Campaign",
-          "eventSummary": "The ClickFix attack campaign is reportedly utilizing deceptive Windows Blue Screen of Death (BSOD) screens to trick users into installing malware.",
-          "severity": "Medium",
-          "tags": "scam",
-          "source": "https://twitter.com/128484298/status/2008378424591630574"
-        }
-      ],
-      "overallDayThreatScore": 90,
-      "dailyBrief": "A series of high-impact cyber events occurred today, with major financial losses in the crypto sector and a sophisticated phishing campaign targeting Ledger users after a partner breach. Significant exploits were reported involving Flow and multi-signature wallets, totaling over $31M in losses, while ClickFix used deceptive BSOD screens to spread malware. NordVPN denied an alleged leak, but overall, the day highlights escalating risks in cryptocurrency platforms and advanced social engineering tactics."
-    },
     {
       "date": "2026-01-08",
       "events": [
@@ -418,6 +371,61 @@
       ],
       "overallDayThreatScore": 87,
       "dailyBrief": "Today's cyber landscape saw a surge in high-severity events, including major breaches at Dell Technologies and Betterment, a confirmed leak of Target's source code, and a $26M exploit of Truebit's smart contract. Multiple incidents involved direct customer impact and financial loss, particularly in fintech and crypto platforms. Notable trends include repeated exploitation of authentication systems, targeting of internal data repositories, and sophisticated smart contract vulnerabilities. Organizations should prioritize internal code repository security, strengthen authentication mechanisms, and monitor for emerging exploit patterns."
+    },
+    {
+      "date": "2026-01-18",
+      "events": [
+        {
+          "timestamp": "2026-01-17T15:39:44.000Z",
+          "entities": "Milwaukee Airport Official Social Media Account Hijack",
+          "eventSummary": "Hackers took over the official X (formerly Twitter) page of Milwaukee airport to promote cryptocurrency scams.",
+          "severity": "Medium",
+          "tags": "scam",
+          "source": "https://cryptopanic.com/news/28907351/Hackers-take-over-Milwaukee-airport-X-page-to-promote-crypto"
+        },
+        {
+          "timestamp": "2026-01-17T08:10:17.000Z",
+          "entities": "JPMorgan Chase Third-Party Data Breach",
+          "eventSummary": "JPMorgan Chase issued a data breach warning after a third-party hack exposed customer bank account numbers and personal information.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://cryptopanic.com/news/28898330/JPMorgan-Chase-Issues-Data-Breach-Warning-Says-Customers-Bank-Account-Numbers-and-Personal-Information-Exposed-in-Third-Party-Hack"
+        },
+        {
+          "timestamp": "2026-01-17T06:09:06.000Z",
+          "entities": "Polygon Smart Contracts Attack",
+          "eventSummary": "Polygon smart contracts are reportedly under attack, with researchers warning of potential ongoing risks to the network's ecosystem.",
+          "severity": "High",
+          "tags": "hack",
+          "source": "https://cryptopanic.com/news/28897146/Polygon-smart-contracts-under-attack-but-the-real-danger-may-be-just-starting"
+        },
+        {
+          "timestamp": "2026-01-17T05:57:32.000Z",
+          "entities": "French Citizens Massive Data Breach",
+          "eventSummary": "A significant data breach has exposed the records of tens of millions of French citizens.",
+          "severity": "High",
+          "tags": "breach",
+          "source": "https://twitter.com/128484298/status/2012403897281749405"
+        },
+        {
+          "timestamp": "2026-01-17T05:56:15.000Z",
+          "entities": "China-Based Malware C2 Network Discovery",
+          "eventSummary": "Security researchers uncovered a massive malware Command and Control (C2) server network originating from China.",
+          "severity": "Medium",
+          "tags": "hack",
+          "source": "https://twitter.com/128484298/status/2012403575272485373"
+        },
+        {
+          "timestamp": "2026-01-17T01:41:27.000Z",
+          "entities": "Hardware Wallet Social Engineering Scam: $282M Crypto Theft",
+          "eventSummary": "A victim lost over $282 million in Bitcoin (BTC) and Litecoin (LTC) in a massive social engineering scam involving a hardware wallet. The attacker, who impersonated Trezor customer support to obtain the victim's seed phrase, converted the stolen funds into Monero (XMR) and used THORChain to bridge assets to other networks, causing a sharp spike in XMR's price.",
+          "severity": "High",
+          "tags": "scam",
+          "source": "https://cryptopotato.com/massive-hardware-wallet-scam-victim-loses-280m-as-funds-move-to-monero"
+        }
+      ],
+      "overallDayThreatScore": 88,
+      "dailyBrief": "Today saw a surge in high-severity cyber threats, with multiple major breaches and hacks impacting the financial sector, national infrastructure, and blockchain ecosystems. Notable events include a third-party data breach at JPMorgan Chase, a mass data leak affecting French citizens, and an ongoing attack on Polygon smart contracts. A staggering $282M crypto theft via social engineering highlights the rise in sophisticated scams. The discovery of a large China-based malware C2 network and the hijacking of Milwaukee Airport's social media further heighten the day's risk profile. Organizations are advised to review incident response protocols and strengthen defenses against targeted scams, social engineering, and supply chain vulnerabilities."
     }
   ]
 }

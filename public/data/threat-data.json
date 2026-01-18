@@ -4,43 +4,43 @@
   "todaysEvents": [
     {
       "id": 1,
-      "title": "Telcel registration platform vulnerability enabling SMS bombing",
-      "description": "A security researcher identified a vulnerability in the Telcel registration platform that allows for unlimited spam and SMS bombing by abusing the company's own infrastructure.",
-      "source": "https://twitter.com/39680205/status/2011110173209735582",
-      "time": "2026-01-13T16:16:44.000Z",
+      "title": "Milwaukee Airport Official Social Media Account Hijack",
+      "description": "Hackers took over the official X (formerly Twitter) page of Milwaukee airport to promote cryptocurrency scams.",
+      "source": "https://cryptopanic.com/news/28907351/Hackers-take-over-Milwaukee-airport-X-page-to-promote-crypto",
+      "time": "2026-01-17T15:39:44.000Z",
       "severity": "Medium",
       "classification": [
-        "Exploit"
+        "Scam"
       ]
     },
     {
       "id": 2,
-      "title": "Target source code and documentation leak",
-      "description": "Current and former Target employees have confirmed that source code and documentation leaked by a threat actor are authentic. The company has since initiated an 'accelerated' lockdown of its internal Git systems.",
-      "source": "https://bsky.app/profile/axsharma.com/post/3mccoemr4fk2l",
-      "time": "2026-01-13T13:21:35.000Z",
-      "severity": "High",
-      "classification": [
-        "Leak"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Dell Technologies employee data breach",
-      "description": "The threat actor group 'ShinyCorporation' claimed to have breached the database of Dell Technologies, allegedly gaining unauthorized access to employee data including email addresses, IP addresses, and passwords.",
-      "source": "https://twitter.com/190389182/status/2011025711545668012",
-      "time": "2026-01-13T10:41:07.000Z",
+      "title": "JPMorgan Chase Third-Party Data Breach",
+      "description": "JPMorgan Chase issued a data breach warning after a third-party hack exposed customer bank account numbers and personal information.",
+      "source": "https://cryptopanic.com/news/28898330/JPMorgan-Chase-Issues-Data-Breach-Warning-Says-Customers-Bank-Account-Numbers-and-Personal-Information-Exposed-in-Third-Party-Hack",
+      "time": "2026-01-17T08:10:17.000Z",
       "severity": "High",
       "classification": [
         "Breach"
       ]
     },
     {
+      "id": 3,
+      "title": "Polygon Smart Contracts Attack",
+      "description": "Polygon smart contracts are reportedly under attack, with researchers warning of potential ongoing risks to the network's ecosystem.",
+      "source": "https://cryptopanic.com/news/28897146/Polygon-smart-contracts-under-attack-but-the-real-danger-may-be-just-starting",
+      "time": "2026-01-17T06:09:06.000Z",
+      "severity": "High",
+      "classification": [
+        "Hack"
+      ]
+    },
+    {
       "id": 4,
-      "title": "Betterment customer data breach and crypto scam notifications",
-      "description": "Digital investment advisor Betterment confirmed a data breach after hackers gained unauthorized access to systems and sent fraudulent crypto-related notifications and scam emails to customers.",
-      "source": "https://cryptopanic.com/news/28762622/Betterment-hacked-customer-data-breached-in-the-attack",
-      "time": "2026-01-13T09:27:45.000Z",
+      "title": "French Citizens Massive Data Breach",
+      "description": "A significant data breach has exposed the records of tens of millions of French citizens.",
+      "source": "https://twitter.com/128484298/status/2012403897281749405",
+      "time": "2026-01-17T05:57:32.000Z",
       "severity": "High",
       "classification": [
         "Breach"
@@ -48,48 +48,33 @@
     },
     {
       "id": 5,
-      "title": "Nexo account compromise and fund theft",
-      "description": "A Nexo user reported a stolen account incident that occurred on January 9th, where all funds were lost and security settings (2FA and whitelisting) were compromised despite the user having offline authentication enabled.",
-      "source": "https://www.reddit.com/r/Nexo/comments/1qav46k/stolen_account",
-      "time": "2026-01-13T08:58:53.000Z",
+      "title": "China-Based Malware C2 Network Discovery",
+      "description": "Security researchers uncovered a massive malware Command and Control (C2) server network originating from China.",
+      "source": "https://twitter.com/128484298/status/2012403575272485373",
+      "time": "2026-01-17T05:56:15.000Z",
       "severity": "Medium",
       "classification": [
-        "Fraud"
+        "Hack"
       ]
     },
     {
       "id": 6,
-      "title": "Truebit smart contract exploit causing $26.4M loss",
-      "description": "The Ethereum-based project Truebit was exploited for approximately $26.4 million (8,535 ETH) due to a smart contract overflow bug in a 2021 contract. The vulnerability allowed an attacker to mint large quantities of TRU tokens at near-zero cost, resulting in a 99% price drop for the token.",
-      "source": "https://cointelegraph.com/news/26m-truebit-hack-smart-contract-vulnerability",
-      "time": "2026-01-13T03:21:35.000Z",
+      "title": "Hardware Wallet Social Engineering Scam: $282M Crypto Theft",
+      "description": "A victim lost over $282 million in Bitcoin (BTC) and Litecoin (LTC) in a massive social engineering scam involving a hardware wallet. The attacker, who impersonated Trezor customer support to obtain the victim's seed phrase, converted the stolen funds into Monero (XMR) and used THORChain to bridge assets to other networks, causing a sharp spike in XMR's price.",
+      "source": "https://cryptopotato.com/massive-hardware-wallet-scam-victim-loses-280m-as-funds-move-to-monero",
+      "time": "2026-01-17T01:41:27.000Z",
       "severity": "High",
       "classification": [
-        "Exploit"
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Flow counterfeit token destruction after breach",
-      "description": "Flow announced plans to destroy counterfeit tokens that were created following a security breach.",
-      "source": "https://cryptopanic.com/news/28755514/Flow-Plans-Destruction-of-Counterfeit-Tokens-Following-Security-Breach",
-      "time": "2026-01-13T03:21:35.000Z",
-      "severity": "Medium",
-      "classification": [
-        "Breach"
+        "Scam"
       ]
     }
   ],
   "past7Days": {
-    "briefing": "This week witnessed a sharp escalation in cyber risk, highlighted by a series of high-severity breaches, large-scale data leaks, and sophisticated financial frauds. Major incidents included nation-state espionage targeting telecoms in Southeastern Europe, multiple impactful exploits against cryptocurrency platforms (Truebit, Flow, Futureswap), and massive data exposures affecting prominent organizations such as Instagram, Condé Nast, Dell Technologies, and Betterment. The financial sector, crypto ecosystems, and healthcare providers experienced significant losses, with the Truebit exploit alone resulting in over $26M in damages and a $1.2B health fraud scandal surfacing in New York. Attackers demonstrated increasing technical sophistication—exploiting legacy vulnerabilities, abusing authentication systems, and leveraging advanced social engineering tactics (phishing, 'quishing', scam notifications). The operational impact is broad, with millions of personal records exposed, critical business functions disrupted, and significant reputational damage to affected organizations. The convergence of supply chain vulnerabilities, rapid exploit weaponization, and persistent targeting of internal systems signals an urgent need for proactive defense and incident response readiness.",
-    "trends": "Key trends identified include a continued spike in attacks against crypto and fintech platforms, with repeated exploits of smart contracts and wallet infrastructure resulting in substantial financial losses. Data breaches remain rampant, targeting large user databases (Instagram, Condé Nast, Betterment, Dell) and critical internal resources (Target source code leak). Nation-state and advanced persistent threat actors are increasingly active, particularly in telecommunications and government sectors, using custom malware and edge device exploits. Social engineering is evolving, with scams now leveraging QR codes ('quishing') and compromised third-party communication systems. Vulnerabilities in authentication mechanisms and internal repositories are being regularly abused, while ransomware and data exfiltration campaigns persist across healthcare, education, and manufacturing verticals. The overall threat level remains critically high, with daily threat scores consistently above 85, indicating sustained attacker activity and risk.",
-    "predictions": "In the upcoming days, expect continued high-impact breaches and exploits, especially in the fintech, crypto, and healthcare sectors. Smart contract vulnerabilities, authentication system abuse, and supply chain exposures will likely remain top attack vectors. Data leaks involving large user bases and internal documentation could increase, as threat actors double down on information theft for financial gain and extortion. Social engineering campaigns, particularly those leveraging new vectors like QR codes or third-party channels, are likely to proliferate. Critical infrastructure and government-related entities should brace for further nation-state-driven campaigns targeting edge devices and legacy systems. Overall, the confidence level in these predictions is high (80-90%) given the sustained threat activity, technical innovation among attackers, and the persistence of exploitable vulnerabilities. Organizations should urgently review incident response plans, patch known vulnerabilities, reinforce internal code and data repository security, and strengthen user awareness against evolving scam and phishing tactics."
+    "briefing": "This week in cyber saw an unprecedented surge in high-impact breaches and exploits affecting a diverse set of sectors, including finance, healthcare, technology, and critical infrastructure. Nation-state activity, particularly from China-linked actors, and criminal groups drove sophisticated attacks—most notably with massive data exfiltration events at major enterprises (Dell Technologies, Nissan, JPMorgan Chase), widespread leaks impacting millions (Instagram, Condé Nast, French citizens), and significant financial losses in the crypto sector (Truebit Protocol, Polygon, Futureswap, and a $282M social engineering heist). Vulnerabilities in smart contracts, internal code repositories, and authentication systems were actively exploited. The proliferation of scams—ranging from QR code phishing ('quishing') to hardware wallet social engineering—underscores a shift toward more targeted, high-value attacks on both organizations and individuals. Urgent attention to supply chain, endpoint, and user awareness risks is warranted.",
+    "trends": "Threat activity remains elevated and highly diversified. Large-scale data breaches and leaks are consistently impacting global enterprises and government entities, with a strong emphasis on financial services, retail, and tech platforms. Crypto and blockchain projects are facing persistent, sophisticated attacks targeting smart contracts and user wallets, with social engineering and phishing scams on the rise. There is a notable uptick in supply chain and third-party compromises, as evidenced by incidents at JPMorgan Chase and Betterment. State-linked cyber espionage is ongoing, with China-based campaigns and C2 infrastructure discoveries contributing to persistent risk. High-volume leaks and fraud scandals are being paired with rapid exploitation of newly disclosed vulnerabilities, while scam tactics such as QR code phishing and impersonation continue to evolve.",
+    "predictions": "In the coming days, expect continued targeting of large data repositories, fintech, and blockchain ecosystems. Supply chain and third-party risks will likely remain high, with more organizations reporting downstream impacts from vendor breaches. Smart contract exploits and crypto scams are projected to escalate—watch for additional multi-million-dollar thefts and new vectors in NFT/DeFi platforms. Social engineering, phishing, and impersonation attacks will intensify, especially around financial institutions and customer support channels. Nation-state actors, especially from China and Russia, will maintain pressure on telecom, critical infrastructure, and government sectors. Confidence level: high, based on volume, sophistication, and recent escalation of attacks. Organizations should prioritize rapid patching, incident response readiness, and rigorous user awareness training to mitigate these persistent and emerging risks."
   },
   "eventFrequency": [
-    {
-      "date": "2026-01-07",
-      "count": 5
-    },
     {
       "date": "2026-01-08",
       "count": 3
@@ -113,32 +98,36 @@
     {
       "date": "2026-01-14",
       "count": 7
+    },
+    {
+      "date": "2026-01-18",
+      "count": 6
     }
   ],
   "classificationDistribution": [
-    {
-      "name": "Scam",
-      "value": 6
-    },
-    {
-      "name": "Exploit",
-      "value": 8
-    },
-    {
-      "name": "Leak",
-      "value": 10
-    },
-    {
-      "name": "Hack",
-      "value": 5
-    },
     {
       "name": "Fraud",
       "value": 4
     },
     {
+      "name": "Leak",
+      "value": 9
+    },
+    {
+      "name": "Scam",
+      "value": 6
+    },
+    {
       "name": "Breach",
-      "value": 13
+      "value": 15
+    },
+    {
+      "name": "Exploit",
+      "value": 7
+    },
+    {
+      "name": "Hack",
+      "value": 6
     }
   ]
 }

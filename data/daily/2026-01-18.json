@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-01-17T15:39:44.000Z",
+    "entities": "Milwaukee Mitchell International Airport",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Hackers took over the official X (formerly Twitter) page of Milwaukee airport to promote cryptocurrency scams.\nSources:\n- https://cryptopanic.com/news/28907351/Hackers-take-over-Milwaukee-airport-X-page-to-promote-crypto"
+  },
+  {
+    "timestamp": "2026-01-17T08:10:17.000Z",
+    "entities": "JPMorgan Chase",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "JPMorgan Chase issued a data breach warning after a third-party hack exposed customer bank account numbers and personal information.\nSources:\n- https://cryptopanic.com/news/28898330/JPMorgan-Chase-Issues-Data-Breach-Warning-Says-Customers-Bank-Account-Numbers-and-Personal-Information-Exposed-in-Third-Party-Hack"
+  },
+  {
+    "timestamp": "2026-01-17T06:09:06.000Z",
+    "entities": "Polygon",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Polygon smart contracts are reportedly under attack, with researchers warning of potential ongoing risks to the network's ecosystem.\nSources:\n- https://cryptopanic.com/news/28897146/Polygon-smart-contracts-under-attack-but-the-real-danger-may-be-just-starting"
+  },
+  {
+    "timestamp": "2026-01-17T05:57:32.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A significant data breach has exposed the records of tens of millions of French citizens.\nSources:\n- https://twitter.com/128484298/status/2012403897281749405"
+  },
+  {
+    "timestamp": "2026-01-17T05:56:15.000Z",
+    "entities": "report",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "Security researchers uncovered a massive malware Command and Control (C2) server network originating from China.\nSources:\n- https://twitter.com/128484298/status/2012403575272485373"
+  },
+  {
+    "timestamp": "2026-01-17T01:41:27.000Z",
+    "entities": "ZachXBT, Trezor, THORChain",
+    "topic": "attack hack exploit scam fraud breach leak",
+    "eventSummary": "A victim lost over $282 million in Bitcoin (BTC) and Litecoin (LTC) in a massive social engineering scam involving a hardware wallet. The attacker, who impersonated Trezor customer support to obtain the victim's seed phrase, converted the stolen funds into Monero (XMR) and used THORChain to bridge assets to other networks, causing a sharp spike in XMR's price.\nSources:\n- https://cryptopotato.com/massive-hardware-wallet-scam-victim-loses-280m-as-funds-move-to-monero\n- https://beincrypto.com/bitcoin-heist-leads-to-monero-price-rally\n- https://web3isgoinggreat.com/single/trezor-support-scam"
+  }
+]
